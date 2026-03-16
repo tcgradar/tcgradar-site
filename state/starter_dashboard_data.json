@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-16T19:23:05.317989+00:00",
+  "timestamp": "2026-03-16T19:32:22.855193+00:00",
   "tier": "starter",
   "total_deals": 9,
   "summary_counts": {
@@ -49,7 +49,7 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 224.9,
-      "baseline_price": 349.99,
+      "baseline_price": 350.0,
       "gapPct": 35.74,
       "confidence": "high",
       "gap_bucket": "30_plus"
