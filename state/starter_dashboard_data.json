@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-03-16T04:02:06.805995+00:00",
+  "timestamp": "2026-03-16T18:31:35.561144+00:00",
   "tier": "starter",
-  "total_deals": 10,
+  "total_deals": 11,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 8,
+      "pokemon": 9,
       "onepiece": 2
     },
     "by_product_type": {
       "collection_box": 1,
-      "booster_box": 4,
-      "etb": 3,
-      "booster_bundle": 2
+      "booster_box": 5,
+      "etb": 2,
+      "booster_bundle": 3
     },
     "by_gap_bucket": {
-      "30_plus": 3,
-      "15_to_30": 5,
-      "under_15": 2
+      "30_plus": 4,
+      "15_to_30": 3,
+      "under_15": 4
     }
   },
   "available_filters": {
@@ -28,7 +28,7 @@
       "151",
       "Awakening of the New Era",
       "Obsidian Flames",
-      "Temporal Forces",
+      "Paldea Evolved",
       "Twilight Masquerade",
       "Wings of the Captain"
     ],
@@ -46,14 +46,14 @@
   },
   "deals": [
     {
-      "title": "Pokemon TCG Scarlet & Violet 151 Zapdos EX Collection Box Sealed NEW",
-      "url": "https://www.ebay.com/itm/406560413874?_skw=pokemon+151+booster+box&hash=item5ea8e398b2:g:ZqcAAeSwDv9pXGIn",
+      "title": "Pokemon Scarlet & Violet 151 Alakazam EX Collection Box New Factory Sealed",
+      "url": "https://www.ebay.com/itm/117087927479?_skw=pokemon+151+booster+box&hash=item1b42fbfcb7:g:8HUAAeSwX1ZptbGA",
       "franchise": "pokemon",
       "set": "151",
       "product_type": "collection_box",
-      "price": 174.98,
-      "baseline_price": 341.66,
-      "gapPct": 48.79,
+      "price": 99.97,
+      "baseline_price": 162.47,
+      "gapPct": 38.47,
       "confidence": "high",
       "gap_bucket": "30_plus"
     },
@@ -70,16 +70,40 @@
       "gap_bucket": "30_plus"
     },
     {
+      "title": "Pokemon TCG Paldea Evolved Elite Trainer Box New Sealed",
+      "url": "https://www.ebay.com/itm/206123258813?_skw=pokemon+Paldea+Evolved+booster+box&hash=item2ffde753bd:g:qFsAAeSw4-Nprx1b",
+      "franchise": "pokemon",
+      "set": "Paldea Evolved",
+      "product_type": "etb",
+      "price": 155.0,
+      "baseline_price": 233.0,
+      "gapPct": 33.47,
+      "confidence": "high",
+      "gap_bucket": "30_plus"
+    },
+    {
       "title": "ONE PIECE OP05 AWAKENING OF THE NEW ERA ENGLISH FACTORY SEALED BOOSTER BOX",
       "url": "https://www.ebay.com/itm/336427077059?_skw=one+piece+OP-05+booster+box&hash=item4e549dcdc3:g:1AIAAeSwIWtpiSYA",
       "franchise": "onepiece",
       "set": "Awakening of the New Era",
       "product_type": "booster_box",
-      "price": 859.95,
+      "price": 846.72,
       "baseline_price": 1250.0,
-      "gapPct": 31.2,
+      "gapPct": 32.26,
       "confidence": "high",
       "gap_bucket": "30_plus"
+    },
+    {
+      "title": "Pokemon TCG Twilight Masquerade Booster Bundle Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/257120918869?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item3bdd99dd55:g:hhoAAeSwgYNo0xg8",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "booster_bundle",
+      "price": 48.98,
+      "baseline_price": 62.99,
+      "gapPct": 22.24,
+      "confidence": "high",
+      "gap_bucket": "15_to_30"
     },
     {
       "title": "Pokemon TCG Twilight Masquerade Elite Trainer Box ETB - New Factory Sealed",
@@ -88,32 +112,8 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 69.99,
-      "baseline_price": 94.99,
-      "gapPct": 26.32,
-      "confidence": "high",
-      "gap_bucket": "15_to_30"
-    },
-    {
-      "title": "Pokemon Scarlet & Violet Temporal Forces Elite Trainer Box ETB New USA SELLER",
-      "url": "https://www.ebay.com/itm/157750003936?_skw=pokemon+Temporal+Forces+booster+box&hash=item24baa208e0:g:TP8AAeSwSsJptDvF&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZs0s2hntrOZyapa7RZ%2FUPnkWuKkUSUhfvLxDUMCEZn5ucdo4YxXWSf%2FrVI%2F8NoXX2HcJ4u3%2FFEuxZUL9ES9JKQSdIRCno6CQHHRJAVWEmyQQptUlOqVst1x2w9tB650IimGohhcIgFrcXfWcTYce6t3hfNKslPW%2FPHaGau88FdT%2BTBwVixaR3BVYhLqhFONQBEYI9E6uJxX9YeawaNtlAEcCg7mg76lZ2aRun7RRn61rJj3kZeaa%2FnVADN9ul3TfFgVWaxNyVQnqb1bCKBb22GFIrK2tYPZpTc9FuUfkwCLqAzw8qEQjQBCBihLLnnd9A%3D",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "etb",
-      "price": 90.0,
-      "baseline_price": 119.99,
-      "gapPct": 24.99,
-      "confidence": "high",
-      "gap_bucket": "15_to_30"
-    },
-    {
-      "title": "Pokemon TCG Twilight Masquerade Booster Bundle Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/257120918869?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item3bdd99dd55:g:hhoAAeSwgYNo0xg8",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "booster_bundle",
-      "price": 47.99,
-      "baseline_price": 60.0,
-      "gapPct": 20.02,
+      "baseline_price": 90.0,
+      "gapPct": 22.23,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -123,23 +123,35 @@
       "franchise": "pokemon",
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
-      "price": 304.41,
+      "price": 301.86,
       "baseline_price": 364.99,
-      "gapPct": 16.6,
+      "gapPct": 17.3,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
     {
-      "title": "Pokemon TCG Obsidian Flames Elite Trainer Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/185954598285?_skw=pokemon+Obsidian+Flames+booster+box&hash=item2b4bc1fd8d:g:F88AAOSw2sdklMQs&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaszHJ1Jo5mIG2%2B%2FSySMVQeIIdYYagNLdk1Ikb8vnG7o7E3Z450FsXZM%2Bt173VSNCQcuoNGKH2BRNFn30eQRWyaIHwA9d7PCTI6Q3l24obyoqgvSOYBfJ01lSubCqnu0hHLlRgwe%2FrTvyiDlqoOf70hVxcyqDYlLKTJjnxm%2FloPZko8vqtcaLLdXYsDkUKsDPMeVJKX1feaPo6DMeb%2BOksQqFS9GZvkLibrUpWueCFWucWeUDoqxpYtCs2z%2Fvdu2mzfh%2Bn9VddT7QtE93%2Fa7MZCNdHzM9mW7876PtMJzcS%2Fva7mQqEz5G4RWz6jmEl%2BewU%3D",
+      "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (RIP IN SEAL)",
+      "url": "https://www.ebay.com/itm/389754105145?_skw=pokemon+Paldea+Evolved+booster+box&hash=item5abf27ad39:g:u-8AAeSwqjNpt1Dz",
       "franchise": "pokemon",
-      "set": "Obsidian Flames",
-      "product_type": "etb",
-      "price": 214.99,
-      "baseline_price": 253.53,
-      "gapPct": 15.2,
+      "set": "Paldea Evolved",
+      "product_type": "booster_box",
+      "price": 449.81,
+      "baseline_price": 526.38,
+      "gapPct": 14.55,
       "confidence": "high",
-      "gap_bucket": "15_to_30"
+      "gap_bucket": "under_15"
+    },
+    {
+      "title": "Pokemon Scarlet & Violet: Paldea Evolved 6-Pack Booster Bundle",
+      "url": "https://www.ebay.com/itm/227259454161?_skw=pokemon+Paldea+Evolved+booster+box&hash=item34e9b812d1:g:vPwAAeSwIO1puEYQ",
+      "franchise": "pokemon",
+      "set": "Paldea Evolved",
+      "product_type": "booster_bundle",
+      "price": 95.0,
+      "baseline_price": 107.5,
+      "gapPct": 11.63,
+      "confidence": "high",
+      "gap_bucket": "under_15"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Obsidian Flames Booster Bundle 6 Booster Packs New",
@@ -148,8 +160,8 @@
       "set": "Obsidian Flames",
       "product_type": "booster_bundle",
       "price": 68.0,
-      "baseline_price": 77.0,
-      "gapPct": 11.69,
+      "baseline_price": 76.47,
+      "gapPct": 11.08,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
@@ -160,8 +172,8 @@
       "set": "Obsidian Flames",
       "product_type": "booster_box",
       "price": 350.0,
-      "baseline_price": 389.99,
-      "gapPct": 10.25,
+      "baseline_price": 389.5,
+      "gapPct": 10.14,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
