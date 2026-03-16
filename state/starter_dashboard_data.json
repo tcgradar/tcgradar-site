@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-16T19:02:27.616536+00:00",
+  "timestamp": "2026-03-16T19:18:52.633118+00:00",
   "tier": "starter",
   "total_deals": 10,
   "summary_counts": {
@@ -13,8 +13,8 @@
       "booster_bundle": 3
     },
     "by_gap_bucket": {
-      "30_plus": 3,
-      "15_to_30": 3,
+      "30_plus": 2,
+      "15_to_30": 4,
       "under_15": 4
     }
   },
@@ -55,18 +55,6 @@
       "gap_bucket": "30_plus"
     },
     {
-      "title": "Pokemon TCG Paldea Evolved Elite Trainer Box New Sealed",
-      "url": "https://www.ebay.com/itm/206123258813?_skw=pokemon+Paldea+Evolved+booster+box&hash=item2ffde753bd:g:qFsAAeSw4-Nprx1b",
-      "franchise": "pokemon",
-      "set": "Paldea Evolved",
-      "product_type": "etb",
-      "price": 155.0,
-      "baseline_price": 233.0,
-      "gapPct": 33.47,
-      "confidence": "high",
-      "gap_bucket": "30_plus"
-    },
-    {
       "title": "ONE PIECE OP05 AWAKENING OF THE NEW ERA ENGLISH FACTORY SEALED BOOSTER BOX",
       "url": "https://www.ebay.com/itm/336427077059?_skw=one+piece+OP-05+booster+box&hash=item4e549dcdc3:g:1AIAAeSwIWtpiSYA",
       "franchise": "onepiece",
@@ -77,6 +65,18 @@
       "gapPct": 32.26,
       "confidence": "high",
       "gap_bucket": "30_plus"
+    },
+    {
+      "title": "Pokemon TCG Paldea Evolved Elite Trainer Box New Sealed",
+      "url": "https://www.ebay.com/itm/206123258813?_skw=pokemon+Paldea+Evolved+booster+box&hash=item2ffde753bd:g:qFsAAeSw4-Nprx1b",
+      "franchise": "pokemon",
+      "set": "Paldea Evolved",
+      "product_type": "etb",
+      "price": 155.0,
+      "baseline_price": 216.0,
+      "gapPct": 28.24,
+      "confidence": "high",
+      "gap_bucket": "15_to_30"
     },
     {
       "title": "Pokemon TCG Twilight Masquerade Booster Bundle Box Factory Sealed",
@@ -121,8 +121,8 @@
       "set": "Paldea Evolved",
       "product_type": "booster_box",
       "price": 449.81,
-      "baseline_price": 526.38,
-      "gapPct": 14.55,
+      "baseline_price": 523.57,
+      "gapPct": 14.09,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
