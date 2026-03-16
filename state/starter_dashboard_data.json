@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-16T19:32:22.855193+00:00",
+  "timestamp": "2026-03-16T19:41:43.890833+00:00",
   "tier": "starter",
   "total_deals": 9,
   "summary_counts": {
@@ -14,8 +14,8 @@
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 3,
-      "under_15": 5
+      "15_to_30": 4,
+      "under_15": 4
     }
   },
   "available_filters": {
@@ -49,7 +49,7 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 224.9,
-      "baseline_price": 350.0,
+      "baseline_price": 349.99,
       "gapPct": 35.74,
       "confidence": "high",
       "gap_bucket": "30_plus"
@@ -79,6 +79,18 @@
       "gap_bucket": "15_to_30"
     },
     {
+      "title": "Pokemon Paldea Evolved Booster Box - Factory Sealed New - Trusted Seller ",
+      "url": "https://www.ebay.com/itm/227259604421?_skw=pokemon+Paldea+Evolved+booster+box&hash=item34e9ba5dc5:g:1OcAAeSwq8NpuFtZ",
+      "franchise": "pokemon",
+      "set": "Paldea Evolved",
+      "product_type": "booster_box",
+      "price": 438.8,
+      "baseline_price": 520.0,
+      "gapPct": 15.62,
+      "confidence": "high",
+      "gap_bucket": "15_to_30"
+    },
+    {
       "title": "Pokemon Twilight Masquerade Booster Box - Factory Sealed ",
       "url": "https://www.ebay.com/itm/137127708305?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item1fed72c691:g:QxEAAeSwJNBptCUz",
       "franchise": "pokemon",
@@ -89,18 +101,6 @@
       "gapPct": 15.45,
       "confidence": "high",
       "gap_bucket": "15_to_30"
-    },
-    {
-      "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (RIP IN SEAL)",
-      "url": "https://www.ebay.com/itm/389754105145?_skw=pokemon+Paldea+Evolved+booster+box&hash=item5abf27ad39:g:u-8AAeSwqjNpt1Dz",
-      "franchise": "pokemon",
-      "set": "Paldea Evolved",
-      "product_type": "booster_box",
-      "price": 449.81,
-      "baseline_price": 521.3,
-      "gapPct": 13.71,
-      "confidence": "high",
-      "gap_bucket": "under_15"
     },
     {
       "title": "Pokemon TCG Twilight Masquerade Elite Trainer Box ETB - New Factory Sealed",
