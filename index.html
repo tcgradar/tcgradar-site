@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pikaclaw — Radar for underpriced sealed TCG products</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a3e 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        /* Hero */
+        .hero {
+            text-align: center;
+            padding: 60px 0;
+        }
+        
+        .logo { font-size: 4rem; margin-bottom: 20px; }
+        
+        .hero h1 {
+            color: #ffd700;
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            line-height: 1.3;
+        }
+        
+        .hero p {
+            color: #888;
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+        
+        /* Section headers */
+        .section-title {
+            color: #ffd700;
+            font-size: 1.5rem;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        /* Detection cards */
+        .detections {
+            padding: 40px 0;
+        }
+        
+        .detection-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 24px;
+            margin-bottom: 20px;
+        }
+        
+        .detection-card {
+            background: #1a1a2e;
+            border: 2px solid #333;
+            border-radius: 16px;
+            overflow: hidden;
+            transition: border-color 0.2s;
+        }
+        
+        .detection-card:hover {
+            border-color: #444;
+        }
+        
+        .detection-card.safe {
+            border-left: 4px solid #7ee787;
+        }
+        
+        .detection-card.high-upside {
+            border-left: 4px solid #ffd700;
+        }
+        
+        .card-header {
+            background: #252540;
+            padding: 16px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .card-signal {
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        
+        .signal-safe {
+            background: #2d5016;
+            color: #7ee787;
+        }
+        
+        .signal-high-upside {
+            background: #5c4813;
+            color: #ffd700;
+        }
+        
+        .card-franchise {
+            font-size: 0.8rem;
+            color: #888;
+            text-transform: uppercase;
+        }
+        
+        .card-body {
+            padding: 20px;
+        }
+        
+        .card-title {
+            font-size: 1.1rem;
+            color: #fff;
+            margin-bottom: 16px;
+            line-height: 1.4;
+        }
+        
+        .card-details {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+        
+        .detail {
+            text-align: center;
+        }
+        
+        .detail-value {
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: #fff;
+        }
+        
+        .detail-value.gap {
+            color: #7ee787;
+        }
+        
+        .detail-label {
+            font-size: 0.7rem;
+            color: #666;
+            text-transform: uppercase;
+            margin-top: 4px;
+        }
+        
+        .card-meta {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 12px;
+            border-top: 1px solid #333;
+            font-size: 0.85rem;
+            color: #888;
+        }
+        
+        .disclaimer {
+            text-align: center;
+            color: #666;
+            font-size: 0.85rem;
+            font-style: italic;
+        }
+        
+        /* Loading state */
+        .loading-cards {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+        
+        /* How it works */
+        .how-it-works {
+            padding: 40px 0;
+        }
+        
+        .steps {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            flex-wrap: wrap;
+        }
+        
+        .step {
+            text-align: center;
+            max-width: 200px;
+        }
+        
+        .step-icon {
+            font-size: 2.5rem;
+            margin-bottom: 12px;
+        }
+        
+        .step h3 {
+            color: #fff;
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+        }
+        
+        .step p {
+            color: #888;
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+        
+        .step-arrow {
+            color: #444;
+            font-size: 2rem;
+            align-self: center;
+        }
+        
+        @media (max-width: 768px) {
+            .step-arrow { display: none; }
+        }
+        
+        /* CTA */
+        .cta-section {
+            padding: 60px 0;
+            text-align: center;
+        }
+        
+        .cta-buttons {
+            display: flex;
+            gap: 16px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .cta-btn {
+            display: inline-block;
+            padding: 16px 32px;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: bold;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+        
+        .cta-btn.primary {
+            background: #ffd700;
+            color: #0f0f23;
+        }
+        
+        .cta-btn.primary:hover {
+            background: #ffed4a;
+        }
+        
+        .cta-btn.secondary {
+            background: #2d5016;
+            color: #7ee787;
+        }
+        
+        .cta-btn.secondary:hover {
+            background: #3d6b1c;
+        }
+        
+        .cta-btn.tertiary {
+            background: transparent;
+            color: #888;
+            border: 2px solid #444;
+        }
+        
+        .cta-btn.tertiary:hover {
+            border-color: #666;
+            color: #aaa;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 40px 0;
+            color: #666;
+            font-size: 0.9rem;
+            border-top: 1px solid #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Hero -->
+        <section class="hero">
+            <div class="logo">⚡</div>
+            <h1>Radar for underpriced sealed TCG products</h1>
+            <p>Pikaclaw scans marketplaces to detect underpriced sealed Pokémon and One Piece products. 
+            We compare live listings against market baselines to surface deals with real upside.</p>
+        </section>
+        
+        <!-- Recent Detections -->
+        <section class="detections">
+            <h2 class="section-title">Recent Detections</h2>
+            
+            <div class="detection-cards" id="detection-cards">
+                <div class="loading-cards">Loading recent detections...</div>
+            </div>
+            
+            <p class="disclaimer">Examples from past detections. May no longer be available.</p>
+        </section>
+        
+        <!-- How It Works -->
+        <section class="how-it-works">
+            <h2 class="section-title">How It Works</h2>
+            
+            <div class="steps">
+                <div class="step">
+                    <div class="step-icon">🔍</div>
+                    <h3>Scan</h3>
+                    <p>Continuously monitors marketplaces for new listings</p>
+                </div>
+                
+                <div class="step-arrow">→</div>
+                
+                <div class="step">
+                    <div class="step-icon">⚖️</div>
+                    <h3>Compare</h3>
+                    <p>Validates against market baselines for true gaps</p>
+                </div>
+                
+                <div class="step-arrow">→</div>
+                
+                <div class="step">
+                    <div class="step-icon">💎</div>
+                    <h3>Surface</h3>
+                    <p>Presents qualified deals through Free or Starter feeds</p>
+                </div>
+            </div>
+        </section>
+        
+        <!-- CTA -->
+        <section class="cta-section">
+            <a href="pricing.html" class="cta-btn primary">View Pricing</a>
+        </section>
+        
+        <footer>
+            <p>Pikaclaw — Automated TCG deal detection</p>
+        </footer>
+    </div>
+    
+    <script>
+        // Load and render landing feed
+        async function loadLandingFeed() {
+            const container = document.getElementById('detection-cards');
+            
+            try {
+                const response = await fetch('state/landing_recent_detections.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load detections');
+                }
+                
+                const data = await response.json();
+                renderCards(data, container);
+            } catch (error) {
+                container.innerHTML = '<div class="loading-cards">Unable to load detections. Please try again later.</div>';
+                console.error('Error loading landing feed:', error);
+            }
+        }
+        
+        function renderCards(data, container) {
+            const cards = [];
+            
+            // Card 1: safe_example
+            if (data.safe_example) {
+                cards.push(renderCard(data.safe_example));
+            }
+            
+            // Card 2: high_upside_example (may be HIGH_UPSIDE or fallback SAFE)
+            if (data.high_upside_example) {
+                cards.push(renderCard(data.high_upside_example));
+            }
+            
+            if (cards.length === 0) {
+                container.innerHTML = '<div class="loading-cards">No recent detections available.</div>';
+                return;
+            }
+            
+            container.innerHTML = cards.join('');
+        }
+        
+        function renderCard(item) {
+            const signalType = item.signal_type || 'SAFE';
+            const isSafe = signalType === 'SAFE';
+            const cardClass = isSafe ? 'safe' : 'high-upside';
+            const signalClass = isSafe ? 'signal-safe' : 'signal-high-upside';
+            const signalLabel = isSafe ? 'SAFE' : 'HIGH UPSIDE';
+            
+            const franchise = (item.franchise || 'unknown').toUpperCase();
+            const productType = (item.product_type || '').replace('_', ' ');
+            const confidence = item.confidence || 'unknown';
+            
+            // Format price display
+            const formatPrice = (price) => {
+                if (price === undefined || price === null) return '$--';
+                return '$' + Math.round(price).toLocaleString();
+            };
+            
+            // Format gap as whole number or 1 decimal
+            const formatGap = (gap) => {
+                if (gap === undefined || gap === null) return '--';
+                return Math.round(gap) + '%';
+            };
+            
+            return `
+                <div class="detection-card ${cardClass}">
+                    <div class="card-header">
+                        <span class="card-signal ${signalClass}">${signalLabel}</span>
+                        <span class="card-franchise">${franchise}</span>
+                    </div>
+                    <div class="card-body">
+                        <div class="card-title">${escapeHtml(item.title || 'Unknown Product')}</div>
+                        <div class="card-details">
+                            <div class="detail">
+                                <div class="detail-value">${formatPrice(item.price)}</div>
+                                <div class="detail-label">Price</div>
+                            </div>
+                            <div class="detail">
+                                <div class="detail-value">${formatPrice(item.baseline_price)}</div>
+                                <div class="detail-label">Market</div>
+                            </div>
+                            <div class="detail">
+                                <div class="detail-value gap">${formatGap(item.gapPct)}</div>
+                                <div class="detail-label">Gap</div>
+                            </div>
+                        </div>
+                        <div class="card-meta">
+                            <span>${productType || 'Unknown'}</span>
+                            <span>${confidence.charAt(0).toUpperCase() + confidence.slice(1)} confidence</span>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        // Load on page ready
+        document.addEventListener('DOMContentLoaded', loadLandingFeed);
+    </script>
+</body>
+</html>

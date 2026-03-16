@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pikaclaw — Pricing</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a3e 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        
+        .logo { font-size: 4rem; margin-bottom: 20px; }
+        
+        h1 {
+            color: #ffd700;
+            font-size: 3rem;
+            margin-bottom: 15px;
+        }
+        
+        .tagline {
+            color: #888;
+            font-size: 1.3rem;
+            margin-bottom: 50px;
+            max-width: 500px;
+        }
+        
+        .tiers {
+            display: flex;
+            gap: 30px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .tier-card {
+            background: #1a1a2e;
+            border: 2px solid #333;
+            border-radius: 16px;
+            padding: 40px;
+            width: 280px;
+            transition: transform 0.2s, border-color 0.2s;
+        }
+        
+        .tier-card:hover {
+            transform: translateY(-5px);
+            border-color: #ffd700;
+        }
+        
+        .tier-badge {
+            display: inline-block;
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+        }
+        
+        .tier-free .tier-badge { background: #2d5016; color: #7ee787; }
+        .tier-starter .tier-badge { background: #5c4813; color: #ffd700; }
+        
+        .tier-name { font-size: 1.8rem; color: #fff; margin-bottom: 15px; }
+        .tier-desc { color: #888; margin-bottom: 30px; line-height: 1.5; }
+        
+        .tier-cta {
+            display: inline-block;
+            padding: 14px 32px;
+            border-radius: 8px;
+            font-weight: bold;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+        
+        .tier-free .tier-cta { background: #2d5016; color: #7ee787; }
+        .tier-free .tier-cta:hover { background: #3d6b1c; }
+        .tier-starter .tier-cta { background: #ffd700; color: #0f0f23; }
+        .tier-starter .tier-cta:hover { background: #ffed4a; }
+        
+        .features { list-style: none; margin: 20px 0; text-align: left; }
+        .features li { padding: 8px 0; color: #aaa; }
+        .features li::before { content: "✓ "; color: #7ee787; }
+        
+        .nav-back {
+            margin-top: 40px;
+        }
+        
+        .nav-back a {
+            color: #888;
+            text-decoration: none;
+        }
+        
+        .nav-back a:hover {
+            color: #ffd700;
+        }
+        
+        footer { margin-top: 60px; color: #666; font-size: 0.9rem; }
+        
+        @media (max-width: 640px) {
+            h1 { font-size: 2rem; }
+            .tier-card { width: 100%; max-width: 340px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="logo">⚡</div>
+    <h1>Pikaclaw</h1>
+    <p class="tagline">Choose your tier. Start finding deals.</p>
+    
+    <div class="tiers">
+        <div class="tier-card tier-free">
+            <div class="tier-badge">Free</div>
+            <h2 class="tier-name">Free</h2>
+            <p class="tier-desc">One curated deal every 4 hours. No signup required.</p>
+            <ul class="features">
+                <li>1 global deal</li>
+                <li>4-hour refresh</li>
+                <li>Pokemon & One Piece</li>
+            </ul>
+            <a href="dashboard/free.html" class="tier-cta">View Free Deal</a>
+        </div>
+        
+        <div class="tier-card tier-starter">
+            <div class="tier-badge">Starter</div>
+            <h2 class="tier-name">Starter</h2>
+            <p class="tier-desc">Full dashboard with all SAFE deals and filters.</p>
+            <ul class="features">
+                <li>All current SAFE deals</li>
+                <li>Filter by set, type, gap</li>
+                <li>Updated every 20 minutes</li>
+            </ul>
+            <a href="dashboard/" class="tier-cta">Open Dashboard</a>
+        </div>
+    </div>
+    
+    <div class="nav-back">
+        <a href="index.html">← Back to home</a>
+    </div>
+    
+    <footer>
+        <p>Pikaclaw scans eBay for below-market TCG sealed products.</p>
+    </footer>
+</body>
+</html>

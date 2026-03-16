@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-03-15T21:39:39.398468+00:00",
+  "tier": "free",
+  "deal": {
+    "title": "Pokemon Twilight Masquerade Booster Box - Factory Sealed",
+    "price": 307.01,
+    "url": "https://www.ebay.com/itm/137127708305",
+    "franchise": "pokemon",
+    "set": "Twilight Masquerade",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 362.5,
+    "gapPct": 15.31
+  },
+  "selection_reason": "weakest_qualifying_deal_gap_15.3pct",
+  "next_refresh_hours": 4,
+  "total_safe_deals_available": 10
+}

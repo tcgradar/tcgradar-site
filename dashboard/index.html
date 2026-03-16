@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pikaclaw Starter Dashboard</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0f0f23;
+            color: #e0e0e0;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            padding: 30px 0;
+            border-bottom: 1px solid #333;
+            margin-bottom: 30px;
+        }
+        
+        header h1 {
+            color: #ffd700;
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+        
+        header p {
+            color: #888;
+        }
+        
+        .summary-section {
+            margin-bottom: 30px;
+        }
+        
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .card {
+            background: #1a1a2e;
+            border-radius: 8px;
+            padding: 20px;
+            border: 1px solid #333;
+        }
+        
+        .card h3 {
+            color: #888;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+        
+        .card .value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #ffd700;
+        }
+        
+        .breakdown {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        
+        .breakdown-item {
+            background: #252540;
+            padding: 5px 12px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+        }
+        
+        .breakdown-item span {
+            color: #ffd700;
+            font-weight: bold;
+        }
+        
+        .filters-section {
+            background: #1a1a2e;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 30px;
+            border: 1px solid #333;
+        }
+        
+        .filters-section h3 {
+            color: #ffd700;
+            margin-bottom: 15px;
+        }
+        
+        .filters-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        
+        .filter-group label {
+            display: block;
+            color: #888;
+            font-size: 0.85rem;
+            margin-bottom: 5px;
+        }
+        
+        .filter-group select {
+            width: 100%;
+            padding: 10px;
+            background: #252540;
+            border: 1px solid #444;
+            border-radius: 4px;
+            color: #e0e0e0;
+            font-size: 0.9rem;
+            cursor: pointer;
+        }
+        
+        .filter-group select:focus {
+            outline: none;
+            border-color: #ffd700;
+        }
+        
+        .clear-filters {
+            margin-top: 15px;
+            padding: 10px 20px;
+            background: #333;
+            border: 1px solid #444;
+            border-radius: 4px;
+            color: #e0e0e0;
+            cursor: pointer;
+            font-size: 0.9rem;
+        }
+        
+        .clear-filters:hover {
+            background: #444;
+        }
+        
+        .deals-section {
+            background: #1a1a2e;
+            border-radius: 8px;
+            padding: 20px;
+            border: 1px solid #333;
+        }
+        
+        .deals-section h3 {
+            color: #ffd700;
+            margin-bottom: 15px;
+        }
+        
+        .results-count {
+            color: #888;
+            font-size: 0.9rem;
+            margin-bottom: 15px;
+        }
+        
+        .deals-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9rem;
+        }
+        
+        .deals-table th {
+            background: #252540;
+            padding: 12px;
+            text-align: left;
+            color: #888;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            border-bottom: 2px solid #444;
+        }
+        
+        .deals-table td {
+            padding: 12px;
+            border-bottom: 1px solid #333;
+        }
+        
+        .deals-table tr:hover {
+            background: #252540;
+        }
+        
+        .title-cell {
+            max-width: 400px;
+        }
+        
+        .title-cell a {
+            color: #4da6ff;
+            text-decoration: none;
+        }
+        
+        .title-cell a:hover {
+            text-decoration: underline;
+        }
+        
+        .gap-badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 0.85rem;
+        }
+        
+        .gap-high {
+            background: #2d5016;
+            color: #7ee787;
+        }
+        
+        .gap-medium {
+            background: #5c4813;
+            color: #ffd700;
+        }
+        
+        .gap-low {
+            background: #5c1f1f;
+            color: #ff6b6b;
+        }
+        
+        .franchise-badge {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+        }
+        
+        .franchise-pokemon {
+            background: #3b2066;
+            color: #c9a0dc;
+        }
+        
+        .franchise-onepiece {
+            background: #662020;
+            color: #ffb3b3;
+        }
+        
+        .product-type {
+            color: #888;
+            font-size: 0.85rem;
+        }
+        
+        .price {
+            font-weight: bold;
+            color: #7ee787;
+        }
+        
+        .baseline-price {
+            color: #888;
+            font-size: 0.85rem;
+            text-decoration: line-through;
+        }
+        
+        .confidence-high { color: #7ee787; }
+        .confidence-medium { color: #ffd700; }
+        .confidence-low { color: #ff6b6b; }
+        
+        .loading, .error {
+            text-align: center;
+            padding: 40px;
+            color: #888;
+        }
+        
+        .error {
+            color: #ff6b6b;
+        }
+        
+        @media (max-width: 768px) {
+            .deals-table {
+                font-size: 0.8rem;
+            }
+            
+            .deals-table th,
+            .deals-table td {
+                padding: 8px;
+            }
+            
+            .title-cell {
+                max-width: 200px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>⚡ Pikaclaw Starter</h1>
+            <p>Full SAFE deal dashboard — updated every 20 minutes</p>
+        </header>
+        
+        <div id="loading" class="loading">Loading dashboard data...</div>
+        <div id="error" class="error" style="display: none;"></div>
+        
+        <div id="dashboard" style="display: none;">
+            <!-- Summary Section -->
+            <div class="summary-section">
+                <div class="summary-grid">
+                    <div class="card">
+                        <h3>Total Deals</h3>
+                        <div class="value" id="total-deals">0</div>
+                    </div>
+                    <div class="card">
+                        <h3>By Franchise</h3>
+                        <div class="breakdown" id="franchise-breakdown"></div>
+                    </div>
+                    <div class="card">
+                        <h3>By Product Type</h3>
+                        <div class="breakdown" id="product-breakdown"></div>
+                    </div>
+                    <div class="card">
+                        <h3>By Gap</h3>
+                        <div class="breakdown" id="gap-breakdown"></div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Filters Section -->
+            <div class="filters-section">
+                <h3>🔍 Filters</h3>
+                <div class="filters-grid">
+                    <div class="filter-group">
+                        <label for="filter-franchise">Franchise</label>
+                        <select id="filter-franchise">
+                            <option value="">All</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filter-set">Set</label>
+                        <select id="filter-set">
+                            <option value="">All</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filter-product">Product Type</label>
+                        <select id="filter-product">
+                            <option value="">All</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filter-gap">Gap Bucket</label>
+                        <select id="filter-gap">
+                            <option value="">All</option>
+                            <option value="30_plus">≥30% (High)</option>
+                            <option value="15_to_30">15-30% (Medium)</option>
+                            <option value="under_15"><15% (Low)</option>
+                        </select>
+                    </div>
+                </div>
+                <button class="clear-filters" onclick="clearFilters()">Clear Filters</button>
+            </div>
+            
+            <!-- Deals Table -->
+            <div class="deals-section">
+                <h3>📦 Deals</h3>
+                <div class="results-count" id="results-count">Showing 0 deals</div>
+                <table class="deals-table">
+                    <thead>
+                        <tr>
+                            <th>Deal</th>
+                            <th>Franchise</th>
+                            <th>Set</th>
+                            <th>Type</th>
+                            <th>Price</th>
+                            <th>Gap</th>
+                            <th>Confidence</th>
+                        </tr>
+                    </thead>
+                    <tbody id="deals-tbody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        let dashboardData = null;
+        let filteredDeals = [];
+        
+        const gapBucketNames = {
+            '30_plus': '≥30%',
+            '15_to_30': '15-30%',
+            'under_15': '<15%'
+        };
+        
+        async function loadDashboardData() {
+            try {
+                const response = await fetch('../state/starter_dashboard_data.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load dashboard data');
+                }
+                dashboardData = await response.json();
+                filteredDeals = [...dashboardData.deals];
+                renderDashboard();
+            } catch (error) {
+                showError('Failed to load dashboard data: ' + error.message);
+            }
+        }
+        
+        function showError(message) {
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('error').textContent = message;
+            document.getElementById('error').style.display = 'block';
+        }
+        
+        function renderDashboard() {
+            document.getElementById('loading').style.display = 'none';
+            document.getElementById('dashboard').style.display = 'block';
+            
+            renderSummary();
+            renderFilters();
+            renderDeals();
+        }
+        
+        function renderSummary() {
+            document.getElementById('total-deals').textContent = dashboardData.total_deals;
+            
+            const franchiseDiv = document.getElementById('franchise-breakdown');
+            const franchiseCounts = dashboardData.summary_counts.by_franchise;
+            franchiseDiv.innerHTML = Object.entries(franchiseCounts)
+                .map(([name, count]) => `<div class="breakdown-item">${name}: <span>${count}</span></div>`)
+                .join('');
+            
+            const productDiv = document.getElementById('product-breakdown');
+            const productCounts = dashboardData.summary_counts.by_product_type;
+            productDiv.innerHTML = Object.entries(productCounts)
+                .map(([name, count]) => `<div class="breakdown-item">${name.replace('_', ' ')}: <span>${count}</span></div>`)
+                .join('');
+            
+            const gapDiv = document.getElementById('gap-breakdown');
+            const gapCounts = dashboardData.summary_counts.by_gap_bucket;
+            gapDiv.innerHTML = Object.entries(gapCounts)
+                .map(([name, count]) => `<div class="breakdown-item">${gapBucketNames[name]}: <span>${count}</span></div>`)
+                .join('');
+        }
+        
+        function renderFilters() {
+            const filters = dashboardData.available_filters;
+            
+            document.getElementById('filter-franchise').innerHTML = 
+                '<option value="">All</option>' + 
+                filters.franchise.map(f => `<option value="${f}">${f}</option>`).join('');
+            
+            document.getElementById('filter-set').innerHTML = 
+                '<option value="">All</option>' + 
+                filters.set.map(s => `<option value="${s}">${s}</option>`).join('');
+            
+            document.getElementById('filter-product').innerHTML = 
+                '<option value="">All</option>' + 
+                filters.product_type.map(p => `<option value="${p}">${p.replace('_', ' ')}</option>`).join('');
+            
+            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap'].forEach(id => {
+                document.getElementById(id).addEventListener('change', applyFilters);
+            });
+        }
+        
+        function applyFilters() {
+            const franchise = document.getElementById('filter-franchise').value;
+            const set = document.getElementById('filter-set').value;
+            const product = document.getElementById('filter-product').value;
+            const gap = document.getElementById('filter-gap').value;
+            
+            filteredDeals = dashboardData.deals.filter(deal => {
+                if (franchise && deal.franchise !== franchise) return false;
+                if (set && deal.set !== set) return false;
+                if (product && deal.product_type !== product) return false;
+                if (gap && deal.gap_bucket !== gap) return false;
+                return true;
+            });
+            
+            renderDeals();
+        }
+        
+        function clearFilters() {
+            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap'].forEach(id => {
+                document.getElementById(id).value = '';
+            });
+            filteredDeals = [...dashboardData.deals];
+            renderDeals();
+        }
+        
+        function getGapBadgeClass(bucket) {
+            if (bucket === '30_plus') return 'gap-high';
+            if (bucket === '15_to_30') return 'gap-medium';
+            return 'gap-low';
+        }
+        
+        function getFranchiseClass(franchise) {
+            return franchise === 'pokemon' ? 'franchise-pokemon' : 'franchise-onepiece';
+        }
+        
+        function renderDeals() {
+            const tbody = document.getElementById('deals-tbody');
+            document.getElementById('results-count').textContent = `Showing ${filteredDeals.length} deals`;
+            
+            if (filteredDeals.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">No deals match your filters</td></tr>';
+                return;
+            }
+            
+            tbody.innerHTML = filteredDeals.map(deal => `
+                <tr>
+                    <td class="title-cell">
+                        <a href="${deal.url}" target="_blank" rel="noopener">${deal.title}</a>
+                    </td>
+                    <td>
+                        <span class="franchise-badge ${getFranchiseClass(deal.franchise)}">${deal.franchise}</span>
+                    </td>
+                    <td>${deal.set}</td>
+                    <td class="product-type">${deal.product_type.replace('_', ' ')}</td>
+                    <td>
+                        <div class="price">$${deal.price.toFixed(2)}</div>
+                        <div class="baseline-price">$${deal.baseline_price.toFixed(2)}</div>
+                    </td>
+                    <td>
+                        <span class="gap-badge ${getGapBadgeClass(deal.gap_bucket)}">${deal.gapPct.toFixed(1)}%</span>
+                    </td>
+                    <td class="confidence-${deal.confidence}">${deal.confidence}</td>
+                </tr>
+            `).join('');
+        }
+        
+        document.addEventListener('DOMContentLoaded', loadDashboardData);
+    </script>
+</body>
+</html>
