@@ -1,20 +1,19 @@
 {
-  "timestamp": "2026-03-16T18:31:35.561144+00:00",
+  "timestamp": "2026-03-16T19:02:27.616536+00:00",
   "tier": "starter",
-  "total_deals": 11,
+  "total_deals": 10,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 9,
-      "onepiece": 2
+      "onepiece": 2,
+      "pokemon": 8
     },
     "by_product_type": {
-      "collection_box": 1,
       "booster_box": 5,
       "etb": 2,
       "booster_bundle": 3
     },
     "by_gap_bucket": {
-      "30_plus": 4,
+      "30_plus": 3,
       "15_to_30": 3,
       "under_15": 4
     }
@@ -25,7 +24,6 @@
       "pokemon"
     ],
     "set": [
-      "151",
       "Awakening of the New Era",
       "Obsidian Flames",
       "Paldea Evolved",
@@ -35,7 +33,6 @@
     "product_type": [
       "booster_box",
       "booster_bundle",
-      "collection_box",
       "etb"
     ],
     "gap_bucket": [
@@ -45,18 +42,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon Scarlet & Violet 151 Alakazam EX Collection Box New Factory Sealed",
-      "url": "https://www.ebay.com/itm/117087927479?_skw=pokemon+151+booster+box&hash=item1b42fbfcb7:g:8HUAAeSwX1ZptbGA",
-      "franchise": "pokemon",
-      "set": "151",
-      "product_type": "collection_box",
-      "price": 99.97,
-      "baseline_price": 162.47,
-      "gapPct": 38.47,
-      "confidence": "high",
-      "gap_bucket": "30_plus"
-    },
     {
       "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
       "url": "https://www.ebay.com/itm/177954344166?_skw=one+piece+OP-06+booster+box&hash=item296ee7cce6:g:kVMAAeSweQpps3ER",
