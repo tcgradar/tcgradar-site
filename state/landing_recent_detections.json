@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-03-17T02:32:24.687156+00:00",
+  "updated_at": "2026-03-17T02:47:47.926789+00:00",
   "safe_example": {
-    "title": "Pokemon Center Temporal Forces Elite Trainer Box ETB Iron Leaves SV5 NEW Sealed",
-    "price": 153.81,
+    "title": "Pokemon TCG Twilight Masquerade Booster Bundle Box Factory Sealed",
+    "price": 48.98,
     "franchise": "pokemon",
-    "set": "Temporal Forces",
-    "product_type": "etb",
+    "set": "Twilight Masquerade",
+    "product_type": "booster_bundle",
     "confidence": "high",
-    "baseline_price": 189.99,
-    "gapPct": 19.04,
+    "baseline_price": 60.0,
+    "gapPct": 18.37,
     "signal_type": "SAFE"
   },
   "high_upside_example": {
-    "title": "One Piece OP-06 English Booster Box | Factory Sealed | Genuine Bandai | UK",
-    "price": 201.96,
+    "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
+    "price": 224.9,
     "franchise": "onepiece",
     "set": "Wings of the Captain",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 334.44,
-    "gapPct": 39.61,
+    "baseline_price": 350.0,
+    "gapPct": 35.74,
     "signal_type": "HIGH_UPSIDE"
   }
 }
