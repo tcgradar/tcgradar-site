@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-17T02:47:47.926789+00:00",
+  "updated_at": "2026-03-17T03:02:22.237447+00:00",
   "safe_example": {
-    "title": "Pokemon TCG Twilight Masquerade Booster Bundle Box Factory Sealed",
-    "price": 48.98,
+    "title": "Pokemon Twilight Masquerade Booster Box - Factory Sealed ",
+    "price": 301.86,
     "franchise": "pokemon",
     "set": "Twilight Masquerade",
-    "product_type": "booster_bundle",
+    "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 60.0,
-    "gapPct": 18.37,
+    "baseline_price": 359.0,
+    "gapPct": 15.92,
     "signal_type": "SAFE"
   },
   "high_upside_example": {
