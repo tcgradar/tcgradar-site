@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T03:32:16.416158+00:00",
+  "updated_at": "2026-03-17T04:02:22.939833+00:00",
   "safe_example": {
     "title": "Pokemon TCG Twilight Masquerade Booster Bundle Box Factory Sealed",
     "price": 48.98,
@@ -18,8 +18,8 @@
     "set": "Wings of the Captain",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 350.0,
-    "gapPct": 35.74,
+    "baseline_price": 359.95,
+    "gapPct": 37.52,
     "signal_type": "HIGH_UPSIDE"
   }
 }
