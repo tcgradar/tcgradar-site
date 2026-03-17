@@ -1,19 +1,20 @@
 {
-  "timestamp": "2026-03-17T13:02:27.928146+00:00",
+  "timestamp": "2026-03-17T13:32:28.780025+00:00",
   "tier": "starter",
-  "total_deals": 6,
+  "total_deals": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 5
+      "pokemon": 6
     },
     "by_product_type": {
       "booster_box": 4,
-      "etb": 1,
-      "booster_bundle": 1
+      "booster_bundle": 2,
+      "etb": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
+      "15_to_30": 1,
       "under_15": 5
     }
   },
@@ -48,10 +49,22 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 226.43,
-      "baseline_price": 354.98,
-      "gapPct": 36.21,
+      "baseline_price": 350.0,
+      "gapPct": 35.31,
       "confidence": "high",
       "gap_bucket": "30_plus"
+    },
+    {
+      "title": "Pokemon TCG Twilight Masquerade Booster Bundle Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/257120918869?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item3bdd99dd55:g:hhoAAeSwgYNo0xg8",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "booster_bundle",
+      "price": 48.98,
+      "baseline_price": 60.0,
+      "gapPct": 18.37,
+      "confidence": "high",
+      "gap_bucket": "15_to_30"
     },
     {
       "title": "Pokemon Twilight Masquerade Booster Box - Factory Sealed ",
@@ -60,20 +73,8 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 303.91,
-      "baseline_price": 350.36,
-      "gapPct": 13.26,
-      "confidence": "high",
-      "gap_bucket": "under_15"
-    },
-    {
-      "title": "Pokemon TCG Paldea Evolved Booster Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/397666101041?_skw=pokemon+Paldea+Evolved+booster+box&hash=item5c96bf2731:g:oLEAAeSwN9ZppRv~",
-      "franchise": "pokemon",
-      "set": "Paldea Evolved",
-      "product_type": "booster_box",
-      "price": 459.99,
-      "baseline_price": 526.14,
-      "gapPct": 12.57,
+      "baseline_price": 350.0,
+      "gapPct": 13.17,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
@@ -84,8 +85,20 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
-      "baseline_price": 81.99,
-      "gapPct": 12.18,
+      "baseline_price": 82.47,
+      "gapPct": 12.7,
+      "confidence": "high",
+      "gap_bucket": "under_15"
+    },
+    {
+      "title": "Pokemon TCG Paldea Evolved Booster Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/397666101041?_skw=pokemon+Paldea+Evolved+booster+box&hash=item5c96bf2731:g:oLEAAeSwN9ZppRv~",
+      "franchise": "pokemon",
+      "set": "Paldea Evolved",
+      "product_type": "booster_box",
+      "price": 459.99,
+      "baseline_price": 523.07,
+      "gapPct": 12.06,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
@@ -96,20 +109,20 @@
       "set": "Obsidian Flames",
       "product_type": "booster_box",
       "price": 350.0,
-      "baseline_price": 391.46,
-      "gapPct": 10.59,
+      "baseline_price": 394.46,
+      "gapPct": 11.27,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
     {
-      "title": "Pokemon TCG: Scarlet and Violet 151 Booster Bundle Factory Sealed 6 Packs",
-      "url": "https://www.ebay.com/itm/267609594380?_skw=pokemon+151+booster+box&hash=item3e4ec65a0c:g:0tUAAeSw6HNptBxm",
+      "title": "POKEMON TCG SCARLET & VIOLET 151 BOOSTER BUNDLE BOX FACTORY SEALED 6 Packs",
+      "url": "https://www.ebay.com/itm/287197581549?_skw=pokemon+151+booster+box&hash=item42de4f50ed:g:RRgAAeSwn5JplsJ0&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGZqAbvJedR1btl7wIX6TSn3niip%2BnsQc85TkYFSBP9dhWQ%2FPDps3SAm7bOIbRTH720OKOTznxpHoyWI8mfIvFdhWNqpFHNrEUoD0Kz1VKK2cg8VXg9hw%2BU1V0wI9CHKQDbxmhPMYVvEqBYxzOpiERGE3GtXU7vJ1ps2I11LsxUIPAO0o%2Bm4Fmj2TytCyWlG26SclnYiYdpCCU4Y3SVHx1xLT3ZwTrUNAiGXnp3%2FIz9Ktn%2FbRhyJWPDWDDFvBznXbqfq0YXSxnd5uweFHSu5BUdtM7iAQhuAKQm09EnzzeWjLg%3D%3D",
       "franchise": "pokemon",
       "set": "151",
       "product_type": "booster_bundle",
-      "price": 179.0,
+      "price": 179.99,
       "baseline_price": 199.99,
-      "gapPct": 10.5,
+      "gapPct": 10.0,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
