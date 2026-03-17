@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-03-17T17:32:27.501235+00:00",
+  "timestamp": "2026-03-17T18:02:29.113516+00:00",
   "tier": "starter",
-  "total_deals": 5,
+  "total_deals": 4,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 4
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 4,
+      "booster_box": 3,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
       "15_to_30": 1,
-      "under_15": 3
+      "under_15": 2
     }
   },
   "available_filters": {
@@ -25,7 +25,6 @@
     "set": [
       "151",
       "Obsidian Flames",
-      "Paldea Evolved",
       "Paradox Rift",
       "Wings of the Captain"
     ],
@@ -66,25 +65,13 @@
     },
     {
       "title": "Pokemon TCG Scarlet and Violet 151 Booster Bundle New Sealed!",
-      "url": "https://www.ebay.com/itm/177968991284?_skw=pokemon+151+booster+box&hash=item296fc74c34:g:kvsAAeSwE51puWnz",
+      "url": "https://www.ebay.com/itm/177968991284?_skw=pokemon+151+sealed+booster+box&hash=item296fc74c34:g:kvsAAeSwE51puWnz",
       "franchise": "pokemon",
       "set": "151",
       "product_type": "booster_bundle",
       "price": 170.0,
       "baseline_price": 199.98,
       "gapPct": 14.99,
-      "confidence": "high",
-      "gap_bucket": "under_15"
-    },
-    {
-      "title": "Pokemon TCG Paldea Evolved Booster Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/397666101041?_skw=pokemon+Paldea+Evolved+booster+box&hash=item5c96bf2731:g:oLEAAeSwN9ZppRv~",
-      "franchise": "pokemon",
-      "set": "Paldea Evolved",
-      "product_type": "booster_box",
-      "price": 459.99,
-      "baseline_price": 523.07,
-      "gapPct": 12.06,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
