@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-17T17:02:22.115495+00:00",
+  "timestamp": "2026-03-17T17:32:27.501235+00:00",
   "tier": "starter",
   "total_deals": 5,
   "summary_counts": {
@@ -13,8 +13,8 @@
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 2,
-      "under_15": 2
+      "15_to_30": 1,
+      "under_15": 3
     }
   },
   "available_filters": {
@@ -71,10 +71,10 @@
       "set": "151",
       "product_type": "booster_bundle",
       "price": 170.0,
-      "baseline_price": 199.99,
-      "gapPct": 15.0,
+      "baseline_price": 199.98,
+      "gapPct": 14.99,
       "confidence": "high",
-      "gap_bucket": "15_to_30"
+      "gap_bucket": "under_15"
     },
     {
       "title": "Pokemon TCG Paldea Evolved Booster Box Factory Sealed",
