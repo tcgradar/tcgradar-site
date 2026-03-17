@@ -1,18 +1,20 @@
 {
-  "timestamp": "2026-03-17T09:02:22.828079+00:00",
+  "timestamp": "2026-03-17T09:32:20.100374+00:00",
   "tier": "starter",
-  "total_deals": 5,
+  "total_deals": 6,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 4
+      "pokemon": 5
     },
     "by_product_type": {
       "booster_box": 4,
+      "booster_bundle": 1,
       "etb": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
+      "15_to_30": 1,
       "under_15": 4
     }
   },
@@ -29,6 +31,7 @@
     ],
     "product_type": [
       "booster_box",
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -51,16 +54,16 @@
       "gap_bucket": "30_plus"
     },
     {
-      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
+      "title": "Pokemon TCG Twilight Masquerade Booster Bundle Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/257120918869?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item3bdd99dd55:g:hhoAAeSwgYNo0xg8",
       "franchise": "pokemon",
       "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 72.0,
-      "baseline_price": 84.37,
-      "gapPct": 14.66,
+      "product_type": "booster_bundle",
+      "price": 48.98,
+      "baseline_price": 60.0,
+      "gapPct": 18.37,
       "confidence": "high",
-      "gap_bucket": "under_15"
+      "gap_bucket": "15_to_30"
     },
     {
       "title": "Pokemon Twilight Masquerade Booster Box - Factory Sealed ",
@@ -69,8 +72,8 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 303.91,
-      "baseline_price": 350.36,
-      "gapPct": 13.26,
+      "baseline_price": 350.72,
+      "gapPct": 13.35,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
@@ -95,6 +98,18 @@
       "price": 350.0,
       "baseline_price": 391.46,
       "gapPct": 10.59,
+      "confidence": "high",
+      "gap_bucket": "under_15"
+    },
+    {
+      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
+      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 72.0,
+      "baseline_price": 80.0,
+      "gapPct": 10.0,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
