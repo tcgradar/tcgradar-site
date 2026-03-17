@@ -1,20 +1,18 @@
 {
-  "timestamp": "2026-03-17T04:32:23.908808+00:00",
+  "timestamp": "2026-03-17T05:02:22.417902+00:00",
   "tier": "starter",
-  "total_deals": 7,
+  "total_deals": 5,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 6
+      "pokemon": 4
     },
     "by_product_type": {
       "booster_box": 4,
-      "booster_bundle": 2,
       "etb": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 2,
       "under_15": 4
     }
   },
@@ -24,7 +22,6 @@
       "pokemon"
     ],
     "set": [
-      "151",
       "Obsidian Flames",
       "Paldea Evolved",
       "Twilight Masquerade",
@@ -32,7 +29,6 @@
     ],
     "product_type": [
       "booster_box",
-      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -48,23 +44,11 @@
       "franchise": "onepiece",
       "set": "Wings of the Captain",
       "product_type": "booster_box",
-      "price": 224.9,
+      "price": 226.43,
       "baseline_price": 350.0,
-      "gapPct": 35.74,
+      "gapPct": 35.31,
       "confidence": "high",
       "gap_bucket": "30_plus"
-    },
-    {
-      "title": "Pokemon TCG Twilight Masquerade Booster Bundle Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/257120918869?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item3bdd99dd55:g:hhoAAeSwgYNo0xg8",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "booster_bundle",
-      "price": 48.98,
-      "baseline_price": 60.0,
-      "gapPct": 18.37,
-      "confidence": "high",
-      "gap_bucket": "15_to_30"
     },
     {
       "title": "Pokemon Twilight Masquerade Booster Box - Factory Sealed ",
@@ -72,11 +56,11 @@
       "franchise": "pokemon",
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
-      "price": 301.86,
-      "baseline_price": 357.0,
-      "gapPct": 15.45,
+      "price": 303.91,
+      "baseline_price": 355.0,
+      "gapPct": 14.39,
       "confidence": "high",
-      "gap_bucket": "15_to_30"
+      "gap_bucket": "under_15"
     },
     {
       "title": "Pokemon TCG Paldea Evolved Booster Box Factory Sealed",
@@ -85,20 +69,8 @@
       "set": "Paldea Evolved",
       "product_type": "booster_box",
       "price": 459.99,
-      "baseline_price": 521.3,
-      "gapPct": 11.76,
-      "confidence": "high",
-      "gap_bucket": "under_15"
-    },
-    {
-      "title": "Pokemon TCG: Scarlet and Violet 151 Booster Bundle Factory Sealed 6 Packs",
-      "url": "https://www.ebay.com/itm/267609594380?_skw=pokemon+151+booster+box&hash=item3e4ec65a0c:g:0tUAAeSw6HNptBxm",
-      "franchise": "pokemon",
-      "set": "151",
-      "product_type": "booster_bundle",
-      "price": 179.0,
-      "baseline_price": 199.97,
-      "gapPct": 10.49,
+      "baseline_price": 526.14,
+      "gapPct": 12.57,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
@@ -109,8 +81,8 @@
       "set": "Obsidian Flames",
       "product_type": "booster_box",
       "price": 350.0,
-      "baseline_price": 390.13,
-      "gapPct": 10.29,
+      "baseline_price": 391.46,
+      "gapPct": 10.59,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
