@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-17T14:02:27.495242+00:00",
+  "timestamp": "2026-03-17T14:32:24.182057+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -14,8 +14,7 @@
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 1,
-      "under_15": 4
+      "under_15": 5
     }
   },
   "available_filters": {
@@ -55,26 +54,26 @@
       "gap_bucket": "30_plus"
     },
     {
-      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 72.0,
-      "baseline_price": 84.95,
-      "gapPct": 15.24,
-      "confidence": "high",
-      "gap_bucket": "15_to_30"
-    },
-    {
       "title": "Pokemon Twilight Masquerade Booster Box - Factory Sealed ",
       "url": "https://www.ebay.com/itm/137127708305?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item1fed72c691:g:QxEAAeSwJNBptCUz",
       "franchise": "pokemon",
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 303.91,
-      "baseline_price": 350.0,
-      "gapPct": 13.17,
+      "baseline_price": 350.36,
+      "gapPct": 13.26,
+      "confidence": "high",
+      "gap_bucket": "under_15"
+    },
+    {
+      "title": "Pokemon TCG Twilight Masquerade Elite Trainer Box ETB Sealed New",
+      "url": "https://www.ebay.com/itm/127500117943?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item1daf9967b7:g:k5sAAeSwjtBpGndq&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGapB%2BYkSwyFUlVWtNvpHzrjlixq9Z2Z5xdDGZuJW7Re3ccoOtH2J8m7Z3LehBlOn%2BbK7rXRFdZnL1tfbmSbQ%2FA0%2BNBvkqYdFGS%2BdEWdY%2FqpaPnVtDPwt3mxFM09ioYMImZvEUB%2FRTRJ9c9oZLpOdiC16exBOfO60pQTg%2Bzy1NbQXYVP2dvNhyvemoC6CNrGMjWVmL%2Byn77Bc6WX9MsVVViQPRnuGQBxa7NM38VKDHr%2B%2Fmxz2CYC9Y6RVho7R5TGcgGBvUb48TQhR4JaoKgwKfqfkInG8T88tiiKo5wWP7I2%2F9bJB5I3Za7T3vQAeEKZ7X%2FvLCRytZeXsunH9uLx4qiU",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 73.99,
+      "baseline_price": 84.47,
+      "gapPct": 12.41,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
@@ -85,8 +84,8 @@
       "set": "Paldea Evolved",
       "product_type": "booster_box",
       "price": 459.99,
-      "baseline_price": 523.07,
-      "gapPct": 12.06,
+      "baseline_price": 520.0,
+      "gapPct": 11.54,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
@@ -97,8 +96,8 @@
       "set": "Obsidian Flames",
       "product_type": "booster_box",
       "price": 350.0,
-      "baseline_price": 392.93,
-      "gapPct": 10.93,
+      "baseline_price": 394.46,
+      "gapPct": 11.27,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
