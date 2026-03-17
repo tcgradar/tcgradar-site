@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-17T04:02:22.912462+00:00",
+  "timestamp": "2026-03-17T04:32:23.908808+00:00",
   "tier": "starter",
   "total_deals": 7,
   "summary_counts": {
@@ -49,8 +49,8 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 224.9,
-      "baseline_price": 359.95,
-      "gapPct": 37.52,
+      "baseline_price": 350.0,
+      "gapPct": 35.74,
       "confidence": "high",
       "gap_bucket": "30_plus"
     },
@@ -73,8 +73,8 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 301.86,
-      "baseline_price": 359.0,
-      "gapPct": 15.92,
+      "baseline_price": 357.0,
+      "gapPct": 15.45,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -85,8 +85,8 @@
       "set": "Paldea Evolved",
       "product_type": "booster_box",
       "price": 459.99,
-      "baseline_price": 522.59,
-      "gapPct": 11.98,
+      "baseline_price": 521.3,
+      "gapPct": 11.76,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
@@ -97,7 +97,7 @@
       "set": "151",
       "product_type": "booster_bundle",
       "price": 179.0,
-      "baseline_price": 199.98,
+      "baseline_price": 199.97,
       "gapPct": 10.49,
       "confidence": "high",
       "gap_bucket": "under_15"
@@ -109,8 +109,8 @@
       "set": "Obsidian Flames",
       "product_type": "booster_box",
       "price": 350.0,
-      "baseline_price": 390.27,
-      "gapPct": 10.32,
+      "baseline_price": 390.13,
+      "gapPct": 10.29,
       "confidence": "high",
       "gap_bucket": "under_15"
     },
