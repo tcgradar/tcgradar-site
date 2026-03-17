@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T05:32:20.825472+00:00",
+  "updated_at": "2026-03-17T06:02:22.490810+00:00",
   "safe_example": {
     "title": "Pokemon TCG Twilight Masquerade Booster Bundle Box Factory Sealed",
     "price": 48.98,
@@ -13,13 +13,13 @@
   },
   "high_upside_example": {
     "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
-    "price": 224.9,
+    "price": 226.43,
     "franchise": "onepiece",
     "set": "Wings of the Captain",
     "product_type": "booster_box",
     "confidence": "high",
     "baseline_price": 350.0,
-    "gapPct": 35.74,
+    "gapPct": 35.31,
     "signal_type": "HIGH_UPSIDE"
   }
 }
