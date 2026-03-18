@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-03-17T23:32:21.357174+00:00",
+  "timestamp": "2026-03-18T00:02:13.434974+00:00",
   "tier": "starter",
-  "total_deals": 5,
+  "total_deals": 4,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 2,
+      "onepiece": 1,
       "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 4,
+      "booster_box": 3,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
       "15_to_30": 1,
-      "under_15": 3
+      "under_15": 2
     }
   },
   "available_filters": {
@@ -24,7 +24,6 @@
     ],
     "set": [
       "151",
-      "Awakening of the New Era",
       "Obsidian Flames",
       "Paradox Rift",
       "Wings of the Captain"
@@ -63,18 +62,6 @@
       "gapPct": 23.33,
       "confidence": "high",
       "gap_bucket": "15_to_30"
-    },
-    {
-      "title": "One Piece Awakening of the New Era Booster Box - Sealed 24 Packs English OP-05",
-      "url": "https://www.ebay.com/itm/297946272942?_skw=one+piece+OP-05+booster+box&hash=item455efb54ae:g:eIQAAeSwxCxpbRdK",
-      "franchise": "onepiece",
-      "set": "Awakening of the New Era",
-      "product_type": "booster_box",
-      "price": 1149.99,
-      "baseline_price": 1299.99,
-      "gapPct": 11.54,
-      "confidence": "high",
-      "gap_bucket": "under_15"
     },
     {
       "title": "Pokemon 2023 Scarlet & Violet Obsidian Booster Box Factory Sealed",
