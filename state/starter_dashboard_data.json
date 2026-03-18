@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-18T00:32:28.701145+00:00",
+  "timestamp": "2026-03-18T01:02:21.937919+00:00",
   "tier": "starter",
   "total_deals": 3,
   "summary_counts": {
@@ -67,8 +67,8 @@
       "set": "Obsidian Flames",
       "product_type": "booster_box",
       "price": 350.0,
-      "baseline_price": 394.46,
-      "gapPct": 11.27,
+      "baseline_price": 391.46,
+      "gapPct": 10.59,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
