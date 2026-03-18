@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-18T12:32:23.981684+00:00",
+  "timestamp": "2026-03-18T13:02:17.440926+00:00",
   "tier": "starter",
   "total_deals": 3,
   "summary_counts": {
@@ -55,8 +55,8 @@
       "set": "Paradox Rift",
       "product_type": "booster_box",
       "price": 230.24,
-      "baseline_price": 299.5,
-      "gapPct": 23.13,
+      "baseline_price": 299.99,
+      "gapPct": 23.25,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -67,8 +67,8 @@
       "set": "Obsidian Flames",
       "product_type": "booster_box",
       "price": 350.0,
-      "baseline_price": 391.99,
-      "gapPct": 10.71,
+      "baseline_price": 389.99,
+      "gapPct": 10.25,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
