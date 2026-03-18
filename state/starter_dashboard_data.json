@@ -1,19 +1,20 @@
 {
-  "timestamp": "2026-03-18T10:32:17.981266+00:00",
+  "timestamp": "2026-03-18T11:02:22.028078+00:00",
   "tier": "starter",
-  "total_deals": 3,
+  "total_deals": 4,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 3,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
       "15_to_30": 1,
-      "under_15": 1
+      "under_15": 2
     }
   },
   "available_filters": {
@@ -22,12 +23,14 @@
       "pokemon"
     ],
     "set": [
+      "151",
       "Obsidian Flames",
       "Paradox Rift",
       "Wings of the Captain"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "booster_bundle"
     ],
     "gap_bucket": [
       "30_plus",
@@ -55,8 +58,8 @@
       "set": "Paradox Rift",
       "product_type": "booster_box",
       "price": 230.24,
-      "baseline_price": 299.5,
-      "gapPct": 23.13,
+      "baseline_price": 299.99,
+      "gapPct": 23.25,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -69,6 +72,18 @@
       "price": 350.0,
       "baseline_price": 389.99,
       "gapPct": 10.25,
+      "confidence": "high",
+      "gap_bucket": "under_15"
+    },
+    {
+      "title": "Pokemon 151 Booster Bundle - SV: Scarlet & Violet 151 (MEW) Brand NEW Sealed",
+      "url": "https://www.ebay.com/itm/336488212944?_skw=pokemon+151+booster+box&hash=item4e5842a9d0:g:XocAAeSwG-xpumfK",
+      "franchise": "pokemon",
+      "set": "151",
+      "product_type": "booster_bundle",
+      "price": 179.99,
+      "baseline_price": 199.99,
+      "gapPct": 10.0,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
