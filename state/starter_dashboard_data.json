@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-03-18T16:02:13.638339+00:00",
+  "timestamp": "2026-03-18T16:32:26.386373+00:00",
   "tier": "starter",
-  "total_deals": 4,
+  "total_deals": 3,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 3
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 4
+      "booster_box": 3
     },
     "by_gap_bucket": {
       "30_plus": 1,
       "15_to_30": 1,
-      "under_15": 2
+      "under_15": 1
     }
   },
   "available_filters": {
@@ -22,7 +22,6 @@
       "pokemon"
     ],
     "set": [
-      "Obsidian Flames",
       "Paradox Rift",
       "Stellar Crown",
       "Wings of the Captain"
@@ -70,18 +69,6 @@
       "price": 280.0,
       "baseline_price": 312.57,
       "gapPct": 10.42,
-      "confidence": "high",
-      "gap_bucket": "under_15"
-    },
-    {
-      "title": "Pokemon 2023 Scarlet & Violet Obsidian Booster Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/406651512063?_skw=pokemon+Obsidian+Flames+booster+box&hash=item5eae51a4ff:g:ztEAAeSwyX9pfBZh",
-      "franchise": "pokemon",
-      "set": "Obsidian Flames",
-      "product_type": "booster_box",
-      "price": 350.0,
-      "baseline_price": 389.99,
-      "gapPct": 10.25,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
