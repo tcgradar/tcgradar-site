@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-03-19T04:32:14.525228+00:00",
+  "updated_at": "2026-03-19T05:02:22.574085+00:00",
   "safe_example": {
-    "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed",
-    "price": 247.09,
+    "title": "Pokemon TCG Paradox Rift Booster Box 36 Packs Brand New Sealed UK",
+    "price": 228.54,
     "franchise": "pokemon",
     "set": "Paradox Rift",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 299.0,
-    "gapPct": 17.36,
+    "baseline_price": 295.14,
+    "gapPct": 22.57,
     "signal_type": "SAFE"
   },
   "high_upside_example": {
     "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
-    "price": 227.04,
+    "price": 225.36,
     "franchise": "onepiece",
     "set": "Wings of the Captain",
     "product_type": "booster_box",
     "confidence": "high",
     "baseline_price": 350.0,
-    "gapPct": 35.13,
+    "gapPct": 35.61,
     "signal_type": "HIGH_UPSIDE"
   }
 }
