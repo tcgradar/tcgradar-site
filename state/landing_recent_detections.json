@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T19:32:25.232214+00:00",
+  "updated_at": "2026-03-19T20:02:18.395856+00:00",
   "safe_example": {
     "title": "*NEW* Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
     "price": 254.88,
@@ -7,8 +7,8 @@
     "set": "Temporal Forces",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 319.99,
-    "gapPct": 20.35,
+    "baseline_price": 315.0,
+    "gapPct": 19.09,
     "signal_type": "SAFE"
   },
   "high_upside_example": {
