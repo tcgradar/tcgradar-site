@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-19T03:32:19.748415+00:00",
+  "updated_at": "2026-03-19T04:02:19.367446+00:00",
   "safe_example": {
     "title": "Pokemon TCG Paradox Rift Booster Box 36 Packs Brand New Sealed UK",
     "price": 230.24,
@@ -7,8 +7,8 @@
     "set": "Paradox Rift",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 295.58,
-    "gapPct": 22.11,
+    "baseline_price": 299.0,
+    "gapPct": 23.0,
     "signal_type": "SAFE"
   },
   "high_upside_example": {
