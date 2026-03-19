@@ -162,6 +162,17 @@
             font-size: 0.9rem;
             margin-bottom: 15px;
         }
+
+        .baseline-disclaimer {
+            color: #888;
+            font-size: 0.8rem;
+            font-style: italic;
+            margin-bottom: 10px;
+            padding: 8px 12px;
+            background: #252540;
+            border-radius: 4px;
+            border-left: 3px solid #ffd700;
+        }
         
         .deals-table {
             width: 100%;
@@ -355,11 +366,17 @@
                     </div>
                 </div>
                 <button class="clear-filters" onclick="clearFilters()">Clear Filters</button>
+                <div style="margin-top: 15px; text-align: right;">
+                    <a href="https://forms.gle/placeholder" target="_blank" style="color: #888; font-size: 0.8rem; text-decoration: none;">
+                        📝 Report incorrect pricing
+                    </a>
+                </div>
             </div>
             
             <!-- Deals Table -->
             <div class="deals-section">
                 <h3>📦 Deals</h3>
+                <p class="baseline-disclaimer">Baseline pricing is continuously improving. Some deals may require manual verification.</p>
                 <div class="results-count" id="results-count">Showing 0 deals</div>
                 <table class="deals-table">
                     <thead>
