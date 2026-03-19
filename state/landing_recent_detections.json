@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-19T22:02:18.939215+00:00",
+  "updated_at": "2026-03-19T22:32:23.910738+00:00",
   "safe_example": {
-    "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
-    "price": 999.99,
-    "franchise": "onepiece",
-    "set": "Awakening of the New Era",
+    "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
+    "price": 254.88,
+    "franchise": "pokemon",
+    "set": "Temporal Forces",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 1242.0,
-    "gapPct": 19.49,
+    "baseline_price": 319.99,
+    "gapPct": 20.35,
     "signal_type": "SAFE"
   },
   "high_upside_example": {
