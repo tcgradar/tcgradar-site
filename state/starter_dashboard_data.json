@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-03-19T17:32:20.114353+00:00",
+  "timestamp": "2026-03-19T18:02:26.020373+00:00",
   "tier": "starter",
-  "total_deals": 5,
+  "total_deals": 4,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 4
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 5
+      "booster_box": 4
     },
     "by_gap_bucket": {
       "30_plus": 1,
       "15_to_30": 2,
-      "under_15": 2
+      "under_15": 1
     }
   },
   "available_filters": {
@@ -24,7 +24,6 @@
     "set": [
       "Paldea Evolved",
       "Paradox Rift",
-      "Stellar Crown",
       "Temporal Forces",
       "Wings of the Captain"
     ],
@@ -76,25 +75,13 @@
     },
     {
       "title": "Pokemon TCG: Scarlet and Violet Sealed Paldea Evolved Booster Box - 36 Packs",
-      "url": "https://www.ebay.com/itm/257294250370?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3be7eeb182:g:C7gAAeSwJMBpW6vd&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGahvnj%2BHh9tZX7FiNc%2B1S0EiZHdb6dtT6CJrR2reRsXjYD%2BpPwYk6Ml2cT4PNa%2F43KirjQ6SQYq2306zoIvGM%2Bm1MtjeLu7jRWzcOBSjANHHdKs3i8hNg5Pwb1QNQDk%2BZArC1E5vM3jnI%2FQff%2FkEDmMYGcYJvKgOt1eVMo9Mo5DpGlLifECy9OyOTulbiT6PLSs69DIS%2FzxmcTHRpBYTV%2F1e7ufkv1LqYoAceNzo474TTeJwf2NFDhxYzlGp%2BvQoIhhf6WhQR%2FAP0jxhd4Mrpebf6JC2uIS5ya5sSRNSKgt6aZz5j0S%2F%2BGBgxH0efEftrs%3D",
+      "url": "https://www.ebay.com/itm/257294250370?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3be7eeb182:g:C7gAAeSwJMBpW6vd&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGahvnj%2BHh9tZX7FiNc%2B1S0EiZHdb6dtT6CJrR2reRsXjYD%2BpPwYk6Ml2cT4PNa%2F43KirjQ6SQYq2306zoIvGM%2Bm1MtjeLu7jRWzcOBSjANHHdKs3i8hNg5Pwb1QNQDk%2BZCT4ECVXwP3DBDTVZ8%2BYGifExOeQmid%2BALpzj%2BDqZV7D47zeXtiiq1F80togW00Nv5kHvWsLVrb0JurIyyRjBNZzrV2Jz2eA3TGVjDJRy4LSDDQzSArNG8kP%2FPHVr1CpOphGusHEJRLOg%2FG8Rcv82iO3LpH2WAQi8p%2B9uNGuJtl58OTzSfb0zSlrFkxFNKeCJI%3D",
       "franchise": "pokemon",
       "set": "Paldea Evolved",
       "product_type": "booster_box",
       "price": 450.0,
       "baseline_price": 520.0,
       "gapPct": 13.46,
-      "confidence": "high",
-      "gap_bucket": "under_15"
-    },
-    {
-      "title": "Pokemon TCG Stellar Crown SV07 Booster Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/389764066355?_skw=pokemon+Stellar+Crown+booster+box&hash=item5abfbfac33:g:Yk8AAeSw6~tpug6Y",
-      "franchise": "pokemon",
-      "set": "Stellar Crown",
-      "product_type": "booster_box",
-      "price": 287.0,
-      "baseline_price": 325.0,
-      "gapPct": 11.69,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
