@@ -1,19 +1,18 @@
 {
-  "timestamp": "2026-03-19T13:02:20.193500+00:00",
+  "timestamp": "2026-03-19T13:32:19.714688+00:00",
   "tier": "starter",
-  "total_deals": 3,
+  "total_deals": 2,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 2
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 1,
-      "under_15": 1
+      "15_to_30": 1
     }
   },
   "available_filters": {
@@ -22,7 +21,6 @@
       "pokemon"
     ],
     "set": [
-      "Obsidian Flames",
       "Paradox Rift",
       "Wings of the Captain"
     ],
@@ -50,7 +48,7 @@
     },
     {
       "title": "Pokemon TCG Paradox Rift Booster Box 36 Packs Brand New Sealed UK",
-      "url": "https://www.ebay.com/itm/267606807092?_skw=pokemon+Paradox+Rift+booster+box&hash=item3e4e9bd234:g:R8cAAeSwezhptfBM",
+      "url": "https://www.ebay.com/itm/267606807092?_skw=pokemon+Paradox+Rift+sealed+booster+box&hash=item3e4e9bd234:g:R8cAAeSwezhptfBM",
       "franchise": "pokemon",
       "set": "Paradox Rift",
       "product_type": "booster_box",
@@ -59,18 +57,6 @@
       "gapPct": 23.57,
       "confidence": "high",
       "gap_bucket": "15_to_30"
-    },
-    {
-      "title": "Pokemon 2023 Scarlet & Violet Obsidian Booster Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/406651512063?_skw=pokemon+Obsidian+Flames+booster+box&hash=item5eae51a4ff:g:ztEAAeSwyX9pfBZh",
-      "franchise": "pokemon",
-      "set": "Obsidian Flames",
-      "product_type": "booster_box",
-      "price": 350.0,
-      "baseline_price": 389.99,
-      "gapPct": 10.25,
-      "confidence": "high",
-      "gap_bucket": "under_15"
     }
   ]
 }
