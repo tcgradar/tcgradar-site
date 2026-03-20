@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T00:32:17.606773+00:00",
+  "updated_at": "2026-03-20T01:02:49.390544+00:00",
   "safe_example": {
     "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
     "price": 254.88,
@@ -18,8 +18,8 @@
     "set": "Wings of the Captain",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 349.99,
-    "gapPct": 35.61,
+    "baseline_price": 345.0,
+    "gapPct": 34.68,
     "signal_type": "HIGH_UPSIDE"
   }
 }
