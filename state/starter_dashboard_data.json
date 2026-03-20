@@ -1,18 +1,19 @@
 {
-  "timestamp": "2026-03-20T09:02:20.475373+00:00",
+  "timestamp": "2026-03-20T09:32:20.620174+00:00",
   "tier": "starter",
-  "total_deals": 4,
+  "total_deals": 5,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 4
+      "booster_box": 5
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 3
+      "15_to_30": 3,
+      "under_15": 1
     }
   },
   "available_filters": {
@@ -23,6 +24,7 @@
     "set": [
       "Awakening of the New Era",
       "Paradox Rift",
+      "Stellar Crown",
       "Temporal Forces",
       "Wings of the Captain"
     ],
@@ -55,8 +57,8 @@
       "set": "Paradox Rift",
       "product_type": "booster_box",
       "price": 218.63,
-      "baseline_price": 299.0,
-      "gapPct": 26.88,
+      "baseline_price": 299.5,
+      "gapPct": 27.0,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -79,10 +81,22 @@
       "set": "Awakening of the New Era",
       "product_type": "booster_box",
       "price": 999.99,
-      "baseline_price": 1235.0,
-      "gapPct": 19.03,
+      "baseline_price": 1200.0,
+      "gapPct": 16.67,
       "confidence": "high",
       "gap_bucket": "15_to_30"
+    },
+    {
+      "title": "Pokemon TCG Stellar Crown SV07 Booster Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/389764066355?_skw=pokemon+Stellar+Crown+booster+box&hash=item5abfbfac33:g:Yk8AAeSw6~tpug6Y",
+      "franchise": "pokemon",
+      "set": "Stellar Crown",
+      "product_type": "booster_box",
+      "price": 287.0,
+      "baseline_price": 321.49,
+      "gapPct": 10.73,
+      "confidence": "high",
+      "gap_bucket": "under_15"
     }
   ]
 }
