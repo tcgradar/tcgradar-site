@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T22:02:20.013283+00:00",
+  "updated_at": "2026-03-20T22:32:19.093483+00:00",
   "safe_example": {
     "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
     "price": 254.75,
@@ -12,14 +12,14 @@
     "signal_type": "SAFE"
   },
   "high_upside_example": {
-    "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
-    "price": 241.74,
-    "franchise": "onepiece",
-    "set": "Wings of the Captain",
+    "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed",
+    "price": 248.47,
+    "franchise": "pokemon",
+    "set": "Paradox Rift",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 350.0,
-    "gapPct": 30.93,
-    "signal_type": "HIGH_UPSIDE"
+    "baseline_price": 299.99,
+    "gapPct": 17.17,
+    "signal_type": "SAFE"
   }
 }
