@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T05:02:19.080138+00:00",
+  "timestamp": "2026-03-20T05:32:19.027017+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -46,7 +46,7 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 228.31,
-      "baseline_price": 349.99,
+      "baseline_price": 350.0,
       "gapPct": 34.77,
       "confidence": "high",
       "gap_bucket": "30_plus"
@@ -82,8 +82,8 @@
       "set": "Awakening of the New Era",
       "product_type": "booster_box",
       "price": 999.99,
-      "baseline_price": 1200.0,
-      "gapPct": 16.67,
+      "baseline_price": 1217.5,
+      "gapPct": 17.87,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -106,8 +106,8 @@
       "set": "Stellar Crown",
       "product_type": "booster_box",
       "price": 287.0,
-      "baseline_price": 325.0,
-      "gapPct": 11.69,
+      "baseline_price": 321.49,
+      "gapPct": 10.73,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
