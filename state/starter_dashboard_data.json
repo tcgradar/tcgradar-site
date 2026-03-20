@@ -1,20 +1,19 @@
 {
-  "timestamp": "2026-03-20T16:02:23.556532+00:00",
+  "timestamp": "2026-03-20T16:32:22.450845+00:00",
   "tier": "starter",
-  "total_deals": 7,
+  "total_deals": 6,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 5
+      "pokemon": 4
     },
     "by_product_type": {
       "booster_box": 5,
-      "etb": 1,
-      "booster_bundle": 1
+      "etb": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 5,
+      "15_to_30": 4,
       "under_15": 1
     }
   },
@@ -32,7 +31,6 @@
     ],
     "product_type": [
       "booster_box",
-      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -73,8 +71,8 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
-      "baseline_price": 89.99,
-      "gapPct": 19.99,
+      "baseline_price": 89.36,
+      "gapPct": 19.43,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -99,18 +97,6 @@
       "price": 248.47,
       "baseline_price": 299.5,
       "gapPct": 17.04,
-      "confidence": "high",
-      "gap_bucket": "15_to_30"
-    },
-    {
-      "title": "Pokemon TCG Twilight Masquerade Booster Bundle Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/257120918869?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item3bdd99dd55:g:hhoAAeSwgYNo0xg8",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "booster_bundle",
-      "price": 49.98,
-      "baseline_price": 59.99,
-      "gapPct": 16.69,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
