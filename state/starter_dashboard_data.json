@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T02:32:27.820686+00:00",
+  "timestamp": "2026-03-20T03:02:22.280562+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -82,8 +82,8 @@
       "set": "Awakening of the New Era",
       "product_type": "booster_box",
       "price": 999.99,
-      "baseline_price": 1235.0,
-      "gapPct": 19.03,
+      "baseline_price": 1242.0,
+      "gapPct": 19.49,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
