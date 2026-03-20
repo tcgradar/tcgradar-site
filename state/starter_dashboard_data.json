@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T03:02:22.280562+00:00",
+  "timestamp": "2026-03-20T03:32:26.574676+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -46,8 +46,8 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 225.36,
-      "baseline_price": 345.0,
-      "gapPct": 34.68,
+      "baseline_price": 350.0,
+      "gapPct": 35.61,
       "confidence": "high",
       "gap_bucket": "30_plus"
     },
@@ -58,8 +58,8 @@
       "set": "Paradox Rift",
       "product_type": "booster_box",
       "price": 215.8,
-      "baseline_price": 295.14,
-      "gapPct": 26.88,
+      "baseline_price": 299.0,
+      "gapPct": 27.83,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
