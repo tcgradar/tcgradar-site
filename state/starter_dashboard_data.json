@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-03-20T12:02:20.429671+00:00",
+  "timestamp": "2026-03-20T12:32:09.317550+00:00",
   "tier": "starter",
-  "total_deals": 4,
+  "total_deals": 3,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 4
+      "booster_box": 3
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 3
+      "15_to_30": 2
     }
   },
   "available_filters": {
@@ -23,7 +23,6 @@
     "set": [
       "Awakening of the New Era",
       "Paradox Rift",
-      "Temporal Forces",
       "Wings of the Captain"
     ],
     "product_type": [
@@ -43,22 +42,10 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 228.31,
-      "baseline_price": 350.0,
+      "baseline_price": 349.99,
       "gapPct": 34.77,
       "confidence": "high",
       "gap_bucket": "30_plus"
-    },
-    {
-      "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
-      "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 254.75,
-      "baseline_price": 319.99,
-      "gapPct": 20.39,
-      "confidence": "high",
-      "gap_bucket": "15_to_30"
     },
     {
       "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed",
