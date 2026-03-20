@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T21:02:21.418336+00:00",
+  "timestamp": "2026-03-20T21:32:22.662944+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -13,8 +13,8 @@
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 3,
-      "under_15": 2
+      "15_to_30": 4,
+      "under_15": 1
     }
   },
   "available_filters": {
@@ -65,50 +65,50 @@
       "gap_bucket": "15_to_30"
     },
     {
-      "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
-      "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
-      "franchise": "onepiece",
-      "set": "Awakening of the New Era",
-      "product_type": "booster_box",
-      "price": 999.99,
-      "baseline_price": 1217.5,
-      "gapPct": 17.87,
-      "confidence": "high",
-      "gap_bucket": "15_to_30"
-    },
-    {
       "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed",
       "url": "https://www.ebay.com/itm/287186709497?_skw=pokemon+Paradox+Rift+sealed+booster+box&hash=item42dda96bf9:g:4psAAeSwGSRprHLG",
       "franchise": "pokemon",
       "set": "Paradox Rift",
       "product_type": "booster_box",
       "price": 248.47,
-      "baseline_price": 299.99,
-      "gapPct": 17.17,
+      "baseline_price": 299.5,
+      "gapPct": 17.04,
+      "confidence": "high",
+      "gap_bucket": "15_to_30"
+    },
+    {
+      "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
+      "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
+      "franchise": "onepiece",
+      "set": "Awakening of the New Era",
+      "product_type": "booster_box",
+      "price": 999.99,
+      "baseline_price": 1200.0,
+      "gapPct": 16.67,
+      "confidence": "high",
+      "gap_bucket": "15_to_30"
+    },
+    {
+      "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed (please see photos)",
+      "url": "https://www.ebay.com/itm/177977455528?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item29704873a8:g:jBoAAeSwAJlpvbRX",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "booster_box",
+      "price": 308.91,
+      "baseline_price": 364.0,
+      "gapPct": 15.13,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
     {
       "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
+      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
       "franchise": "pokemon",
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
       "baseline_price": 83.5,
       "gapPct": 13.77,
-      "confidence": "high",
-      "gap_bucket": "under_15"
-    },
-    {
-      "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed",
-      "url": "https://www.ebay.com/itm/168245137223?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item272c310f47:g:k8kAAeSwQLFpuyp2",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "booster_box",
-      "price": 319.38,
-      "baseline_price": 364.5,
-      "gapPct": 12.38,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
