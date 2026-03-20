@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T05:32:19.027017+00:00",
+  "timestamp": "2026-03-20T06:02:19.358323+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -82,8 +82,8 @@
       "set": "Awakening of the New Era",
       "product_type": "booster_box",
       "price": 999.99,
-      "baseline_price": 1217.5,
-      "gapPct": 17.87,
+      "baseline_price": 1200.0,
+      "gapPct": 16.67,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -106,8 +106,8 @@
       "set": "Stellar Crown",
       "product_type": "booster_box",
       "price": 287.0,
-      "baseline_price": 321.49,
-      "gapPct": 10.73,
+      "baseline_price": 325.0,
+      "gapPct": 11.69,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
