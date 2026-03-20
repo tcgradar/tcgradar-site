@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T01:32:22.963221+00:00",
+  "timestamp": "2026-03-20T02:02:21.356769+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -57,9 +57,9 @@
       "franchise": "pokemon",
       "set": "Paradox Rift",
       "product_type": "booster_box",
-      "price": 228.54,
+      "price": 215.8,
       "baseline_price": 295.14,
-      "gapPct": 22.57,
+      "gapPct": 26.88,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -82,8 +82,8 @@
       "set": "Awakening of the New Era",
       "product_type": "booster_box",
       "price": 999.99,
-      "baseline_price": 1200.0,
-      "gapPct": 16.67,
+      "baseline_price": 1242.0,
+      "gapPct": 19.49,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
