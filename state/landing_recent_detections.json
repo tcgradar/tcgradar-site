@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T13:02:17.186329+00:00",
+  "updated_at": "2026-03-20T13:32:20.656308+00:00",
   "safe_example": {
     "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
     "price": 254.75,
@@ -11,5 +11,15 @@
     "gapPct": 20.39,
     "signal_type": "SAFE"
   },
-  "high_upside_example": null
+  "high_upside_example": {
+    "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
+    "price": 228.31,
+    "franchise": "onepiece",
+    "set": "Wings of the Captain",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 350.0,
+    "gapPct": 34.77,
+    "signal_type": "HIGH_UPSIDE"
+  }
 }
