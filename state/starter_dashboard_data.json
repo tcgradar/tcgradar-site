@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T17:02:22.618004+00:00",
+  "timestamp": "2026-03-20T17:32:18.343746+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -46,9 +46,9 @@
       "franchise": "onepiece",
       "set": "Wings of the Captain",
       "product_type": "booster_box",
-      "price": 228.31,
+      "price": 241.74,
       "baseline_price": 350.0,
-      "gapPct": 34.77,
+      "gapPct": 30.93,
       "confidence": "high",
       "gap_bucket": "30_plus"
     },
@@ -71,8 +71,8 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
-      "baseline_price": 89.36,
-      "gapPct": 19.43,
+      "baseline_price": 90.0,
+      "gapPct": 20.0,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -95,8 +95,8 @@
       "set": "Paradox Rift",
       "product_type": "booster_box",
       "price": 248.47,
-      "baseline_price": 299.5,
-      "gapPct": 17.04,
+      "baseline_price": 299.99,
+      "gapPct": 17.17,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
