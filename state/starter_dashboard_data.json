@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-21T21:02:21.463745+00:00",
+  "timestamp": "2026-03-21T21:32:18.993397+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -84,14 +84,14 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
-      "baseline_price": 88.73,
-      "gapPct": 18.85,
+      "baseline_price": 87.87,
+      "gapPct": 18.06,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
     {
       "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
-      "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
+      "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+sealed+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
       "franchise": "onepiece",
       "set": "Awakening of the New Era",
       "product_type": "booster_box",

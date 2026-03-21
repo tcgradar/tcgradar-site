@@ -288,58 +288,58 @@
         <!-- Hero -->
         <section class="hero">
             <div class="logo">⚡</div>
-            <h1>Radar for underpriced sealed TCG products</h1>
-            <p>Pikaclaw scans marketplaces to detect underpriced sealed Pokémon and One Piece products.
-            We compare live listings against market baselines to surface deals with real upside.</p>
+            <h1>Find mispriced TCG products before everyone else</h1>
+            <p>We scan marketplaces in real time to find underpriced sealed Pokemon and One Piece products.</p>
+            <p style="color: #666; font-size: 0.95rem; margin-top: 16px;">Early version. Pricing is still improving. Always double check before buying.</p>
         </section>
 
         <!-- Recent Detections -->
         <section class="detections">
-            <h2 class="section-title">Recent Detections</h2>
+            <h2 class="section-title">Recent deals detected</h2>
 
             <div class="detection-cards" id="detection-cards">
                 <div class="loading-cards">Loading recent detections...</div>
             </div>
 
-            <p class="disclaimer">Examples from past detections. Prices are estimated using live market data and may not always reflect exact market value.</p>
+            <p class="disclaimer">Examples from recent detections. Prices are estimated and may not match the true market value.</p>
         </section>
 
         <!-- How It Works -->
         <section class="how-it-works">
-            <h2 class="section-title">How It Works</h2>
+            <h2 class="section-title">How it works</h2>
 
             <div class="steps">
                 <div class="step">
                     <div class="step-icon">🔍</div>
-                    <h3>Scan</h3>
-                    <p>Continuously monitors marketplaces for new listings</p>
+                    <h3>Step 1: Scan</h3>
+                    <p>We monitor marketplaces in real time for new listings</p>
                 </div>
 
                 <div class="step-arrow">→</div>
 
                 <div class="step">
                     <div class="step-icon">⚖️</div>
-                    <h3>Compare</h3>
-                    <p>Validates against market baselines for true gaps</p>
+                    <h3>Step 2: Analyze</h3>
+                    <p>We compare prices to detect gaps</p>
                 </div>
 
                 <div class="step-arrow">→</div>
 
                 <div class="step">
                     <div class="step-icon">💎</div>
-                    <h3>Surface</h3>
-                    <p>Presents qualified deals through Free or Starter feeds</p>
+                    <h3>Step 3: Surface</h3>
+                    <p>We highlight deals worth checking</p>
                 </div>
             </div>
         </section>
 
         <!-- CTA -->
         <section class="cta-section">
-            <a href="pricing.html" class="cta-btn primary">View Pricing</a>
+            <a href="pricing.html" class="cta-btn primary">Choose your plan</a>
         </section>
 
         <footer>
-            <p>Pikaclaw — Automated TCG deal detection</p>
+            <p>Automated TCG deal detection</p>
         </footer>
     </div>
 
@@ -553,7 +553,7 @@
 
                 // Option B: console + alert (fallback if mailto blocked)
                 console.log('Feedback submitted:', { type, text, link });
-                alert('Thanks — feedback sent!');
+                alert('Thanks - feedback sent!');
 
                 closeFeedback();
                 submitBtn.textContent = 'Submit';
@@ -607,11 +607,10 @@
         }
 
         function renderCard(item) {
-            const signalType = item.signal_type || 'SAFE';
-            const isSafe = signalType === 'SAFE';
-            const cardClass = isSafe ? 'safe' : 'high-upside';
-            const signalClass = isSafe ? 'signal-safe' : 'signal-high-upside';
-            const signalLabel = isSafe ? 'SAFE' : 'HIGH UPSIDE';
+            const isHighUpside = item.signal_type === 'HIGH_UPSIDE';
+            const cardClass = isHighUpside ? 'high-upside' : 'safe';
+            const signalClass = isHighUpside ? 'signal-high-upside' : 'signal-safe';
+            const signalLabel = isHighUpside ? 'HIGH UPSIDE' : 'SAFE';
 
             const franchise = (item.franchise || 'unknown').toUpperCase();
             const productType = (item.product_type || '').replace('_', ' ');
