@@ -1,19 +1,20 @@
 {
-  "timestamp": "2026-03-21T04:02:32.319559+00:00",
+  "timestamp": "2026-03-21T04:32:22.997741+00:00",
   "tier": "starter",
-  "total_deals": 6,
+  "total_deals": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 4
+      "pokemon": 5
     },
     "by_product_type": {
-      "booster_box": 5,
+      "booster_box": 6,
       "etb": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 5
+      "15_to_30": 5,
+      "under_15": 1
     }
   },
   "available_filters": {
@@ -24,6 +25,7 @@
     "set": [
       "Awakening of the New Era",
       "Paradox Rift",
+      "Stellar Crown",
       "Temporal Forces",
       "Twilight Masquerade",
       "Wings of the Captain"
@@ -70,8 +72,8 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
-      "baseline_price": 87.0,
-      "gapPct": 17.24,
+      "baseline_price": 89.99,
+      "gapPct": 19.99,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -82,8 +84,8 @@
       "set": "Paradox Rift",
       "product_type": "booster_box",
       "price": 248.47,
-      "baseline_price": 299.5,
-      "gapPct": 17.04,
+      "baseline_price": 299.99,
+      "gapPct": 17.17,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
@@ -110,6 +112,18 @@
       "gapPct": 15.25,
       "confidence": "high",
       "gap_bucket": "15_to_30"
+    },
+    {
+      "title": "Pokemon TCG SV07 Scarlet & Violet Stellar Crown Booster Box Factory Sealed 2024",
+      "url": "https://www.ebay.com/itm/397717140804?_skw=pokemon+Stellar+Crown+booster+box&hash=item5c99c9f544:g:m7gAAeSw-Llptqzi",
+      "franchise": "pokemon",
+      "set": "Stellar Crown",
+      "product_type": "booster_box",
+      "price": 280.0,
+      "baseline_price": 312.02,
+      "gapPct": 10.26,
+      "confidence": "high",
+      "gap_bucket": "under_15"
     }
   ]
 }
