@@ -289,8 +289,8 @@
         <section class="hero">
             <div class="logo">⚡</div>
             <h1>Find mispriced TCG products before everyone else</h1>
-            <p>We scan marketplaces in real time to find underpriced sealed Pokemon and One Piece products.</p>
-            <p style="color: #666; font-size: 0.95rem; margin-top: 16px;">Early version. Pricing is still improving. Always double check before buying.</p>
+            <p>We scan marketplaces in real time to spot underpriced sealed Pokemon and One Piece products.</p>
+            <p style="color: #666; font-size: 0.95rem; margin-top: 16px;">Early version. Pricing is still improving, and some deals may need a quick manual check.</p>
         </section>
 
         <!-- Recent Detections -->
@@ -301,7 +301,7 @@
                 <div class="loading-cards">Loading recent detections...</div>
             </div>
 
-            <p class="disclaimer">Examples from recent detections. Prices are estimated and may not match the true market value.</p>
+            <p class="disclaimer">Examples from recent detections. Prices are estimated and may not reflect the actual market price.</p>
         </section>
 
         <!-- How It Works -->
@@ -311,7 +311,7 @@
             <div class="steps">
                 <div class="step">
                     <div class="step-icon">🔍</div>
-                    <h3>Step 1: Scan</h3>
+                    <h3>Scan</h3>
                     <p>We monitor marketplaces in real time for new listings</p>
                 </div>
 
@@ -319,16 +319,16 @@
 
                 <div class="step">
                     <div class="step-icon">⚖️</div>
-                    <h3>Step 2: Analyze</h3>
-                    <p>We compare prices to detect gaps</p>
+                    <h3>Analyze</h3>
+                    <p>We compare prices to detect pricing gaps</p>
                 </div>
 
                 <div class="step-arrow">→</div>
 
                 <div class="step">
                     <div class="step-icon">💎</div>
-                    <h3>Step 3: Surface</h3>
-                    <p>We highlight deals worth checking</p>
+                    <h3>Highlight</h3>
+                    <p>We surface deals worth checking</p>
                 </div>
             </div>
         </section>
@@ -463,12 +463,14 @@
     <div class="feedback-overlay" id="feedbackOverlay" onclick="closeFeedbackOnOverlay(event)">
         <div class="feedback-modal" onclick="event.stopPropagation()">
             <h3>Send Feedback</h3>
+            <p style="color: #888; font-size: 0.9rem; margin-bottom: 16px;">Spotted something off? Help us improve.</p>
             <div class="feedback-field">
                 <label>Issue Type *</label>
                 <select id="feedbackType" onchange="validateFeedback()">
                     <option value="">Select...</option>
                     <option value="wrong_price">Wrong price</option>
-                    <option value="wrong_product">Wrong product</option>
+                    <option value="wrong_product">Wrong product match</option>
+                    <option value="not_available">Not available anymore</option>
                     <option value="bug">Bug</option>
                     <option value="other">Other</option>
                 </select>
@@ -478,8 +480,8 @@
                 <textarea id="feedbackText" placeholder="What seems wrong?" oninput="validateFeedback()"></textarea>
             </div>
             <div class="feedback-field">
-                <label>eBay Link (optional)</label>
-                <input type="text" id="feedbackLink" placeholder="https://ebay.com/itm/...">
+                <label>Listing link (optional)</label>
+                <input type="text" id="feedbackLink" placeholder="https://...">
             </div>
             <div class="feedback-buttons">
                 <button class="feedback-submit" id="feedbackSubmit" onclick="submitFeedback()" disabled>Submit</button>
@@ -532,7 +534,8 @@
 
             const typeLabels = {
                 'wrong_price': 'Wrong price',
-                'wrong_product': 'Wrong product',
+                'wrong_product': 'Wrong product match',
+                'not_available': 'Not available anymore',
                 'bug': 'Bug',
                 'other': 'Other'
             };
@@ -612,7 +615,7 @@
             const signalClass = isHighUpside ? 'signal-high-upside' : 'signal-safe';
             const signalLabel = isHighUpside ? 'HIGH UPSIDE' : 'SAFE';
 
-            const franchise = (item.franchise || 'unknown').toUpperCase();
+            const franchise = (item.franchise || 'unknown').toUpperCase().replace('ONEPIECE', 'ONE PIECE');
             const productType = (item.product_type || '').replace('_', ' ');
             const confidence = item.confidence || 'unknown';
 
