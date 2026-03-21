@@ -4,7 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/favicon/favicon.svg" type="image/svg+xml">
-    <title>Starter Dashboard</title>
+    <title>Starter dashboard - TCG Deal Radar</title>
+    <meta name="description" content="Dashboard with current SAFE deals, filters, and live updates for Pokemon and One Piece products.">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://tcgradar-site.pages.dev/dashboard/">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Starter dashboard - TCG Deal Radar">
+    <meta property="og:description" content="Dashboard with current SAFE deals, filters, and live updates.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tcgradar-site.pages.dev/dashboard/">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Starter dashboard - TCG Deal Radar">
+    <meta name="twitter:description" content="Dashboard with current SAFE deals, filters, and live updates.">
+    
+    <!-- JSON-LD Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Starter dashboard - TCG Deal Radar",
+        "url": "https://tcgradar-site.pages.dev/dashboard/",
+        "description": "Dashboard with current SAFE deals, filters, and live updates for Pokemon and One Piece products."
+    }
+    </script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         
@@ -359,9 +384,9 @@
                         <label for="filter-gap">Gap Bucket</label>
                         <select id="filter-gap">
                             <option value="">All</option>
-                            <option value="30_plus">≥30% (High)</option>
-                            <option value="15_to_30">15-30% (Medium)</option>
-                            <option value="under_15"><15% (Low)</option>
+                            <option value="30_plus">30%+</option>
+                            <option value="15_to_30">15-30%</option>
+                            <option value="under_15">Under 15%</option>
                         </select>
                     </div>
                 </div>
@@ -372,7 +397,7 @@
             <div class="deals-section">
                 <h3>📦 Deals</h3>
                 <p class="baseline-disclaimer">Baseline pricing is still improving. Always verify that a deal is truly attractive before buying.</p>
-                <div class="results-count" id="results-count">Showing 0 deals</div>
+                <div class="results-count" id="results-count">Showing 0 live deals</div>
                 <table class="deals-table">
                     <thead>
                         <tr>
@@ -388,6 +413,12 @@
                     <tbody id="deals-tbody">
                     </tbody>
                 </table>
+            </div>
+            
+            <!-- CTA Section -->
+            <div class="cta-section" style="margin-top: 40px; padding: 30px; background: rgba(255, 215, 0, 0.05); border-radius: 12px; border: 1px solid rgba(255, 215, 0, 0.2); text-align: center;">
+                <p style="color: #888; margin-bottom: 20px;">More plans and features are coming soon.</p>
+                <button disabled style="padding: 14px 32px; background: #333; color: #666; border: 2px solid #444; border-radius: 8px; font-weight: bold; cursor: not-allowed;">Coming soon</button>
             </div>
         </div>
     </div>
@@ -555,217 +586,6 @@
         }
         
         document.addEventListener('DOMContentLoaded', loadDashboardData);
-    </script>
-
-    <!-- Feedback Widget -->
-    <style>
-        .feedback-btn {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background: #ffd700;
-            color: #0f0f23;
-            border: none;
-            border-radius: 50px;
-            padding: 12px 20px;
-            font-weight: bold;
-            font-size: 0.9rem;
-            cursor: pointer;
-            z-index: 9999;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-        .feedback-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 16px rgba(0,0,0,0.4);
-        }
-        .feedback-overlay {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0,0,0,0.6);
-            z-index: 10000;
-            display: none;
-            align-items: center;
-            justify-content: center;
-        }
-        .feedback-overlay.active {
-            display: flex;
-        }
-        .feedback-modal {
-            max-width: 400px;
-            width: 90%;
-            background: #1a1a2e;
-            border-radius: 12px;
-            padding: 24px;
-            border: 1px solid #333;
-        }
-        .feedback-modal h3 {
-            color: #ffd700;
-            margin-bottom: 20px;
-            font-size: 1.3rem;
-        }
-        .feedback-field {
-            margin-bottom: 16px;
-        }
-        .feedback-field label {
-            display: block;
-            color: #888;
-            font-size: 0.85rem;
-            margin-bottom: 6px;
-        }
-        .feedback-field select,
-        .feedback-field textarea,
-        .feedback-field input {
-            width: 100%;
-            padding: 10px;
-            background: #252540;
-            border: 1px solid #444;
-            border-radius: 6px;
-            color: #e0e0e0;
-            font-size: 0.9rem;
-        }
-        .feedback-field textarea {
-            min-height: 100px;
-            resize: vertical;
-        }
-        .feedback-field select:focus,
-        .feedback-field textarea:focus,
-        .feedback-field input:focus {
-            outline: none;
-            border-color: #ffd700;
-        }
-        .feedback-buttons {
-            display: flex;
-            gap: 12px;
-            margin-top: 20px;
-        }
-        .feedback-submit {
-            flex: 1;
-            padding: 12px;
-            background: #ffd700;
-            color: #0f0f23;
-            border: none;
-            border-radius: 6px;
-            font-weight: bold;
-            cursor: pointer;
-            transition: opacity 0.2s;
-        }
-        .feedback-submit:disabled {
-            opacity: 0.5;
-            cursor: not-allowed;
-        }
-        .feedback-cancel {
-            flex: 1;
-            padding: 12px;
-            background: transparent;
-            color: #888;
-            border: 1px solid #444;
-            border-radius: 6px;
-            cursor: pointer;
-        }
-        .feedback-cancel:hover {
-            border-color: #666;
-            color: #e0e0e0;
-        }
-    </style>
-
-    <button class="feedback-btn" onclick="openFeedback()">Feedback</button>
-
-    <div class="feedback-overlay" id="feedbackOverlay" onclick="closeFeedbackOnOverlay(event)">
-        <div class="feedback-modal" onclick="event.stopPropagation()">
-            <h3>Send Feedback</h3>
-            <div class="feedback-field">
-                <label>Issue Type *</label>
-                <select id="feedbackType" onchange="validateFeedback()">
-                    <option value="">Select...</option>
-                    <option value="wrong_price">Wrong price</option>
-                    <option value="wrong_product">Wrong product</option>
-                    <option value="bug">Bug</option>
-                    <option value="other">Other</option>
-                </select>
-            </div>
-            <div class="feedback-field">
-                <label>Description *</label>
-                <textarea id="feedbackText" placeholder="What seems wrong?" oninput="validateFeedback()"></textarea>
-            </div>
-            <div class="feedback-field">
-                <label>eBay Link (optional)</label>
-                <input type="text" id="feedbackLink" placeholder="https://ebay.com/itm/...">
-            </div>
-            <div class="feedback-buttons">
-                <button class="feedback-submit" id="feedbackSubmit" onclick="submitFeedback()" disabled>Submit</button>
-                <button class="feedback-cancel" onclick="closeFeedback()">Cancel</button>
-            </div>
-        </div>
-    </div>
-
-    <script>
-        // Feedback Widget Functions
-        function openFeedback() {
-            document.getElementById('feedbackOverlay').classList.add('active');
-            document.body.style.overflow = 'hidden';
-        }
-
-        function closeFeedback() {
-            document.getElementById('feedbackOverlay').classList.remove('active');
-            document.body.style.overflow = '';
-            document.getElementById('feedbackType').value = '';
-            document.getElementById('feedbackText').value = '';
-            document.getElementById('feedbackLink').value = '';
-            validateFeedback();
-        }
-
-        function closeFeedbackOnOverlay(event) {
-            if (event.target === document.getElementById('feedbackOverlay')) {
-                closeFeedback();
-            }
-        }
-
-        function validateFeedback() {
-            const type = document.getElementById('feedbackType').value;
-            const text = document.getElementById('feedbackText').value.trim();
-            const submitBtn = document.getElementById('feedbackSubmit');
-            submitBtn.disabled = !type || !text;
-        }
-
-        function submitFeedback() {
-            const type = document.getElementById('feedbackType').value;
-            const text = document.getElementById('feedbackText').value.trim();
-            const link = document.getElementById('feedbackLink').value.trim();
-            const submitBtn = document.getElementById('feedbackSubmit');
-
-            if (!type || !text) return;
-
-            submitBtn.disabled = true;
-            submitBtn.textContent = 'Sending...';
-
-            const typeLabels = {
-                'wrong_price': 'Wrong price',
-                'wrong_product': 'Wrong product',
-                'bug': 'Bug',
-                'other': 'Other'
-            };
-
-            const body = `Type: ${typeLabels[type]}\n\n${text}${link ? '\n\nLink: ' + link : ''}`;
-
-            // TODO: Replace mailto with Formspree endpoint
-            // fetch("https://formspree.io/f/XXXXX", { method: "POST", body: ... })
-
-            setTimeout(() => {
-                window.location.href = `mailto:feedback@pikaclaw.example?subject=Pikaclaw Feedback&body=${encodeURIComponent(body)}`;
-                console.log('Feedback submitted:', { type, text, link });
-                alert('Thanks — feedback sent!');
-                closeFeedback();
-                submitBtn.textContent = 'Submit';
-            }, 500);
-        }
-
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape') closeFeedback();
-        });
     </script>
 </body>
 </html>

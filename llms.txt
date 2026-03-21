@@ -1,0 +1,12 @@
+# TCG Deal Radar
+
+This site provides real-time detection of underpriced trading card products.
+
+Content includes:
+- Pokemon sealed products
+- One Piece sealed products
+- Price comparisons across marketplaces
+
+Purpose: Help users identify potential pricing inefficiencies.
+
+Note: Pricing is estimated and may not reflect exact market value.
