@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-03-21T15:33:05.857019+00:00",
+  "timestamp": "2026-03-21T16:02:21.252258+00:00",
   "tier": "starter",
-  "total_deals": 7,
+  "total_deals": 6,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 5
+      "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 5,
+      "booster_box": 4,
       "booster_bundle": 1,
       "etb": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 5,
+      "15_to_30": 4,
       "under_15": 1
     }
   },
@@ -25,7 +25,6 @@
     ],
     "set": [
       "Awakening of the New Era",
-      "Paradox Rift",
       "Temporal Forces",
       "Twilight Masquerade",
       "Wings of the Captain"
@@ -79,18 +78,6 @@
       "gap_bucket": "15_to_30"
     },
     {
-      "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed",
-      "url": "https://www.ebay.com/itm/287186709497?_skw=pokemon+Paradox+Rift+sealed+booster+box&hash=item42dda96bf9:g:4psAAeSwGSRprHLG",
-      "franchise": "pokemon",
-      "set": "Paradox Rift",
-      "product_type": "booster_box",
-      "price": 246.81,
-      "baseline_price": 299.99,
-      "gapPct": 17.73,
-      "confidence": "high",
-      "gap_bucket": "15_to_30"
-    },
-    {
       "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
       "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
       "franchise": "onepiece",
@@ -109,8 +96,8 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 306.84,
-      "baseline_price": 364.0,
-      "gapPct": 15.7,
+      "baseline_price": 364.5,
+      "gapPct": 15.82,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
