@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/favicon/favicon.svg" type="image/svg+xml">
-    <title>Pikaclaw Starter Dashboard</title>
+    <title>Starter Dashboard</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         
@@ -303,8 +303,8 @@
 <body>
     <div class="container">
         <header>
-            <h1>⚡ Pikaclaw Starter</h1>
-            <p>Full SAFE deal dashboard — updated every 20 minutes</p>
+            <h1>Starter dashboard</h1>
+            <p>For active deal hunting across Pokemon and One Piece</p>
         </header>
         
         <div id="loading" class="loading">Loading dashboard data...</div>
@@ -315,7 +315,7 @@
             <div class="summary-section">
                 <div class="summary-grid">
                     <div class="card">
-                        <h3>Total Deals</h3>
+                        <h3>Total live deals</h3>
                         <div class="value" id="total-deals">0</div>
                     </div>
                     <div class="card">
@@ -366,17 +366,12 @@
                     </div>
                 </div>
                 <button class="clear-filters" onclick="clearFilters()">Clear Filters</button>
-                <div style="margin-top: 15px; text-align: right;">
-                    <a href="https://forms.gle/placeholder" target="_blank" style="color: #888; font-size: 0.8rem; text-decoration: none;">
-                        📝 Report incorrect pricing
-                    </a>
-                </div>
             </div>
             
             <!-- Deals Table -->
             <div class="deals-section">
                 <h3>📦 Deals</h3>
-                <p class="baseline-disclaimer">Baseline pricing is continuously improving. Some deals may require manual verification.</p>
+                <p class="baseline-disclaimer">Baseline pricing is still improving. Always verify that a deal is truly attractive before buying.</p>
                 <div class="results-count" id="results-count">Showing 0 deals</div>
                 <table class="deals-table">
                     <thead>
@@ -387,7 +382,7 @@
                             <th>Type</th>
                             <th>Price</th>
                             <th>Gap</th>
-                            <th>Confidence</th>
+                            <th>Signal</th>
                         </tr>
                     </thead>
                     <tbody id="deals-tbody">
@@ -402,10 +397,25 @@
         let filteredDeals = [];
         
         const gapBucketNames = {
-            '30_plus': '≥30%',
+            '30_plus': '30%+',
             '15_to_30': '15-30%',
-            'under_15': '<15%'
+            'under_15': 'Under 15%'
         };
+        
+        function formatFranchise(franchise) {
+            if (franchise === 'pokemon') return 'Pokemon';
+            if (franchise === 'onepiece') return 'One Piece';
+            return franchise;
+        }
+        
+        function formatProductType(type) {
+            const types = {
+                'booster_box': 'Booster Box',
+                'booster_bundle': 'Booster Bundle',
+                'etb': 'ETB'
+            };
+            return types[type] || type.replace('_', ' ');
+        }
         
         async function loadDashboardData() {
             try {
@@ -442,13 +452,13 @@
             const franchiseDiv = document.getElementById('franchise-breakdown');
             const franchiseCounts = dashboardData.summary_counts.by_franchise;
             franchiseDiv.innerHTML = Object.entries(franchiseCounts)
-                .map(([name, count]) => `<div class="breakdown-item">${name}: <span>${count}</span></div>`)
+                .map(([name, count]) => `<div class="breakdown-item">${formatFranchise(name)}: <span>${count}</span></div>`)
                 .join('');
             
             const productDiv = document.getElementById('product-breakdown');
             const productCounts = dashboardData.summary_counts.by_product_type;
             productDiv.innerHTML = Object.entries(productCounts)
-                .map(([name, count]) => `<div class="breakdown-item">${name.replace('_', ' ')}: <span>${count}</span></div>`)
+                .map(([name, count]) => `<div class="breakdown-item">${formatProductType(name)}: <span>${count}</span></div>`)
                 .join('');
             
             const gapDiv = document.getElementById('gap-breakdown');
@@ -463,7 +473,7 @@
             
             document.getElementById('filter-franchise').innerHTML = 
                 '<option value="">All</option>' + 
-                filters.franchise.map(f => `<option value="${f}">${f}</option>`).join('');
+                filters.franchise.map(f => `<option value="${f}">${formatFranchise(f)}</option>`).join('');
             
             document.getElementById('filter-set').innerHTML = 
                 '<option value="">All</option>' + 
@@ -471,7 +481,7 @@
             
             document.getElementById('filter-product').innerHTML = 
                 '<option value="">All</option>' + 
-                filters.product_type.map(p => `<option value="${p}">${p.replace('_', ' ')}</option>`).join('');
+                filters.product_type.map(p => `<option value="${p}">${formatProductType(p)}</option>`).join('');
             
             ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap'].forEach(id => {
                 document.getElementById(id).addEventListener('change', applyFilters);
@@ -515,7 +525,7 @@
         
         function renderDeals() {
             const tbody = document.getElementById('deals-tbody');
-            document.getElementById('results-count').textContent = `Showing ${filteredDeals.length} deals`;
+            document.getElementById('results-count').textContent = `Showing ${filteredDeals.length} live deals`;
             
             if (filteredDeals.length === 0) {
                 tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">No deals match your filters</td></tr>';
@@ -528,10 +538,10 @@
                         <a href="${deal.url}" target="_blank" rel="noopener">${deal.title}</a>
                     </td>
                     <td>
-                        <span class="franchise-badge ${getFranchiseClass(deal.franchise)}">${deal.franchise}</span>
+                        <span class="franchise-badge ${getFranchiseClass(deal.franchise)}">${formatFranchise(deal.franchise)}</span>
                     </td>
                     <td>${deal.set}</td>
-                    <td class="product-type">${deal.product_type.replace('_', ' ')}</td>
+                    <td class="product-type">${formatProductType(deal.product_type)}</td>
                     <td>
                         <div class="price">$${deal.price.toFixed(2)}</div>
                         <div class="baseline-price">$${deal.baseline_price.toFixed(2)}</div>

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-21T22:32:28.021553+00:00",
+  "updated_at": "2026-03-21T23:02:21.279566+00:00",
   "safe_example": {
     "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
     "price": 72.0,
@@ -7,8 +7,8 @@
     "set": "Twilight Masquerade",
     "product_type": "etb",
     "confidence": "high",
-    "baseline_price": 87.87,
-    "gapPct": 18.06,
+    "baseline_price": 89.99,
+    "gapPct": 19.99,
     "signal_type": "SAFE"
   },
   "high_upside_example": {
