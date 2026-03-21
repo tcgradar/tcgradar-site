@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-03-21T19:02:23.614782+00:00",
+  "updated_at": "2026-03-21T19:32:20.670865+00:00",
   "safe_example": {
-    "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
-    "price": 249.25,
-    "franchise": "pokemon",
-    "set": "Temporal Forces",
+    "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
+    "price": 999.99,
+    "franchise": "onepiece",
+    "set": "Awakening of the New Era",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 319.99,
-    "gapPct": 22.11,
+    "baseline_price": 1235.0,
+    "gapPct": 19.03,
     "signal_type": "SAFE"
   },
   "high_upside_example": {
