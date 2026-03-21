@@ -1,19 +1,20 @@
 {
-  "timestamp": "2026-03-21T14:32:18.802187+00:00",
+  "timestamp": "2026-03-21T15:02:20.269220+00:00",
   "tier": "starter",
-  "total_deals": 6,
+  "total_deals": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 4
+      "pokemon": 5
     },
     "by_product_type": {
       "booster_box": 5,
+      "booster_bundle": 1,
       "etb": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 4,
+      "15_to_30": 5,
       "under_15": 1
     }
   },
@@ -31,6 +32,7 @@
     ],
     "product_type": [
       "booster_box",
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -51,6 +53,18 @@
       "gapPct": 31.39,
       "confidence": "high",
       "gap_bucket": "30_plus"
+    },
+    {
+      "title": "Pokemon Scarlet & Violet: Twilight Masquerade 6-Pack Booster Bundle",
+      "url": "https://www.ebay.com/itm/157773973000?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item24bc0fc608:g:228AAeSwbMFo~raN",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "booster_bundle",
+      "price": 45.99,
+      "baseline_price": 59.99,
+      "gapPct": 23.34,
+      "confidence": "high",
+      "gap_bucket": "15_to_30"
     },
     {
       "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
