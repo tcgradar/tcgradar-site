@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-21T02:02:19.057269+00:00",
+  "timestamp": "2026-03-21T02:32:19.074383+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -13,8 +13,7 @@
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 4,
-      "under_15": 1
+      "15_to_30": 5
     }
   },
   "available_filters": {
@@ -77,6 +76,18 @@
       "gap_bucket": "15_to_30"
     },
     {
+      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
+      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 72.0,
+      "baseline_price": 89.36,
+      "gapPct": 19.43,
+      "confidence": "high",
+      "gap_bucket": "15_to_30"
+    },
+    {
       "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed",
       "url": "https://www.ebay.com/itm/287186709497?_skw=pokemon+Paradox+Rift+sealed+booster+box&hash=item42dda96bf9:g:4psAAeSwGSRprHLG",
       "franchise": "pokemon",
@@ -95,22 +106,10 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 308.91,
-      "baseline_price": 364.0,
-      "gapPct": 15.13,
+      "baseline_price": 364.5,
+      "gapPct": 15.25,
       "confidence": "high",
       "gap_bucket": "15_to_30"
-    },
-    {
-      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 72.0,
-      "baseline_price": 80.0,
-      "gapPct": 10.0,
-      "confidence": "high",
-      "gap_bucket": "under_15"
     }
   ]
 }
