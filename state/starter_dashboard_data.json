@@ -1,19 +1,19 @@
 {
-  "timestamp": "2026-03-21T12:32:17.877262+00:00",
+  "timestamp": "2026-03-21T13:02:19.613133+00:00",
   "tier": "starter",
-  "total_deals": 7,
+  "total_deals": 6,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 5
+      "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 6,
+      "booster_box": 5,
       "etb": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 5,
+      "15_to_30": 4,
       "under_15": 1
     }
   },
@@ -25,7 +25,6 @@
     "set": [
       "Awakening of the New Era",
       "Paradox Rift",
-      "Stellar Crown",
       "Temporal Forces",
       "Twilight Masquerade",
       "Wings of the Captain"
@@ -79,7 +78,7 @@
     },
     {
       "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
-      "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+sealed+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
+      "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
       "franchise": "onepiece",
       "set": "Awakening of the New Era",
       "product_type": "booster_box",
@@ -108,20 +107,8 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 306.84,
-      "baseline_price": 364.0,
-      "gapPct": 15.7,
-      "confidence": "high",
-      "gap_bucket": "15_to_30"
-    },
-    {
-      "title": "Pokemon TCG SV07 Scarlet & Violet Stellar Crown Booster Box Factory Sealed 2024",
-      "url": "https://www.ebay.com/itm/397717140804?_skw=pokemon+Stellar+Crown+booster+box&hash=item5c99c9f544:g:m7gAAeSw-Llptqzi",
-      "franchise": "pokemon",
-      "set": "Stellar Crown",
-      "product_type": "booster_box",
-      "price": 280.0,
-      "baseline_price": 312.2,
-      "gapPct": 10.31,
+      "baseline_price": 350.0,
+      "gapPct": 12.33,
       "confidence": "high",
       "gap_bucket": "under_15"
     }
