@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T16:02:45.919374+00:00",
+  "timestamp": "2026-03-22T16:32:23.755446+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -77,8 +77,8 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
-      "baseline_price": 88.36,
-      "gapPct": 18.52,
+      "baseline_price": 87.99,
+      "gapPct": 18.17,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
