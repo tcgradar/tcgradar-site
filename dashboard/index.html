@@ -398,21 +398,24 @@
                 <h3>📦 Deals</h3>
                 <p class="baseline-disclaimer">Baseline pricing is still improving. Always verify that a deal is truly attractive before buying.</p>
                 <div class="results-count" id="results-count">Showing 0 live deals</div>
-                <table class="deals-table">
-                    <thead>
-                        <tr>
-                            <th>Deal</th>
-                            <th>Franchise</th>
-                            <th>Set</th>
-                            <th>Type</th>
-                            <th>Price</th>
-                            <th>Gap</th>
-                            <th>Signal</th>
-                        </tr>
-                    </thead>
-                    <tbody id="deals-tbody">
-                    </tbody>
-                </table>
+                <div style="overflow-x: auto;">
+                    <table class="deals-table">
+                        <thead>
+                            <tr>
+                                <th>Deal</th>
+                                <th>Franchise</th>
+                                <th>Set</th>
+                                <th>Type</th>
+                                <th>Price</th>
+                                <th>Gap</th>
+                                <th>Signal</th>
+                                <th>Source</th>
+                            </tr>
+                        </thead>
+                        <tbody id="deals-tbody">
+                        </tbody>
+                    </table>
+                </div>
             </div>
             
             <!-- CTA Section -->
@@ -446,6 +449,20 @@
                 'etb': 'ETB'
             };
             return types[type] || type.replace('_', ' ');
+        }
+        
+        function formatSource(url) {
+            try {
+                const domain = new URL(url).hostname.replace('www.', '');
+                const sources = {
+                    'ebay.com': 'eBay',
+                    'gamenerdz.com': 'GameNerdz',
+                    'stompinggroundstcg.com': 'Stomping Ground TCG'
+                };
+                return sources[domain] || domain;
+            } catch {
+                return 'Unknown';
+            }
         }
         
         async function loadDashboardData() {
@@ -559,7 +576,7 @@
             document.getElementById('results-count').textContent = `Showing ${filteredDeals.length} live deals`;
             
             if (filteredDeals.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">No deals match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="8" style="text-align: center; padding: 40px; color: #888;">No deals match your filters</td></tr>';
                 return;
             }
             
@@ -581,6 +598,7 @@
                         <span class="gap-badge ${getGapBadgeClass(deal.gap_bucket)}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
                     <td class="confidence-${deal.confidence}">${deal.confidence}</td>
+                    <td>${formatSource(deal.url)}</td>
                 </tr>
             `).join('');
         }

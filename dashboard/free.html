@@ -350,7 +350,7 @@
 
             <div class="metadata">
                 <div class="metadata-row">
-                    <span class="metadata-label">Next Refresh</span>
+                    <span class="metadata-label">Next update</span>
                     <span class="metadata-value refresh-timer" id="next-refresh">-</span>
                 </div>
             </div>
@@ -399,7 +399,7 @@
             document.getElementById('deal-set').textContent = deal.set;
             document.getElementById('deal-type').textContent = deal.product_type.replace('_', ' ');
             document.getElementById('deal-link').href = deal.url;
-            document.getElementById('next-refresh').textContent = data.next_refresh_hours + ' hours';
+            document.getElementById('next-refresh').textContent = 'in a few hours';
         }
 
         document.addEventListener('DOMContentLoaded', loadFreeDeal);
