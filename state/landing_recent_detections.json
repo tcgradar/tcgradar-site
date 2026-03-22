@@ -1,25 +1,32 @@
 {
-  "updated_at": "2026-03-22T07:32:19.730963+00:00",
-  "safe_example": {
-    "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
-    "price": 249.25,
+  "updated_at": "2026-03-22T08:02:17.013120+00:00",
+  "source": "previous_scan",
+  "starter_quality_deal": {
+    "title": "Pokemon TCG Twilight Masquerade Elite Trainer Box ETB - SEALED",
+    "price": 73.0,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 583,
     "franchise": "pokemon",
-    "set": "Temporal Forces",
-    "product_type": "booster_box",
+    "set": "Twilight Masquerade",
+    "product_type": "etb",
     "confidence": "high",
-    "baseline_price": 319.99,
-    "gapPct": 22.11,
-    "signal_type": "SAFE"
+    "baseline_price": 87.87,
+    "gapPct": 16.92,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
   },
-  "high_upside_example": {
-    "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
-    "price": 240.12,
-    "franchise": "onepiece",
-    "set": "Wings of the Captain",
-    "product_type": "booster_box",
+  "best_opportunity_deal": {
+    "title": "Pokemon TCG: Scarlet & Violet-151 Booster Bundle",
+    "price": 167.56,
+    "seller_rating": 99.0,
+    "seller_feedback_count": 2270,
+    "franchise": "pokemon",
+    "set": "151",
+    "product_type": "booster_bundle",
     "confidence": "high",
-    "baseline_price": 350.0,
-    "gapPct": 31.39,
-    "signal_type": "HIGH_UPSIDE"
+    "baseline_price": 197.99,
+    "gapPct": 15.37,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
   }
 }
