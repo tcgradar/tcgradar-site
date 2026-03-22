@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T17:32:19.566278+00:00",
+  "timestamp": "2026-03-22T18:02:22.536006+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -71,19 +71,6 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 72.0,
-      "baseline_price": 87.99,
-      "gapPct": 18.17,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
       "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
       "franchise": "onepiece",
@@ -92,6 +79,19 @@
       "price": 999.99,
       "baseline_price": 1217.5,
       "gapPct": 17.87,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
+      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 72.0,
+      "baseline_price": 87.5,
+      "gapPct": 17.71,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -116,8 +116,8 @@
       "set": "Obsidian Flames",
       "product_type": "booster_box",
       "price": 350.0,
-      "baseline_price": 393.55,
-      "gapPct": 11.07,
+      "baseline_price": 391.77,
+      "gapPct": 10.66,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
