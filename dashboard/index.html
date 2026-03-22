@@ -246,19 +246,19 @@
             font-size: 0.85rem;
         }
         
-        .gap-high {
-            background: #2d5016;
-            color: #7ee787;
-        }
-        
-        .gap-medium {
+        .gap-low {
             background: #5c4813;
             color: #ffd700;
         }
         
-        .gap-low {
-            background: #5c1f1f;
-            color: #ff6b6b;
+        .gap-medium {
+            background: #2d5016;
+            color: #7ee787;
+        }
+        
+        .gap-high {
+            background: #1a3a5c;
+            color: #4da6ff;
         }
         
         .franchise-badge {
@@ -347,18 +347,6 @@
                         <h3>Total live deals</h3>
                         <div class="value" id="total-deals">0</div>
                     </div>
-                    <div class="card">
-                        <h3>By Franchise</h3>
-                        <div class="breakdown" id="franchise-breakdown"></div>
-                    </div>
-                    <div class="card">
-                        <h3>By Product Type</h3>
-                        <div class="breakdown" id="product-breakdown"></div>
-                    </div>
-                    <div class="card">
-                        <h3>By Gap</h3>
-                        <div class="breakdown" id="gap-breakdown"></div>
-                    </div>
                 </div>
             </div>
             
@@ -387,21 +375,18 @@
                         </select>
                     </div>
                     <div class="filter-group">
-                        <label for="filter-gap">Gap Bucket</label>
+                        <label for="filter-gap">Gap</label>
                         <select id="filter-gap">
                             <option value="">All</option>
-                            <option value="30_plus">30%+</option>
-                            <option value="15_to_30">15-30%</option>
-                            <option value="under_15">Under 15%</option>
+                            <option value="1_to_9">1% to 9%</option>
+                            <option value="10_to_19">10% to 19%</option>
+                            <option value="20_plus">20%+</option>
                         </select>
                     </div>
                     <div class="filter-group">
                         <label for="filter-source">Source</label>
                         <select id="filter-source">
                             <option value="">All</option>
-                            <option value="ebay.com">eBay</option>
-                            <option value="gamenerdz.com">GameNerdz</option>
-                            <option value="stompinggroundstcg.com">Stomping Ground TCG</option>
                         </select>
                     </div>
                 </div>
@@ -424,8 +409,8 @@
                                 <th>Type</th>
                                 <th>Price</th>
                                 <th>Gap</th>
-                                <th>Signal (deal)</th>
-                                <th>Seller</th>
+                                <th>Deal quality</th>
+                                <th>Seller trust</th>
                             </tr>
                         </thead>
                         <tbody id="deals-tbody">
@@ -447,9 +432,9 @@
         let filteredDeals = [];
         
         const gapBucketNames = {
-            '30_plus': '30%+',
-            '15_to_30': '15-30%',
-            'under_15': 'Under 15%'
+            '1_to_9': '1% to 9%',
+            '10_to_19': '10% to 19%',
+            '20_plus': '20%+'
         };
         
         function formatFranchise(franchise) {
@@ -512,24 +497,6 @@
         
         function renderSummary() {
             document.getElementById('total-deals').textContent = dashboardData.total_deals;
-            
-            const franchiseDiv = document.getElementById('franchise-breakdown');
-            const franchiseCounts = dashboardData.summary_counts.by_franchise;
-            franchiseDiv.innerHTML = Object.entries(franchiseCounts)
-                .map(([name, count]) => `<div class="breakdown-item">${formatFranchise(name)}: <span>${count}</span></div>`)
-                .join('');
-            
-            const productDiv = document.getElementById('product-breakdown');
-            const productCounts = dashboardData.summary_counts.by_product_type;
-            productDiv.innerHTML = Object.entries(productCounts)
-                .map(([name, count]) => `<div class="breakdown-item">${formatProductType(name)}: <span>${count}</span></div>`)
-                .join('');
-            
-            const gapDiv = document.getElementById('gap-breakdown');
-            const gapCounts = dashboardData.summary_counts.by_gap_bucket;
-            gapDiv.innerHTML = Object.entries(gapCounts)
-                .map(([name, count]) => `<div class="breakdown-item">${gapBucketNames[name]}: <span>${count}</span></div>`)
-                .join('');
         }
         
         function renderFilters() {
@@ -542,6 +509,26 @@
             document.getElementById('filter-product').innerHTML = 
                 '<option value="">All</option>' + 
                 filters.product_type.map(p => `<option value="${p}">${formatProductType(p)}</option>`).join('');
+            
+            // Dynamic source filter based on actual deals
+            const sources = [...new Set(dashboardData.deals.map(d => {
+                try {
+                    const domain = new URL(d.url).hostname.replace('www.', '');
+                    return domain;
+                } catch {
+                    return 'unknown';
+                }
+            }))].sort();
+            
+            const sourceLabels = {
+                'ebay.com': 'eBay',
+                'gamenerdz.com': 'GameNerdz',
+                'stompinggroundstcg.com': 'Stomping Ground TCG'
+            };
+            
+            document.getElementById('filter-source').innerHTML = 
+                '<option value="">All</option>' + 
+                sources.map(s => `<option value="${s}">${sourceLabels[s] || s}</option>`).join('');
             
             ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source'].forEach(id => {
                 document.getElementById(id).addEventListener('change', applyFilters);
@@ -576,9 +563,9 @@
         }
         
         function getGapBadgeClass(bucket) {
-            if (bucket === '30_plus') return 'gap-high';
-            if (bucket === '15_to_30') return 'gap-medium';
-            return 'gap-low';
+            if (bucket === '1_to_9') return 'gap-low';
+            if (bucket === '10_to_19') return 'gap-medium';
+            return 'gap-high';
         }
         
         function getFranchiseClass(franchise) {
@@ -612,8 +599,8 @@
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(deal.gap_bucket)}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
-                    <td class="confidence-${deal.confidence}">${deal.confidence}</td>
-                    <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust || 'LOW'}</td>
+                    <td class="confidence-${deal.confidence}">${deal.confidence ? deal.confidence.charAt(0).toUpperCase() + deal.confidence.slice(1) : 'Low'}</td>
+                    <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
             `).join('');
         }
