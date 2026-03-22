@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T04:02:22.286988+00:00",
+  "timestamp": "2026-03-22T04:32:20.301225+00:00",
   "tier": "starter",
   "total_deals": 5,
   "summary_counts": {
@@ -13,8 +13,7 @@
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 3,
-      "under_15": 1
+      "15_to_30": 4
     }
   },
   "available_filters": {
@@ -46,8 +45,8 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 240.12,
-      "baseline_price": 355.0,
-      "gapPct": 32.36,
+      "baseline_price": 359.99,
+      "gapPct": 33.3,
       "confidence": "high",
       "gap_bucket": "30_plus"
     },
@@ -70,14 +69,14 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
-      "baseline_price": 89.99,
-      "gapPct": 19.99,
+      "baseline_price": 87.87,
+      "gapPct": 18.06,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
     {
       "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
-      "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+sealed+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
+      "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
       "franchise": "onepiece",
       "set": "Awakening of the New Era",
       "product_type": "booster_box",
@@ -94,10 +93,10 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 306.84,
-      "baseline_price": 357.0,
-      "gapPct": 14.05,
+      "baseline_price": 364.99,
+      "gapPct": 15.93,
       "confidence": "high",
-      "gap_bucket": "under_15"
+      "gap_bucket": "15_to_30"
     }
   ]
 }
