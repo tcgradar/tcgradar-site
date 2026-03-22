@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T06:32:18.569289+00:00",
+  "timestamp": "2026-03-22T07:02:22.150071+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -16,6 +16,11 @@
       "30_plus": 1,
       "15_to_30": 5
     }
+  },
+  "trust_counts": {
+    "HIGH": 1,
+    "MEDIUM": 5,
+    "LOW": 0
   },
   "available_filters": {
     "franchise": [
@@ -51,7 +56,8 @@
       "baseline_price": 350.0,
       "gapPct": 31.39,
       "confidence": "high",
-      "gap_bucket": "30_plus"
+      "gap_bucket": "30_plus",
+      "seller_trust": "MEDIUM"
     },
     {
       "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
@@ -63,7 +69,8 @@
       "baseline_price": 319.99,
       "gapPct": 22.11,
       "confidence": "high",
-      "gap_bucket": "15_to_30"
+      "gap_bucket": "15_to_30",
+      "seller_trust": "MEDIUM"
     },
     {
       "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
@@ -75,7 +82,8 @@
       "baseline_price": 1217.5,
       "gapPct": 17.87,
       "confidence": "high",
-      "gap_bucket": "15_to_30"
+      "gap_bucket": "15_to_30",
+      "seller_trust": "MEDIUM"
     },
     {
       "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
@@ -87,7 +95,8 @@
       "baseline_price": 87.0,
       "gapPct": 17.24,
       "confidence": "high",
-      "gap_bucket": "15_to_30"
+      "gap_bucket": "15_to_30",
+      "seller_trust": "MEDIUM"
     },
     {
       "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed (please see photos)",
@@ -99,7 +108,8 @@
       "baseline_price": 364.5,
       "gapPct": 15.82,
       "confidence": "high",
-      "gap_bucket": "15_to_30"
+      "gap_bucket": "15_to_30",
+      "seller_trust": "MEDIUM"
     },
     {
       "title": "Pokemon TCG: Scarlet & Violet-151 Booster Bundle",
@@ -111,7 +121,8 @@
       "baseline_price": 197.99,
       "gapPct": 15.37,
       "confidence": "high",
-      "gap_bucket": "15_to_30"
+      "gap_bucket": "15_to_30",
+      "seller_trust": "HIGH"
     }
   ]
 }
