@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T15:02:22.185516+00:00",
+  "timestamp": "2026-03-22T15:32:21.760916+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -63,8 +63,8 @@
       "set": "Temporal Forces",
       "product_type": "booster_box",
       "price": 249.25,
-      "baseline_price": 315.0,
-      "gapPct": 20.87,
+      "baseline_price": 319.99,
+      "gapPct": 22.11,
       "confidence": "high",
       "gap_bucket": "20_plus",
       "seller_trust": "HIGH"
