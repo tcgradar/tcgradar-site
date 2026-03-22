@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T11:02:17.987365+00:00",
+  "timestamp": "2026-03-22T11:32:21.202563+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -13,8 +13,8 @@
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
-      "10_to_19": 3
+      "20_plus": 3,
+      "10_to_19": 2
     }
   },
   "trust_counts": {
@@ -76,10 +76,10 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
-      "baseline_price": 87.87,
-      "gapPct": 18.06,
+      "baseline_price": 90.0,
+      "gapPct": 20.0,
       "confidence": "high",
-      "gap_bucket": "10_to_19",
+      "gap_bucket": "20_plus",
       "seller_trust": "HIGH"
     },
     {
@@ -102,8 +102,8 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 306.84,
-      "baseline_price": 364.5,
-      "gapPct": 15.82,
+      "baseline_price": 364.0,
+      "gapPct": 15.7,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
