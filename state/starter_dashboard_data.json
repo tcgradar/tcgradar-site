@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-03-22T15:32:21.760916+00:00",
+  "timestamp": "2026-03-22T16:02:45.919374+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 5,
+  "total_deals": 6,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 3
+      "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 4,
+      "booster_box": 5,
       "etb": 1
     },
     "by_gap_bucket": {
       "20_plus": 2,
-      "10_to_19": 3
+      "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -29,6 +29,7 @@
     ],
     "set": [
       "Awakening of the New Era",
+      "Obsidian Flames",
       "Temporal Forces",
       "Twilight Masquerade",
       "Wings of the Captain"
@@ -63,8 +64,8 @@
       "set": "Temporal Forces",
       "product_type": "booster_box",
       "price": 249.25,
-      "baseline_price": 319.99,
-      "gapPct": 22.11,
+      "baseline_price": 315.0,
+      "gapPct": 20.87,
       "confidence": "high",
       "gap_bucket": "20_plus",
       "seller_trust": "HIGH"
@@ -76,8 +77,8 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
-      "baseline_price": 87.99,
-      "gapPct": 18.17,
+      "baseline_price": 88.36,
+      "gapPct": 18.52,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -104,6 +105,19 @@
       "price": 306.84,
       "baseline_price": 350.0,
       "gapPct": 12.33,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Pokemon 2023 Scarlet & Violet Obsidian Booster Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/406651512063?_skw=pokemon+Obsidian+Flames+booster+box&hash=item5eae51a4ff:g:ztEAAeSwyX9pfBZh",
+      "franchise": "pokemon",
+      "set": "Obsidian Flames",
+      "product_type": "booster_box",
+      "price": 350.0,
+      "baseline_price": 393.55,
+      "gapPct": 11.07,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
