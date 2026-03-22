@@ -1,19 +1,21 @@
 {
-  "timestamp": "2026-03-22T05:02:17.405510+00:00",
+  "timestamp": "2026-03-22T05:32:17.340382+00:00",
   "tier": "starter",
-  "total_deals": 5,
+  "total_deals": 6,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 3
+      "pokemon": 4
     },
     "by_product_type": {
       "booster_box": 4,
-      "etb": 1
+      "etb": 1,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 4
+      "15_to_30": 4,
+      "under_15": 1
     }
   },
   "available_filters": {
@@ -22,6 +24,7 @@
       "pokemon"
     ],
     "set": [
+      "151",
       "Awakening of the New Era",
       "Temporal Forces",
       "Twilight Masquerade",
@@ -29,6 +32,7 @@
     ],
     "product_type": [
       "booster_box",
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -64,7 +68,7 @@
     },
     {
       "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
-      "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+sealed+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
+      "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
       "franchise": "onepiece",
       "set": "Awakening of the New Era",
       "product_type": "booster_box",
@@ -97,6 +101,18 @@
       "gapPct": 15.82,
       "confidence": "high",
       "gap_bucket": "15_to_30"
+    },
+    {
+      "title": "Pokemon TCG: Scarlet & Violet-151 Booster Bundle",
+      "url": "https://www.ebay.com/itm/318039540770?_skw=pokemon+151+booster+box&hash=item4a0ca24422:g:MEYAAeSwWpxpvfOF",
+      "franchise": "pokemon",
+      "set": "151",
+      "product_type": "booster_bundle",
+      "price": 167.56,
+      "baseline_price": 196.99,
+      "gapPct": 14.94,
+      "confidence": "high",
+      "gap_bucket": "under_15"
     }
   ]
 }
