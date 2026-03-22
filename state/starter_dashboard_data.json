@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T20:32:28.799163+00:00",
+  "timestamp": "2026-03-22T21:02:23.262747+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -77,8 +77,8 @@
       "set": "Awakening of the New Era",
       "product_type": "booster_box",
       "price": 999.99,
-      "baseline_price": 1235.0,
-      "gapPct": 19.03,
+      "baseline_price": 1200.0,
+      "gapPct": 16.67,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -90,8 +90,8 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
-      "baseline_price": 87.99,
-      "gapPct": 18.17,
+      "baseline_price": 83.84,
+      "gapPct": 14.12,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
