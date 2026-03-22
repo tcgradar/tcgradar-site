@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-03-22T12:02:19.453674+00:00",
+  "updated_at": "2026-03-22T12:32:23.407917+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
+    "title": "Pokemon TCG: Scarlet & Violet-151 Booster Bundle",
+    "price": 167.56,
+    "seller_rating": 99.0,
+    "seller_feedback_count": 2270,
+    "franchise": "pokemon",
+    "set": "151",
+    "product_type": "booster_bundle",
+    "confidence": "high",
+    "baseline_price": 199.99,
+    "gapPct": 16.22,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
     "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
     "price": 240.12,
     "seller_rating": 100.0,
@@ -10,22 +24,8 @@
     "set": "Wings of the Captain",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 355.0,
-    "gapPct": 32.36,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
-    "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
-    "price": 249.25,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 300,
-    "franchise": "pokemon",
-    "set": "Temporal Forces",
-    "product_type": "booster_box",
-    "confidence": "high",
-    "baseline_price": 319.99,
-    "gapPct": 22.11,
+    "baseline_price": 350.0,
+    "gapPct": 31.39,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }

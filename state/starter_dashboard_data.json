@@ -1,25 +1,24 @@
 {
-  "timestamp": "2026-03-22T12:02:19.423073+00:00",
+  "timestamp": "2026-03-22T12:32:23.378045+00:00",
   "tier": "starter",
-  "total_deals": 6,
-  "all_deals_count": 6,
+  "total_deals": 5,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 4
+      "pokemon": 3
     },
     "by_product_type": {
       "booster_box": 4,
-      "booster_bundle": 1,
       "etb": 1
     },
     "by_gap_bucket": {
       "20_plus": 2,
-      "10_to_19": 4
+      "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 6,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -29,7 +28,6 @@
       "pokemon"
     ],
     "set": [
-      "151",
       "Awakening of the New Era",
       "Temporal Forces",
       "Twilight Masquerade",
@@ -37,7 +35,6 @@
     ],
     "product_type": [
       "booster_box",
-      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -53,8 +50,8 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 240.12,
-      "baseline_price": 355.0,
-      "gapPct": 32.36,
+      "baseline_price": 350.0,
+      "gapPct": 31.39,
       "confidence": "high",
       "gap_bucket": "20_plus",
       "seller_trust": "HIGH"
@@ -81,19 +78,6 @@
       "price": 999.99,
       "baseline_price": 1217.5,
       "gapPct": 17.87,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Pokemon TCG: Scarlet & Violet-151 Booster Bundle",
-      "url": "https://www.ebay.com/itm/318039540770?_skw=pokemon+151+booster+box&hash=item4a0ca24422:g:MEYAAeSwWpxpvfOF",
-      "franchise": "pokemon",
-      "set": "151",
-      "product_type": "booster_bundle",
-      "price": 167.56,
-      "baseline_price": 199.99,
-      "gapPct": 16.22,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
