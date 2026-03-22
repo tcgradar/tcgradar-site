@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T02:32:24.180832+00:00",
+  "updated_at": "2026-03-22T03:02:11.942677+00:00",
   "safe_example": {
     "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
     "price": 72.0,
@@ -7,19 +7,19 @@
     "set": "Twilight Masquerade",
     "product_type": "etb",
     "confidence": "high",
-    "baseline_price": 90.0,
-    "gapPct": 20.0,
+    "baseline_price": 89.99,
+    "gapPct": 19.99,
     "signal_type": "SAFE"
   },
   "high_upside_example": {
-    "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
-    "price": 240.12,
+    "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
+    "price": 999.99,
     "franchise": "onepiece",
-    "set": "Wings of the Captain",
+    "set": "Awakening of the New Era",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 350.0,
-    "gapPct": 31.39,
+    "baseline_price": 1217.5,
+    "gapPct": 17.87,
     "signal_type": "HIGH_UPSIDE"
   }
 }
