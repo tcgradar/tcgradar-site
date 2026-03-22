@@ -103,11 +103,11 @@
             border-color: #444;
         }
 
-        .detection-card.safe {
-            border-left: 4px solid #7ee787;
+        .detection-card.starter-quality {
+            border-left: 4px solid #4da6ff;
         }
-
-        .detection-card.high-upside {
+        
+        .detection-card.opportunity {
             border-left: 4px solid #ffd700;
         }
 
@@ -119,22 +119,47 @@
             align-items: center;
         }
 
+        .card-signals {
+            display: flex;
+            gap: 8px;
+        }
+
         .card-signal {
-            padding: 4px 12px;
+            padding: 4px 10px;
             border-radius: 4px;
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             font-weight: bold;
             text-transform: uppercase;
         }
 
-        .signal-safe {
+        .signal-quality-high {
             background: #2d5016;
             color: #7ee787;
         }
 
-        .signal-high-upside {
+        .signal-quality-medium {
             background: #5c4813;
             color: #ffd700;
+        }
+
+        .signal-quality-low {
+            background: #5c1f1f;
+            color: #ff6b6b;
+        }
+
+        .signal-trust-high {
+            background: #1a3a5c;
+            color: #4da6ff;
+        }
+
+        .signal-trust-medium {
+            background: #5c4813;
+            color: #ffd700;
+        }
+
+        .signal-trust-low {
+            background: #5c1f1f;
+            color: #ff6b6b;
         }
 
         .card-franchise {
@@ -618,14 +643,14 @@
         function renderCards(data, container) {
             const cards = [];
 
-            // Card 1: safe_example
-            if (data.safe_example) {
-                cards.push(renderCard(data.safe_example));
+            // Card 1: starter_quality_deal
+            if (data.starter_quality_deal) {
+                cards.push(renderCard(data.starter_quality_deal, 'starter-quality'));
             }
 
-            // Card 2: high_upside_example (may be HIGH_UPSIDE or fallback SAFE)
-            if (data.high_upside_example) {
-                cards.push(renderCard(data.high_upside_example));
+            // Card 2: best_opportunity_deal
+            if (data.best_opportunity_deal) {
+                cards.push(renderCard(data.best_opportunity_deal, 'opportunity'));
             }
 
             if (cards.length === 0) {
@@ -636,15 +661,21 @@
             container.innerHTML = cards.join('');
         }
 
-        function renderCard(item) {
-            const isHighUpside = item.signal_type === 'HIGH_UPSIDE';
-            const cardClass = isHighUpside ? 'high-upside' : 'safe';
-            const signalClass = isHighUpside ? 'signal-high-upside' : 'signal-safe';
-            const signalLabel = isHighUpside ? 'HIGH UPSIDE' : 'SAFE';
+        function renderCard(item, cardType) {
+            const cardClass = cardType; // 'starter-quality' or 'opportunity'
+            
+            // Get quality and trust, normalize to lowercase for CSS classes
+            const dealQuality = (item.deal_quality || 'LOW').toLowerCase();
+            const sellerTrust = (item.seller_trust || 'LOW').toLowerCase();
+            
+            // Normalize display values to Title Case
+            const qualityDisplay = item.deal_quality ? 
+                item.deal_quality.charAt(0).toUpperCase() + item.deal_quality.slice(1).toLowerCase() : 'Low';
+            const trustDisplay = item.seller_trust ? 
+                item.seller_trust.charAt(0).toUpperCase() + item.seller_trust.slice(1).toLowerCase() : 'Low';
 
             const franchise = (item.franchise || 'unknown').toUpperCase().replace('ONEPIECE', 'ONE PIECE');
             const productType = (item.product_type || '').replace('_', ' ');
-            const confidence = item.confidence || 'unknown';
 
             // Format price display
             const formatPrice = (price) => {
@@ -661,7 +692,10 @@
             return `
                 <div class="detection-card ${cardClass}">
                     <div class="card-header">
-                        <span class="card-signal ${signalClass}">${signalLabel}</span>
+                        <div class="card-signals">
+                            <span class="card-signal signal-quality-${dealQuality}">${qualityDisplay}</span>
+                            <span class="card-signal signal-trust-${sellerTrust}">${trustDisplay}</span>
+                        </div>
                         <span class="card-franchise">${franchise}</span>
                     </div>
                     <div class="card-body">
@@ -682,7 +716,6 @@
                         </div>
                         <div class="card-meta">
                             <span>${productType || 'Unknown'}</span>
-                            <span>${confidence.charAt(0).toUpperCase() + confidence.slice(1)} confidence</span>
                         </div>
                     </div>
                 </div>
