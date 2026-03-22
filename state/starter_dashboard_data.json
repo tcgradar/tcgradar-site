@@ -1,7 +1,8 @@
 {
-  "timestamp": "2026-03-22T08:02:16.982980+00:00",
+  "timestamp": "2026-03-22T08:32:20.577772+00:00",
   "tier": "starter",
   "total_deals": 5,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
@@ -17,8 +18,8 @@
     }
   },
   "trust_counts": {
-    "HIGH": 1,
-    "MEDIUM": 4,
+    "HIGH": 5,
+    "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
@@ -53,7 +54,7 @@
       "gapPct": 31.39,
       "confidence": "high",
       "gap_bucket": "20_plus",
-      "seller_trust": "MEDIUM"
+      "seller_trust": "HIGH"
     },
     {
       "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
@@ -66,7 +67,7 @@
       "gapPct": 22.11,
       "confidence": "high",
       "gap_bucket": "20_plus",
-      "seller_trust": "MEDIUM"
+      "seller_trust": "HIGH"
     },
     {
       "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
@@ -92,7 +93,7 @@
       "gapPct": 17.87,
       "confidence": "high",
       "gap_bucket": "10_to_19",
-      "seller_trust": "MEDIUM"
+      "seller_trust": "HIGH"
     },
     {
       "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed (please see photos)",
@@ -105,7 +106,7 @@
       "gapPct": 15.82,
       "confidence": "high",
       "gap_bucket": "10_to_19",
-      "seller_trust": "MEDIUM"
+      "seller_trust": "HIGH"
     }
   ]
 }
