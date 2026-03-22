@@ -121,7 +121,21 @@
 
         .card-signals {
             display: flex;
-            gap: 8px;
+            gap: 12px;
+            align-items: center;
+        }
+
+        .signal-item {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .signal-label {
+            font-size: 0.7rem;
+            color: #888;
+            text-transform: none;
+            font-weight: normal;
         }
 
         .card-signal {
@@ -693,8 +707,14 @@
                 <div class="detection-card ${cardClass}">
                     <div class="card-header">
                         <div class="card-signals">
-                            <span class="card-signal signal-quality-${dealQuality}">${qualityDisplay}</span>
-                            <span class="card-signal signal-trust-${sellerTrust}">${trustDisplay}</span>
+                            <div class="signal-item">
+                                <span class="signal-label">Deal quality</span>
+                                <span class="card-signal signal-quality-${dealQuality}">${qualityDisplay}</span>
+                            </div>
+                            <div class="signal-item">
+                                <span class="signal-label">Seller trust</span>
+                                <span class="card-signal signal-trust-${sellerTrust}">${trustDisplay}</span>
+                            </div>
                         </div>
                         <span class="card-franchise">${franchise}</span>
                     </div>
