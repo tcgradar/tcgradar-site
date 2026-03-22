@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T05:32:17.340382+00:00",
+  "timestamp": "2026-03-22T06:02:18.373116+00:00",
   "tier": "starter",
   "total_deals": 6,
   "summary_counts": {
@@ -14,8 +14,7 @@
     },
     "by_gap_bucket": {
       "30_plus": 1,
-      "15_to_30": 4,
-      "under_15": 1
+      "15_to_30": 5
     }
   },
   "available_filters": {
@@ -109,10 +108,10 @@
       "set": "151",
       "product_type": "booster_bundle",
       "price": 167.56,
-      "baseline_price": 196.99,
-      "gapPct": 14.94,
+      "baseline_price": 197.99,
+      "gapPct": 15.37,
       "confidence": "high",
-      "gap_bucket": "under_15"
+      "gap_bucket": "15_to_30"
     }
   ]
 }
