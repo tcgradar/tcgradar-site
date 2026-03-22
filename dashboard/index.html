@@ -299,6 +299,10 @@
         .confidence-medium { color: #ffd700; }
         .confidence-low { color: #ff6b6b; }
         
+        .seller-trust-high { color: #7ee787; font-weight: 600; }
+        .seller-trust-medium { color: #ffd700; font-weight: 600; }
+        .seller-trust-low { color: #ff6b6b; font-weight: 600; }
+        
         .loading, .error {
             text-align: center;
             padding: 40px;
@@ -366,6 +370,8 @@
                         <label for="filter-franchise">Franchise</label>
                         <select id="filter-franchise">
                             <option value="">All</option>
+                            <option value="pokemon">Pokemon</option>
+                            <option value="onepiece">One Piece</option>
                         </select>
                     </div>
                     <div class="filter-group">
@@ -389,6 +395,15 @@
                             <option value="under_15">Under 15%</option>
                         </select>
                     </div>
+                    <div class="filter-group">
+                        <label for="filter-source">Source</label>
+                        <select id="filter-source">
+                            <option value="">All</option>
+                            <option value="ebay.com">eBay</option>
+                            <option value="gamenerdz.com">GameNerdz</option>
+                            <option value="stompinggroundstcg.com">Stomping Ground TCG</option>
+                        </select>
+                    </div>
                 </div>
                 <button class="clear-filters" onclick="clearFilters()">Clear Filters</button>
             </div>
@@ -403,13 +418,14 @@
                         <thead>
                             <tr>
                                 <th>Deal</th>
+                                <th>Source</th>
                                 <th>Franchise</th>
                                 <th>Set</th>
                                 <th>Type</th>
                                 <th>Price</th>
                                 <th>Gap</th>
-                                <th>Signal</th>
-                                <th>Source</th>
+                                <th>Signal (deal)</th>
+                                <th>Seller</th>
                             </tr>
                         </thead>
                         <tbody id="deals-tbody">
@@ -519,10 +535,6 @@
         function renderFilters() {
             const filters = dashboardData.available_filters;
             
-            document.getElementById('filter-franchise').innerHTML = 
-                '<option value="">All</option>' + 
-                filters.franchise.map(f => `<option value="${f}">${formatFranchise(f)}</option>`).join('');
-            
             document.getElementById('filter-set').innerHTML = 
                 '<option value="">All</option>' + 
                 filters.set.map(s => `<option value="${s}">${s}</option>`).join('');
@@ -531,7 +543,7 @@
                 '<option value="">All</option>' + 
                 filters.product_type.map(p => `<option value="${p}">${formatProductType(p)}</option>`).join('');
             
-            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap'].forEach(id => {
+            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source'].forEach(id => {
                 document.getElementById(id).addEventListener('change', applyFilters);
             });
         }
@@ -541,12 +553,14 @@
             const set = document.getElementById('filter-set').value;
             const product = document.getElementById('filter-product').value;
             const gap = document.getElementById('filter-gap').value;
+            const source = document.getElementById('filter-source').value;
             
             filteredDeals = dashboardData.deals.filter(deal => {
                 if (franchise && deal.franchise !== franchise) return false;
                 if (set && deal.set !== set) return false;
                 if (product && deal.product_type !== product) return false;
                 if (gap && deal.gap_bucket !== gap) return false;
+                if (source && !deal.url.includes(source)) return false;
                 return true;
             });
             
@@ -554,7 +568,7 @@
         }
         
         function clearFilters() {
-            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap'].forEach(id => {
+            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source'].forEach(id => {
                 document.getElementById(id).value = '';
             });
             filteredDeals = [...dashboardData.deals];
@@ -576,7 +590,7 @@
             document.getElementById('results-count').textContent = `Showing ${filteredDeals.length} live deals`;
             
             if (filteredDeals.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="8" style="text-align: center; padding: 40px; color: #888;">No deals match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No deals match your filters</td></tr>';
                 return;
             }
             
@@ -585,6 +599,7 @@
                     <td class="title-cell">
                         <a href="${deal.url}" target="_blank" rel="noopener">${deal.title}</a>
                     </td>
+                    <td>${formatSource(deal.url)}</td>
                     <td>
                         <span class="franchise-badge ${getFranchiseClass(deal.franchise)}">${formatFranchise(deal.franchise)}</span>
                     </td>
@@ -598,7 +613,7 @@
                         <span class="gap-badge ${getGapBadgeClass(deal.gap_bucket)}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
                     <td class="confidence-${deal.confidence}">${deal.confidence}</td>
-                    <td>${formatSource(deal.url)}</td>
+                    <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust || 'LOW'}</td>
                 </tr>
             `).join('');
         }
