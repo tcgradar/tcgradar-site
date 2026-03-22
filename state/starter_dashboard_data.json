@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T19:02:23.997822+00:00",
+  "timestamp": "2026-03-22T19:32:24.186571+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -103,8 +103,8 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 306.84,
-      "baseline_price": 350.0,
-      "gapPct": 12.33,
+      "baseline_price": 357.0,
+      "gapPct": 14.05,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -116,8 +116,8 @@
       "set": "Obsidian Flames",
       "product_type": "booster_box",
       "price": 350.0,
-      "baseline_price": 391.77,
-      "gapPct": 10.66,
+      "baseline_price": 389.99,
+      "gapPct": 10.25,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
