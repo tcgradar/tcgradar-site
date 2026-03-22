@@ -8,18 +8,18 @@
     <meta name="description" content="Dashboard with current SAFE deals, filters, and live updates for Pokemon and One Piece products.">
     <meta name="robots" content="index,follow">
     <link rel="canonical" href="https://tcgradar-site.pages.dev/dashboard/">
-    
+
     <!-- Open Graph -->
     <meta property="og:title" content="Starter dashboard - TCG Deal Radar">
     <meta property="og:description" content="Dashboard with current SAFE deals, filters, and live updates.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://tcgradar-site.pages.dev/dashboard/">
-    
+
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Starter dashboard - TCG Deal Radar">
     <meta name="twitter:description" content="Dashboard with current SAFE deals, filters, and live updates.">
-    
+
     <!-- JSON-LD Structured Data -->
     <script type="application/ld+json">
     {
@@ -32,87 +32,87 @@
     </script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        
+
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             background: #0f0f23;
             color: #e0e0e0;
             line-height: 1.6;
         }
-        
+
         .container {
             max-width: 1400px;
             margin: 0 auto;
             padding: 20px;
         }
-        
+
         header {
             text-align: center;
             padding: 30px 0;
             border-bottom: 1px solid #333;
             margin-bottom: 30px;
         }
-        
+
         header h1 {
             color: #ffd700;
             font-size: 2rem;
             margin-bottom: 10px;
         }
-        
+
         header p {
             color: #888;
         }
-        
+
         .summary-section {
             margin-bottom: 30px;
         }
-        
+
         .summary-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 15px;
             margin-bottom: 20px;
         }
-        
+
         .card {
             background: #1a1a2e;
             border-radius: 8px;
             padding: 20px;
             border: 1px solid #333;
         }
-        
+
         .card h3 {
             color: #888;
             font-size: 0.85rem;
             text-transform: uppercase;
             margin-bottom: 10px;
         }
-        
+
         .card .value {
             font-size: 2rem;
             font-weight: bold;
             color: #ffd700;
         }
-        
+
         .breakdown {
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
             margin-top: 10px;
         }
-        
+
         .breakdown-item {
             background: #252540;
             padding: 5px 12px;
             border-radius: 4px;
             font-size: 0.85rem;
         }
-        
+
         .breakdown-item span {
             color: #ffd700;
             font-weight: bold;
         }
-        
+
         .filters-section {
             background: #1a1a2e;
             border-radius: 8px;
@@ -120,25 +120,25 @@
             margin-bottom: 30px;
             border: 1px solid #333;
         }
-        
+
         .filters-section h3 {
             color: #ffd700;
             margin-bottom: 15px;
         }
-        
+
         .filters-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
             gap: 15px;
         }
-        
+
         .filter-group label {
             display: block;
             color: #888;
             font-size: 0.85rem;
             margin-bottom: 5px;
         }
-        
+
         .filter-group select {
             width: 100%;
             padding: 10px;
@@ -149,12 +149,12 @@
             font-size: 0.9rem;
             cursor: pointer;
         }
-        
+
         .filter-group select:focus {
             outline: none;
             border-color: #ffd700;
         }
-        
+
         .clear-filters {
             margin-top: 15px;
             padding: 10px 20px;
@@ -165,23 +165,23 @@
             cursor: pointer;
             font-size: 0.9rem;
         }
-        
+
         .clear-filters:hover {
             background: #444;
         }
-        
+
         .deals-section {
             background: #1a1a2e;
             border-radius: 8px;
             padding: 20px;
             border: 1px solid #333;
         }
-        
+
         .deals-section h3 {
             color: #ffd700;
             margin-bottom: 15px;
         }
-        
+
         .results-count {
             color: #888;
             font-size: 0.9rem;
@@ -198,13 +198,13 @@
             border-radius: 4px;
             border-left: 3px solid #ffd700;
         }
-        
+
         .deals-table {
             width: 100%;
             border-collapse: collapse;
             font-size: 0.9rem;
         }
-        
+
         .deals-table th {
             background: #252540;
             padding: 12px;
@@ -215,29 +215,29 @@
             font-size: 0.75rem;
             border-bottom: 2px solid #444;
         }
-        
+
         .deals-table td {
             padding: 12px;
             border-bottom: 1px solid #333;
         }
-        
+
         .deals-table tr:hover {
             background: #252540;
         }
-        
+
         .title-cell {
             max-width: 400px;
         }
-        
+
         .title-cell a {
             color: #4da6ff;
             text-decoration: none;
         }
-        
+
         .title-cell a:hover {
             text-decoration: underline;
         }
-        
+
         .gap-badge {
             display: inline-block;
             padding: 4px 10px;
@@ -245,22 +245,22 @@
             font-weight: bold;
             font-size: 0.85rem;
         }
-        
+
         .gap-low {
             background: #5c4813;
             color: #ffd700;
         }
-        
+
         .gap-medium {
             background: #2d5016;
             color: #7ee787;
         }
-        
+
         .gap-high {
             background: #1a3a5c;
             color: #4da6ff;
         }
-        
+
         .franchise-badge {
             display: inline-block;
             padding: 3px 8px;
@@ -268,61 +268,61 @@
             font-size: 0.75rem;
             text-transform: uppercase;
         }
-        
+
         .franchise-pokemon {
             background: #3b2066;
             color: #c9a0dc;
         }
-        
+
         .franchise-onepiece {
             background: #662020;
             color: #ffb3b3;
         }
-        
+
         .product-type {
             color: #888;
             font-size: 0.85rem;
         }
-        
+
         .price {
             font-weight: bold;
             color: #7ee787;
         }
-        
+
         .baseline-price {
             color: #888;
             font-size: 0.85rem;
             text-decoration: line-through;
         }
-        
+
         .confidence-high { color: #7ee787; }
         .confidence-medium { color: #ffd700; }
         .confidence-low { color: #ff6b6b; }
-        
+
         .seller-trust-high { color: #7ee787; font-weight: 600; }
         .seller-trust-medium { color: #ffd700; font-weight: 600; }
         .seller-trust-low { color: #ff6b6b; font-weight: 600; }
-        
+
         .loading, .error {
             text-align: center;
             padding: 40px;
             color: #888;
         }
-        
+
         .error {
             color: #ff6b6b;
         }
-        
+
         @media (max-width: 768px) {
             .deals-table {
                 font-size: 0.8rem;
             }
-            
+
             .deals-table th,
             .deals-table td {
                 padding: 8px;
             }
-            
+
             .title-cell {
                 max-width: 200px;
             }
@@ -335,10 +335,10 @@
             <h1>Starter dashboard</h1>
             <p>For active deal hunting across Pokemon and One Piece</p>
         </header>
-        
+
         <div id="loading" class="loading">Loading dashboard data...</div>
         <div id="error" class="error" style="display: none;"></div>
-        
+
         <div id="dashboard" style="display: none;">
             <!-- Summary Section -->
             <div class="summary-section">
@@ -349,7 +349,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <!-- Filters Section -->
             <div class="filters-section">
                 <h3>🔍 Filters</h3>
@@ -378,9 +378,6 @@
                         <label for="filter-gap">Gap</label>
                         <select id="filter-gap">
                             <option value="">All</option>
-                            <option value="1_to_9">1% to 9%</option>
-                            <option value="10_to_19">10% to 19%</option>
-                            <option value="20_plus">20%+</option>
                         </select>
                     </div>
                     <div class="filter-group">
@@ -392,7 +389,7 @@
                 </div>
                 <button class="clear-filters" onclick="clearFilters()">Clear Filters</button>
             </div>
-            
+
             <!-- Deals Table -->
             <div class="deals-section">
                 <h3>📦 Deals</h3>
@@ -418,7 +415,7 @@
                     </table>
                 </div>
             </div>
-            
+
             <!-- CTA Section -->
             <div class="cta-section" style="margin-top: 40px; padding: 30px; background: rgba(255, 215, 0, 0.05); border-radius: 12px; border: 1px solid rgba(255, 215, 0, 0.2); text-align: center;">
                 <p style="color: #888; margin-bottom: 20px;">More plans and features are coming soon.</p>
@@ -426,23 +423,23 @@
             </div>
         </div>
     </div>
-    
+
     <script>
         let dashboardData = null;
         let filteredDeals = [];
-        
+
         const gapBucketNames = {
             '1_to_9': '1% to 9%',
             '10_to_19': '10% to 19%',
             '20_plus': '20%+'
         };
-        
+
         function formatFranchise(franchise) {
             if (franchise === 'pokemon') return 'Pokemon';
             if (franchise === 'onepiece') return 'One Piece';
             return franchise;
         }
-        
+
         function formatProductType(type) {
             const types = {
                 'booster_box': 'Booster Box',
@@ -451,7 +448,7 @@
             };
             return types[type] || type.replace('_', ' ');
         }
-        
+
         function formatSource(url) {
             try {
                 const domain = new URL(url).hostname.replace('www.', '');
@@ -465,7 +462,7 @@
                 return 'Unknown';
             }
         }
-        
+
         async function loadDashboardData() {
             try {
                 const response = await fetch('../state/starter_dashboard_data.json');
@@ -479,37 +476,48 @@
                 showError('Failed to load dashboard data: ' + error.message);
             }
         }
-        
+
         function showError(message) {
             document.getElementById('loading').style.display = 'none';
             document.getElementById('error').textContent = message;
             document.getElementById('error').style.display = 'block';
         }
-        
+
         function renderDashboard() {
             document.getElementById('loading').style.display = 'none';
             document.getElementById('dashboard').style.display = 'block';
-            
+
             renderSummary();
             renderFilters();
             renderDeals();
         }
-        
+
         function renderSummary() {
             document.getElementById('total-deals').textContent = dashboardData.total_deals;
         }
-        
+
         function renderFilters() {
             const filters = dashboardData.available_filters;
-            
-            document.getElementById('filter-set').innerHTML = 
-                '<option value="">All</option>' + 
+
+            document.getElementById('filter-set').innerHTML =
+                '<option value="">All</option>' +
                 filters.set.map(s => `<option value="${s}">${s}</option>`).join('');
-            
-            document.getElementById('filter-product').innerHTML = 
-                '<option value="">All</option>' + 
+
+            document.getElementById('filter-product').innerHTML =
+                '<option value="">All</option>' +
                 filters.product_type.map(p => `<option value="${p}">${formatProductType(p)}</option>`).join('');
-            
+
+            // Dynamic gap filter - compute from actual deals
+            const gapBucketsPresent = [...new Set(dashboardData.deals.map(d => getGapBucket(d.gapPct)))].sort();
+            const gapLabels = {
+                '1_to_9': '1% to 9%',
+                '10_to_19': '10% to 19%',
+                '20_plus': '20%+'
+            };
+            document.getElementById('filter-gap').innerHTML =
+                '<option value="">All</option>' +
+                gapBucketsPresent.map(b => `<option value="${b}">${gapLabels[b]}</option>`).join('');
+
             // Dynamic source filter based on actual deals
             const sources = [...new Set(dashboardData.deals.map(d => {
                 try {
@@ -519,41 +527,48 @@
                     return 'unknown';
                 }
             }))].sort();
-            
+
             const sourceLabels = {
                 'ebay.com': 'eBay',
                 'gamenerdz.com': 'GameNerdz',
                 'stompinggroundstcg.com': 'Stomping Ground TCG'
             };
-            
-            document.getElementById('filter-source').innerHTML = 
-                '<option value="">All</option>' + 
+
+            document.getElementById('filter-source').innerHTML =
+                '<option value="">All</option>' +
                 sources.map(s => `<option value="${s}">${sourceLabels[s] || s}</option>`).join('');
-            
+
             ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source'].forEach(id => {
                 document.getElementById(id).addEventListener('change', applyFilters);
             });
         }
-        
+
+        // Shared gap bucket logic - MUST match backend
+        function getGapBucket(gapPct) {
+            if (gapPct < 10) return '1_to_9';
+            if (gapPct < 20) return '10_to_19';
+            return '20_plus';
+        }
+
         function applyFilters() {
             const franchise = document.getElementById('filter-franchise').value;
             const set = document.getElementById('filter-set').value;
             const product = document.getElementById('filter-product').value;
             const gap = document.getElementById('filter-gap').value;
             const source = document.getElementById('filter-source').value;
-            
+
             filteredDeals = dashboardData.deals.filter(deal => {
                 if (franchise && deal.franchise !== franchise) return false;
                 if (set && deal.set !== set) return false;
                 if (product && deal.product_type !== product) return false;
-                if (gap && deal.gap_bucket !== gap) return false;
+                if (gap && getGapBucket(deal.gapPct) !== gap) return false;
                 if (source && !deal.url.includes(source)) return false;
                 return true;
             });
-            
+
             renderDeals();
         }
-        
+
         function clearFilters() {
             ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source'].forEach(id => {
                 document.getElementById(id).value = '';
@@ -561,26 +576,27 @@
             filteredDeals = [...dashboardData.deals];
             renderDeals();
         }
-        
+
         function getGapBadgeClass(bucket) {
-            if (bucket === '1_to_9') return 'gap-low';
-            if (bucket === '10_to_19') return 'gap-medium';
-            return 'gap-high';
+            // Colors: 1_to_9 = yellow, 10_to_19 = green, 20_plus = blue
+            if (bucket === '1_to_9') return 'gap-low';      // yellow
+            if (bucket === '10_to_19') return 'gap-medium'; // green
+            return 'gap-high';                              // blue
         }
-        
+
         function getFranchiseClass(franchise) {
             return franchise === 'pokemon' ? 'franchise-pokemon' : 'franchise-onepiece';
         }
-        
+
         function renderDeals() {
             const tbody = document.getElementById('deals-tbody');
             document.getElementById('results-count').textContent = `Showing ${filteredDeals.length} live deals`;
-            
+
             if (filteredDeals.length === 0) {
                 tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No deals match your filters</td></tr>';
                 return;
             }
-            
+
             tbody.innerHTML = filteredDeals.map(deal => `
                 <tr>
                     <td class="title-cell">
@@ -597,14 +613,14 @@
                         <div class="baseline-price">$${deal.baseline_price.toFixed(2)}</div>
                     </td>
                     <td>
-                        <span class="gap-badge ${getGapBadgeClass(deal.gap_bucket)}">${deal.gapPct.toFixed(1)}%</span>
+                        <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
                     <td class="confidence-${deal.confidence}">${deal.confidence ? deal.confidence.charAt(0).toUpperCase() + deal.confidence.slice(1) : 'Low'}</td>
                     <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
             `).join('');
         }
-        
+
         document.addEventListener('DOMContentLoaded', loadDashboardData);
     </script>
 </body>
