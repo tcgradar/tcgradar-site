@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-03-22T03:02:11.913070+00:00",
+  "timestamp": "2026-03-22T03:32:24.614260+00:00",
   "tier": "starter",
   "total_deals": 4,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
-      "onepiece": 1
+      "onepiece": 2,
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 3,
-      "etb": 1
+      "booster_box": 4
     },
     "by_gap_bucket": {
-      "15_to_30": 3,
+      "30_plus": 1,
+      "15_to_30": 2,
       "under_15": 1
     }
   },
@@ -24,11 +24,11 @@
     "set": [
       "Awakening of the New Era",
       "Temporal Forces",
-      "Twilight Masquerade"
+      "Twilight Masquerade",
+      "Wings of the Captain"
     ],
     "product_type": [
-      "booster_box",
-      "etb"
+      "booster_box"
     ],
     "gap_bucket": [
       "30_plus",
@@ -38,6 +38,18 @@
   },
   "deals": [
     {
+      "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
+      "url": "https://www.ebay.com/itm/177954344166?_skw=one+piece+OP-06+booster+box&hash=item296ee7cce6:g:kVMAAeSweQpps3ER",
+      "franchise": "onepiece",
+      "set": "Wings of the Captain",
+      "product_type": "booster_box",
+      "price": 240.12,
+      "baseline_price": 350.0,
+      "gapPct": 31.39,
+      "confidence": "high",
+      "gap_bucket": "30_plus"
+    },
+    {
       "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
       "url": "https://www.ebay.com/itm/177978930861?_skw=pokemon+Temporal+Forces+booster+box&hash=item29705ef6ad:g:wsgAAeSwgidpvnL3",
       "franchise": "pokemon",
@@ -46,18 +58,6 @@
       "price": 249.25,
       "baseline_price": 319.99,
       "gapPct": 22.11,
-      "confidence": "high",
-      "gap_bucket": "15_to_30"
-    },
-    {
-      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 72.0,
-      "baseline_price": 89.99,
-      "gapPct": 19.99,
       "confidence": "high",
       "gap_bucket": "15_to_30"
     },
