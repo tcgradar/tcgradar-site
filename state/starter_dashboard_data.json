@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T16:02:25.282212+00:00",
+  "timestamp": "2026-03-23T16:32:52.209236+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -53,23 +53,10 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 240.12,
-      "baseline_price": 365.0,
-      "gapPct": 34.21,
+      "baseline_price": 350.0,
+      "gapPct": 31.39,
       "confidence": "high",
       "gap_bucket": "20_plus",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUTc4v4SbdsmM6stEJybFrjtuMC8zfrUUf69uqJV1aOQadCXn49Zj33rR8u1wqzWMG0XEB5dVwS7ti9O9KLFVusBmCJ2hgLDyipGDqT9uIfRhQJAhko8EHANX8urLbTUKWtNxX%2B2yIBQd9DqkbuJwdwWDjVLttIvc5VdLT1cTWscuCiNbR6ehJKfa1RQHT%2BHmco%3D",
-      "franchise": "pokemon",
-      "set": "Paldea Evolved",
-      "product_type": "booster_box",
-      "price": 434.62,
-      "baseline_price": 509.79,
-      "gapPct": 14.75,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
     },
     {
@@ -79,8 +66,21 @@
       "set": "151",
       "product_type": "booster_bundle",
       "price": 167.56,
-      "baseline_price": 195.99,
-      "gapPct": 14.51,
+      "baseline_price": 196.99,
+      "gapPct": 14.94,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
+      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUR3Y8LBfq5OoIfpj5kf2lJCWql9oKtStN9i3%2FogPQj7hXpVjPITPU1g%2Bl%2Bio95cRaGUCHX1rLIpl57%2FJ%2BLWovUE%2BfsOS4e5If9V4giWlfZpNbEWc30yMBWxAVafaId2BBHSQJLbhH5mkuDeYd5Er9wPpDUjSbJyKtKK2FSeLMU7urYVNJQXPDHDsi%2Bjiy53cnA%3D",
+      "franchise": "pokemon",
+      "set": "Paldea Evolved",
+      "product_type": "booster_box",
+      "price": 434.62,
+      "baseline_price": 509.79,
+      "gapPct": 14.75,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -99,6 +99,19 @@
       "seller_trust": "HIGH"
     },
     {
+      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
+      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 72.0,
+      "baseline_price": 80.34,
+      "gapPct": 10.38,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
       "title": "Pokemon 2023 Scarlet & Violet Obsidian Booster Box Factory Sealed",
       "url": "https://www.ebay.com/itm/406651512063?_skw=pokemon+Obsidian+Flames+booster+box&hash=item5eae51a4ff:g:ztEAAeSwyX9pfBZh",
       "franchise": "pokemon",
@@ -107,19 +120,6 @@
       "price": 350.0,
       "baseline_price": 389.99,
       "gapPct": 10.25,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 72.0,
-      "baseline_price": 80.0,
-      "gapPct": 10.0,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
