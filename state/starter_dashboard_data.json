@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T18:32:20.559375+00:00",
+  "timestamp": "2026-03-23T19:02:22.179983+00:00",
   "tier": "starter",
   "total_deals": 4,
   "all_deals_count": 4,
@@ -56,27 +56,27 @@
       "seller_trust": "HIGH"
     },
     {
+      "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed (please see photos)",
+      "url": "https://www.ebay.com/itm/177977455528?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item29704873a8:g:jBoAAeSwAJlpvbRX",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "booster_box",
+      "price": 293.5,
+      "baseline_price": 364.0,
+      "gapPct": 19.37,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
       "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUQehH3PQgnPzesonwvkCk7H6gwu1QPhge5ssSS%2B6TjMP9nitfaMnEODuxger1rrz%2F4grAnc3rzHUNhtp6lBrvlDXNcpCR6IF7w4vTxsIhc3DAe8xY7K8a7wjroa1r2SOzc1LW6FWuRv8AwfRiirH--48FWMrAgsbqWayTE3aqSVJVZanOYpgIPoK6xrGvX6DWY%3D",
+      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUQggqAgFiwBSTCXMNxCxJUFjPukgP%2FZnZmgm%2FTJEXca9g%2FlexjKGkfhH3g3vB33KJV4uNRwEvJgKT7CUpsV%2FTTw6A0nhgFKj%2FIbXifi2Arvxj341FCYcdOtlbK%2FBwitsICdNqGDU%2FJYBWziSTZBSPkVkXtcmCRqkcOi%2F9ae%2BJrmMKmyyhxd1GkQTD202KmffVQ%3D",
       "franchise": "pokemon",
       "set": "Paldea Evolved",
       "product_type": "booster_box",
       "price": 434.62,
       "baseline_price": 509.79,
       "gapPct": 14.75,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed (please see photos)",
-      "url": "https://www.ebay.com/itm/177977455528?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item29704873a8:g:jBoAAeSwAJlpvbRX",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "booster_box",
-      "price": 306.84,
-      "baseline_price": 350.0,
-      "gapPct": 12.33,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
