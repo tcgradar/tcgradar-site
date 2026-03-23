@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-03-23T15:32:20.402491+00:00",
+  "updated_at": "2026-03-23T16:02:25.312893+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
-    "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
-    "price": 240.12,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 358,
-    "franchise": "onepiece",
-    "set": "Wings of the Captain",
-    "product_type": "booster_box",
-    "confidence": "high",
-    "baseline_price": 350.0,
-    "gapPct": 31.39,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
     "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
     "price": 249.25,
     "seller_rating": 100.0,
@@ -26,6 +12,20 @@
     "confidence": "high",
     "baseline_price": 299.99,
     "gapPct": 16.91,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
+    "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
+    "price": 240.12,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 358,
+    "franchise": "onepiece",
+    "set": "Wings of the Captain",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 365.0,
+    "gapPct": 34.21,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
