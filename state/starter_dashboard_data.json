@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T03:02:20.756507+00:00",
+  "timestamp": "2026-03-23T03:32:21.699598+00:00",
   "tier": "starter",
   "total_deals": 7,
   "all_deals_count": 7,
@@ -54,8 +54,8 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 240.12,
-      "baseline_price": 336.94,
-      "gapPct": 28.74,
+      "baseline_price": 350.0,
+      "gapPct": 31.39,
       "confidence": "high",
       "gap_bucket": "20_plus",
       "seller_trust": "HIGH"
@@ -100,19 +100,6 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 72.0,
-      "baseline_price": 83.84,
-      "gapPct": 14.12,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed (please see photos)",
       "url": "https://www.ebay.com/itm/177977455528?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item29704873a8:g:jBoAAeSwAJlpvbRX",
       "franchise": "pokemon",
@@ -121,6 +108,19 @@
       "price": 306.84,
       "baseline_price": 350.0,
       "gapPct": 12.33,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
+      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 72.0,
+      "baseline_price": 80.69,
+      "gapPct": 10.77,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
