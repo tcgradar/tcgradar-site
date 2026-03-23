@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T00:32:20.786076+00:00",
+  "timestamp": "2026-03-23T01:02:20.165157+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -51,8 +51,8 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 240.12,
-      "baseline_price": 350.0,
-      "gapPct": 31.39,
+      "baseline_price": 336.94,
+      "gapPct": 28.74,
       "confidence": "high",
       "gap_bucket": "20_plus",
       "seller_trust": "HIGH"
@@ -64,8 +64,8 @@
       "set": "Temporal Forces",
       "product_type": "booster_box",
       "price": 249.25,
-      "baseline_price": 310.0,
-      "gapPct": 19.6,
+      "baseline_price": 305.0,
+      "gapPct": 18.28,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -77,8 +77,8 @@
       "set": "Awakening of the New Era",
       "product_type": "booster_box",
       "price": 999.99,
-      "baseline_price": 1217.5,
-      "gapPct": 17.87,
+      "baseline_price": 1200.0,
+      "gapPct": 16.67,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
