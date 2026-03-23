@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T10:02:23.966710+00:00",
+  "timestamp": "2026-03-23T10:32:38.967359+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -83,19 +83,6 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 72.0,
-      "baseline_price": 80.34,
-      "gapPct": 10.38,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "Pokemon 2023 Scarlet & Violet Obsidian Booster Box Factory Sealed",
       "url": "https://www.ebay.com/itm/406651512063?_skw=pokemon+Obsidian+Flames+booster+box&hash=item5eae51a4ff:g:ztEAAeSwyX9pfBZh",
       "franchise": "pokemon",
@@ -104,6 +91,19 @@
       "price": 350.0,
       "baseline_price": 389.99,
       "gapPct": 10.25,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
+      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 72.0,
+      "baseline_price": 80.0,
+      "gapPct": 10.0,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
