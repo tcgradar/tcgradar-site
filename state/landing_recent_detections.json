@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T14:32:19.910940+00:00",
+  "updated_at": "2026-03-23T15:02:23.890055+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
@@ -24,8 +24,8 @@
     "set": "Temporal Forces",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 299.99,
-    "gapPct": 16.91,
+    "baseline_price": 300.0,
+    "gapPct": 16.92,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
