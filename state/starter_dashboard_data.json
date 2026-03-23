@@ -1,25 +1,24 @@
 {
-  "timestamp": "2026-03-23T04:32:22.948983+00:00",
+  "timestamp": "2026-03-23T05:02:19.222470+00:00",
   "tier": "starter",
-  "total_deals": 7,
-  "all_deals_count": 7,
+  "total_deals": 6,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 5
+      "pokemon": 4
     },
     "by_product_type": {
       "booster_box": 5,
-      "booster_bundle": 1,
       "etb": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 6
+      "10_to_19": 5
     }
   },
   "trust_counts": {
-    "HIGH": 7,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -29,7 +28,6 @@
       "pokemon"
     ],
     "set": [
-      "151",
       "Awakening of the New Era",
       "Obsidian Flames",
       "Temporal Forces",
@@ -38,7 +36,6 @@
     ],
     "product_type": [
       "booster_box",
-      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -61,19 +58,6 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
-      "url": "https://www.ebay.com/itm/177978930861?_skw=pokemon+Temporal+Forces+booster+box&hash=item29705ef6ad:g:wsgAAeSwgidpvnL3",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 249.25,
-      "baseline_price": 305.0,
-      "gapPct": 18.28,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
       "url": "https://www.ebay.com/itm/397547489153?_skw=one+piece+OP-05+booster+box&hash=item5c8fad4781:g:tSAAAeSwqxdpetwp",
       "franchise": "onepiece",
@@ -87,14 +71,14 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Pokemon TCG: Scarlet & Violet-151 Booster Bundle",
-      "url": "https://www.ebay.com/itm/318039540770?_skw=pokemon+151+booster+box&hash=item4a0ca24422:g:MEYAAeSwWpxpvfOF",
+      "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
+      "url": "https://www.ebay.com/itm/177978930861?_skw=pokemon+Temporal+Forces+booster+box&hash=item29705ef6ad:g:wsgAAeSwgidpvnL3",
       "franchise": "pokemon",
-      "set": "151",
-      "product_type": "booster_bundle",
-      "price": 167.56,
-      "baseline_price": 199.99,
-      "gapPct": 16.22,
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 249.25,
+      "baseline_price": 300.0,
+      "gapPct": 16.92,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -106,8 +90,21 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 306.84,
-      "baseline_price": 364.5,
-      "gapPct": 15.82,
+      "baseline_price": 350.0,
+      "gapPct": 12.33,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
+      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 72.0,
+      "baseline_price": 80.34,
+      "gapPct": 10.38,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -121,19 +118,6 @@
       "price": 350.0,
       "baseline_price": 389.99,
       "gapPct": 10.25,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+sealed+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 72.0,
-      "baseline_price": 80.0,
-      "gapPct": 10.0,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
