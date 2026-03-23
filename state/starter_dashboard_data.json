@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T08:32:15.582249+00:00",
+  "timestamp": "2026-03-23T09:02:18.580729+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -50,8 +50,8 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 240.12,
-      "baseline_price": 338.88,
-      "gapPct": 29.14,
+      "baseline_price": 350.0,
+      "gapPct": 31.39,
       "confidence": "high",
       "gap_bucket": "20_plus",
       "seller_trust": "HIGH"
@@ -63,8 +63,8 @@
       "set": "Temporal Forces",
       "product_type": "booster_box",
       "price": 249.25,
-      "baseline_price": 300.0,
-      "gapPct": 16.92,
+      "baseline_price": 299.99,
+      "gapPct": 16.91,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -76,8 +76,8 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 306.84,
-      "baseline_price": 350.0,
-      "gapPct": 12.33,
+      "baseline_price": 357.0,
+      "gapPct": 14.05,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -89,8 +89,8 @@
       "set": "Twilight Masquerade",
       "product_type": "etb",
       "price": 72.0,
-      "baseline_price": 80.34,
-      "gapPct": 10.38,
+      "baseline_price": 80.69,
+      "gapPct": 10.77,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -102,8 +102,8 @@
       "set": "Obsidian Flames",
       "product_type": "booster_box",
       "price": 350.0,
-      "baseline_price": 389.99,
-      "gapPct": 10.25,
+      "baseline_price": 391.77,
+      "gapPct": 10.66,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
