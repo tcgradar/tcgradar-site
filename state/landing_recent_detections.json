@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-03-23T06:32:16.265020+00:00",
+  "updated_at": "2026-03-23T07:02:17.162947+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
+    "title": "Pokemon 2023 Scarlet & Violet Obsidian Booster Box Factory Sealed",
+    "price": 350.0,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 10391,
+    "franchise": "pokemon",
+    "set": "Obsidian Flames",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 389.99,
+    "gapPct": 10.25,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
     "title": "One Piece OP-06 Wings Of The Captain Booster Box Factory Sealed English",
     "price": 240.12,
     "seller_rating": 100.0,
@@ -12,20 +26,6 @@
     "confidence": "high",
     "baseline_price": 350.0,
     "gapPct": 31.39,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
-    "title": "One Piece TCG: Awakening of the New Era Booster Box ENGLISH OP05 FACTORY SEALED",
-    "price": 999.99,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 161,
-    "franchise": "onepiece",
-    "set": "Awakening of the New Era",
-    "product_type": "booster_box",
-    "confidence": "high",
-    "baseline_price": 1217.5,
-    "gapPct": 17.87,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
