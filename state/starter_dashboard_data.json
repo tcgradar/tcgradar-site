@@ -1,25 +1,23 @@
 {
-  "timestamp": "2026-03-24T15:32:21.842695+00:00",
+  "timestamp": "2026-03-24T16:02:22.136360+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 5,
+  "total_deals": 3,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 4
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 3,
-      "booster_bundle": 1,
-      "etb": 1
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "20_plus": 2,
-      "10_to_19": 3
+      "20_plus": 1,
+      "10_to_19": 2
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -30,13 +28,11 @@
     ],
     "set": [
       "Paldea Evolved",
-      "Twilight Masquerade",
+      "Paradox Rift",
       "Wings of the Captain"
     ],
     "product_type": [
-      "booster_box",
-      "booster_bundle",
-      "etb"
+      "booster_box"
     ],
     "gap_bucket": [
       "10_to_19",
@@ -58,47 +54,21 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Pokemon Scarlet & Violet: Twilight Masquerade 6-Pack Booster Bundle",
-      "url": "https://www.ebay.com/itm/137161471518?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item1fef75f61e:g:228AAeSwbMFo~raN",
+      "title": "Pokemon Scarlet & Violet Paradox Rift Booster Box Sealed New UK 36 Packs ",
+      "url": "https://www.ebay.com/itm/389049551898?_skw=pokemon+Paradox+Rift+booster+box&hash=item5a95290c1a:g:lQ8AAeSwIgVo44D-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGanSzkX0e7IwVBsZz9tVnmxKwtSGM0ZXSciSEL2Kvft%2BtpeV3GNbALI7sc7kkSd0yZ7pqocmvnEa2w1nuJ2jXbYj0STXOMtvTeV0gb2VXUFLPamISdFc3fYhTqisX8dkJh%2BfeLXysJl4ChfyKp0xcGMY8ZGijGRVdlzi3qKWGMjzMPoDwDVDJ7slkBG9HN1xWpgyoqPGJBaV%2BBDRacv27M08%2B%2FUiDe9O3LWMPjeAxObbpB1GiSYr7BMNwk3tMLoFN5tF4ysnbO3ko4l4UCVPPRpleKKQRjt%2BQSHMIdrmMUK7CgUfkhTyruXXliS8g%2F8o90%3D",
       "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "booster_bundle",
-      "price": 45.99,
-      "baseline_price": 59.89,
-      "gapPct": 23.21,
-      "confidence": "high",
-      "gap_bucket": "20_plus",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed (please see photos)",
-      "url": "https://www.ebay.com/itm/177977455528?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item29704873a8:g:jBoAAeSwAJlpvbRX",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
+      "set": "Paradox Rift",
       "product_type": "booster_box",
-      "price": 295.48,
-      "baseline_price": 364.0,
-      "gapPct": 18.82,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 72.0,
-      "baseline_price": 85.0,
-      "gapPct": 15.29,
+      "price": 253.85,
+      "baseline_price": 299.99,
+      "gapPct": 15.38,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
     },
     {
       "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUTMZOvwfmqcOnDF3mfjfop5hONW%2FMaeOacpILkROo%2B3LluqZ%2B91VB7tHcuiCSFB3jTblemEK7mpTgW0JmV2yTgps7zjQWmpoalDeettadnNg1EiO6UpbqEfD9AG6ouRHeS%2Bfj%2FWHKn2G1B%2BPSRoQZlmDq6Dhc%2FhH4lHim8dyqNAgzUaNFnCVBlJ1GbQDvZC5Vo%3D",
+      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulURPsqGZrgjbbac4byLgQL4T08b47gRxuO3aNqq%2BQronMUwVLOqdRNJ0ikofgXMo5GAbbAG28v1vK8KWM3aUIHX5jrOcgCz9Ms9%2FcINQuexL1v6cna0hpjDKytO59QoXwAGvWpouEQO8nUNVukgbiE99NblxYOMsGZneEgnuvoiLV4AZdtIvh748X%2BG4FYP9mko%3D",
       "franchise": "pokemon",
       "set": "Paldea Evolved",
       "product_type": "booster_box",
