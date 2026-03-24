@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-03-24T15:02:23.600098+00:00",
+  "updated_at": "2026-03-24T15:32:21.875423+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
+    "title": "Twilight Masquerade ETB Elite Trainer Box New Sealed Pokemon",
+    "price": 65.01,
+    "seller_rating": 99.3,
+    "seller_feedback_count": 402,
+    "franchise": "pokemon",
+    "set": "Twilight Masquerade",
+    "product_type": "etb",
+    "confidence": "high",
+    "baseline_price": 85.0,
+    "gapPct": 23.52,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
     "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
     "price": 437.56,
     "seller_rating": 99.7,
@@ -12,20 +26,6 @@
     "confidence": "high",
     "baseline_price": 500.0,
     "gapPct": 12.49,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
-    "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-    "price": 72.0,
-    "seller_rating": 99.7,
-    "seller_feedback_count": 520,
-    "franchise": "pokemon",
-    "set": "Twilight Masquerade",
-    "product_type": "etb",
-    "confidence": "high",
-    "baseline_price": 85.0,
-    "gapPct": 15.29,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
