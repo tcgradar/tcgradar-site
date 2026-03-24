@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-03-24T00:02:22.128764+00:00",
+  "updated_at": "2026-03-24T00:32:24.588354+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
-    "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed (please see photos)",
-    "price": 293.5,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 180,
-    "franchise": "pokemon",
-    "set": "Twilight Masquerade",
-    "product_type": "booster_box",
-    "confidence": "high",
-    "baseline_price": 364.0,
-    "gapPct": 19.37,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
     "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
     "price": 434.62,
     "seller_rating": 99.7,
@@ -26,6 +12,20 @@
     "confidence": "high",
     "baseline_price": 509.79,
     "gapPct": 14.75,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
+    "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed (please see photos)",
+    "price": 293.5,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 180,
+    "franchise": "pokemon",
+    "set": "Twilight Masquerade",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 364.0,
+    "gapPct": 19.37,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
