@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-03-25T22:31:56.590057+00:00",
+  "updated_at": "2026-03-25T23:01:58.713012+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
+    "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
+    "price": 436.9,
+    "seller_rating": 99.7,
+    "seller_feedback_count": 515,
+    "franchise": "pokemon",
+    "set": "Paldea Evolved",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 522.34,
+    "gapPct": 16.36,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
     "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
     "price": 1507.88,
     "seller_rating": 100.0,
@@ -12,20 +26,6 @@
     "confidence": "high",
     "baseline_price": 2999.99,
     "gapPct": 49.74,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
-    "title": "Pokemon TCG Mega Evolution Booster Box Portuguese w/ Promo New | Factory Sealed",
-    "price": 149.99,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 45492,
-    "franchise": "pokemon",
-    "set": "Mega Evolution Return",
-    "product_type": "booster_box",
-    "confidence": "high",
-    "baseline_price": 294.0,
-    "gapPct": 48.98,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
