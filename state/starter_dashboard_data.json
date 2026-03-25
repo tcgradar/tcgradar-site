@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-25T19:32:23.693662+00:00",
+  "timestamp": "2026-03-25T20:02:21.085210+00:00",
   "tier": "starter",
   "total_deals": 3,
   "all_deals_count": 3,
@@ -47,8 +47,8 @@
       "set": "Wings of the Captain",
       "product_type": "booster_box",
       "price": 241.38,
-      "baseline_price": 350.0,
-      "gapPct": 31.03,
+      "baseline_price": 355.0,
+      "gapPct": 32.01,
       "confidence": "high",
       "gap_bucket": "20_plus",
       "seller_trust": "HIGH"
@@ -68,7 +68,7 @@
     },
     {
       "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUQlijr2cqzMh18EiTnROuUkuJ169yaEBHVLmQ%2FbuOxFx7uZCnSSeH%2FRf6irZDx3zyt9Cv22CWTBQuOy90WoU%2F41tTazkFDuzpy9ITqcUmrWXO8SWX9%2B7n7nHxa--YCbyBlZhY%2BhwKvG%2BIdMQzLLmDkacZV1erV01WPKRbepulVH1tvcRpJFYrc%2Fdtv3qFZ7SiY%3D",
+      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUS9i8ZpYiW8A3UtvgrbdzmTMZbNAB45aeyw2nm4o3IcPNAhr4ngCpGHEwsat2uLEUYjwBG4whdCE99DiQCYCUwXdjiOAF%2BIlKfufH3fx8FWOJyQY1ocKO7EDXC2GKe2vf15sz2eJ6IIykNxt%2F74PEazstqcfRl%2Fmzo%2FfBcOfNsVI1OBFgwVw0KDVFS0trhl50E%3D",
       "franchise": "pokemon",
       "set": "Paldea Evolved",
       "product_type": "booster_box",
