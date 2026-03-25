@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-25T05:32:18.082232+00:00",
+  "timestamp": "2026-03-25T06:02:19.796299+00:00",
   "tier": "starter",
   "total_deals": 4,
   "all_deals_count": 4,
@@ -71,20 +71,20 @@
     },
     {
       "title": "Pokemon TCG Scarlet & Violet 151 Booster Bundle Sealed New (6 packs)",
-      "url": "https://www.ebay.com/itm/127768825285?_skw=pokemon+151+booster+box&hash=item1dbf9d8dc5:g:~PoAAeSwvpRpw0WZ",
+      "url": "https://www.ebay.com/itm/267619186838?_skw=pokemon+151+booster+box&hash=item3e4f58b896:g:9WcAAeSwNiRpw2~I&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGaZxDSCCGvgiyxXD%2F8yEQlWWyD9lZWU47GRC2iZLjoqjMdJJ3tz7coNnNAUhWqkeQhiNXq8vYN96oC0pYctaoZCY8PNR0Cwawuw86EI4ed7Q7m31aoM%2BHbHEKLLimAWZi1BgB%2F43%2F3f9jj9KI5eYFUxAZrBh3OrVPuZDeI%2B2%2FLcxOiJ%2FljUAV7qLaYXa2EhqaO7VSWeY%2FVaic%2BYNGeySkQzAVqttoWod1I%2FbR9Dpry7wNSsgRoT34CJFpyuuVS3ySCXicaz4Ar9qgxdZOHatW%2B8uSK2CaXvCk0F7E1GrICD8A%3D%3D",
       "franchise": "pokemon",
       "set": "151",
       "product_type": "booster_bundle",
-      "price": 165.99,
-      "baseline_price": 190.0,
-      "gapPct": 12.64,
+      "price": 159.99,
+      "baseline_price": 192.95,
+      "gapPct": 17.08,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
     },
     {
       "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUT5D5hrBG1PKC91q6mNP%2F0c7ljHMSXy5t8RmCfiMdHQ0gPT8qAazn%2F%2B7sEatYLcx6StB4dFQyktD%2Be9VS7BRWBb2LMLuR7h7uuBFRQ39rEyYzrCywAk6i8JLppILssTjrZSvVFXWmwdwAbRok5EM%2B3PTSR1oo9bdmcg4aH5QLUTp%2FEZeiqGxHtQloEIgrIs1lQ%3D",
+      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulURd4XNcCpJOSDjh%2BO8yZgwZ9E9Zv5XmevxtSl1bQm9KOWyzRtaPWtb%2FmAGIjDtS5%2FV68pRb%2F6CKKXO1PmbsQTSBX8%2B37dk0EQAAQ3vNFucJ9Xj08ByS%2BvVYtbUbgApQoVKL8ysUrCphjSyyjViX7vxdhDHou%2BYEzi5uYLmm2sXu%2FTCty%2BVXiwxmPenmMvqWtuc%3D",
       "franchise": "pokemon",
       "set": "Paldea Evolved",
       "product_type": "booster_box",
