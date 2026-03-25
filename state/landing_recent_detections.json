@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T11:02:19.816488+00:00",
+  "updated_at": "2026-03-25T11:32:19.456216+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "Pokemon TCG Scarlet & Violet 151 Booster Bundle Sealed New (6 packs)",
@@ -10,8 +10,8 @@
     "set": "151",
     "product_type": "booster_bundle",
     "confidence": "high",
-    "baseline_price": 191.47,
-    "gapPct": 16.44,
+    "baseline_price": 192.95,
+    "gapPct": 17.08,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
