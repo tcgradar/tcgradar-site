@@ -1,24 +1,23 @@
 {
-  "timestamp": "2026-03-25T12:32:18.755979+00:00",
+  "timestamp": "2026-03-25T13:02:20.408534+00:00",
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 4,
+  "total_deals": 3,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 3
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 3,
-      "booster_bundle": 1
+      "booster_box": 3
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 3
+      "10_to_19": 2
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -28,14 +27,12 @@
       "pokemon"
     ],
     "set": [
-      "151",
       "Paldea Evolved",
       "Paradox Rift",
       "Wings of the Captain"
     ],
     "product_type": [
-      "booster_box",
-      "booster_bundle"
+      "booster_box"
     ],
     "gap_bucket": [
       "10_to_19",
@@ -71,26 +68,13 @@
     },
     {
       "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+sealed+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUQHH9aq8W8zCoqYLwts%2FhD30EOHaIREUihBa5geJxXa6ZWECcXOxtuLCuCEYdzKyBEFJKSeGRCwS3fMiNu0IrgTcFXYQhNN47bKMWS%2FKTpx9E8NaGZEULzFWkkFDoNPhAKEGucE8f957MApOqkWG8lgNdNhw5UCaIValtP5r0kg64E6BbX8F833VJGk%2B58XOYI%3D",
+      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUQzTBGzFwk7Jdo%2B8jjPhewUpuJfgmIdw%2Ftd%2FDj%2B1AfJT7ntqH%2Bs4jLLxj2dUldKCicL8C6wE3IYiVEAUxzRyPx4mCpgTh5ZlJOOSTbFFHm2t8mdCJ%2FkgaASHCinX3okwOL%2BPOBv8dCN3pZUVslxSRJIcSGnPn2X2vffHCsGAO0aOteYoqjJt%2BE8xG6Z7kdNFNQ%3D",
       "franchise": "pokemon",
       "set": "Paldea Evolved",
       "product_type": "booster_box",
       "price": 436.9,
       "baseline_price": 520.0,
       "gapPct": 15.98,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Pokemon TCG Scarlet & Violet 151 Booster Bundle Sealed New (6 packs)",
-      "url": "https://www.ebay.com/itm/127768825285?_skw=pokemon+151+booster+box&hash=item1dbf9d8dc5:g:~PoAAeSwvpRpw0WZ",
-      "franchise": "pokemon",
-      "set": "151",
-      "product_type": "booster_bundle",
-      "price": 165.99,
-      "baseline_price": 191.47,
-      "gapPct": 13.31,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"

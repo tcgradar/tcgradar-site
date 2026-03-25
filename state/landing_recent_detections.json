@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T12:32:18.787940+00:00",
+  "updated_at": "2026-03-25T13:02:20.440790+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
@@ -10,22 +10,22 @@
     "set": "Paldea Evolved",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 510.0,
-    "gapPct": 14.33,
+    "baseline_price": 520.0,
+    "gapPct": 15.98,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-    "price": 436.9,
-    "seller_rating": 99.7,
-    "seller_feedback_count": 514,
+    "title": "Pokemon TCG Scarlet & Violet 151 Booster Bundle Sealed New (6 packs)",
+    "price": 165.99,
+    "seller_rating": 99.4,
+    "seller_feedback_count": 171,
     "franchise": "pokemon",
-    "set": "Paldea Evolved",
-    "product_type": "booster_box",
+    "set": "151",
+    "product_type": "booster_bundle",
     "confidence": "high",
-    "baseline_price": 510.0,
-    "gapPct": 14.33,
+    "baseline_price": 191.47,
+    "gapPct": 13.31,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
