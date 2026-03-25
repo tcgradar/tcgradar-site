@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T06:32:21.844140+00:00",
+  "updated_at": "2026-03-25T07:02:21.742081+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "Pokemon TCG Scarlet & Violet 151 Booster Bundle Sealed New (6 packs)",
@@ -24,8 +24,8 @@
     "set": "Paldea Evolved",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 500.0,
-    "gapPct": 12.62,
+    "baseline_price": 510.0,
+    "gapPct": 14.33,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
