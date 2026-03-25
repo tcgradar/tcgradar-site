@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-03-25T16:02:23.945661+00:00",
+  "timestamp": "2026-03-25T20:32:19.685717+00:00",
   "tier": "free",
   "deal": {
     "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
     "price": 436.9,
-    "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUSq2%2B3dPwDIxhbBSH38QAMXa9LEoJ9OMmpgHMndoaWP4tG%2BIvr8gwb0sGgyerwuJjxF7AJ7punddajmPIGXsplwP70KLb5GJuhbTGYUO%2B9hh8xExKBfEykS%2FOSws7acviMkbqW8qhy%2F30IPu1jmBFbLoAaAJbGusbVKKm5FxGkkz%2BOTUKH83Lyh%2FKRe2TFSp%2F8%3D",
+    "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulURLAXOCV%2BuZx8H6QWZqGvhCPmzxSm8qTeSu5VH0pBnntOUzgL01RFmXJGPMv0OIJEn2oNrbws9aIN2mE2ZEnbpg2b2Qr9lwRQGRFgSsB7WuL3S11CrnAGhij9N8CCr6jWcsjDHrchDGiR7o%2Fno1f7%2FaikXbvUGG%2B%2FUjR1ZV6CxrPpzo12NVfnexAKmRU9SG0Qw%3D",
     "seller_rating": 99.7,
-    "seller_feedback_count": 514,
+    "seller_feedback_count": 515,
     "franchise": "pokemon",
     "set": "Paldea Evolved",
     "set_code": null,
@@ -14,18 +14,18 @@
     "product_type": "booster_box",
     "variant": "standard",
     "confidence": "high",
-    "baseline_price": 520.0,
+    "baseline_price": 520.6,
     "baseline_raw_count": 37,
     "baseline_pre_filter_count": 31,
-    "baseline_final_count": 23,
+    "baseline_final_count": 22,
     "baseline_raw_min": 436.9,
     "baseline_raw_max": 3500.0,
-    "gapPct": 15.98,
+    "gapPct": 16.08,
     "_source": "starter_pokemon"
   },
-  "selection_reason": "weakest_qualifying_deal_gap_16.0pct",
+  "selection_reason": "weakest_qualifying_deal_gap_16.1pct",
   "next_refresh_hours": 4,
   "total_safe_deals_available": 3,
-  "_refresh_locked": true,
-  "_next_refresh_in_hours": 1
+  "_refresh_locked": false,
+  "_next_refresh_in_hours": 4
 }
