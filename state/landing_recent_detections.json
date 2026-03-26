@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-26T01:31:47.618996+00:00",
-  "source": "active_deals",
+  "updated_at": "2026-03-26T02:01:55.962300+00:00",
+  "source": "previous_scan",
   "starter_quality_deal": {
     "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
     "price": 436.9,
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed - small tear #1",
-    "price": 244.11,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 1128,
+    "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
+    "price": 436.9,
+    "seller_rating": 99.7,
+    "seller_feedback_count": 515,
     "franchise": "pokemon",
-    "set": "Paradox Rift",
+    "set": "Paldea Evolved",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 299.99,
-    "gapPct": 18.63,
+    "baseline_price": 524.68,
+    "gapPct": 16.73,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
