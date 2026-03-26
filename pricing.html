@@ -168,7 +168,7 @@
                 <li>Curated deals from sellers with good reputation</li>
                 <li>Filter by set, product type, and gap</li>
             </ul>
-            <button class="tier-cta" onclick="openStartergate()">Unlock Starter</button>
+            <button class="tier-cta" onclick="handleStarterClick()">Unlock Starter</button>
         </div>
     </div>
     
@@ -477,8 +477,22 @@
         const STORAGE_KEY = 'starter_unlocked';
         const DASHBOARD_URL = 'dashboard/index.html';
 
+        function isStarterUnlocked() {
+            return localStorage.getItem(STORAGE_KEY) === 'true';
+        }
+
         function unlockStarter() {
             localStorage.setItem(STORAGE_KEY, 'true');
+        }
+
+        function handleStarterClick() {
+            if (isStarterUnlocked()) {
+                // Already unlocked, go directly to dashboard
+                window.location.href = DASHBOARD_URL;
+            } else {
+                // Show email gate modal
+                openStartergate();
+            }
         }
 
         function openStartergate() {
