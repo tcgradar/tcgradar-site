@@ -1,22 +1,21 @@
 {
-  "timestamp": "2026-03-26T13:31:58.012843+00:00",
+  "timestamp": "2026-03-26T14:01:46.997572+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 5,
+  "total_deals": 4,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5
+      "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 4,
-      "booster_bundle": 1
+      "booster_box": 4
     },
     "by_gap_bucket": {
-      "10_to_19": 5
+      "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -26,14 +25,12 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals",
       "Paldea Evolved",
       "Paradox Rift",
       "Temporal Forces"
     ],
     "product_type": [
-      "booster_box",
-      "booster_bundle"
+      "booster_box"
     ],
     "gap_bucket": [
       "10_to_19"
@@ -55,13 +52,13 @@
     },
     {
       "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUSTAyj836vKGEDLa%2Bc%2B4qupemCVXHLG4gLoaw%2B73Dc9%2FFIZy%2BTOz9GUbBvJiOoPSwj2iyRy%2Biv73TtqQPlQV03wwpCON%2FVon4Fu67P0tGb%2BP0kyHwXvvHX8fE7mThZ4%2FTHcdLGa2VuzddtwGPoQIDydsrx%2F9TQvdcbI%2BbwpccDPDdPr62sqapNy2HrGp5X8prs%3D",
+      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUTuKVi0rgk5vj801EmISeNWtrgiV2l8m4HSPPuNRNkq6o31%2FQ0PjWgPAftjgOkXNFtsJAOElYmi6HhDuHiuEZJ%2BJr2dMyARPbS75jCcWzQiIY1PSnT1Zqs3nlpI4Ovn%2FkjolYDUkJBIV2rJBWrVLB9fdtAZpI9WSqvelGnhfOoTAIebGlrixbfibnE80sS495c%3D",
       "franchise": "pokemon",
       "set": "Paldea Evolved",
       "product_type": "booster_box",
       "price": 435.4,
-      "baseline_price": 520.99,
-      "gapPct": 16.43,
+      "baseline_price": 520.94,
+      "gapPct": 16.42,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -75,19 +72,6 @@
       "price": 253.42,
       "baseline_price": 299.99,
       "gapPct": 15.52,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
-      "url": "https://www.ebay.com/itm/287232382923?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e06257cb:g:G-gAAeSwjr1pxCrz",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 49.99,
-      "baseline_price": 58.0,
-      "gapPct": 13.81,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
