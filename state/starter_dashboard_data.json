@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-26T16:01:56.963956+00:00",
+  "timestamp": "2026-03-26T16:32:18.719640+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -75,8 +75,8 @@
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
       "price": 49.99,
-      "baseline_price": 58.5,
-      "gapPct": 14.55,
+      "baseline_price": 59.0,
+      "gapPct": 15.27,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -95,19 +95,6 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed",
-      "url": "https://www.ebay.com/itm/168245137223?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item272c310f47:g:k8kAAeSwQLFpuyp2",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "booster_box",
-      "price": 313.94,
-      "baseline_price": 359.98,
-      "gapPct": 12.79,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
       "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
       "franchise": "pokemon",
@@ -116,6 +103,19 @@
       "price": 72.0,
       "baseline_price": 82.5,
       "gapPct": 12.73,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed",
+      "url": "https://www.ebay.com/itm/168245137223?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item272c310f47:g:k8kAAeSwQLFpuyp2",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "booster_box",
+      "price": 313.94,
+      "baseline_price": 354.99,
+      "gapPct": 11.56,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
