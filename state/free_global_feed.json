@@ -26,6 +26,6 @@
   "selection_reason": "weakest_qualifying_deal_gap_15.5pct",
   "next_refresh_hours": 4,
   "total_safe_deals_available": 6,
-  "_refresh_locked": false,
+  "_refresh_locked": true,
   "_next_refresh_in_hours": 4
 }

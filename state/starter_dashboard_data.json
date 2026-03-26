@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-26T22:31:57.116091+00:00",
+  "timestamp": "2026-03-26T23:01:55.544091+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -75,8 +75,8 @@
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
       "price": 49.99,
-      "baseline_price": 58.0,
-      "gapPct": 13.81,
+      "baseline_price": 59.0,
+      "gapPct": 15.27,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
