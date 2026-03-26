@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-03-26T11:31:59.365618+00:00",
+  "timestamp": "2026-03-26T12:01:58.696640+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 5,
+  "total_deals": 4,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5
+      "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 4,
+      "booster_box": 3,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 5
+      "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -27,7 +27,6 @@
     "set": [
       "Battle Styles",
       "Destined Rivals",
-      "Paldea Evolved",
       "Paradox Rift",
       "Temporal Forces"
     ],
@@ -54,6 +53,19 @@
       "seller_trust": "HIGH"
     },
     {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 260.66,
+      "baseline_price": 320.0,
+      "gapPct": 18.54,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
       "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
       "url": "https://www.ebay.com/itm/177978930861?_skw=pokemon+Temporal+Forces+booster+box&hash=item29705ef6ad:g:wsgAAeSwgidpvnL3",
       "franchise": "pokemon",
@@ -67,40 +79,14 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUQNYX8l%2B4UE5SsErCS7E6J6btdqpcQVuIGky9n7ytcxspsjJUo1lqMkwmArU3d7q6oqki%2F5%2B7rkRqfps0AEiQS8DBraYuWkkhpWHiOwG3nQa8cQL1ct78trLEkVEnFfdtKsQ4J%2F79QCxDf1TYlEn6YjtSwKD4%2FgmiLVtqJx%2BzUqEFM3KNxspfeBYyAKZfN5iIY%3D",
-      "franchise": "pokemon",
-      "set": "Paldea Evolved",
-      "product_type": "booster_box",
-      "price": 435.4,
-      "baseline_price": 520.94,
-      "gapPct": 16.42,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
       "url": "https://www.ebay.com/itm/287232382923?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e06257cb:g:G-gAAeSwjr1pxCrz",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
       "price": 49.99,
-      "baseline_price": 58.48,
-      "gapPct": 14.52,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 260.66,
-      "baseline_price": 300.47,
-      "gapPct": 13.25,
+      "baseline_price": 57.99,
+      "gapPct": 13.8,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
