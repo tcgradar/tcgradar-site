@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-03-25T23:31:57.314315+00:00",
+  "timestamp": "2026-03-26T00:01:57.890207+00:00",
   "tier": "starter",
-  "total_deals": 6,
-  "all_deals_count": 6,
+  "total_deals": 5,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 6
+      "pokemon": 5
     },
     "by_product_type": {
-      "booster_box": 5,
+      "booster_box": 4,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 6
+      "10_to_19": 5
     }
   },
   "trust_counts": {
-    "HIGH": 6,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -81,7 +81,7 @@
     },
     {
       "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulURcroihYCETa1DLEaBy4Yqt%2FsYpui029b9P4xSds8ZwwOOaWdDBrYKxexrvYEtRrQYS6wlLWiXDCvUCjjM8V2Pj%2Fm7PwqdGVQ1NNzuKRktzRaNc%2FojhV3UiAEEpF%2BVBqRB%2BCLEKkkNhJo70e%2BW5nrTpKTOGaP5CwKQjBAK%2FD%2F8lOE%2FvjK%2FkRbuTUrLl%2BtzYXBg%3D",
+      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulURfWI%2FWHZubVahep8p8SGOqYPvuS%2BI0doSrODiziuHPg4nCkEL031HVTuMNn%2FnqrMHUSnxyREKeLkLKR6RvhvSSX2zKUCJGk3ZP0Zyr5lAWbfXKSQOODtNBfXIysU0lsKlfxPJMQnSjhod1RmcDg6dJhCbvtn8cwJcW2BoFP%2BqC%2BhxghyOgDEB8PlCvttwssA0%3D",
       "franchise": "pokemon",
       "set": "Paldea Evolved",
       "product_type": "booster_box",
@@ -99,21 +99,8 @@
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
       "price": 49.99,
-      "baseline_price": 58.98,
-      "gapPct": 15.24,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "READ Pokemon Destined Rivals Booster Box - 36 Packs (Factory Sealed)",
-      "url": "https://www.ebay.com/itm/227272572923?_skw=pokemon+Destined+Rivals+booster+box&hash=item34ea803ffb:g:r2kAAeSw1Vppw91F",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 525.0,
-      "baseline_price": 599.99,
-      "gapPct": 12.5,
+      "baseline_price": 58.0,
+      "gapPct": 13.81,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
