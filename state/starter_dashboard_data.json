@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-26T03:01:55.878593+00:00",
+  "timestamp": "2026-03-26T03:31:59.323613+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -55,13 +55,13 @@
     },
     {
       "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUQrOb5vIobSkSQa7%2BJLsod54lUrOU0cIye7%2FpV5Zjh4cVNBnI4rnW9PZ9mRdVbE7NYJXyedNKb5aX%2B1CnfcHkpziyPkvYjcrdFmkAt%2FIMsb9YjmV1Yh4g4CTPJkJszWRHXNNHy79Q46cGXLUAezc6o38wjuuSmurtZtpkuRj3mtdhjDeyhkr%2FUqmRWS0Bl2CP8%3D",
+      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUTRzNn10zq82SeFfXsJgm4MOJ9qlMA7DxUMt3b47T8QYo%2BreYENudXeX7aeKxUrQOL211nadbAbZPkjVJrFaH%2Bbt220fX%2FWevyox2rrIoTn9MZWqv8qsvAR023ERR5dSpsGpeQxom4p2IqmywEWl%2FLSFQdRPve%2BKg1NcPEFy2DIo5vahROp3lsNMqztdA548DM%3D",
       "franchise": "pokemon",
       "set": "Paldea Evolved",
       "product_type": "booster_box",
       "price": 436.9,
-      "baseline_price": 524.68,
-      "gapPct": 16.73,
+      "baseline_price": 524.64,
+      "gapPct": 16.72,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -99,8 +99,8 @@
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
       "price": 49.99,
-      "baseline_price": 58.48,
-      "gapPct": 14.52,
+      "baseline_price": 58.95,
+      "gapPct": 15.2,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
