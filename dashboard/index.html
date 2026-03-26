@@ -330,6 +330,14 @@
     </style>
 </head>
 <body>
+    <script>
+        // Starter Gate Guard - Redirect if not unlocked
+        (function() {
+            if (localStorage.getItem('starter_unlocked') !== 'true') {
+                window.location.replace('/?unlock=starter');
+            }
+        })();
+    </script>
     <div class="container">
         <header>
             <h1>Starter dashboard</h1>

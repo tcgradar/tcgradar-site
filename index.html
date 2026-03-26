@@ -804,6 +804,15 @@
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape') closeEmailgate();
         });
+
+        // Auto-open gate if redirected from dashboard guard
+        (function() {
+            const params = new URLSearchParams(window.location.search);
+            if (params.get('unlock') === 'starter') {
+                // Small delay to let page render
+                setTimeout(() => openEmailgate(), 100);
+            }
+        })();
     </script>
 
     <script>
