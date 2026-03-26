@@ -1,22 +1,23 @@
 {
-  "timestamp": "2026-03-26T15:31:58.960476+00:00",
+  "timestamp": "2026-03-26T16:01:56.963956+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 5,
+  "total_deals": 6,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5
+      "pokemon": 6
     },
     "by_product_type": {
       "booster_box": 4,
-      "booster_bundle": 1
+      "booster_bundle": 1,
+      "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 5
+      "10_to_19": 6
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -27,13 +28,14 @@
     "set": [
       "Battle Styles",
       "Destined Rivals",
-      "Paldea Evolved",
       "Paradox Rift",
-      "Temporal Forces"
+      "Temporal Forces",
+      "Twilight Masquerade"
     ],
     "product_type": [
       "booster_box",
-      "booster_bundle"
+      "booster_bundle",
+      "etb"
     ],
     "gap_bucket": [
       "10_to_19"
@@ -49,19 +51,6 @@
       "price": 243.27,
       "baseline_price": 299.99,
       "gapPct": 18.91,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUQzVIRupldptKOVs2gOhit%2B1whWMCrtJgIsDI9kIS%2BTmPO1Nknyg5RjW6n8xZETlW9sHFw1hYJNdUoDb76h99AK2W7qOi6w5tPAPUTP%2F78YQu91FS2HuPldw6nmXwiAQculsPKxXP%2BSsxM9b%2BFpMFiNEzy%2FvcS0dBYLdgMVV82cnBJbt7ZOS9UpGQhsLcIgby8%3D",
-      "franchise": "pokemon",
-      "set": "Paldea Evolved",
-      "product_type": "booster_box",
-      "price": 435.4,
-      "baseline_price": 520.97,
-      "gapPct": 16.43,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -99,8 +88,34 @@
       "set": "Battle Styles",
       "product_type": "booster_box",
       "price": 260.66,
-      "baseline_price": 300.47,
-      "gapPct": 13.25,
+      "baseline_price": 304.11,
+      "gapPct": 14.29,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed",
+      "url": "https://www.ebay.com/itm/168245137223?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item272c310f47:g:k8kAAeSwQLFpuyp2",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "booster_box",
+      "price": 313.94,
+      "baseline_price": 359.98,
+      "gapPct": 12.79,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
+      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 72.0,
+      "baseline_price": 82.5,
+      "gapPct": 12.73,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
