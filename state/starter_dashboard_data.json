@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-26T12:31:55.627921+00:00",
+  "timestamp": "2026-03-26T13:02:00.551858+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -54,34 +54,8 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
-      "url": "https://www.ebay.com/itm/177978930861?_skw=pokemon+Temporal+Forces+booster+box&hash=item29705ef6ad:g:wsgAAeSwgidpvnL3",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 249.7,
-      "baseline_price": 299.99,
-      "gapPct": 16.76,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 260.66,
-      "baseline_price": 312.5,
-      "gapPct": 16.59,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulURh%2FwJuSOaxFdALGCAEVxLyZaV1OR9nlf797jUErw6n9%2F9YPXL3yj2ooGwVB5s7Os%2BckWUiIGXzRkUT7qzWfz5Ms%2BagSjArT6IWVt8girFSnKC1Ul8qTGOxJtVNQaIDCVn%2F5T5nac4%2B2ke0sA0OJvqHNHB8Zc5QQU41bHpf1Q%2BHFRPkdrdtF8eKzVe5HQ4Zcac%3D",
+      "url": "https://www.ebay.com/itm/257420296244?_skw=pokemon+Paldea+Evolved+booster+box&hash=item3bef720034:g:KgAAAeSwzT9pwInW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGY7Kcngxtcu7fuOWj%2BP6x8I5hsNZuwpOn9tSWKPGO1FEpDkdCkZytte45XZIbKmUZDY9cc35oNjMqcOWO2sUB8a%2FFGOE9UVj0C5hRaEteolUvxtq%2BbuRDs2eMVEKKjulUTDUhEE2iAsMsu0XpgiBI8g6pyTslRP5e542J3Bpwj2hHVEw1AfS9HLNjm%2FVRGit6S0rHvNSHu6CtB3svrbU512VAd7NJmXl9Xgh6c%2BmhnmDsFfmVFIn4UBhcu3bMEqmjVM%2BFA%2FNbn4wExSS6GZUJude7QqmGc5svwc2v0FiIrXDZFpGrrgpvzgVMbADRdjptk%3D",
       "franchise": "pokemon",
       "set": "Paldea Evolved",
       "product_type": "booster_box",
@@ -93,14 +67,40 @@
       "seller_trust": "HIGH"
     },
     {
+      "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
+      "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 253.42,
+      "baseline_price": 299.99,
+      "gapPct": 15.52,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 260.66,
+      "baseline_price": 305.24,
+      "gapPct": 14.6,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
       "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
       "url": "https://www.ebay.com/itm/287232382923?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e06257cb:g:G-gAAeSwjr1pxCrz",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
       "price": 49.99,
-      "baseline_price": 57.99,
-      "gapPct": 13.8,
+      "baseline_price": 58.45,
+      "gapPct": 14.47,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
