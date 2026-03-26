@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T14:01:47.030471+00:00",
+  "updated_at": "2026-03-26T14:31:57.076851+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
@@ -10,22 +10,22 @@
     "set": "Paldea Evolved",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 520.99,
-    "gapPct": 16.43,
+    "baseline_price": 520.94,
+    "gapPct": 16.42,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
-    "price": 49.99,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 189,
+    "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
+    "price": 435.4,
+    "seller_rating": 99.7,
+    "seller_feedback_count": 516,
     "franchise": "pokemon",
-    "set": "Destined Rivals",
-    "product_type": "booster_bundle",
+    "set": "Paldea Evolved",
+    "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 58.0,
-    "gapPct": 13.81,
+    "baseline_price": 520.99,
+    "gapPct": 16.43,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
