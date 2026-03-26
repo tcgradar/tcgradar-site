@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-03-26T21:31:57.438344+00:00",
+  "updated_at": "2026-03-26T22:01:55.718123+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
-    "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
-    "price": 49.99,
+    "title": "Pokemon Destined Rivals SV10 Booster Bundle",
+    "price": 45.0,
     "seller_rating": 100.0,
-    "seller_feedback_count": 189,
+    "seller_feedback_count": 396,
     "franchise": "pokemon",
     "set": "Destined Rivals",
     "product_type": "booster_bundle",
     "confidence": "high",
     "baseline_price": 58.0,
-    "gapPct": 13.81,
+    "gapPct": 22.41,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
