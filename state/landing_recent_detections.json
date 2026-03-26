@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26T20:31:55.767818+00:00",
+  "updated_at": "2026-03-26T21:01:58.722551+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed",
@@ -24,8 +24,8 @@
     "set": "Paradox Rift",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 299.99,
-    "gapPct": 18.91,
+    "baseline_price": 299.5,
+    "gapPct": 18.77,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
