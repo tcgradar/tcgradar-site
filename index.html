@@ -309,6 +309,8 @@
             font-weight: bold;
             text-decoration: none;
             transition: all 0.2s;
+            cursor: pointer;
+            border: none;
         }
 
         .cta-btn.primary {
@@ -338,6 +340,86 @@
         .cta-btn.tertiary:hover {
             border-color: #666;
             color: #aaa;
+        }
+
+        /* Email Gate Modal */
+        .emailgate-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.7);
+            z-index: 10001;
+            display: none;
+            align-items: center;
+            justify-content: center;
+        }
+        .emailgate-overlay.active {
+            display: flex;
+        }
+        .emailgate-modal {
+            max-width: 420px;
+            width: 90%;
+            background: #1a1a2e;
+            border-radius: 16px;
+            padding: 32px;
+            border: 1px solid #333;
+            text-align: center;
+        }
+        .emailgate-modal h2 {
+            color: #ffd700;
+            margin-bottom: 8px;
+            font-size: 1.5rem;
+        }
+        .emailgate-modal .subtitle {
+            color: #888;
+            font-size: 0.95rem;
+            margin-bottom: 24px;
+        }
+        .emailgate-field {
+            margin-bottom: 20px;
+            text-align: left;
+        }
+        .emailgate-field input {
+            width: 100%;
+            padding: 14px 16px;
+            background: #252540;
+            border: 1px solid #444;
+            border-radius: 8px;
+            color: #e0e0e0;
+            font-size: 1rem;
+        }
+        .emailgate-field input:focus {
+            outline: none;
+            border-color: #ffd700;
+        }
+        .emailgate-field input::placeholder {
+            color: #666;
+        }
+        .emailgate-submit {
+            width: 100%;
+            padding: 14px;
+            background: #ffd700;
+            color: #0f0f23;
+            border: none;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: opacity 0.2s;
+        }
+        .emailgate-submit:hover {
+            background: #ffed4a;
+        }
+        .emailgate-submit:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        .emailgate-note {
+            color: #666;
+            font-size: 0.8rem;
+            margin-top: 16px;
         }
 
         footer {
@@ -401,8 +483,23 @@
 
         <!-- CTA -->
         <section class="cta-section">
-            <a href="pricing.html" class="cta-btn primary">Choose your plan</a>
+            <button class="cta-btn primary" onclick="handleStarterClick()">Unlock full dashboard</button>
         </section>
+
+        <!-- Email Gate Modal -->
+        <div class="emailgate-overlay" id="emailgateOverlay" onclick="closeEmailgateOnOverlay(event)">
+            <div class="emailgate-modal" onclick="event.stopPropagation()">
+                <h2>Unlock full deal dashboard</h2>
+                <p class="subtitle">Free during beta</p>
+                <form id="emailgateForm" onsubmit="submitEmailgate(event)">
+                    <div class="emailgate-field">
+                        <input type="email" id="emailgateEmail" name="email" placeholder="Enter your email" required>
+                    </div>
+                    <button type="submit" class="emailgate-submit" id="emailgateSubmit">Continue</button>
+                </form>
+                <p class="emailgate-note">No spam. Only important updates.</p>
+            </div>
+        </div>
 
         <footer>
             <p>Automated TCG deal detection</p>
@@ -628,6 +725,84 @@
         // ESC to close
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape') closeFeedback();
+        });
+
+        // Email Gate Functions
+        const STORAGE_KEY = 'starter_unlocked';
+        const DASHBOARD_URL = 'dashboard/free.html';
+
+        function isStarterUnlocked() {
+            return localStorage.getItem(STORAGE_KEY) === 'true';
+        }
+
+        function unlockStarter() {
+            localStorage.setItem(STORAGE_KEY, 'true');
+        }
+
+        function handleStarterClick() {
+            if (isStarterUnlocked()) {
+                // Already unlocked, go directly to dashboard
+                window.location.href = DASHBOARD_URL;
+            } else {
+                // Show email gate modal
+                openEmailgate();
+            }
+        }
+
+        function openEmailgate() {
+            document.getElementById('emailgateOverlay').classList.add('active');
+            document.body.style.overflow = 'hidden';
+            // Focus email input
+            setTimeout(() => document.getElementById('emailgateEmail').focus(), 100);
+        }
+
+        function closeEmailgate() {
+            document.getElementById('emailgateOverlay').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        function closeEmailgateOnOverlay(event) {
+            if (event.target === document.getElementById('emailgateOverlay')) {
+                closeEmailgate();
+            }
+        }
+
+        async function submitEmailgate(event) {
+            event.preventDefault();
+            
+            const form = document.getElementById('emailgateForm');
+            const submitBtn = document.getElementById('emailgateSubmit');
+            const email = document.getElementById('emailgateEmail').value.trim();
+            
+            if (!email) return;
+
+            // Show loading state
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Unlocking...';
+
+            // Try to send to Formspree (non-blocking)
+            try {
+                await fetch('https://formspree.io/f/xjgpkwvy', {
+                    method: 'POST',
+                    headers: { 'Accept': 'application/json' },
+                    body: new FormData(form)
+                });
+            } catch (error) {
+                // Formspree failed - log locally as fallback
+                console.log('Email capture (fallback):', email);
+            }
+
+            // Mark as unlocked (always happens, even if Formspree fails)
+            unlockStarter();
+            
+            // Close modal and redirect
+            closeEmailgate();
+            window.location.href = DASHBOARD_URL;
+        }
+
+        // ESC to close email gate
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeEmailgate();
         });
     </script>
 
