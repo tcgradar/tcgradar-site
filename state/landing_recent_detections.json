@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-03-26T05:01:59.730633+00:00",
+  "updated_at": "2026-03-26T05:32:01.420611+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "Pokemon Paldea Evolved Booster Box (36 Packs) - New & Sealed (HOLE IN SEAL)",
-    "price": 436.9,
+    "price": 435.4,
     "seller_rating": 99.7,
     "seller_feedback_count": 515,
     "franchise": "pokemon",
     "set": "Paldea Evolved",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 524.64,
-    "gapPct": 16.72,
+    "baseline_price": 520.94,
+    "gapPct": 16.42,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
@@ -24,7 +24,7 @@
     "set": "Paldea Evolved",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 524.62,
+    "baseline_price": 524.64,
     "gapPct": 16.72,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
