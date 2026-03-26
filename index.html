@@ -483,7 +483,7 @@
 
         <!-- CTA -->
         <section class="cta-section">
-            <button class="cta-btn primary" onclick="handleStarterClick()">Unlock full dashboard</button>
+            <a href="pricing.html" class="cta-btn primary">View plans</a>
         </section>
 
         <!-- Email Gate Modal -->
@@ -809,8 +809,8 @@
         (function() {
             const params = new URLSearchParams(window.location.search);
             if (params.get('unlock') === 'starter') {
-                // Small delay to let page render
-                setTimeout(() => openEmailgate(), 100);
+                // Redirect to pricing page for unlock
+                window.location.replace('pricing.html?unlock=starter');
             }
         })();
     </script>

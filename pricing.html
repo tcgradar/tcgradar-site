@@ -168,7 +168,7 @@
                 <li>Curated deals from sellers with good reputation</li>
                 <li>Filter by set, product type, and gap</li>
             </ul>
-            <a href="dashboard/" class="tier-cta">Open dashboard</a>
+            <button class="tier-cta" onclick="openStarterGate()">Unlock Starter</button>
         </div>
     </div>
     
@@ -374,6 +374,169 @@
             }
         }
         document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeFeedback(); });
+    </script>
+
+    <!-- Starter Gate Modal -->
+    <style>
+        .startergate-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0,0,0,0.7);
+            z-index: 10001;
+            display: none;
+            align-items: center;
+            justify-content: center;
+        }
+        .startergate-overlay.active {
+            display: flex;
+        }
+        .startergate-modal {
+            max-width: 420px;
+            width: 90%;
+            background: #1a1a2e;
+            border-radius: 16px;
+            padding: 32px;
+            border: 1px solid #333;
+            text-align: center;
+        }
+        .startergate-modal h2 {
+            color: #ffd700;
+            margin-bottom: 8px;
+            font-size: 1.5rem;
+        }
+        .startergate-modal .subtitle {
+            color: #888;
+            font-size: 0.95rem;
+            margin-bottom: 24px;
+        }
+        .startergate-field {
+            margin-bottom: 20px;
+            text-align: left;
+        }
+        .startergate-field input {
+            width: 100%;
+            padding: 14px 16px;
+            background: #252540;
+            border: 1px solid #444;
+            border-radius: 8px;
+            color: #e0e0e0;
+            font-size: 1rem;
+        }
+        .startergate-field input:focus {
+            outline: none;
+            border-color: #ffd700;
+        }
+        .startergate-field input::placeholder {
+            color: #666;
+        }
+        .startergate-submit {
+            width: 100%;
+            padding: 14px;
+            background: #ffd700;
+            color: #0f0f23;
+            border: none;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: opacity 0.2s;
+        }
+        .startergate-submit:hover {
+            background: #ffed4a;
+        }
+        .startergate-submit:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+        .startergate-note {
+            color: #666;
+            font-size: 0.8rem;
+            margin-top: 16px;
+        }
+    </style>
+
+    <div class="startergate-overlay" id="startergateOverlay" onclick="closeStartergateOnOverlay(event)">
+        <div class="startergate-modal" onclick="event.stopPropagation()">
+            <h2>Unlock full deal dashboard</h2>
+            <p class="subtitle">Free during beta</p>
+            <form id="startergateForm" onsubmit="submitStartergate(event)">
+                <div class="startergate-field">
+                    <input type="email" id="startergateEmail" name="email" placeholder="Enter your email" required>
+                </div>
+                <button type="submit" class="startergate-submit" id="startergateSubmit">Unlock dashboard</button>
+            </form>
+            <p class="startergate-note">No spam. Only important updates.</p>
+        </div>
+    </div>
+
+    <script>
+        // Starter Gate Functions
+        const STORAGE_KEY = 'starter_unlocked';
+        const DASHBOARD_URL = 'dashboard/index.html';
+
+        function unlockStarter() {
+            localStorage.setItem(STORAGE_KEY, 'true');
+        }
+
+        function openStartergate() {
+            document.getElementById('startergateOverlay').classList.add('active');
+            document.body.style.overflow = 'hidden';
+            setTimeout(() => document.getElementById('startergateEmail').focus(), 100);
+        }
+
+        function closeStartergate() {
+            document.getElementById('startergateOverlay').classList.remove('active');
+            document.body.style.overflow = '';
+        }
+
+        function closeStartergateOnOverlay(event) {
+            if (event.target === document.getElementById('startergateOverlay')) {
+                closeStartergate();
+            }
+        }
+
+        async function submitStartergate(event) {
+            event.preventDefault();
+            
+            const submitBtn = document.getElementById('startergateSubmit');
+            const email = document.getElementById('startergateEmail').value.trim();
+            
+            if (!email) return;
+
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Unlocking...';
+
+            // Try to send to Formspree (non-blocking)
+            try {
+                await fetch('https://formspree.io/f/xjgpkwvy', {
+                    method: 'POST',
+                    headers: { 'Accept': 'application/json' },
+                    body: new FormData(document.getElementById('startergateForm'))
+                });
+            } catch (error) {
+                console.log('Email capture (fallback):', email);
+            }
+
+            // Mark as unlocked and redirect
+            unlockStarter();
+            window.location.href = DASHBOARD_URL;
+        }
+
+        // ESC to close
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeStartergate();
+        });
+
+        // Auto-open if redirected from dashboard guard
+        (function() {
+            const params = new URLSearchParams(window.location.search);
+            if (params.get('unlock') === 'starter') {
+                setTimeout(() => openStartergate(), 100);
+            }
+        })();
     </script>
 </body>
 </html>
