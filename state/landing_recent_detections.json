@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T20:32:08.091926+00:00",
+  "updated_at": "2026-03-27T21:01:56.746699+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Bundle BRAND NEW SEALED",
@@ -24,8 +24,8 @@
     "set": "Battle Styles",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 315.0,
-    "gapPct": 17.55,
+    "baseline_price": 312.5,
+    "gapPct": 16.89,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
