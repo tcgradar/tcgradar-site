@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T12:02:03.106777+00:00",
+  "timestamp": "2026-03-27T12:32:07.321881+00:00",
   "tier": "starter",
   "total_deals": 4,
   "all_deals_count": 4,
@@ -44,9 +44,11 @@
       "set": "Paradox Rift",
       "product_type": "booster_box",
       "price": 242.63,
+      "shipping_cost": 0.0,
       "baseline_price": 299.99,
       "gapPct": 19.12,
       "confidence": "high",
+      "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
     },
@@ -57,9 +59,11 @@
       "set": "Temporal Forces",
       "product_type": "booster_box",
       "price": 252.51,
+      "shipping_cost": 0.0,
       "baseline_price": 299.99,
       "gapPct": 15.83,
       "confidence": "high",
+      "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
     },
@@ -70,9 +74,11 @@
       "set": "Battle Styles",
       "product_type": "booster_box",
       "price": 259.72,
+      "shipping_cost": 0.0,
       "baseline_price": 303.01,
       "gapPct": 14.29,
       "confidence": "high",
+      "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
     },
@@ -83,9 +89,11 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 313.12,
-      "baseline_price": 349.99,
-      "gapPct": 10.53,
+      "shipping_cost": 0.0,
+      "baseline_price": 350.0,
+      "gapPct": 10.54,
       "confidence": "high",
+      "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
     }
