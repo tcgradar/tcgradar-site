@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-03-27T19:01:59.404730+00:00",
+  "timestamp": "2026-03-27T19:31:58.763503+00:00",
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 3,
+  "total_deals": 4,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3
+      "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 2,
+      "booster_box": 3,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -27,7 +27,8 @@
     "set": [
       "Battle Styles",
       "Destined Rivals",
-      "Temporal Forces"
+      "Temporal Forces",
+      "Twilight Masquerade"
     ],
     "product_type": [
       "booster_box",
@@ -47,8 +48,8 @@
       "price": 259.72,
       "shipping_cost": 0.0,
       "total_price": 259.72,
-      "baseline_price": 312.5,
-      "gapPct": 16.89,
+      "baseline_price": 315.0,
+      "gapPct": 17.55,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -81,6 +82,22 @@
       "total_price": 250.26,
       "baseline_price": 299.99,
       "gapPct": 16.58,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed",
+      "url": "https://www.ebay.com/itm/168245137223?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item272c310f47:g:k8kAAeSwQLFpuyp2",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "booster_box",
+      "price": 313.12,
+      "shipping_cost": 0.0,
+      "total_price": 313.12,
+      "baseline_price": 349.99,
+      "gapPct": 10.53,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
