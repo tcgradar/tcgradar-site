@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T09:31:55.263948+00:00",
+  "timestamp": "2026-03-27T10:01:53.677575+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -47,8 +47,8 @@
       "set": "Paradox Rift",
       "product_type": "booster_box",
       "price": 242.63,
-      "baseline_price": 299.99,
-      "gapPct": 19.12,
+      "baseline_price": 299.5,
+      "gapPct": 18.99,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
@@ -80,6 +80,19 @@
       "seller_trust": "HIGH"
     },
     {
+      "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
+      "url": "https://www.ebay.com/itm/287232382923?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e06257cb:g:G-gAAeSwjr1pxCrz",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 49.99,
+      "baseline_price": 59.48,
+      "gapPct": 15.95,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
       "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
       "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
       "franchise": "pokemon",
@@ -88,19 +101,6 @@
       "price": 252.51,
       "baseline_price": 299.99,
       "gapPct": 15.83,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
-      "url": "https://www.ebay.com/itm/287232382923?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e06257cb:g:G-gAAeSwjr1pxCrz",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 49.99,
-      "baseline_price": 59.0,
-      "gapPct": 15.27,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
