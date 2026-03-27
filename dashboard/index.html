@@ -30,6 +30,25 @@
         "description": "Dashboard with current SAFE deals, filters, and live updates for Pokemon and One Piece products."
     }
     </script>
+    
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZT4WH8K33F"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-ZT4WH8K33F');
+        
+        // Track click_deal event
+        function trackDealClick(source, franchise, productType, gapPct) {
+            gtag('event', 'click_deal', {
+                source: source,
+                franchise: franchise,
+                product_type: productType,
+                gapPct: gapPct
+            });
+        }
+    </script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -605,10 +624,12 @@
                 return;
             }
 
-            tbody.innerHTML = filteredDeals.map(deal => `
+            tbody.innerHTML = filteredDeals.map(deal => {
+                const source = formatSource(deal.url).toLowerCase().includes('ebay') ? 'ebay' : 'retailer';
+                return `
                 <tr>
                     <td class="title-cell">
-                        <a href="${deal.url}" target="_blank" rel="noopener">${deal.title}</a>
+                        <a href="${deal.url}" target="_blank" rel="noopener" onclick="trackDealClick('${source}', '${deal.franchise}', '${deal.product_type}', ${deal.gapPct})" class="deal-link">${deal.title}</a>
                     </td>
                     <td>${formatSource(deal.url)}</td>
                     <td>
@@ -626,7 +647,7 @@
                     <td class="confidence-${deal.confidence}">${deal.confidence ? deal.confidence.charAt(0).toUpperCase() + deal.confidence.slice(1) : 'Low'}</td>
                     <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
-            `).join('');
+            `}).join('');
         }
 
         document.addEventListener('DOMContentLoaded', loadDashboardData);

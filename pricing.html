@@ -30,6 +30,29 @@
         "description": "Access plans for tracking underpriced Pokemon and One Piece sealed products."
     }
     </script>
+    
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZT4WH8K33F"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-ZT4WH8K33F');
+        
+        // Track click_upgrade event
+        function trackUpgradeClick(page) {
+            gtag('event', 'click_upgrade', {
+                page: page
+            });
+        }
+        
+        // Track unlock_starter event
+        function trackUnlockStarter() {
+            gtag('event', 'unlock_starter', {
+                page: 'pricing'
+            });
+        }
+    </script>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         
@@ -486,6 +509,9 @@
         }
 
         function handleStarterClick() {
+            // Track click_upgrade event
+            trackUpgradeClick('pricing');
+            
             if (isStarterUnlocked()) {
                 // Already unlocked, go directly to dashboard
                 window.location.href = DASHBOARD_URL;
@@ -536,6 +562,10 @@
 
             // Mark as unlocked and redirect
             unlockStarter();
+            
+            // Track unlock_starter event
+            trackUnlockStarter();
+            
             window.location.href = DASHBOARD_URL;
         }
 

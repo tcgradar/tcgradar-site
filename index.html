@@ -32,6 +32,23 @@
         "description": "Real-time detection of underpriced Pokemon and One Piece sealed trading card products across marketplaces and retailers."
     }
     </script>
+    
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZT4WH8K33F"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-ZT4WH8K33F');
+        
+        // Track click_upgrade event
+        function trackUpgradeClick(page) {
+            gtag('event', 'click_upgrade', {
+                page: page
+            });
+        }
+    </script>
+    
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -403,7 +420,7 @@
 
         <!-- CTA -->
         <section class="cta-section">
-            <a href="pricing.html" class="cta-btn primary">View plans</a>
+            <a href="pricing.html" class="cta-btn primary" onclick="trackUpgradeClick('index')">View plans</a>
         </section>
 
         <footer>
