@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-03-27T18:32:25.190370+00:00",
+  "updated_at": "2026-03-27T19:01:59.436264+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
+    "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed",
+    "price": 313.12,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 492,
+    "franchise": "pokemon",
+    "set": "Twilight Masquerade",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 350.0,
+    "gapPct": 10.54,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
     "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
     "price": 259.72,
     "seller_rating": 100.0,
@@ -12,20 +26,6 @@
     "confidence": "high",
     "baseline_price": 312.5,
     "gapPct": 16.89,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
-    "title": "POKEMON TCG - TEMPORAL FORCES - BOOSTER BOX (36 Packs) NEW SEALED",
-    "price": 250.26,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 3721,
-    "franchise": "pokemon",
-    "set": "Temporal Forces",
-    "product_type": "booster_box",
-    "confidence": "high",
-    "baseline_price": 299.99,
-    "gapPct": 16.58,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
