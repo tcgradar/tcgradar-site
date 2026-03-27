@@ -399,7 +399,9 @@
             franchiseBadge.className = 'franchise-badge franchise-' + deal.franchise;
 
             document.getElementById('deal-title').textContent = deal.title;
-            document.getElementById('current-price').textContent = '$' + deal.price.toFixed(2);
+            // STEP 58: Use total_price if available, fallback to price
+            const displayPrice = deal.total_price || deal.price;
+            document.getElementById('current-price').textContent = '$' + displayPrice.toFixed(2);
             document.getElementById('baseline-price').textContent = '$' + deal.baseline_price.toFixed(2);
             document.getElementById('gap-percent').textContent = deal.gapPct.toFixed(1) + '%';
             document.getElementById('deal-set').textContent = deal.set;

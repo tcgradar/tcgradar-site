@@ -638,7 +638,7 @@
                     <td>${deal.set}</td>
                     <td class="product-type">${formatProductType(deal.product_type)}</td>
                     <td>
-                        <div class="price">$${deal.price.toFixed(2)}</div>
+                        <div class="price">$${(deal.total_price || deal.price).toFixed(2)}</div>
                         <div class="baseline-price">$${deal.baseline_price.toFixed(2)}</div>
                     </td>
                     <td>
