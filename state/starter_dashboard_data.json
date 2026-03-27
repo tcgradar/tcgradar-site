@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T07:31:53.205148+00:00",
+  "timestamp": "2026-03-27T08:01:52.848268+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -112,8 +112,8 @@
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 313.12,
-      "baseline_price": 350.0,
-      "gapPct": 10.54,
+      "baseline_price": 349.99,
+      "gapPct": 10.53,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
