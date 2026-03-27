@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-03-27T16:01:49.103781+00:00",
+  "timestamp": "2026-03-27T16:31:57.856551+00:00",
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 3,
+  "total_deals": 4,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3
+      "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 2,
+      "booster_box": 3,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -27,6 +27,7 @@
     "set": [
       "Battle Styles",
       "Destined Rivals",
+      "Temporal Forces",
       "Twilight Masquerade"
     ],
     "product_type": [
@@ -48,6 +49,21 @@
       "shipping_cost": 0.0,
       "baseline_price": 312.5,
       "gapPct": 16.89,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "POKEMON TCG - TEMPORAL FORCES - BOOSTER BOX (36 Packs) NEW SEALED",
+      "url": "https://www.ebay.com/itm/206171538195?_skw=pokemon+Temporal+Forces+booster+box&hash=item3000c80313:g:eroAAeSwhCRpwD4F",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 250.26,
+      "shipping_cost": 0.0,
+      "baseline_price": 299.99,
+      "gapPct": 16.58,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
