@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-03-27T15:31:56.944371+00:00",
+  "timestamp": "2026-03-27T16:01:49.103781+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 5,
+  "total_deals": 3,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 4,
+      "booster_box": 2,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 5
+      "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -27,8 +27,6 @@
     "set": [
       "Battle Styles",
       "Destined Rivals",
-      "Paradox Rift",
-      "Temporal Forces",
       "Twilight Masquerade"
     ],
     "product_type": [
@@ -41,21 +39,6 @@
   },
   "deals": [
     {
-      "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed - small tear #1",
-      "url": "https://www.ebay.com/itm/267618807205?_skw=pokemon+Paradox+Rift+booster+box&hash=item3e4f52eda5:g:apwAAeSwYFppwvST",
-      "franchise": "pokemon",
-      "set": "Paradox Rift",
-      "product_type": "booster_box",
-      "price": 242.63,
-      "shipping_cost": 0.0,
-      "baseline_price": 299.99,
-      "gapPct": 19.12,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
       "franchise": "pokemon",
@@ -65,21 +48,6 @@
       "shipping_cost": 0.0,
       "baseline_price": 312.5,
       "gapPct": 16.89,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
-      "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 252.51,
-      "shipping_cost": 0.0,
-      "baseline_price": 299.99,
-      "gapPct": 15.83,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -108,8 +76,8 @@
       "product_type": "booster_box",
       "price": 313.12,
       "shipping_cost": 0.0,
-      "baseline_price": 348.28,
-      "gapPct": 10.1,
+      "baseline_price": 349.99,
+      "gapPct": 10.53,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-27T15:31:56.977914+00:00",
-  "source": "active_deals",
+  "updated_at": "2026-03-27T16:01:49.136837+00:00",
+  "source": "previous_scan",
   "starter_quality_deal": {
     "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed - small tear #1",
     "price": 242.63,
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-    "price": 259.72,
+    "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
+    "price": 252.51,
     "seller_rating": 100.0,
-    "seller_feedback_count": 600,
+    "seller_feedback_count": 236,
     "franchise": "pokemon",
-    "set": "Battle Styles",
+    "set": "Temporal Forces",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 312.5,
-    "gapPct": 16.89,
+    "baseline_price": 299.99,
+    "gapPct": 15.83,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
