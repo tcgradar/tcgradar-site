@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-03-27T08:01:52.879364+00:00",
+  "updated_at": "2026-03-27T08:31:53.690998+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
-    "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-    "price": 72.0,
-    "seller_rating": 99.7,
-    "seller_feedback_count": 523,
-    "franchise": "pokemon",
-    "set": "Twilight Masquerade",
-    "product_type": "etb",
-    "confidence": "high",
-    "baseline_price": 85.0,
-    "gapPct": 15.29,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
     "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed - small tear #1",
     "price": 242.63,
     "seller_rating": 100.0,
@@ -26,6 +12,20 @@
     "confidence": "high",
     "baseline_price": 299.99,
     "gapPct": 19.12,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
+    "title": "Pokemon DESTINED RIVALS SV10 Booster Box 36 packs - FACTORY SEALED",
+    "price": 500.0,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 572,
+    "franchise": "pokemon",
+    "set": "Destined Rivals",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 599.0,
+    "gapPct": 16.53,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
