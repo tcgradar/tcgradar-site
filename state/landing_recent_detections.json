@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T10:01:53.708834+00:00",
+  "updated_at": "2026-03-27T10:31:59.759909+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed - small tear #1",
@@ -10,8 +10,8 @@
     "set": "Paradox Rift",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 299.5,
-    "gapPct": 18.99,
+    "baseline_price": 299.99,
+    "gapPct": 19.12,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },

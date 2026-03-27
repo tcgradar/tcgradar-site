@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T10:01:53.677575+00:00",
+  "timestamp": "2026-03-27T10:31:59.728493+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -47,8 +47,8 @@
       "set": "Paradox Rift",
       "product_type": "booster_box",
       "price": 242.63,
-      "baseline_price": 299.5,
-      "gapPct": 18.99,
+      "baseline_price": 299.99,
+      "gapPct": 19.12,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
