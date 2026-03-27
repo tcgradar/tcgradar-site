@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T02:31:57.585389+00:00",
+  "timestamp": "2026-03-27T03:01:55.189438+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -67,6 +67,19 @@
       "seller_trust": "HIGH"
     },
     {
+      "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
+      "url": "https://www.ebay.com/itm/287232382923?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e06257cb:g:G-gAAeSwjr1pxCrz",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 49.99,
+      "baseline_price": 59.0,
+      "gapPct": 15.27,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
       "franchise": "pokemon",
@@ -80,27 +93,14 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
-      "url": "https://www.ebay.com/itm/287232382923?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e06257cb:g:G-gAAeSwjr1pxCrz",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 49.99,
-      "baseline_price": 57.95,
-      "gapPct": 13.74,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed",
       "url": "https://www.ebay.com/itm/168245137223?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item272c310f47:g:k8kAAeSwQLFpuyp2",
       "franchise": "pokemon",
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "price": 313.94,
-      "baseline_price": 354.99,
-      "gapPct": 11.56,
+      "baseline_price": 359.98,
+      "gapPct": 12.79,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
