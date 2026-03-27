@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T15:01:56.276498+00:00",
+  "timestamp": "2026-03-27T15:31:56.944371+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -108,8 +108,8 @@
       "product_type": "booster_box",
       "price": 313.12,
       "shipping_cost": 0.0,
-      "baseline_price": 349.99,
-      "gapPct": 10.53,
+      "baseline_price": 348.28,
+      "gapPct": 10.1,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
