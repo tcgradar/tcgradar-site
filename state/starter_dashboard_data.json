@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T07:01:54.709525+00:00",
+  "timestamp": "2026-03-27T07:31:53.205148+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -8,8 +8,7 @@
       "pokemon": 6
     },
     "by_product_type": {
-      "booster_box": 4,
-      "etb": 1,
+      "booster_box": 5,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
@@ -34,8 +33,7 @@
     ],
     "product_type": [
       "booster_box",
-      "booster_bundle",
-      "etb"
+      "booster_bundle"
     ],
     "gap_bucket": [
       "10_to_19"
@@ -56,6 +54,32 @@
       "seller_trust": "HIGH"
     },
     {
+      "title": "Pokemon DESTINED RIVALS SV10 Booster Box 36 packs - FACTORY SEALED",
+      "url": "https://www.ebay.com/itm/206170552429?_skw=pokemon+Destined+Rivals+booster+box&hash=item3000b8f86d:g:NwAAAeSwbzRpxg5v",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 500.0,
+      "baseline_price": 599.99,
+      "gapPct": 16.67,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 259.72,
+      "baseline_price": 310.0,
+      "gapPct": 16.22,
+      "confidence": "high",
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
       "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
       "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
       "franchise": "pokemon",
@@ -69,40 +93,14 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Scarlet & Violet Twilight Masquerade Elite Trainer Box Pokemon TCG New/Sealed\ud83c\udf43",
-      "url": "https://www.ebay.com/itm/376975517013?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item57c57de555:g:qdkAAeSwI3pplu7i",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 72.0,
-      "baseline_price": 85.0,
-      "gapPct": 15.29,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
       "url": "https://www.ebay.com/itm/287232382923?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e06257cb:g:G-gAAeSwjr1pxCrz",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
       "price": 49.99,
-      "baseline_price": 58.5,
-      "gapPct": 14.55,
-      "confidence": "high",
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 259.72,
-      "baseline_price": 303.01,
-      "gapPct": 14.29,
+      "baseline_price": 59.0,
+      "gapPct": 15.27,
       "confidence": "high",
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH"
