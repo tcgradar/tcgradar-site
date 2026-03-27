@@ -1,23 +1,9 @@
 {
-  "updated_at": "2026-03-27T04:31:55.068277+00:00",
+  "updated_at": "2026-03-27T05:01:56.011929+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
-    "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
-    "price": 49.99,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 189,
-    "franchise": "pokemon",
-    "set": "Destined Rivals",
-    "product_type": "booster_bundle",
-    "confidence": "high",
-    "baseline_price": 59.0,
-    "gapPct": 15.27,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
     "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed - small tear #1",
-    "price": 243.27,
+    "price": 242.63,
     "seller_rating": 100.0,
     "seller_feedback_count": 1130,
     "franchise": "pokemon",
@@ -25,7 +11,21 @@
     "product_type": "booster_box",
     "confidence": "high",
     "baseline_price": 299.99,
-    "gapPct": 18.91,
+    "gapPct": 19.12,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
+    "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
+    "price": 252.51,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 236,
+    "franchise": "pokemon",
+    "set": "Temporal Forces",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 299.99,
+    "gapPct": 15.83,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
