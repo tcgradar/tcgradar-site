@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T19:31:58.794958+00:00",
+  "updated_at": "2026-03-27T20:01:49.275724+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
@@ -10,22 +10,22 @@
     "set": "Battle Styles",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 315.0,
-    "gapPct": 17.55,
+    "baseline_price": 312.5,
+    "gapPct": 16.89,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Bundle BRAND NEW SEALED",
-    "price": 49.95,
+    "title": "POKEMON TCG - TEMPORAL FORCES - BOOSTER BOX (36 Packs) NEW SEALED",
+    "price": 250.26,
     "seller_rating": 100.0,
-    "seller_feedback_count": 3190,
+    "seller_feedback_count": 3722,
     "franchise": "pokemon",
-    "set": "Destined Rivals",
-    "product_type": "booster_bundle",
+    "set": "Temporal Forces",
+    "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 59.95,
-    "gapPct": 16.68,
+    "baseline_price": 299.99,
+    "gapPct": 16.58,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
