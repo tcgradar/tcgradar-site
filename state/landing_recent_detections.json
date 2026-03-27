@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-27T08:31:53.690998+00:00",
+  "updated_at": "2026-03-27T09:01:55.552861+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon Paradox Rift Booster Box (36 Packs) - New & Sealed - small tear #1",
@@ -24,8 +24,8 @@
     "set": "Destined Rivals",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 599.0,
-    "gapPct": 16.53,
+    "baseline_price": 599.99,
+    "gapPct": 16.67,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
