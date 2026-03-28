@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T21:01:54.975971+00:00",
+  "updated_at": "2026-03-28T21:31:56.045216+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
@@ -10,8 +10,8 @@
     "set": "Destined Rivals",
     "product_type": "booster_bundle",
     "confidence": "high",
-    "baseline_price": 59.95,
-    "gapPct": 14.1,
+    "baseline_price": 58.49,
+    "gapPct": 11.95,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
