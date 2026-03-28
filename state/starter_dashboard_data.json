@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T23:31:55.051390+00:00",
+  "timestamp": "2026-03-28T00:01:58.243807+00:00",
   "tier": "starter",
   "total_deals": 4,
   "all_deals_count": 4,
@@ -8,8 +8,8 @@
       "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 3,
-      "booster_bundle": 1
+      "booster_bundle": 1,
+      "booster_box": 3
     },
     "by_gap_bucket": {
       "10_to_19": 4
@@ -39,6 +39,22 @@
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG SV10 Destined Rivals Booster Bundle Sealed New",
+      "url": "https://www.ebay.com/itm/127748808563?_skw=pokemon+Destined+Rivals+booster+box&hash=item1dbe6c1f73:g:y-EAAeSwjjRpwHve",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 48.0,
+      "shipping_cost": 0.0,
+      "total_price": 48.0,
+      "baseline_price": 59.95,
+      "gapPct": 19.93,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
     {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
@@ -72,22 +88,6 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
-      "url": "https://www.ebay.com/itm/406697772119?_skw=pokemon+Destined+Rivals+booster+box&hash=item5eb1138457:g:WXEAAeSwWpdpkNEv",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 51.5,
-      "shipping_cost": 0.0,
-      "total_price": 51.5,
-      "baseline_price": 59.95,
-      "gapPct": 14.1,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed",
       "url": "https://www.ebay.com/itm/168245137223?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item272c310f47:g:k8kAAeSwQLFpuyp2",
       "franchise": "pokemon",
@@ -96,8 +96,8 @@
       "price": 313.12,
       "shipping_cost": 0.0,
       "total_price": 313.12,
-      "baseline_price": 350.0,
-      "gapPct": 10.54,
+      "baseline_price": 352.5,
+      "gapPct": 11.17,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
