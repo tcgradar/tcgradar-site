@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-03-28T16:01:48.688719+00:00",
+  "timestamp": "2026-03-28T16:31:48.614298+00:00",
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 4,
+  "total_deals": 3,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 4
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 3,
+      "booster_box": 2,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 4
+      "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -27,8 +27,7 @@
     "set": [
       "Battle Styles",
       "Destined Rivals",
-      "Temporal Forces",
-      "Twilight Masquerade"
+      "Temporal Forces"
     ],
     "product_type": [
       "booster_box",
@@ -72,22 +71,6 @@
       "seller_trust": "HIGH"
     },
     {
-      "title": "Pokemon Twilight Masquerade Booster Box 36 Packs Sealed",
-      "url": "https://www.ebay.com/itm/168245137223?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item272c310f47:g:k8kAAeSwQLFpuyp2",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "booster_box",
-      "price": 311.45,
-      "shipping_cost": 0.0,
-      "total_price": 311.45,
-      "baseline_price": 352.5,
-      "gapPct": 11.65,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
       "url": "https://www.ebay.com/itm/406697772119?_skw=pokemon+Destined+Rivals+booster+box&hash=item5eb1138457:g:WXEAAeSwWpdpkNEv",
       "franchise": "pokemon",
@@ -96,8 +79,8 @@
       "price": 51.5,
       "shipping_cost": 0.0,
       "total_price": 51.5,
-      "baseline_price": 57.99,
-      "gapPct": 11.19,
+      "baseline_price": 57.97,
+      "gapPct": 11.16,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
