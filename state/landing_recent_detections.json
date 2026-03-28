@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-03-28T23:01:44.010289+00:00",
+  "updated_at": "2026-03-28T23:31:56.438654+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
+    "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+    "price": 259.12,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 602,
+    "franchise": "pokemon",
+    "set": "Battle Styles",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 312.5,
+    "gapPct": 11.5,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
     "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
     "price": 51.5,
     "seller_rating": 100.0,
@@ -12,20 +26,6 @@
     "confidence": "high",
     "baseline_price": 57.95,
     "gapPct": 11.13,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
-    "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-    "price": 259.12,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 602,
-    "franchise": "pokemon",
-    "set": "Battle Styles",
-    "product_type": "booster_box",
-    "confidence": "high",
-    "baseline_price": 310.0,
-    "gapPct": 10.79,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
