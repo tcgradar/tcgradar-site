@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-28T09:01:55.348762+00:00",
+  "timestamp": "2026-03-28T09:31:58.717698+00:00",
   "tier": "starter",
   "total_deals": 4,
   "all_deals_count": 4,
@@ -40,22 +40,6 @@
   },
   "deals": [
     {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 259.12,
-      "shipping_cost": 0.0,
-      "total_price": 259.12,
-      "baseline_price": 312.5,
-      "gapPct": 17.08,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
-    {
       "title": "POKEMON TCG - TEMPORAL FORCES - BOOSTER BOX (36 Packs) NEW SEALED",
       "url": "https://www.ebay.com/itm/206171538195?_skw=pokemon+Temporal+Forces+booster+box&hash=item3000c80313:g:eroAAeSwhCRpwD4F",
       "franchise": "pokemon",
@@ -72,6 +56,22 @@
       "seller_trust": "HIGH"
     },
     {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 259.12,
+      "shipping_cost": 0.0,
+      "total_price": 259.12,
+      "baseline_price": 310.0,
+      "gapPct": 16.41,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH"
+    },
+    {
       "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
       "url": "https://www.ebay.com/itm/406697772119?_skw=pokemon+Destined+Rivals+booster+box&hash=item5eb1138457:g:WXEAAeSwWpdpkNEv",
       "franchise": "pokemon",
@@ -80,8 +80,8 @@
       "price": 51.5,
       "shipping_cost": 0.0,
       "total_price": 51.5,
-      "baseline_price": 59.48,
-      "gapPct": 13.42,
+      "baseline_price": 59.0,
+      "gapPct": 12.71,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
