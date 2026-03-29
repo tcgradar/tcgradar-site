@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T15:01:17.017997+00:00",
+  "updated_at": "2026-03-29T15:31:17.368248+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
-    "price": 51.5,
+    "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+    "price": 259.12,
     "seller_rating": 100.0,
-    "seller_feedback_count": 229,
+    "seller_feedback_count": 602,
     "franchise": "pokemon",
-    "set": "Destined Rivals",
-    "product_type": "booster_bundle",
+    "set": "Battle Styles",
+    "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 57.95,
-    "gapPct": 11.13,
+    "baseline_price": 315.0,
+    "gapPct": 12.21,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }

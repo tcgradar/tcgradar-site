@@ -754,7 +754,7 @@
                 
                 // Filter only HIGH category auctions
                 const highAuctions = (auctionData.auctions || []).filter(a => 
-                    a.opportunity_category && a.opportunity_category.includes('HIGH')
+                    a.opportunity_category && a.opportunity_category.includes('High')
                 );
                 
                 countEl.textContent = `Showing ${highAuctions.length} auction opportunities`;
