@@ -472,7 +472,7 @@
             <!-- STEP 84: Auction Opportunities Section (Experimental) -->
             <div class="deals-section" id="auctions-section" style="margin-top: 40px;">
                 <h3>🔥 Auction opportunities</h3>
-                <p class="baseline-disclaimer">Experimental: Auction listings with high opportunity scores. Current bid ≠ final price.</p>
+                <p class="baseline-disclaimer">Experimental — current bid, not final price</p>
                 <div class="results-count" id="auctions-count">Showing 0 auction opportunities</div>
                 <div style="overflow-x: auto;">
                     <table class="deals-table">
@@ -740,22 +740,20 @@
             `}).join('');
         }
 
-        // STEP 84: Render auction opportunities
+        // STEP 84B: Render auction opportunities (using cleaned auction_high_deals.json)
         async function renderAuctions() {
             const tbody = document.getElementById('auctions-tbody');
             const countEl = document.getElementById('auctions-count');
             
             try {
-                const response = await fetch('../state/auction_deals.json');
+                const response = await fetch('../state/auction_high_deals.json');
                 if (!response.ok) {
                     throw new Error('Auction data not available');
                 }
                 const auctionData = await response.json();
                 
-                // Filter only HIGH category auctions
-                const highAuctions = (auctionData.auctions || []).filter(a => 
-                    a.opportunity_category && a.opportunity_category.includes('High')
-                );
+                // Use all entries from auction_high_deals.json (already filtered)
+                const highAuctions = auctionData.auctions || [];
                 
                 countEl.textContent = `Showing ${highAuctions.length} auction opportunities`;
                 
@@ -765,19 +763,9 @@
                 }
                 
                 tbody.innerHTML = highAuctions.map(auction => {
-                    // Determine opportunity type label
-                    const gap = auction.gap_pct || 0;
-                    const bids = auction.bid_count || 0;
-                    const time = auction.time_remaining_hours || 0;
-                    
-                    let typeLabel = '';
-                    if (gap > 20 && bids < 5) {
-                        typeLabel = 'Early opportunity';
-                    } else if (gap > 10 && time < 6) {
-                        typeLabel = 'Ending soon';
-                    } else {
-                        typeLabel = 'Auction';
-                    }
+                    // Determine opportunity type label from opportunity_type field
+                    const oppType = auction.opportunity_type || 'early';
+                    const typeLabel = oppType === 'early' ? 'Early opportunity' : 'Ending soon';
                     
                     return `
                     <tr>
@@ -785,13 +773,13 @@
                             <a href="${auction.url}" target="_blank" rel="noopener" class="deal-link">${auction.title}</a>
                         </td>
                         <td>
-                            <div class="price">$${(auction.total_price || auction.current_bid || 0).toFixed(2)}</div>
+                            <div class="price">$${(auction.current_price || 0).toFixed(2)}</div>
                         </td>
-                        <td>$${(auction.baseline_price || 0).toFixed(2)}</td>
+                        <td>$${(auction.baseline || 0).toFixed(2)}</td>
                         <td>
-                            <span class="gap-badge gap-high">${(auction.gap_pct || 0).toFixed(1)}%</span>
+                            <span class="gap-badge gap-high">${(auction.gapPct || 0).toFixed(1)}%</span>
                         </td>
-                        <td>${auction.bid_count || 0}</td>
+                        <td>${auction.bids || 0}</td>
                         <td>${auction.time_remaining_hours ? auction.time_remaining_hours.toFixed(1) + 'h' : 'Unknown'}</td>
                         <td><span style="color: #ffd700;">${typeLabel}</span></td>
                     </tr>
