@@ -443,6 +443,32 @@
                 </div>
             </div>
 
+            <!-- STEP 78: Watchlist Section -->
+            <div class="deals-section" id="watchlist-section" style="margin-top: 40px;">
+                <h3>👀 Worth watching</h3>
+                <p class="baseline-disclaimer">Deals with smaller gaps from HIGH trust sellers. Worth monitoring.</p>
+                <div class="results-count" id="watchlist-count">Showing 0 watchlist items</div>
+                <div style="overflow-x: auto;">
+                    <table class="deals-table">
+                        <thead>
+                            <tr>
+                                <th>Deal</th>
+                                <th>Source</th>
+                                <th>Franchise</th>
+                                <th>Set</th>
+                                <th>Type</th>
+                                <th>Price</th>
+                                <th>Gap</th>
+                                <th>Deal quality</th>
+                                <th>Seller trust</th>
+                            </tr>
+                        </thead>
+                        <tbody id="watchlist-tbody">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
             <!-- CTA Section -->
             <div class="cta-section" style="margin-top: 40px; padding: 30px; background: rgba(255, 215, 0, 0.05); border-radius: 12px; border: 1px solid rgba(255, 215, 0, 0.2); text-align: center;">
                 <p style="color: #888; margin-bottom: 20px;">More plans and features are coming soon.</p>
@@ -517,6 +543,7 @@
             renderSummary();
             renderFilters();
             renderDeals();
+            renderWatchlist();  // STEP 78: Render watchlist section
         }
 
         function renderSummary() {
@@ -625,6 +652,44 @@
             }
 
             tbody.innerHTML = filteredDeals.map(deal => {
+                const source = formatSource(deal.url).toLowerCase().includes('ebay') ? 'ebay' : 'retailer';
+                return `
+                <tr>
+                    <td class="title-cell">
+                        <a href="${deal.url}" target="_blank" rel="noopener" onclick="trackDealClick('${source}', '${deal.franchise}', '${deal.product_type}', ${deal.gapPct})" class="deal-link">${deal.title}</a>
+                    </td>
+                    <td>${formatSource(deal.url)}</td>
+                    <td>
+                        <span class="franchise-badge ${getFranchiseClass(deal.franchise)}">${formatFranchise(deal.franchise)}</span>
+                    </td>
+                    <td>${deal.set}</td>
+                    <td class="product-type">${formatProductType(deal.product_type)}</td>
+                    <td>
+                        <div class="price">$${(deal.total_price || deal.price).toFixed(2)}</div>
+                        <div class="baseline-price">$${deal.baseline_price.toFixed(2)}</div>
+                    </td>
+                    <td>
+                        <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
+                    </td>
+                    <td class="confidence-${deal.confidence}">${deal.confidence ? deal.confidence.charAt(0).toUpperCase() + deal.confidence.slice(1) : 'Low'}</td>
+                    <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
+                </tr>
+            `}).join('');
+        }
+
+        // STEP 78: Render watchlist deals
+        function renderWatchlist() {
+            const tbody = document.getElementById('watchlist-tbody');
+            const watchlistDeals = dashboardData?.watchlist_deals || [];
+            
+            document.getElementById('watchlist-count').textContent = `Showing ${watchlistDeals.length} watchlist items`;
+
+            if (watchlistDeals.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No watchlist items available</td></tr>';
+                return;
+            }
+
+            tbody.innerHTML = watchlistDeals.map(deal => {
                 const source = formatSource(deal.url).toLowerCase().includes('ebay') ? 'ebay' : 'retailer';
                 return `
                 <tr>
