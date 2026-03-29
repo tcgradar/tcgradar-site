@@ -1,19 +1,18 @@
 {
-  "timestamp": "2026-03-29T09:01:16.878557+00:00",
+  "timestamp": "2026-03-29T09:31:16.498681+00:00",
   "tier": "starter",
-  "total_deals": 3,
+  "total_deals": 2,
   "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 1,
       "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 2,
-      "booster_bundle": 1
+      "booster_bundle": 1,
+      "booster_box": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 2,
+      "10_to_19": 1,
       "1_to_9": 1
     }
   },
@@ -24,13 +23,11 @@
   },
   "available_filters": {
     "franchise": [
-      "onepiece",
       "pokemon"
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals",
-      "Emperors in the New World"
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box",
@@ -42,23 +39,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 535.05,
-      "shipping_cost": 45.92,
-      "total_price": 535.05,
-      "shipping_verified": true,
-      "baseline_price": 646.98,
-      "gapPct": 17.3,
-      "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
-    },
     {
       "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
       "url": "https://www.ebay.com/itm/406697772119?_skw=pokemon+Destined+Rivals+booster+box&hash=item5eb1138457:g:WXEAAeSwWpdpkNEv",
@@ -74,7 +54,8 @@
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH"
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
     },
     {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
@@ -86,12 +67,13 @@
       "shipping_cost": 17.43,
       "total_price": 276.55,
       "shipping_verified": true,
-      "baseline_price": 301.15,
-      "gapPct": 8.17,
+      "baseline_price": 302.31,
+      "gapPct": 8.52,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH"
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
     }
   ]
 }
