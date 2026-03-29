@@ -13,6 +13,7 @@
       "booster_bundle": 1
     },
     "by_gap_bucket": {
+      "20_plus": 0,
       "10_to_19": 2,
       "1_to_9": 1
     }
@@ -55,6 +56,8 @@
       "baseline_price": 646.98,
       "gapPct": 17.3,
       "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 3939,
       "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
@@ -73,6 +76,8 @@
       "baseline_price": 57.47,
       "gapPct": 10.39,
       "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 229,
       "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
@@ -91,6 +96,8 @@
       "baseline_price": 301.15,
       "gapPct": 8.17,
       "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 602,
       "shipping_included": true,
       "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
