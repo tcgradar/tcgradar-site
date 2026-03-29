@@ -469,6 +469,30 @@
                 </div>
             </div>
 
+            <!-- STEP 84: Auction Opportunities Section (Experimental) -->
+            <div class="deals-section" id="auctions-section" style="margin-top: 40px;">
+                <h3>🔥 Auction opportunities</h3>
+                <p class="baseline-disclaimer">Experimental: Auction listings with high opportunity scores. Current bid ≠ final price.</p>
+                <div class="results-count" id="auctions-count">Showing 0 auction opportunities</div>
+                <div style="overflow-x: auto;">
+                    <table class="deals-table">
+                        <thead>
+                            <tr>
+                                <th>Deal</th>
+                                <th>Current Price</th>
+                                <th>Baseline</th>
+                                <th>Gap</th>
+                                <th>Bids</th>
+                                <th>Time Left</th>
+                                <th>Type</th>
+                            </tr>
+                        </thead>
+                        <tbody id="auctions-tbody">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
             <!-- CTA Section -->
             <div class="cta-section" style="margin-top: 40px; padding: 30px; background: rgba(255, 215, 0, 0.05); border-radius: 12px; border: 1px solid rgba(255, 215, 0, 0.2); text-align: center;">
                 <p style="color: #888; margin-bottom: 20px;">More plans and features are coming soon.</p>
@@ -544,6 +568,7 @@
             renderFilters();
             renderDeals();
             renderWatchlist();  // STEP 78: Render watchlist section
+            renderAuctions();   // STEP 84: Render auction opportunities
         }
 
         function renderSummary() {
@@ -713,6 +738,71 @@
                     <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
             `}).join('');
+        }
+
+        // STEP 84: Render auction opportunities
+        async function renderAuctions() {
+            const tbody = document.getElementById('auctions-tbody');
+            const countEl = document.getElementById('auctions-count');
+            
+            try {
+                const response = await fetch('../state/auction_deals.json');
+                if (!response.ok) {
+                    throw new Error('Auction data not available');
+                }
+                const auctionData = await response.json();
+                
+                // Filter only HIGH category auctions
+                const highAuctions = (auctionData.auctions || []).filter(a => 
+                    a.opportunity_category && a.opportunity_category.includes('HIGH')
+                );
+                
+                countEl.textContent = `Showing ${highAuctions.length} auction opportunities`;
+                
+                if (highAuctions.length === 0) {
+                    tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">No high-opportunity auctions available</td></tr>';
+                    return;
+                }
+                
+                tbody.innerHTML = highAuctions.map(auction => {
+                    // Determine opportunity type label
+                    const gap = auction.gap_pct || 0;
+                    const bids = auction.bid_count || 0;
+                    const time = auction.time_remaining_hours || 0;
+                    
+                    let typeLabel = '';
+                    if (gap > 20 && bids < 5) {
+                        typeLabel = 'Early opportunity';
+                    } else if (gap > 10 && time < 6) {
+                        typeLabel = 'Ending soon';
+                    } else {
+                        typeLabel = 'Auction';
+                    }
+                    
+                    return `
+                    <tr>
+                        <td class="title-cell">
+                            <a href="${auction.url}" target="_blank" rel="noopener" class="deal-link">${auction.title}</a>
+                        </td>
+                        <td>
+                            <div class="price">$${(auction.total_price || auction.current_bid || 0).toFixed(2)}</div>
+                        </td>
+                        <td>$${(auction.baseline_price || 0).toFixed(2)}</td>
+                        <td>
+                            <span class="gap-badge gap-high">${(auction.gap_pct || 0).toFixed(1)}%</span>
+                        </td>
+                        <td>${auction.bid_count || 0}</td>
+                        <td>${auction.time_remaining_hours ? auction.time_remaining_hours.toFixed(1) + 'h' : 'Unknown'}</td>
+                        <td><span style="color: #ffd700;">${typeLabel}</span></td>
+                    </tr>
+                    `;
+                }).join('');
+                
+            } catch (error) {
+                console.log('Auction data not loaded:', error.message);
+                countEl.textContent = 'Auction data unavailable';
+                tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">Auction data unavailable</td></tr>';
+            }
         }
 
         document.addEventListener('DOMContentLoaded', loadDashboardData);
