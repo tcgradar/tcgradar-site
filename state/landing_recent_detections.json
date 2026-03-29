@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-03-29T08:01:43.339250+00:00",
-  "source": "active_deals",
+  "updated_at": "2026-03-29T08:31:14.644642+00:00",
+  "source": "previous_scan",
   "starter_quality_deal": {
-    "title": "Pokemon TCG: Scarlet & Violet Temporal Forces Elite Trainer Box Factory Sealed",
-    "price": 95.0,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 106,
-    "franchise": "pokemon",
-    "set": "Temporal Forces",
-    "product_type": "etb",
-    "confidence": "high",
-    "baseline_price": 125.0,
-    "gapPct": 19.61,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
     "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
     "price": 631.84,
     "seller_rating": 100.0,
@@ -26,6 +12,20 @@
     "confidence": "high",
     "baseline_price": 1200.0,
     "gapPct": 44.09,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
+    "title": "Pokemon TCG: Scarlet & Violet Temporal Forces Elite Trainer Box Factory Sealed",
+    "price": 95.0,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 106,
+    "franchise": "pokemon",
+    "set": "Temporal Forces",
+    "product_type": "etb",
+    "confidence": "high",
+    "baseline_price": 125.0,
+    "gapPct": 19.61,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
