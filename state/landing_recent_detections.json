@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T04:31:16.485036+00:00",
+  "updated_at": "2026-03-29T05:01:17.210315+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
@@ -24,8 +24,8 @@
     "set": "Emperors in the New World",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 648.88,
-    "gapPct": 17.54,
+    "baseline_price": 647.81,
+    "gapPct": 17.41,
     "deal_quality": "LOW",
     "seller_trust": "HIGH"
   }
