@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T22:01:16.529536+00:00",
+  "updated_at": "2026-03-29T22:31:15.550476+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
@@ -10,8 +10,8 @@
     "set": "Emperors in the New World",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 638.08,
-    "gapPct": 16.15,
+    "baseline_price": 646.16,
+    "gapPct": 17.2,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
@@ -24,8 +24,8 @@
     "set": "Destined Rivals",
     "product_type": "booster_bundle",
     "confidence": "high",
-    "baseline_price": 57.95,
-    "gapPct": 11.13,
+    "baseline_price": 57.97,
+    "gapPct": 11.16,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
