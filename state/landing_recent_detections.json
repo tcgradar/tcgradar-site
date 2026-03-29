@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-29T20:01:45.368997+00:00",
+  "updated_at": "2026-03-29T20:31:44.215938+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "POKEMON Brilliant Stars LOOSE Factory Sealed (36 packs) ~ Booster Box Equivalent",
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-    "price": 489.13,
+    "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
+    "price": 631.84,
     "seller_rating": 100.0,
-    "seller_feedback_count": 3939,
-    "franchise": "onepiece",
-    "set": "Emperors in the New World",
+    "seller_feedback_count": 1404,
+    "franchise": "pokemon",
+    "set": "Fusion Strike",
     "product_type": "booster_box",
-    "confidence": "low",
-    "baseline_price": 647.81,
-    "gapPct": 17.41,
+    "confidence": "high",
+    "baseline_price": 1060.36,
+    "gapPct": 36.72,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
