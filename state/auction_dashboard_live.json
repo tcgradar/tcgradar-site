@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-03-30T16:01:09.212136+00:00",
+    "generated_at": "2026-03-30T16:27:30.918147+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
     "raw_count": 26,
@@ -115,7 +115,7 @@
       "gapPct": 35.82089552238806,
       "bids": 17,
       "time_remaining": 21.582348221666663,
-      "opportunity_type": "urgent",
+      "opportunity_type": "ending_today",
       "url": "https://www.ebay.com/itm/206173513281?_skw=One+Piece+500+Years+in+the+Future+booster+box&hash=item3000e62641:g:uqsAAeSwwaxpx9kP",
       "franchise": "onepiece",
       "set": "500 Years in the Future",

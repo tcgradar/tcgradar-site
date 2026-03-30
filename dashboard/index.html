@@ -503,6 +503,7 @@
 
     <script>
         let dashboardData = null;
+        let auctionCount = 0;  // STEP 92: Track auction count for total
         let filteredDeals = [];
 
         const gapBucketNames = {
@@ -572,7 +573,11 @@
         }
 
         function renderSummary() {
-            document.getElementById('total-deals').textContent = dashboardData.total_deals;
+            // STEP 92: Total includes Starter + Watchlist + Auctions
+            const starterCount = dashboardData.total_deals || 0;
+            const watchlistCount = (dashboardData.watchlist_deals || []).length;
+            const totalOpportunities = starterCount + watchlistCount + auctionCount;
+            document.getElementById('total-deals').textContent = totalOpportunities;
         }
 
         function renderFilters() {
@@ -758,6 +763,10 @@
                 // auctions is already a list in the curated feed
                 const auctions = feedData.auctions || [];
                 
+                // STEP 92: Store count for total opportunities calculation
+                auctionCount = auctions.length;
+                renderSummary(); // Update total count now that we have auctions
+                
                 countEl.textContent = `Showing ${auctions.length} auction opportunities`;
                 
                 if (auctions.length === 0) {
@@ -766,10 +775,11 @@
                 }
                 
                 tbody.innerHTML = auctions.map(auction => {
-                    // Determine opportunity type label
+                    // STEP 92: Updated opportunity type labels
                     const oppType = auction.opportunity_type || 'early';
-                    const typeLabel = oppType === 'ending_soon' ? 'Ending soon' : 
-                                     oppType === 'urgent' ? 'Urgent' : 'Early opportunity';
+                    const typeLabel = oppType === 'ending_soon' ? 'Urgent' : 
+                                     oppType === 'ending_today' ? 'Ending today' : 
+                                     'Early opportunity';
                     
                     return `
                     <tr>
@@ -792,6 +802,8 @@
                 
             } catch (error) {
                 console.log('Auction data not loaded:', error.message);
+                auctionCount = 0;  // STEP 92: Reset count on error
+                renderSummary();   // Update total without auctions
                 countEl.textContent = 'Auction data unavailable';
                 tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">Auction data unavailable</td></tr>';
             }
