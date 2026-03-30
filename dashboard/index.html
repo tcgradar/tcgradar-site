@@ -527,8 +527,109 @@
 
     <script>
         let dashboardData = null;
-        let auctionCount = 0;  // STEP 92: Track auction count for total
-        let filteredDeals = [];
+        let auctionCount = 0;
+        
+        // STEP 94: Shared data stores for cross-table filtering
+        let rawDeals = [];
+        let rawWatchlist = [];
+        let rawAuctions = [];
+        
+        // STEP 94: Filter state (shared across all tables)
+        let currentFilters = {
+            franchise: '',
+            set: '',
+            product: '',
+            gap: '',
+            source: ''
+        };
+
+        // STEP 94: Normalized item schema extractor
+        // Returns normalized fields regardless of source schema
+        function normalizeItem(item, sourceType) {
+            switch (sourceType) {
+                case 'deal':
+                case 'watchlist':
+                    return {
+                        franchise: item.franchise || '',
+                        set: item.set || '',
+                        product_type: item.product_type || '',
+                        gapPct: item.gapPct || 0,
+                        url: item.url || '',
+                        title: item.title || '',
+                        // Original item for rendering
+                        _original: item,
+                        _source: sourceType
+                    };
+                case 'auction':
+                    return {
+                        franchise: item.franchise || '',
+                        set: item.set || '',
+                        product_type: item.product_type || '',
+                        gapPct: item.gapPct || 0,
+                        url: item.url || '',
+                        title: item.title || '',
+                        // Auction-specific fields
+                        bids: item.bids || 0,
+                        time_remaining: item.time_remaining || 0,
+                        current_price: item.current_price || 0,
+                        baseline: item.baseline || 0,
+                        opportunity_type: item.opportunity_type || 'early',
+                        opportunity_score: item.opportunity_score || 0,
+                        seller_trust: item.seller_trust || 'MEDIUM',
+                        // Original item for rendering
+                        _original: item,
+                        _source: sourceType
+                    };
+                default:
+                    return { ...item, _original: item, _source: sourceType };
+            }
+        }
+
+        // STEP 94: Shared filter engine
+        // Returns true if item passes all active filters
+        function passesFilters(normalizedItem) {
+            const f = currentFilters;
+            
+            if (f.franchise && normalizedItem.franchise !== f.franchise) return false;
+            if (f.set && normalizedItem.set !== f.set) return false;
+            if (f.product && normalizedItem.product_type !== f.product) return false;
+            if (f.gap && getGapBucket(normalizedItem.gapPct) !== f.gap) return false;
+            if (f.source && !normalizedItem.url.includes(f.source)) return false;
+            
+            return true;
+        }
+
+        // STEP 94: Apply filters to all tables
+        function applyFilters() {
+            // Read current filter values
+            currentFilters.franchise = document.getElementById('filter-franchise').value;
+            currentFilters.set = document.getElementById('filter-set').value;
+            currentFilters.product = document.getElementById('filter-product').value;
+            currentFilters.gap = document.getElementById('filter-gap').value;
+            currentFilters.source = document.getElementById('filter-source').value;
+            
+            // Filter and render each table
+            const filteredDeals = rawDeals.filter(d => passesFilters(normalizeItem(d, 'deal')));
+            const filteredWatchlist = rawWatchlist.filter(d => passesFilters(normalizeItem(d, 'watchlist')));
+            const filteredAuctions = rawAuctions.filter(a => passesFilters(normalizeItem(a, 'auction')));
+            
+            // Render with filtered data
+            renderDeals(filteredDeals);
+            renderWatchlist(filteredWatchlist);
+            renderAuctionsFiltered(filteredAuctions);
+        }
+
+        function clearFilters() {
+            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source'].forEach(id => {
+                document.getElementById(id).value = '';
+            });
+            currentFilters = { franchise: '', set: '', product: '', gap: '', source: '' };
+            
+            // Render all tables with unfiltered data
+            renderDeals(rawDeals);
+            renderWatchlist(rawWatchlist);
+            renderAuctionsFiltered(rawAuctions);
+        }
 
         const gapBucketNames = {
             '1_to_9': '1% to 9%',
@@ -572,7 +673,11 @@
                     throw new Error('Failed to load dashboard data');
                 }
                 dashboardData = await response.json();
-                filteredDeals = [...dashboardData.deals];
+                
+                // STEP 94: Store raw data for cross-table filtering
+                rawDeals = dashboardData.deals || [];
+                rawWatchlist = dashboardData.watchlist_deals || [];
+                
                 renderDashboard();
             } catch (error) {
                 showError('Failed to load dashboard data: ' + error.message);
@@ -591,9 +696,9 @@
 
             renderSummary();
             renderFilters();
-            renderDeals();
-            renderWatchlist();  // STEP 78: Render watchlist section
-            renderAuctions();   // STEP 84: Render auction opportunities
+            renderDeals(rawDeals);
+            renderWatchlist(rawWatchlist);
+            renderAuctions();
         }
 
         function renderSummary() {
@@ -646,43 +751,17 @@
                 '<option value="">All</option>' +
                 sources.map(s => `<option value="${s}">${sourceLabels[s] || s}</option>`).join('');
 
+            // STEP 94: Attach listeners to new applyFilters
             ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source'].forEach(id => {
                 document.getElementById(id).addEventListener('change', applyFilters);
             });
         }
 
-        // Shared gap bucket logic - MUST match backend
+        // STEP 94: Shared gap bucket logic - MUST match backend
         function getGapBucket(gapPct) {
             if (gapPct < 10) return '1_to_9';
             if (gapPct < 20) return '10_to_19';
             return '20_plus';
-        }
-
-        function applyFilters() {
-            const franchise = document.getElementById('filter-franchise').value;
-            const set = document.getElementById('filter-set').value;
-            const product = document.getElementById('filter-product').value;
-            const gap = document.getElementById('filter-gap').value;
-            const source = document.getElementById('filter-source').value;
-
-            filteredDeals = dashboardData.deals.filter(deal => {
-                if (franchise && deal.franchise !== franchise) return false;
-                if (set && deal.set !== set) return false;
-                if (product && deal.product_type !== product) return false;
-                if (gap && getGapBucket(deal.gapPct) !== gap) return false;
-                if (source && !deal.url.includes(source)) return false;
-                return true;
-            });
-
-            renderDeals();
-        }
-
-        function clearFilters() {
-            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source'].forEach(id => {
-                document.getElementById(id).value = '';
-            });
-            filteredDeals = [...dashboardData.deals];
-            renderDeals();
         }
 
         function getGapBadgeClass(bucket) {
@@ -696,16 +775,16 @@
             return franchise === 'pokemon' ? 'franchise-pokemon' : 'franchise-onepiece';
         }
 
-        function renderDeals() {
+        function renderDeals(dealsToRender) {
             const tbody = document.getElementById('deals-tbody');
-            document.getElementById('results-count').textContent = `Showing ${filteredDeals.length} live deals`;
+            document.getElementById('results-count').textContent = `Showing ${dealsToRender.length} live deals`;
 
-            if (filteredDeals.length === 0) {
+            if (dealsToRender.length === 0) {
                 tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No deals match your filters</td></tr>';
                 return;
             }
 
-            tbody.innerHTML = filteredDeals.map(deal => {
+            tbody.innerHTML = dealsToRender.map(deal => {
                 const source = formatSource(deal.url).toLowerCase().includes('ebay') ? 'ebay' : 'retailer';
                 return `
                 <tr>
@@ -734,18 +813,17 @@
         }
 
         // STEP 78: Render watchlist deals
-        function renderWatchlist() {
+        function renderWatchlist(watchlistToRender) {
             const tbody = document.getElementById('watchlist-tbody');
-            const watchlistDeals = dashboardData?.watchlist_deals || [];
             
-            document.getElementById('watchlist-count').textContent = `Showing ${watchlistDeals.length} watchlist items`;
+            document.getElementById('watchlist-count').textContent = `Showing ${watchlistToRender.length} watchlist items`;
 
-            if (watchlistDeals.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No watchlist items available</td></tr>';
+            if (watchlistToRender.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No watchlist items match your filters</td></tr>';
                 return;
             }
 
-            tbody.innerHTML = watchlistDeals.map(deal => {
+            tbody.innerHTML = watchlistToRender.map(deal => {
                 const source = formatSource(deal.url).toLowerCase().includes('ebay') ? 'ebay' : 'retailer';
                 return `
                 <tr>
@@ -771,78 +849,86 @@
             `}).join('');
         }
 
-        // STEP 90C: Render auction opportunities (using curated dashboard feed)
+        // STEP 90C: Load auction data (initial load, stores raw data)
         async function renderAuctions() {
             const tbody = document.getElementById('auctions-tbody');
             const countEl = document.getElementById('auctions-count');
             
             try {
-                // STEP 90C: Use curated dashboard feed instead of raw tracking
                 const response = await fetch('../state/auction_dashboard_live.json');
                 if (!response.ok) {
                     throw new Error('Auction data not available');
                 }
                 const feedData = await response.json();
                 
-                // auctions is already a list in the curated feed
-                const auctions = feedData.auctions || [];
+                // STEP 94: Store raw auctions for filtering
+                rawAuctions = feedData.auctions || [];
                 
-                // STEP 92: Store count for total opportunities calculation
-                auctionCount = auctions.length;
-                renderSummary(); // Update total count now that we have auctions
-                
-                countEl.textContent = `Showing ${auctions.length} auction opportunities`;
-                
-                if (auctions.length === 0) {
-                    tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">No high-opportunity auctions available</td></tr>';
-                    return;
-                }
-                
-                tbody.innerHTML = auctions.map(auction => {
-                    // STEP 93: Visual urgency hierarchy (no color)
-                    const oppType = auction.opportunity_type || 'early';
-                    let urgencyClass, typeLabel;
-                    
-                    if (oppType === 'urgent') {
-                        urgencyClass = 'urgency-urgent';
-                        typeLabel = '🔥 Urgent';
-                    } else if (oppType === 'ending_soon') {
-                        urgencyClass = 'urgency-ending';
-                        typeLabel = '⚡ Ending soon';
-                    } else if (oppType === 'ongoing') {
-                        urgencyClass = 'urgency-ongoing';
-                        typeLabel = '👀 Ongoing';
-                    } else {
-                        urgencyClass = 'urgency-early';
-                        typeLabel = '🧠 Early opportunity';
-                    }
-                    
-                    return `
-                    <tr>
-                        <td class="title-cell">
-                            <a href="${auction.url}" target="_blank" rel="noopener" class="deal-link">${auction.title}</a>
-                        </td>
-                        <td>
-                            <div class="price">$${(auction.current_price || 0).toFixed(2)}</div>
-                        </td>
-                        <td>$${(auction.baseline || 0).toFixed(2)}</td>
-                        <td>
-                            <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
-                        </td>
-                        <td>${auction.bids || 0}</td>
-                        <td>${auction.time_remaining ? auction.time_remaining.toFixed(1) + 'h' : 'Unknown'}</td>
-                        <td><span class="${urgencyClass}">${typeLabel}</span></td>
-                    </tr>
-                    `;
-                }).join('');
+                // Initial render with all auctions
+                renderAuctionsFiltered(rawAuctions);
                 
             } catch (error) {
                 console.log('Auction data not loaded:', error.message);
-                auctionCount = 0;  // STEP 92: Reset count on error
-                renderSummary();   // Update total without auctions
+                rawAuctions = [];
+                auctionCount = 0;
+                renderSummary();
                 countEl.textContent = 'Auction data unavailable';
                 tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">Auction data unavailable</td></tr>';
             }
+        }
+        
+        // STEP 94: Render filtered auctions (called by applyFilters)
+        function renderAuctionsFiltered(auctionsToRender) {
+            const tbody = document.getElementById('auctions-tbody');
+            const countEl = document.getElementById('auctions-count');
+            
+            // Update count for total opportunities
+            auctionCount = auctionsToRender.length;
+            renderSummary();
+            
+            countEl.textContent = `Showing ${auctionsToRender.length} auction opportunities`;
+            
+            if (auctionsToRender.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
+                return;
+            }
+            
+            tbody.innerHTML = auctionsToRender.map(auction => {
+                const oppType = auction.opportunity_type || 'early';
+                let urgencyClass, typeLabel;
+                
+                if (oppType === 'urgent') {
+                    urgencyClass = 'urgency-urgent';
+                    typeLabel = '🔥 Urgent';
+                } else if (oppType === 'ending_soon') {
+                    urgencyClass = 'urgency-ending';
+                    typeLabel = '⚡ Ending soon';
+                } else if (oppType === 'ongoing') {
+                    urgencyClass = 'urgency-ongoing';
+                    typeLabel = '👀 Ongoing';
+                } else {
+                    urgencyClass = 'urgency-early';
+                    typeLabel = '🧠 Early opportunity';
+                }
+                
+                return `
+                <tr>
+                    <td class="title-cell">
+                        <a href="${auction.url}" target="_blank" rel="noopener" class="deal-link">${auction.title}</a>
+                    </td>
+                    <td>
+                        <div class="price">$${(auction.current_price || 0).toFixed(2)}</div>
+                    </td>
+                    <td>$${(auction.baseline || 0).toFixed(2)}</td>
+                    <td>
+                        <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
+                    </td>
+                    <td>${auction.bids || 0}</td>
+                    <td>${auction.time_remaining ? auction.time_remaining.toFixed(1) + 'h' : 'Unknown'}</td>
+                    <td><span class="${urgencyClass}">${typeLabel}</span></td>
+                </tr>
+                `;
+            }).join('');
         }
 
         document.addEventListener('DOMContentLoaded', loadDashboardData);
