@@ -1,20 +1,20 @@
 {
-  "timestamp": "2026-03-30T11:01:18.580686+00:00",
+  "timestamp": "2026-03-30T11:31:18.287692+00:00",
   "tier": "starter",
-  "total_deals": 3,
+  "total_deals": 2,
   "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 2,
+      "booster_box": 1,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
       "10_to_19": 1,
-      "1_to_9": 2
+      "1_to_9": 1
     }
   },
   "trust_counts": {
@@ -28,7 +28,6 @@
       "pokemon"
     ],
     "set": [
-      "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
     ],
@@ -52,29 +51,11 @@
       "shipping_cost": 45.92,
       "total_price": 535.05,
       "shipping_verified": true,
-      "baseline_price": 646.98,
-      "gapPct": 17.3,
+      "baseline_price": 647.81,
+      "gapPct": 17.41,
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 276.78000000000003,
-      "shipping_cost": 17.66,
-      "total_price": 276.78000000000003,
-      "shipping_verified": true,
-      "baseline_price": 306.15,
-      "gapPct": 9.59,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
     },
@@ -97,5 +78,26 @@
       "deal_quality": "HIGH"
     }
   ],
-  "watchlist_deals": []
+  "watchlist_deals": [
+    {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 276.78000000000003,
+      "shipping_cost": 17.66,
+      "total_price": 276.78000000000003,
+      "shipping_verified": true,
+      "baseline_price": 299.99,
+      "gapPct": 7.74,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 602,
+      "shipping_included": true,
+      "gap_bucket": "1_to_9",
+      "seller_trust": "HIGH",
+      "deal_quality": "MEDIUM"
+    }
+  ]
 }
