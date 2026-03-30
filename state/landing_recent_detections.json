@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-03-30T01:01:17.577298+00:00",
+  "updated_at": "2026-03-30T01:31:20.023804+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
-    "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-    "price": 489.13,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 3939,
-    "franchise": "onepiece",
-    "set": "Emperors in the New World",
-    "product_type": "booster_box",
-    "confidence": "low",
-    "baseline_price": 646.16,
-    "gapPct": 17.2,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
     "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
     "price": 51.5,
     "seller_rating": 100.0,
@@ -26,6 +12,20 @@
     "confidence": "high",
     "baseline_price": 57.97,
     "gapPct": 11.16,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
+    "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
+    "price": 489.13,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 3939,
+    "franchise": "onepiece",
+    "set": "Emperors in the New World",
+    "product_type": "booster_box",
+    "confidence": "low",
+    "baseline_price": 646.16,
+    "gapPct": 17.2,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
