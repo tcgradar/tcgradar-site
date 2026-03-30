@@ -747,7 +747,7 @@
             
             try {
                 // STEP 90: Use live tracking data instead of static snapshot
-                const response = await fetch('/alerts/state/auction_tracking.json');
+                const response = await fetch('../state/auction_tracking.json');
                 if (!response.ok) {
                     throw new Error('Auction data not available');
                 }

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T10:01:17.464709+00:00",
+  "timestamp": "2026-03-30T10:31:20.453152+00:00",
   "tier": "starter",
   "total_deals": 3,
   "all_deals_count": 3,
@@ -13,8 +13,8 @@
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 2,
-      "1_to_9": 1
+      "10_to_19": 1,
+      "1_to_9": 2
     }
   },
   "trust_counts": {
@@ -52,27 +52,9 @@
       "shipping_cost": 45.92,
       "total_price": 535.05,
       "shipping_verified": true,
-      "baseline_price": 646.98,
-      "gapPct": 17.3,
+      "baseline_price": 647.81,
+      "gapPct": 17.41,
       "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 52.99,
-      "shipping_cost": 0.0,
-      "total_price": 52.99,
-      "shipping_verified": false,
-      "baseline_price": 58.95,
-      "gapPct": 10.11,
-      "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
@@ -90,6 +72,24 @@
       "shipping_verified": true,
       "baseline_price": 306.15,
       "gapPct": 9.59,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "1_to_9",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 52.99,
+      "shipping_cost": 0.0,
+      "total_price": 52.99,
+      "shipping_verified": false,
+      "baseline_price": 57.95,
+      "gapPct": 8.56,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "1_to_9",
