@@ -1,23 +1,25 @@
 {
-  "timestamp": "2026-03-30T21:31:42.604076+00:00",
+  "timestamp": "2026-03-30T22:01:49.670078+00:00",
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 3,
+  "total_deals": 4,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1,
+      "pokemon": 3,
       "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 2
+      "booster_box": 3,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 1
+      "10_to_19": 2,
+      "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -27,31 +29,35 @@
       "pokemon"
     ],
     "set": [
-      "Astral Radiance",
-      "Emperors in the New World"
+      "Battle Styles",
+      "Destined Rivals",
+      "Emperors in the New World",
+      "Evolving Skies"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "booster_bundle"
     ],
     "gap_bucket": [
+      "1_to_9",
       "10_to_19",
       "20_plus"
     ]
   },
   "deals": [
     {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205518977966?_skw=pokemon+Evolving+Skies+booster+box&hash=item2fd9e2bbae:g:jjgAAeSw0Wxpx3l7",
       "franchise": "pokemon",
-      "set": "Astral Radiance",
+      "set": "Evolving Skies",
       "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
+      "price": 1534.1399999999999,
+      "shipping_cost": 39.12,
+      "total_price": 1534.1399999999999,
       "shipping_verified": true,
-      "baseline_price": 399.99,
-      "gapPct": 21.25,
-      "confidence": "low",
+      "baseline_price": 2997.89,
+      "gapPct": 48.83,
+      "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "20_plus",
       "seller_trust": "HIGH",
@@ -67,16 +73,32 @@
       "shipping_cost": 45.92,
       "total_price": 535.05,
       "shipping_verified": true,
-      "baseline_price": 646.16,
-      "gapPct": 17.2,
+      "baseline_price": 638.08,
+      "gapPct": 16.15,
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
-    }
-  ],
-  "watchlist_deals": [
+    },
+    {
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 52.99,
+      "shipping_cost": 0.0,
+      "total_price": 52.99,
+      "shipping_verified": false,
+      "baseline_price": 58.99,
+      "gapPct": 10.17,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
     {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
@@ -87,15 +109,14 @@
       "shipping_cost": 17.66,
       "total_price": 276.78000000000003,
       "shipping_verified": true,
-      "baseline_price": 300.0,
-      "gapPct": 7.74,
+      "baseline_price": 306.15,
+      "gapPct": 9.59,
       "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 602,
       "shipping_included": true,
       "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
-      "deal_quality": "MEDIUM"
+      "deal_quality": "HIGH"
     }
-  ]
+  ],
+  "watchlist_deals": []
 }
