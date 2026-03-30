@@ -1,24 +1,25 @@
 {
-  "timestamp": "2026-03-30T02:31:39.506561+00:00",
+  "timestamp": "2026-03-30T03:01:41.678886+00:00",
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 3,
+  "total_deals": 4,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2,
+      "pokemon": 3,
       "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 3,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
+      "20_plus": 2,
       "10_to_19": 1,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -28,12 +29,14 @@
       "pokemon"
     ],
     "set": [
-      "Astral Radiance",
       "Battle Styles",
-      "Emperors in the New World"
+      "Destined Rivals",
+      "Emperors in the New World",
+      "Fusion Strike"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "booster_bundle"
     ],
     "gap_bucket": [
       "1_to_9",
@@ -43,18 +46,36 @@
   },
   "deals": [
     {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
       "franchise": "pokemon",
-      "set": "Astral Radiance",
+      "set": "Fusion Strike",
       "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
+      "price": 670.96,
+      "shipping_cost": 39.12,
+      "total_price": 670.96,
       "shipping_verified": true,
-      "baseline_price": 400.0,
-      "gapPct": 21.25,
-      "confidence": "low",
+      "baseline_price": 1060.36,
+      "gapPct": 36.72,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "20_plus",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
+      "title": "Pokemon Destined Rivals SV10 Booster Bundle Sealed",
+      "url": "https://www.ebay.com/itm/257432703886?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bf02f538e:g:ck0AAeSwrudpyeC7",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 44.95,
+      "shipping_cost": 0.0,
+      "total_price": 44.95,
+      "shipping_verified": false,
+      "baseline_price": 57.95,
+      "gapPct": 22.43,
+      "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "20_plus",
       "seller_trust": "HIGH",
