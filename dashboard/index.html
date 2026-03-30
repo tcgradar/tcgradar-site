@@ -696,8 +696,10 @@
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
-                    <td class="confidence-${deal.confidence}">${deal.confidence ? deal.confidence.charAt(0).toUpperCase() + deal.confidence.slice(1) : 'Low'}</td>
-                    <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
+                    <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}"
+                        >${deal.deal_quality ? deal.deal_quality.charAt(0).toUpperCase() + deal.deal_quality.slice(1) : 'Low'}</td>
+                    <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}"
+                        >${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
             `}).join('');
         }
@@ -734,7 +736,7 @@
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
-                    <td class="confidence-${deal.confidence}">${deal.confidence ? deal.confidence.charAt(0).toUpperCase() + deal.confidence.slice(1) : 'Low'}</td>
+                    <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${deal.deal_quality ? deal.deal_quality.charAt(0).toUpperCase() + deal.deal_quality.slice(1) : 'Low'}</td>
                     <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
             `}).join('');
