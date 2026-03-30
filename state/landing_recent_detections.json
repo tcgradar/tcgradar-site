@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T11:31:18.313229+00:00",
+  "updated_at": "2026-03-30T12:01:19.725111+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
@@ -10,8 +10,8 @@
     "set": "Emperors in the New World",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 647.81,
-    "gapPct": 17.41,
+    "baseline_price": 648.35,
+    "gapPct": 17.48,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
@@ -24,9 +24,9 @@
     "set": "Battle Styles",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 299.99,
-    "gapPct": 7.74,
-    "deal_quality": "MEDIUM",
+    "baseline_price": 301.15,
+    "gapPct": 8.09,
+    "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
 }
