@@ -828,6 +828,7 @@
                     <td class="product-type">${formatProductType(deal.product_type)}</td>
                     <td>
                         <div class="price">$${(deal.total_price || deal.price).toFixed(2)}</div>
+                        <div style="font-size: 0.75rem; color: #888;">${deal.shipping_cost > 0 ? `(incl. $${deal.shipping_cost.toFixed(2)} shipping)` : '(free shipping)'}</div>
                         <div class="baseline-price">$${deal.baseline_price.toFixed(2)}</div>
                     </td>
                     <td>
@@ -867,6 +868,7 @@
                     <td class="product-type">${formatProductType(deal.product_type)}</td>
                     <td>
                         <div class="price">$${(deal.total_price || deal.price).toFixed(2)}</div>
+                        <div style="font-size: 0.75rem; color: #888;">${deal.shipping_cost > 0 ? `(incl. $${deal.shipping_cost.toFixed(2)} shipping)` : '(free shipping)'}</div>
                         <div class="baseline-price">$${deal.baseline_price.toFixed(2)}</div>
                     </td>
                     <td>
@@ -940,10 +942,9 @@
                     typeLabel = '🧠 Early opportunity';
                 }
                 
-                // STEP 94: Use total_price (bid + shipping) for display and gap
+                // STEP 95: Use total_price (bid + shipping) for display and gap
                 const totalPrice = auction.total_price || auction.current_price || 0;
                 const shippingCost = auction.shipping_cost || 0;
-                const showShipping = shippingCost > 0;
                 
                 return `
                 <tr>
@@ -952,7 +953,7 @@
                     </td>
                     <td>
                         <div class="price">$${totalPrice.toFixed(2)}</div>
-                        ${showShipping ? `<div style="font-size: 0.8rem; color: #888;">+ $${shippingCost.toFixed(2)} shipping</div>` : ''}
+                        <div style="font-size: 0.75rem; color: #888;">${shippingCost > 0 ? `(incl. $${shippingCost.toFixed(2)} shipping)` : '(free shipping)'}</div>
                     </td>
                     <td>$${(auction.baseline || 0).toFixed(2)}</td>
                     <td>
