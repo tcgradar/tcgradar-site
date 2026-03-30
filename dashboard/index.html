@@ -775,12 +775,12 @@
                 }
                 
                 tbody.innerHTML = auctions.map(auction => {
-                    // STEP 92C: Duration-based opportunity type labels
+                    // STEP 92E: Urgency labels with icons (no color meaning)
                     const oppType = auction.opportunity_type || 'early';
-                    const typeLabel = oppType === 'urgent' ? 'Urgent' :
-                                     oppType === 'ending_soon' ? 'Ending soon' :
-                                     oppType === 'ongoing' ? 'Ongoing' :
-                                     'Early opportunity';
+                    const typeLabel = oppType === 'urgent' ? '🔥 Urgent' :
+                                     oppType === 'ending_soon' ? '⚡ Ending soon' :
+                                     oppType === 'ongoing' ? '👀 Ongoing' :
+                                     '🧠 Early opportunity';
                     
                     return `
                     <tr>
@@ -792,11 +792,11 @@
                         </td>
                         <td>$${(auction.baseline || 0).toFixed(2)}</td>
                         <td>
-                            <span class="gap-badge gap-high">${(auction.gapPct || 0).toFixed(1)}%</span>
+                            <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
                         </td>
                         <td>${auction.bids || 0}</td>
                         <td>${auction.time_remaining ? auction.time_remaining.toFixed(1) + 'h' : 'Unknown'}</td>
-                        <td><span style="color: #ffd700;">${typeLabel}</span></td>
+                        <td>${typeLabel}</td>
                     </tr>
                     `;
                 }).join('');
