@@ -280,34 +280,28 @@
             color: #4da6ff;
         }
 
-        /* STEP 93: Urgency hierarchy (no color - using weight/style only) */
+        /* STEP 93B: Static urgency hierarchy (no color, no animation) */
         .urgency-urgent {
             font-weight: 800;
             font-size: 0.95rem;
             letter-spacing: 0.02em;
-            animation: pulse-urgent 2s ease-in-out infinite;
         }
-        
+
         .urgency-ending {
             font-weight: 700;
             font-size: 0.9rem;
         }
-        
+
         .urgency-ongoing {
             font-weight: 500;
             font-size: 0.85rem;
-            opacity: 0.9;
+            opacity: 0.85;
         }
-        
+
         .urgency-early {
             font-weight: 400;
             font-size: 0.85rem;
-            opacity: 0.75;
-        }
-        
-        @keyframes pulse-urgent {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.7; }
+            opacity: 0.6;
         }
 
         .franchise-badge {
