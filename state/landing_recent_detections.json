@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-03-30T02:01:41.526455+00:00",
+  "updated_at": "2026-03-30T02:31:39.531836+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
-    "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
-    "price": 51.5,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 229,
-    "franchise": "pokemon",
-    "set": "Destined Rivals",
-    "product_type": "booster_bundle",
-    "confidence": "high",
-    "baseline_price": 57.97,
-    "gapPct": 11.16,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
     "title": "POKEMON Brilliant Stars LOOSE Factory Sealed (36 packs) ~ Booster Box Equivalent",
     "price": 400.0,
     "seller_rating": 100.0,
@@ -26,6 +12,20 @@
     "confidence": "high",
     "baseline_price": 649.99,
     "gapPct": 38.46,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
+    "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
+    "price": 275.0,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 3653,
+    "franchise": "pokemon",
+    "set": "Astral Radiance",
+    "product_type": "booster_box",
+    "confidence": "low",
+    "baseline_price": 400.0,
+    "gapPct": 21.25,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
