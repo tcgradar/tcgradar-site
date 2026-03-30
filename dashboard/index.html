@@ -740,22 +740,21 @@
             `}).join('');
         }
 
-        // STEP 90: Render auction opportunities (using live auction_tracking.json)
+        // STEP 90C: Render auction opportunities (using curated dashboard feed)
         async function renderAuctions() {
             const tbody = document.getElementById('auctions-tbody');
             const countEl = document.getElementById('auctions-count');
             
             try {
-                // STEP 90: Use live tracking data instead of static snapshot
-                const response = await fetch('../state/auction_tracking.json');
+                // STEP 90C: Use curated dashboard feed instead of raw tracking
+                const response = await fetch('../state/auction_dashboard_live.json');
                 if (!response.ok) {
                     throw new Error('Auction data not available');
                 }
-                const trackingData = await response.json();
+                const feedData = await response.json();
                 
-                // Convert auctions object to array and sort by opportunity score
-                const auctions = Object.values(trackingData.auctions || {});
-                auctions.sort((a, b) => (b.opportunity_score || 0) - (a.opportunity_score || 0));
+                // auctions is already a list in the curated feed
+                const auctions = feedData.auctions || [];
                 
                 countEl.textContent = `Showing ${auctions.length} auction opportunities`;
                 
@@ -765,9 +764,10 @@
                 }
                 
                 tbody.innerHTML = auctions.map(auction => {
-                    // Determine opportunity type based on time remaining
-                    const timeRemaining = auction.time_remaining || 0;
-                    const typeLabel = timeRemaining < 6 ? 'Ending soon' : 'Early opportunity';
+                    // Determine opportunity type label
+                    const oppType = auction.opportunity_type || 'early';
+                    const typeLabel = oppType === 'ending_soon' ? 'Ending soon' : 
+                                     oppType === 'urgent' ? 'Urgent' : 'Early opportunity';
                     
                     return `
                     <tr>
