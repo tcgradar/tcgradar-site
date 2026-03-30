@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-30T22:31:23.043139+00:00",
-  "source": "previous_scan",
+  "updated_at": "2026-03-30T23:01:18.836470+00:00",
+  "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
     "price": 1495.02,
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-    "price": 275.0,
+    "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
+    "price": 489.13,
     "seller_rating": 100.0,
-    "seller_feedback_count": 3654,
-    "franchise": "pokemon",
-    "set": "Astral Radiance",
+    "seller_feedback_count": 3939,
+    "franchise": "onepiece",
+    "set": "Emperors in the New World",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 399.99,
-    "gapPct": 21.25,
+    "baseline_price": 630.0,
+    "gapPct": 15.07,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
