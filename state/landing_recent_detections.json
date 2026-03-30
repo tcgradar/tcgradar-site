@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T01:31:20.023804+00:00",
+  "updated_at": "2026-03-30T02:01:41.526455+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-    "price": 489.13,
+    "title": "POKEMON Brilliant Stars LOOSE Factory Sealed (36 packs) ~ Booster Box Equivalent",
+    "price": 400.0,
     "seller_rating": 100.0,
-    "seller_feedback_count": 3939,
-    "franchise": "onepiece",
-    "set": "Emperors in the New World",
+    "seller_feedback_count": 196,
+    "franchise": "pokemon",
+    "set": "Brilliant Stars",
     "product_type": "booster_box",
-    "confidence": "low",
-    "baseline_price": 646.16,
-    "gapPct": 17.2,
+    "confidence": "high",
+    "baseline_price": 649.99,
+    "gapPct": 38.46,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
