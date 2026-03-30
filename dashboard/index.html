@@ -834,7 +834,7 @@
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
                     <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}"
-                        >${deal.deal_quality ? deal.deal_quality.charAt(0).toUpperCase() + deal.deal_quality.slice(1) : 'Low'}</td>
+                        >${deal.deal_quality ? deal.deal_quality.charAt(0).toUpperCase() + deal.deal_quality.slice(1).toLowerCase() : 'Low'}</td>
                     <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}"
                         >${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
@@ -872,7 +872,7 @@
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
-                    <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${deal.deal_quality ? deal.deal_quality.charAt(0).toUpperCase() + deal.deal_quality.slice(1) : 'Low'}</td>
+                    <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${deal.deal_quality ? deal.deal_quality.charAt(0).toUpperCase() + deal.deal_quality.slice(1).toLowerCase() : 'Low'}</td>
                     <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
             `}).join('');
@@ -940,13 +940,19 @@
                     typeLabel = '🧠 Early opportunity';
                 }
                 
+                // STEP 94: Use total_price (bid + shipping) for display and gap
+                const totalPrice = auction.total_price || auction.current_price || 0;
+                const shippingCost = auction.shipping_cost || 0;
+                const showShipping = shippingCost > 0;
+                
                 return `
                 <tr>
                     <td class="title-cell">
                         <a href="${auction.url}" target="_blank" rel="noopener" class="deal-link">${auction.title}</a>
                     </td>
                     <td>
-                        <div class="price">$${(auction.current_price || 0).toFixed(2)}</div>
+                        <div class="price">$${totalPrice.toFixed(2)}</div>
+                        ${showShipping ? `<div style="font-size: 0.8rem; color: #888;">+ $${shippingCost.toFixed(2)} shipping</div>` : ''}
                     </td>
                     <td>$${(auction.baseline || 0).toFixed(2)}</td>
                     <td>
