@@ -395,8 +395,9 @@
             <div class="summary-section">
                 <div class="summary-grid">
                     <div class="card">
-                        <h3>Total live deals</h3>
+                        <h3>Total live opportunities</h3>
                         <div class="value" id="total-deals">0</div>
+                        <div id="filtered-count" style="color: #888; font-size: 0.9rem; margin-top: 8px;"></div>
                     </div>
                 </div>
             </div>
@@ -617,6 +618,9 @@
             renderDeals(filteredDeals);
             renderWatchlist(filteredWatchlist);
             renderAuctionsFiltered(filteredAuctions);
+            
+            // STEP 93: Update filtered count display (main count stays fixed)
+            updateFilteredCount();
         }
 
         function clearFilters() {
@@ -629,6 +633,9 @@
             renderDeals(rawDeals);
             renderWatchlist(rawWatchlist);
             renderAuctionsFiltered(rawAuctions);
+            
+            // STEP 93: Clear filtered count display
+            updateFilteredCount();
         }
 
         const gapBucketNames = {
@@ -702,11 +709,33 @@
         }
 
         function renderSummary() {
-            // STEP 92: Total includes Starter + Watchlist + Auctions
-            const starterCount = dashboardData.total_deals || 0;
-            const watchlistCount = (dashboardData.watchlist_deals || []).length;
-            const totalOpportunities = starterCount + watchlistCount + auctionCount;
+            // STEP 93: Fixed total based on RAW unfiltered data
+            const totalStarter = rawDeals.length;
+            const totalWatchlist = rawWatchlist.length;
+            const totalAuctions = rawAuctions.length;
+            const totalOpportunities = totalStarter + totalWatchlist + totalAuctions;
+            
             document.getElementById('total-deals').textContent = totalOpportunities;
+            
+            // Update filtered count display
+            updateFilteredCount();
+        }
+        
+        // STEP 93: Update filtered count display
+        function updateFilteredCount() {
+            const filteredStarter = document.getElementById('results-count').textContent.match(/(\d+)/)?.[0] || '0';
+            const filteredWatchlist = document.getElementById('watchlist-count').textContent.match(/(\d+)/)?.[0] || '0';
+            const filteredAuctions = document.getElementById('auctions-count').textContent.match(/(\d+)/)?.[0] || '0';
+            
+            const totalFiltered = parseInt(filteredStarter) + parseInt(filteredWatchlist) + parseInt(filteredAuctions);
+            const totalRaw = rawDeals.length + rawWatchlist.length + rawAuctions.length;
+            
+            const filteredCountEl = document.getElementById('filtered-count');
+            if (totalFiltered < totalRaw) {
+                filteredCountEl.textContent = `Showing ${totalFiltered} of ${totalRaw} opportunities`;
+            } else {
+                filteredCountEl.textContent = '';
+            }
         }
 
         function renderFilters() {
