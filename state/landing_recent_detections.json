@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-30T09:31:18.657892+00:00",
-  "source": "previous_scan",
+  "updated_at": "2026-03-30T10:01:17.490074+00:00",
+  "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
     "price": 631.84,
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-    "price": 275.0,
+    "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
+    "price": 489.13,
     "seller_rating": 100.0,
-    "seller_feedback_count": 3653,
-    "franchise": "pokemon",
-    "set": "Astral Radiance",
+    "seller_feedback_count": 3939,
+    "franchise": "onepiece",
+    "set": "Emperors in the New World",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 400.0,
-    "gapPct": 21.25,
+    "baseline_price": 646.98,
+    "gapPct": 17.3,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }

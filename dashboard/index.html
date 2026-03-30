@@ -740,32 +740,34 @@
             `}).join('');
         }
 
-        // STEP 84B: Render auction opportunities (using cleaned auction_high_deals.json)
+        // STEP 90: Render auction opportunities (using live auction_tracking.json)
         async function renderAuctions() {
             const tbody = document.getElementById('auctions-tbody');
             const countEl = document.getElementById('auctions-count');
             
             try {
-                const response = await fetch('../state/auction_high_deals.json');
+                // STEP 90: Use live tracking data instead of static snapshot
+                const response = await fetch('/alerts/state/auction_tracking.json');
                 if (!response.ok) {
                     throw new Error('Auction data not available');
                 }
-                const auctionData = await response.json();
+                const trackingData = await response.json();
                 
-                // Use all entries from auction_high_deals.json (already filtered)
-                const highAuctions = auctionData.auctions || [];
+                // Convert auctions object to array and sort by opportunity score
+                const auctions = Object.values(trackingData.auctions || {});
+                auctions.sort((a, b) => (b.opportunity_score || 0) - (a.opportunity_score || 0));
                 
-                countEl.textContent = `Showing ${highAuctions.length} auction opportunities`;
+                countEl.textContent = `Showing ${auctions.length} auction opportunities`;
                 
-                if (highAuctions.length === 0) {
+                if (auctions.length === 0) {
                     tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">No high-opportunity auctions available</td></tr>';
                     return;
                 }
                 
-                tbody.innerHTML = highAuctions.map(auction => {
-                    // Determine opportunity type label from opportunity_type field
-                    const oppType = auction.opportunity_type || 'early';
-                    const typeLabel = oppType === 'early' ? 'Early opportunity' : 'Ending soon';
+                tbody.innerHTML = auctions.map(auction => {
+                    // Determine opportunity type based on time remaining
+                    const timeRemaining = auction.time_remaining || 0;
+                    const typeLabel = timeRemaining < 6 ? 'Ending soon' : 'Early opportunity';
                     
                     return `
                     <tr>
@@ -780,7 +782,7 @@
                             <span class="gap-badge gap-high">${(auction.gapPct || 0).toFixed(1)}%</span>
                         </td>
                         <td>${auction.bids || 0}</td>
-                        <td>${auction.time_remaining_hours ? auction.time_remaining_hours.toFixed(1) + 'h' : 'Unknown'}</td>
+                        <td>${auction.time_remaining ? auction.time_remaining.toFixed(1) + 'h' : 'Unknown'}</td>
                         <td><span style="color: #ffd700;">${typeLabel}</span></td>
                     </tr>
                     `;
