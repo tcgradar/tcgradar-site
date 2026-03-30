@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T05:01:17.540846+00:00",
+  "updated_at": "2026-03-30T05:31:16.864305+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon Destined Rivals SV10 Booster Bundle Sealed",
@@ -24,8 +24,8 @@
     "set": "Emperors in the New World",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 646.98,
-    "gapPct": 17.3,
+    "baseline_price": 647.81,
+    "gapPct": 17.41,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }

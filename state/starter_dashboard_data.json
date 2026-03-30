@@ -1,20 +1,21 @@
 {
-  "timestamp": "2026-03-30T05:01:17.515633+00:00",
+  "timestamp": "2026-03-30T05:31:16.839015+00:00",
   "tier": "starter",
-  "total_deals": 2,
+  "total_deals": 3,
   "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1,
+      "pokemon": 2,
       "onepiece": 1
     },
     "by_product_type": {
       "booster_bundle": 1,
-      "booster_box": 1
+      "booster_box": 2
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 1
+      "10_to_19": 1,
+      "1_to_9": 1
     }
   },
   "trust_counts": {
@@ -28,6 +29,7 @@
       "pokemon"
     ],
     "set": [
+      "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
     ],
@@ -36,6 +38,7 @@
       "booster_bundle"
     ],
     "gap_bucket": [
+      "1_to_9",
       "10_to_19",
       "20_plus"
     ]
@@ -69,16 +72,14 @@
       "shipping_cost": 45.92,
       "total_price": 535.05,
       "shipping_verified": true,
-      "baseline_price": 646.98,
-      "gapPct": 17.3,
+      "baseline_price": 647.81,
+      "gapPct": 17.41,
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
-    }
-  ],
-  "watchlist_deals": [
+    },
     {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
@@ -89,15 +90,14 @@
       "shipping_cost": 17.66,
       "total_price": 276.78000000000003,
       "shipping_verified": true,
-      "baseline_price": 300.0,
-      "gapPct": 7.74,
+      "baseline_price": 305.0,
+      "gapPct": 9.25,
       "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 602,
       "shipping_included": true,
       "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
-      "deal_quality": "MEDIUM"
+      "deal_quality": "HIGH"
     }
-  ]
+  ],
+  "watchlist_deals": []
 }
