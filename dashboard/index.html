@@ -775,10 +775,11 @@
                 }
                 
                 tbody.innerHTML = auctions.map(auction => {
-                    // STEP 92: Updated opportunity type labels
+                    // STEP 92C: Duration-based opportunity type labels
                     const oppType = auction.opportunity_type || 'early';
-                    const typeLabel = oppType === 'ending_soon' ? 'Urgent' : 
-                                     oppType === 'ending_today' ? 'Ending today' : 
+                    const typeLabel = oppType === 'urgent' ? 'Urgent' :
+                                     oppType === 'ending_soon' ? 'Ending soon' :
+                                     oppType === 'ongoing' ? 'Ongoing' :
                                      'Early opportunity';
                     
                     return `
