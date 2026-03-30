@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T19:31:22.698528+00:00",
+  "timestamp": "2026-03-30T20:01:54.925342+00:00",
   "tier": "starter",
   "total_deals": 3,
   "all_deals_count": 3,
@@ -13,8 +13,8 @@
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 1,
-      "1_to_9": 2
+      "10_to_19": 2,
+      "1_to_9": 1
     }
   },
   "trust_counts": {
@@ -52,8 +52,8 @@
       "shipping_cost": 45.92,
       "total_price": 535.05,
       "shipping_verified": true,
-      "baseline_price": 638.08,
-      "gapPct": 16.15,
+      "baseline_price": 646.98,
+      "gapPct": 17.3,
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -70,11 +70,11 @@
       "shipping_cost": 0.0,
       "total_price": 52.99,
       "shipping_verified": false,
-      "baseline_price": 57.95,
-      "gapPct": 8.56,
+      "baseline_price": 58.99,
+      "gapPct": 10.17,
       "confidence": "high",
       "shipping_included": true,
-      "gap_bucket": "1_to_9",
+      "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
     },
@@ -88,8 +88,8 @@
       "shipping_cost": 17.66,
       "total_price": 276.78000000000003,
       "shipping_verified": true,
-      "baseline_price": 302.31,
-      "gapPct": 8.44,
+      "baseline_price": 301.15,
+      "gapPct": 8.09,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "1_to_9",
