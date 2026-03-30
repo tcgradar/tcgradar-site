@@ -280,6 +280,36 @@
             color: #4da6ff;
         }
 
+        /* STEP 93: Urgency hierarchy (no color - using weight/style only) */
+        .urgency-urgent {
+            font-weight: 800;
+            font-size: 0.95rem;
+            letter-spacing: 0.02em;
+            animation: pulse-urgent 2s ease-in-out infinite;
+        }
+        
+        .urgency-ending {
+            font-weight: 700;
+            font-size: 0.9rem;
+        }
+        
+        .urgency-ongoing {
+            font-weight: 500;
+            font-size: 0.85rem;
+            opacity: 0.9;
+        }
+        
+        .urgency-early {
+            font-weight: 400;
+            font-size: 0.85rem;
+            opacity: 0.75;
+        }
+        
+        @keyframes pulse-urgent {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.7; }
+        }
+
         .franchise-badge {
             display: inline-block;
             padding: 3px 8px;
@@ -775,12 +805,23 @@
                 }
                 
                 tbody.innerHTML = auctions.map(auction => {
-                    // STEP 92E: Urgency labels with icons (no color meaning)
+                    // STEP 93: Visual urgency hierarchy (no color)
                     const oppType = auction.opportunity_type || 'early';
-                    const typeLabel = oppType === 'urgent' ? '🔥 Urgent' :
-                                     oppType === 'ending_soon' ? '⚡ Ending soon' :
-                                     oppType === 'ongoing' ? '👀 Ongoing' :
-                                     '🧠 Early opportunity';
+                    let urgencyClass, typeLabel;
+                    
+                    if (oppType === 'urgent') {
+                        urgencyClass = 'urgency-urgent';
+                        typeLabel = '🔥 Urgent';
+                    } else if (oppType === 'ending_soon') {
+                        urgencyClass = 'urgency-ending';
+                        typeLabel = '⚡ Ending soon';
+                    } else if (oppType === 'ongoing') {
+                        urgencyClass = 'urgency-ongoing';
+                        typeLabel = '👀 Ongoing';
+                    } else {
+                        urgencyClass = 'urgency-early';
+                        typeLabel = '🧠 Early opportunity';
+                    }
                     
                     return `
                     <tr>
@@ -796,7 +837,7 @@
                         </td>
                         <td>${auction.bids || 0}</td>
                         <td>${auction.time_remaining ? auction.time_remaining.toFixed(1) + 'h' : 'Unknown'}</td>
-                        <td>${typeLabel}</td>
+                        <td><span class="${urgencyClass}">${typeLabel}</span></td>
                     </tr>
                     `;
                 }).join('');
