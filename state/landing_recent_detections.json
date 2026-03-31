@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-31T04:31:42.875291+00:00",
-  "source": "previous_scan",
+  "updated_at": "2026-03-31T05:01:20.145456+00:00",
+  "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
     "price": 275.0,
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "POKEMON Brilliant Stars LOOSE Factory Sealed (36 packs) ~ Booster Box Equivalent",
-    "price": 400.0,
+    "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
+    "price": 487.26,
     "seller_rating": 100.0,
-    "seller_feedback_count": 196,
-    "franchise": "pokemon",
-    "set": "Brilliant Stars",
+    "seller_feedback_count": 3939,
+    "franchise": "onepiece",
+    "set": "Emperors in the New World",
     "product_type": "booster_box",
-    "confidence": "high",
-    "baseline_price": 649.99,
-    "gapPct": 38.46,
+    "confidence": "low",
+    "baseline_price": 629.99,
+    "gapPct": 15.39,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
