@@ -1,24 +1,23 @@
 {
-  "timestamp": "2026-03-31T13:01:29.457489+00:00",
+  "timestamp": "2026-03-31T13:31:18.902181+00:00",
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 3,
+  "total_deals": 2,
+  "all_deals_count": 2,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 2,
+      "onepiece": 1,
       "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 2
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 1,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -29,15 +28,13 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Battle Styles",
-      "Emperors in the New World"
+      "Battle Styles"
     ],
     "product_type": [
       "booster_box"
     ],
     "gap_bucket": [
       "1_to_9",
-      "10_to_19",
       "20_plus"
     ]
   },
@@ -52,29 +49,11 @@
       "shipping_cost": 34.43,
       "total_price": 230.06,
       "shipping_verified": true,
-      "baseline_price": 337.5,
-      "gapPct": 31.83,
+      "baseline_price": 340.0,
+      "gapPct": 32.34,
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "20_plus",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 533.01,
-      "shipping_cost": 45.75,
-      "total_price": 533.01,
-      "shipping_verified": true,
-      "baseline_price": 612.73,
-      "gapPct": 13.01,
-      "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
     },
