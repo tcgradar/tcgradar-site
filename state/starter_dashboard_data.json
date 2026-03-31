@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-03-31T10:01:47.122846+00:00",
+  "timestamp": "2026-03-31T10:31:20.282080+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 5,
+  "total_deals": 4,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 3
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 4,
+      "booster_box": 3,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
+      "20_plus": 1,
       "10_to_19": 2,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -30,7 +30,6 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -65,24 +64,6 @@
       "deal_quality": "HIGH"
     },
     {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
-      "shipping_verified": true,
-      "baseline_price": 399.49,
-      "gapPct": 21.15,
-      "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "20_plus",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
       "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
       "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
       "franchise": "onepiece",
@@ -102,7 +83,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ2iPvk4wpGRIu1%2Bck61mUduQUAKGjpzrKk80fVS0mEMCu3FNSu0q%2FeurEx%2B%2FQdrVqjI3AF509T2YfEslGGWzLnR02Tr8AoduRTVNrcBxpAkXEZKVOpJW%2F9Nkb0DA12hnJSnFPFd2Z4iOf0x1bc%2F34D%2BlIpYuNT21cCevhNphEUI6yJAoFbFATAI406MofLlHcw%3D",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ1xFMvHXAOY%2FbdTM24PB2SMqZJ143RXjBPUGtbXw5sifSKCW0YfHtz2bGT4ETaABTzVzJNxxcOQDM3iX5Y3V4RLmkHc2jvYUoBRKYAux20GORYDtgAg2D3B1phwtUsQG78m2uZzFjyGi7ivjUeM2gkIheD0QXB4OS7EoEfgFqKjnmiUWwlJ2TKstS6%2BuOWL93U%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",

@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-03-31T10:01:47.148590+00:00",
-  "source": "active_deals",
+  "updated_at": "2026-03-31T10:31:20.307964+00:00",
+  "source": "previous_scan",
   "starter_quality_deal": {
+    "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
+    "price": 275.0,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 3654,
+    "franchise": "pokemon",
+    "set": "Astral Radiance",
+    "product_type": "booster_box",
+    "confidence": "low",
+    "baseline_price": 399.49,
+    "gapPct": 21.15,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
     "title": "POKEMON Brilliant Stars LOOSE Factory Sealed (36 packs) ~ Booster Box Equivalent",
     "price": 400.0,
     "seller_rating": 100.0,
@@ -12,20 +26,6 @@
     "confidence": "high",
     "baseline_price": 649.99,
     "gapPct": 38.46,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
-    "title": "One Piece Card Game OP-07 500 Years in the Future - Booster Box New & Sealed",
-    "price": 195.63,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 815,
-    "franchise": "onepiece",
-    "set": "500 Years in the Future",
-    "product_type": "booster_box",
-    "confidence": "low",
-    "baseline_price": 340.0,
-    "gapPct": 32.34,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
