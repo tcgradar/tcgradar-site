@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T22:03:51.576353+00:00",
+  "updated_at": "2026-03-31T22:34:42.139499+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
@@ -10,8 +10,8 @@
     "set": "500 Years in the Future",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 335.0,
-    "gapPct": 18.44,
+    "baseline_price": 337.5,
+    "gapPct": 19.05,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
