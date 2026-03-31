@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-03-31T12:31:06.444202+00:00",
+    "generated_at": "2026-03-31T13:01:10.937432+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
     "raw_count": 22,
@@ -101,7 +101,7 @@
       "baseline": 646.98,
       "gapPct": 45.99060249157625,
       "bids": 27,
-      "time_remaining": 31.484133299444448,
+      "time_remaining": 30.982876308333335,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/147218162149?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2246e2e1e5:g:DNkAAeSwwkppwEtV",
       "franchise": "onepiece",
@@ -118,14 +118,14 @@
       "baseline": 335.0,
       "gapPct": 32.08955223880597,
       "bids": 19,
-      "time_remaining": 1.0830268488888888,
+      "time_remaining": 0.5819600497222223,
       "opportunity_type": "urgent",
       "url": "https://www.ebay.com/itm/206173513281?_skw=One+Piece+500+Years+in+the+Future+booster+box&hash=item3000e62641:g:uqsAAeSwwaxpx9kP",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
       "seller_trust": "HIGH",
-      "opportunity_score": 62
+      "opportunity_score": 64
     },
     {
       "title": "One Piece CCG OP-09 Emperors in the New World Booster Box ENG - New & Sealed #1",
@@ -135,7 +135,7 @@
       "baseline": 646.98,
       "gapPct": 39.92550001545643,
       "bids": 32,
-      "time_remaining": 31.484688872222222,
+      "time_remaining": 30.98343189527778,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/147218159836?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2246e2d8dc:g:z1YAAeSwaFdpwEqS",
       "franchise": "onepiece",
@@ -152,7 +152,7 @@
       "baseline": 646.98,
       "gapPct": 27.200222572567935,
       "bids": 21,
-      "time_remaining": 37.500522223333334,
+      "time_remaining": 36.999265252777775,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/389798328555?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item5ac1ca78eb:g:ZiYAAeSwh-BpxCUv",
       "franchise": "onepiece",
