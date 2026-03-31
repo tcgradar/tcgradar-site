@@ -1,24 +1,23 @@
 {
-  "timestamp": "2026-03-31T11:01:44.833725+00:00",
+  "timestamp": "2026-03-31T11:31:22.333920+00:00",
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 4,
+  "total_deals": 2,
+  "all_deals_count": 2,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2,
-      "onepiece": 2
+      "onepiece": 1,
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 4
+      "booster_box": 2
     },
     "by_gap_bucket": {
-      "20_plus": 2,
-      "10_to_19": 1,
+      "20_plus": 1,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -29,38 +28,17 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Battle Styles",
-      "Emperors in the New World",
-      "Evolving Skies"
+      "Battle Styles"
     ],
     "product_type": [
       "booster_box"
     ],
     "gap_bucket": [
       "1_to_9",
-      "10_to_19",
       "20_plus"
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
-      "url": "https://www.ebay.com/itm/205518977966?_skw=pokemon+Evolving+Skies+booster+box&hash=item2fd9e2bbae:g:jjgAAeSw0Wxpx3l7",
-      "franchise": "pokemon",
-      "set": "Evolving Skies",
-      "product_type": "booster_box",
-      "price": 1528.27,
-      "shipping_cost": 38.97,
-      "total_price": 1528.27,
-      "shipping_verified": true,
-      "baseline_price": 2997.89,
-      "gapPct": 49.02,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "20_plus",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
     {
       "title": "One Piece Card Game OP-07 500 Years in the Future - Booster Box New & Sealed",
       "url": "https://www.ebay.com/itm/117117833809?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item1b44c45251:g:2hAAAeSwCoRpy5hk",
@@ -76,24 +54,6 @@
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "20_plus",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 533.01,
-      "shipping_cost": 45.75,
-      "total_price": 533.01,
-      "shipping_verified": true,
-      "baseline_price": 622.49,
-      "gapPct": 14.37,
-      "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
     },
