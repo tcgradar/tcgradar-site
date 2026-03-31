@@ -1,25 +1,24 @@
 {
-  "timestamp": "2026-03-31T04:01:45.051358+00:00",
+  "timestamp": "2026-03-31T04:31:42.849570+00:00",
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 4,
+  "total_deals": 3,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
-      "onepiece": 1
+      "onepiece": 1,
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 3,
+      "booster_box": 2,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 2,
-      "1_to_9": 1
+      "10_to_19": 1,
+      "1_to_9": 2
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -29,7 +28,6 @@
       "pokemon"
     ],
     "set": [
-      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -40,29 +38,10 @@
     ],
     "gap_bucket": [
       "1_to_9",
-      "10_to_19",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
-      "shipping_verified": true,
-      "baseline_price": 399.98,
-      "gapPct": 21.25,
-      "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "20_plus",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
     {
       "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
       "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
@@ -73,8 +52,8 @@
       "shipping_cost": 45.92,
       "total_price": 535.05,
       "shipping_verified": true,
-      "baseline_price": 630.0,
-      "gapPct": 15.07,
+      "baseline_price": 614.99,
+      "gapPct": 13.0,
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -82,20 +61,20 @@
       "deal_quality": "HIGH"
     },
     {
-      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ0y6xwSUfCbrae5tkxFdE%2B9EpIU4D9qb75upsVH97nDUG0462DDEao15Wmaeyvfg2HiRf2aoCXosLWpkPuc8BEpBiBx1dJ4kuVi3fscHtb2ey4o30Pi8s%2FltEu5aZjkGieQBsMgo9pxHKzmt1756bAUyTMNOLxhpKY5AKbAn%2Bk%2FagzU%2FBKsgJHHvl7Ba%2FCSoEg%3D",
+      "title": "Pokemon Destined Rivals SV10 Booster Bundle 6 Packs Sealed",
+      "url": "https://www.ebay.com/itm/287243228935?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e107d707:g:IbMAAeSwOKhpyt8m",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
-      "price": 52.99,
-      "shipping_cost": 0.0,
-      "total_price": 52.99,
-      "shipping_verified": false,
-      "baseline_price": 58.95,
-      "gapPct": 10.11,
+      "price": 54.980000000000004,
+      "shipping_cost": 6.99,
+      "total_price": 54.980000000000004,
+      "shipping_verified": true,
+      "baseline_price": 59.95,
+      "gapPct": 8.29,
       "confidence": "high",
       "shipping_included": true,
-      "gap_bucket": "10_to_19",
+      "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
     },
