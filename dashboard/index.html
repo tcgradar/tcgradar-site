@@ -4,20 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/favicon/favicon.svg" type="image/svg+xml">
-    <title>Starter dashboard - TCG Deal Radar</title>
+    <title>Dashboard - TCG Deal Radar</title>
     <meta name="description" content="Dashboard with current SAFE deals, filters, and live updates for Pokemon and One Piece products.">
     <meta name="robots" content="index,follow">
     <link rel="canonical" href="https://tcgradar-site.pages.dev/dashboard/">
 
     <!-- Open Graph -->
-    <meta property="og:title" content="Starter dashboard - TCG Deal Radar">
+    <meta property="og:title" content="Dashboard - TCG Deal Radar">
     <meta property="og:description" content="Dashboard with current SAFE deals, filters, and live updates.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://tcgradar-site.pages.dev/dashboard/">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Starter dashboard - TCG Deal Radar">
+    <meta name="twitter:title" content="Dashboard - TCG Deal Radar">
     <meta name="twitter:description" content="Dashboard with current SAFE deals, filters, and live updates.">
 
     <!-- JSON-LD Structured Data -->
@@ -25,7 +25,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Starter dashboard - TCG Deal Radar",
+        "name": "Dashboard - TCG Deal Radar",
         "url": "https://tcgradar-site.pages.dev/dashboard/",
         "description": "Dashboard with current SAFE deals, filters, and live updates for Pokemon and One Piece products."
     }
@@ -405,8 +405,8 @@
     </script>
     <div class="container">
         <header>
-            <h1>Starter dashboard</h1>
-            <p>Live opportunities across Pokémon and One Piece</p>
+            <h1>Dashboard</h1>
+            <p>Live opportunities across Pokemon and One Piece</p>
         </header>
 
         <div id="loading" class="loading">Loading dashboard data...</div>
@@ -537,17 +537,15 @@
                         <thead>
                             <tr>
                                 <th>Deal</th>
+                                <th>Current Price</th>
+                                <th>Gap</th>
+                                <th>Time + Status</th>
+                                <th>Bids</th>
                                 <th>Franchise</th>
                                 <th>Set</th>
                                 <th>Type</th>
                                 <th>Language</th>
-                                <th>Current Price</th>
-                                <th>Baseline</th>
-                                <th>Gap</th>
-                                <th>Bids</th>
-                                <th>Time Left</th>
                                 <th>Seller Trust</th>
-                                <th>Urgency</th>
                             </tr>
                         </thead>
                         <tbody id="auctions-tbody">
@@ -916,7 +914,7 @@
             }
         }
         
-        // STEP 96: Render filtered auctions (called by applyFilters)
+        // STEP 96E: Render filtered auctions (called by applyFilters)
         function renderAuctionsFiltered(auctionsToRender) {
             const tbody = document.getElementById('auctions-tbody');
             const countEl = document.getElementById('auctions-count');
@@ -928,7 +926,7 @@
             countEl.textContent = `Showing ${auctionsToRender.length} auction opportunities`;
             
             if (auctionsToRender.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="13" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
                 return;
             }
             
@@ -950,9 +948,10 @@
                     typeLabel = '🧠 Early opportunity';
                 }
                 
-                // STEP 95: Use total_price (bid + shipping) for display and gap
+                // STEP 96E: Reordered columns - Time + Status combined
                 const totalPrice = auction.total_price || auction.current_price || 0;
                 const shippingCost = auction.shipping_cost || 0;
+                const timeLeft = auction.time_remaining ? auction.time_remaining.toFixed(1) + 'h' : 'Unknown';
                 
                 return `
                 <tr>
@@ -960,23 +959,24 @@
                         <a href="${auction.url}" target="_blank" rel="noopener" class="deal-link">${auction.title}</a>
                     </td>
                     <td>
+                        <div class="price">$${totalPrice.toFixed(2)}</div>
+                        <div style="font-size: 0.75rem; color: #888;">${shippingCost > 0 ? `(incl. $${shippingCost.toFixed(2)} shipping)` : '(free shipping)'}</div>
+                    </td>
+                    <td>
+                        <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
+                    </td>
+                    <td>
+                        <div>${timeLeft}</div>
+                        <div class="${urgencyClass}">${typeLabel}</div>
+                    </td>
+                    <td>${auction.bids || 0}</td>
+                    <td>
                         <span class="franchise-badge ${getFranchiseClass(auction.franchise)}">${formatFranchise(auction.franchise)}</span>
                     </td>
                     <td>${auction.set || '-'}</td>
                     <td class="product-type">${formatProductType(auction.product_type)}</td>
                     <td>EN</td>
-                    <td>
-                        <div class="price">$${totalPrice.toFixed(2)}</div>
-                        <div style="font-size: 0.75rem; color: #888;">${shippingCost > 0 ? `(incl. $${shippingCost.toFixed(2)} shipping)` : '(free shipping)'}</div>
-                    </td>
-                    <td>$${(auction.baseline || 0).toFixed(2)}</td>
-                    <td>
-                        <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
-                    </td>
-                    <td>${auction.bids || 0}</td>
-                    <td>${auction.time_remaining ? auction.time_remaining.toFixed(1) + 'h' : 'Unknown'}</td>
                     <td class="seller-trust-${auction.seller_trust?.toLowerCase() || 'low'}">${auction.seller_trust ? auction.seller_trust.charAt(0).toUpperCase() + auction.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
-                    <td><span class="${urgencyClass}">${typeLabel}</span></td>
                 </tr>
                 `;
             }).join('');
