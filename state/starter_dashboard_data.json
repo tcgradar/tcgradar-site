@@ -1,24 +1,23 @@
 {
-  "timestamp": "2026-03-31T16:01:46.973179+00:00",
+  "timestamp": "2026-03-31T16:31:19.402990+00:00",
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 5,
+  "total_deals": 3,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 3,
-      "booster_bundle": 1
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "20_plus": 2,
+      "20_plus": 1,
       "10_to_19": 2
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -29,13 +28,11 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Astral Radiance",
-      "Destined Rivals",
+      "Battle Styles",
       "Emperors in the New World"
     ],
     "product_type": [
-      "booster_box",
-      "booster_bundle"
+      "booster_box"
     ],
     "gap_bucket": [
       "10_to_19",
@@ -62,24 +59,6 @@
       "deal_quality": "HIGH"
     },
     {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
-      "shipping_verified": true,
-      "baseline_price": 399.98,
-      "gapPct": 21.25,
-      "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "20_plus",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
       "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
       "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
       "franchise": "onepiece",
@@ -98,17 +77,17 @@
       "deal_quality": "HIGH"
     },
     {
-      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
-      "url": "https://www.ebay.com/itm/236726699693?_skw=pokemon+Destined+Rivals+booster+box&hash=item371e02c6ad:g:36YAAeSwAnhpy-j1",
+      "title": "Pokemon Battle Styles Booster Box New Factory Sealed Sword Shield English Packs",
+      "url": "https://www.ebay.com/itm/168254916849?_skw=pokemon+Battle+Styles+booster+box&hash=item272cc648f1:g:eNkAAeSwgI9pwIxq",
       "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 49.99,
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 269.99,
       "shipping_cost": 0.0,
-      "total_price": 49.99,
-      "shipping_verified": true,
-      "baseline_price": 55.99,
-      "gapPct": 10.72,
+      "total_price": 269.99,
+      "shipping_verified": false,
+      "baseline_price": 300.81,
+      "gapPct": 10.25,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -116,26 +95,5 @@
       "deal_quality": "HIGH"
     }
   ],
-  "watchlist_deals": [
-    {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 276.17,
-      "shipping_cost": 17.62,
-      "total_price": 276.17,
-      "shipping_verified": true,
-      "baseline_price": 300.0,
-      "gapPct": 7.94,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 602,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "MEDIUM"
-    }
-  ]
+  "watchlist_deals": []
 }
