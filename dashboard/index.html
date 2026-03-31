@@ -384,7 +384,7 @@
     <div class="container">
         <header>
             <h1>Starter dashboard</h1>
-            <p>For active deal hunting across Pokemon and One Piece</p>
+            <p>Live opportunities across Pokémon and One Piece</p>
         </header>
 
         <div id="loading" class="loading">Loading dashboard data...</div>
@@ -397,7 +397,6 @@
                     <div class="card">
                         <h3>Total live opportunities</h3>
                         <div class="value" id="total-deals">0</div>
-                        <div id="filtered-count" style="color: #888; font-size: 0.9rem; margin-top: 8px;"></div>
                     </div>
                 </div>
             </div>
@@ -445,7 +444,7 @@
             <!-- Deals Table -->
             <div class="deals-section">
                 <h3>🔥 Best deals you can buy right now</h3>
-                <p class="baseline-disclaimer">Baseline pricing is still improving. Always verify that a deal is truly attractive before buying.</p>
+                <p class="baseline-disclaimer">Prices include estimated US shipping. Always verify before buying.</p>
                 <div class="results-count" id="results-count">Showing 0 live deals</div>
                 <div style="overflow-x: auto;">
                     <table class="deals-table">
@@ -456,6 +455,7 @@
                                 <th>Franchise</th>
                                 <th>Set</th>
                                 <th>Type</th>
+                                <th>Language</th>
                                 <th>Price</th>
                                 <th>Gap</th>
                                 <th>Deal quality</th>
@@ -470,8 +470,8 @@
 
             <!-- STEP 78: Watchlist Section -->
             <div class="deals-section" id="watchlist-section" style="margin-top: 40px;">
-                <h3>👀 Deals worth watching — may become good opportunities</h3>
-                <p class="baseline-disclaimer">Deals with smaller gaps from HIGH trust sellers. Worth monitoring.</p>
+                <h3>👀 Deals worth watching — smaller gaps or higher risk</h3>
+                <p class="baseline-disclaimer">Deals with smaller gaps or less certainty. Worth checking carefully before buying.</p>
                 <div class="results-count" id="watchlist-count">Showing 0 watchlist items</div>
                 <div style="overflow-x: auto;">
                     <table class="deals-table">
@@ -482,6 +482,7 @@
                                 <th>Franchise</th>
                                 <th>Set</th>
                                 <th>Type</th>
+                                <th>Language</th>
                                 <th>Price</th>
                                 <th>Gap</th>
                                 <th>Deal quality</th>
@@ -494,22 +495,27 @@
                 </div>
             </div>
 
-            <!-- STEP 84: Auction Opportunities Section (Experimental) -->
+            <!-- STEP 84: Auction Opportunities Section -->
             <div class="deals-section" id="auctions-section" style="margin-top: 40px;">
-                <h3>🔥 Auction opportunities — based on current bid, final price may change</h3>
-                <p class="baseline-disclaimer">Experimental — current bid, not final price. Price updates every 30 min.</p>
+                <h3>🔥 Auction opportunities — track and act in real time</h3>
+                <p class="baseline-disclaimer">Based on current bid, not final price. Auctions update every 30 minutes as bids change.</p>
                 <div class="results-count" id="auctions-count">Showing 0 auction opportunities</div>
                 <div style="overflow-x: auto;">
                     <table class="deals-table">
                         <thead>
                             <tr>
                                 <th>Deal</th>
+                                <th>Franchise</th>
+                                <th>Set</th>
+                                <th>Type</th>
+                                <th>Language</th>
                                 <th>Current Price</th>
                                 <th>Baseline</th>
                                 <th>Gap</th>
                                 <th>Bids</th>
                                 <th>Time Left</th>
-                                <th>Type</th>
+                                <th>Seller Trust</th>
+                                <th>Urgency</th>
                             </tr>
                         </thead>
                         <tbody id="auctions-tbody">
@@ -618,9 +624,6 @@
             renderDeals(filteredDeals);
             renderWatchlist(filteredWatchlist);
             renderAuctionsFiltered(filteredAuctions);
-            
-            // STEP 93: Update filtered count display (main count stays fixed)
-            updateFilteredCount();
         }
 
         function clearFilters() {
@@ -633,9 +636,6 @@
             renderDeals(rawDeals);
             renderWatchlist(rawWatchlist);
             renderAuctionsFiltered(rawAuctions);
-            
-            // STEP 93: Clear filtered count display
-            updateFilteredCount();
         }
 
         const gapBucketNames = {
@@ -716,26 +716,6 @@
             const totalOpportunities = totalStarter + totalWatchlist + totalAuctions;
             
             document.getElementById('total-deals').textContent = totalOpportunities;
-            
-            // Update filtered count display
-            updateFilteredCount();
-        }
-        
-        // STEP 93: Update filtered count display
-        function updateFilteredCount() {
-            const filteredStarter = document.getElementById('results-count').textContent.match(/(\d+)/)?.[0] || '0';
-            const filteredWatchlist = document.getElementById('watchlist-count').textContent.match(/(\d+)/)?.[0] || '0';
-            const filteredAuctions = document.getElementById('auctions-count').textContent.match(/(\d+)/)?.[0] || '0';
-            
-            const totalFiltered = parseInt(filteredStarter) + parseInt(filteredWatchlist) + parseInt(filteredAuctions);
-            const totalRaw = rawDeals.length + rawWatchlist.length + rawAuctions.length;
-            
-            const filteredCountEl = document.getElementById('filtered-count');
-            if (totalFiltered < totalRaw) {
-                filteredCountEl.textContent = `Showing ${totalFiltered} of ${totalRaw} opportunities`;
-            } else {
-                filteredCountEl.textContent = '';
-            }
         }
 
         function renderFilters() {
@@ -809,7 +789,7 @@
             document.getElementById('results-count').textContent = `Showing ${dealsToRender.length} live deals`;
 
             if (dealsToRender.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No deals match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="11" style="text-align: center; padding: 40px; color: #888;">No deals match your filters</td></tr>';
                 return;
             }
 
@@ -826,6 +806,7 @@
                     </td>
                     <td>${deal.set}</td>
                     <td class="product-type">${formatProductType(deal.product_type)}</td>
+                    <td>EN</td>
                     <td>
                         <div class="price">$${(deal.total_price || deal.price).toFixed(2)}</div>
                         <div style="font-size: 0.75rem; color: #888;">${deal.shipping_cost > 0 ? `(incl. $${deal.shipping_cost.toFixed(2)} shipping)` : '(free shipping)'}</div>
@@ -849,7 +830,7 @@
             document.getElementById('watchlist-count').textContent = `Showing ${watchlistToRender.length} watchlist items`;
 
             if (watchlistToRender.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No watchlist items match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="11" style="text-align: center; padding: 40px; color: #888;">No watchlist items match your filters</td></tr>';
                 return;
             }
 
@@ -866,6 +847,7 @@
                     </td>
                     <td>${deal.set}</td>
                     <td class="product-type">${formatProductType(deal.product_type)}</td>
+                    <td>EN</td>
                     <td>
                         <div class="price">$${(deal.total_price || deal.price).toFixed(2)}</div>
                         <div style="font-size: 0.75rem; color: #888;">${deal.shipping_cost > 0 ? `(incl. $${deal.shipping_cost.toFixed(2)} shipping)` : '(free shipping)'}</div>
@@ -904,11 +886,11 @@
                 auctionCount = 0;
                 renderSummary();
                 countEl.textContent = 'Auction data unavailable';
-                tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">Auction data unavailable</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="13" style="text-align: center; padding: 40px; color: #888;">Auction data unavailable</td></tr>';
             }
         }
         
-        // STEP 94: Render filtered auctions (called by applyFilters)
+        // STEP 96: Render filtered auctions (called by applyFilters)
         function renderAuctionsFiltered(auctionsToRender) {
             const tbody = document.getElementById('auctions-tbody');
             const countEl = document.getElementById('auctions-count');
@@ -920,7 +902,7 @@
             countEl.textContent = `Showing ${auctionsToRender.length} auction opportunities`;
             
             if (auctionsToRender.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="7" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="13" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
                 return;
             }
             
@@ -952,6 +934,12 @@
                         <a href="${auction.url}" target="_blank" rel="noopener" class="deal-link">${auction.title}</a>
                     </td>
                     <td>
+                        <span class="franchise-badge ${getFranchiseClass(auction.franchise)}">${formatFranchise(auction.franchise)}</span>
+                    </td>
+                    <td>${auction.set || '-'}</td>
+                    <td class="product-type">${formatProductType(auction.product_type)}</td>
+                    <td>EN</td>
+                    <td>
                         <div class="price">$${totalPrice.toFixed(2)}</div>
                         <div style="font-size: 0.75rem; color: #888;">${shippingCost > 0 ? `(incl. $${shippingCost.toFixed(2)} shipping)` : '(free shipping)'}</div>
                     </td>
@@ -961,6 +949,7 @@
                     </td>
                     <td>${auction.bids || 0}</td>
                     <td>${auction.time_remaining ? auction.time_remaining.toFixed(1) + 'h' : 'Unknown'}</td>
+                    <td class="seller-trust-${auction.seller_trust?.toLowerCase() || 'low'}">${auction.seller_trust ? auction.seller_trust.charAt(0).toUpperCase() + auction.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                     <td><span class="${urgencyClass}">${typeLabel}</span></td>
                 </tr>
                 `;
