@@ -280,28 +280,50 @@
             color: #4da6ff;
         }
 
+        /* STEP 96C: Deal quality colors (separate from urgency) */
+        .deal-quality-excellent {
+            color: #4da6ff;  /* blue */
+            font-weight: 700;
+        }
+        .deal-quality-high {
+            color: #7ee787;  /* green */
+            font-weight: 600;
+        }
+        .deal-quality-medium {
+            color: #ffb347;  /* orange */
+            font-weight: 500;
+        }
+        .deal-quality-low {
+            color: #ff6b6b;  /* red */
+            font-weight: 400;
+        }
+
         /* STEP 93B: Static urgency hierarchy (no color, no animation) */
         .urgency-urgent {
             font-weight: 800;
             font-size: 0.95rem;
             letter-spacing: 0.02em;
+            color: inherit;  /* STEP 96C: No color for urgency */
         }
 
         .urgency-ending {
             font-weight: 700;
             font-size: 0.9rem;
+            color: inherit;  /* STEP 96C: No color for urgency */
         }
 
         .urgency-ongoing {
             font-weight: 500;
             font-size: 0.85rem;
             opacity: 0.9;
+            color: inherit;  /* STEP 96C: No color for urgency */
         }
 
         .urgency-early {
             font-weight: 400;
             font-size: 0.85rem;
             opacity: 0.78;
+            color: inherit;  /* STEP 96C: No color for urgency */
         }
 
         .franchise-badge {
