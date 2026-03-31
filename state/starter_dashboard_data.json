@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-03-31T09:31:43.771458+00:00",
+  "timestamp": "2026-03-31T10:01:47.122846+00:00",
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 4,
+  "total_deals": 5,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
-      "onepiece": 1
+      "onepiece": 2,
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 3,
+      "booster_box": 4,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
+      "20_plus": 2,
       "10_to_19": 2,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -29,8 +29,9 @@
       "pokemon"
     ],
     "set": [
+      "500 Years in the Future",
+      "Astral Radiance",
       "Battle Styles",
-      "Brilliant Stars",
       "Destined Rivals",
       "Emperors in the New World"
     ],
@@ -46,18 +47,36 @@
   },
   "deals": [
     {
-      "title": "POKEMON Brilliant Stars LOOSE Factory Sealed (36 packs) ~ Booster Box Equivalent",
-      "url": "https://www.ebay.com/itm/366262636334?_skw=pokemon+Brilliant+Stars+booster+box&hash=item5546f44f2e:g:e~wAAeSwh6hpsQAJ",
-      "franchise": "pokemon",
-      "set": "Brilliant Stars",
+      "title": "One Piece Card Game OP-07 500 Years in the Future - Booster Box New & Sealed",
+      "url": "https://www.ebay.com/itm/117117833809?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item1b44c45251:g:2hAAAeSwCoRpy5hk",
+      "franchise": "onepiece",
+      "set": "500 Years in the Future",
       "product_type": "booster_box",
-      "price": 400.0,
-      "shipping_cost": 0.0,
-      "total_price": 400.0,
-      "shipping_verified": false,
-      "baseline_price": 649.99,
-      "gapPct": 38.46,
-      "confidence": "high",
+      "price": 230.06,
+      "shipping_cost": 34.43,
+      "total_price": 230.06,
+      "shipping_verified": true,
+      "baseline_price": 340.0,
+      "gapPct": 32.34,
+      "confidence": "low",
+      "shipping_included": true,
+      "gap_bucket": "20_plus",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
+      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
+      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 314.99,
+      "shipping_cost": 39.99,
+      "total_price": 314.99,
+      "shipping_verified": true,
+      "baseline_price": 399.49,
+      "gapPct": 21.15,
+      "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "20_plus",
       "seller_trust": "HIGH",
@@ -83,7 +102,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ1Ehcp04vpmGujiEJMNYyQf18XYdtbgelKowoQQ%2FMnXhh2kUb7Qi0APiEfyALT3bip1bEbQ31d6eWjgtGhaIpl5IMmsRpvnt%2FyBSSZYJbDg2KOP9McXyENBRn8No%2F1DiyB2e0h0p%2FeduHZB51C5WXN5EVADjtpzEpOsOSgcYBAsgURJX7UkfCS3rHdg99Cajvo%3D",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ2iPvk4wpGRIu1%2Bck61mUduQUAKGjpzrKk80fVS0mEMCu3FNSu0q%2FeurEx%2B%2FQdrVqjI3AF509T2YfEslGGWzLnR02Tr8AoduRTVNrcBxpAkXEZKVOpJW%2F9Nkb0DA12hnJSnFPFd2Z4iOf0x1bc%2F34D%2BlIpYuNT21cCevhNphEUI6yJAoFbFATAI406MofLlHcw%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
