@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-31T10:31:20.307964+00:00",
-  "source": "previous_scan",
+  "updated_at": "2026-03-31T11:01:44.859252+00:00",
+  "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
     "price": 275.0,
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "POKEMON Brilliant Stars LOOSE Factory Sealed (36 packs) ~ Booster Box Equivalent",
-    "price": 400.0,
+    "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
+    "price": 1489.3,
     "seller_rating": 100.0,
-    "seller_feedback_count": 196,
+    "seller_feedback_count": 1411,
     "franchise": "pokemon",
-    "set": "Brilliant Stars",
+    "set": "Evolving Skies",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 649.99,
-    "gapPct": 38.46,
+    "baseline_price": 2997.89,
+    "gapPct": 49.02,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
