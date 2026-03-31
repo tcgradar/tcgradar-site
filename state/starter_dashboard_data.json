@@ -1,24 +1,25 @@
 {
-  "timestamp": "2026-03-31T09:01:21.106786+00:00",
+  "timestamp": "2026-03-31T09:31:43.771458+00:00",
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 3,
+  "total_deals": 4,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 3,
+      "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 2,
+      "booster_box": 3,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 1,
-      "1_to_9": 2
+      "20_plus": 1,
+      "10_to_19": 2,
+      "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -29,6 +30,7 @@
     ],
     "set": [
       "Battle Styles",
+      "Brilliant Stars",
       "Destined Rivals",
       "Emperors in the New World"
     ],
@@ -38,10 +40,29 @@
     ],
     "gap_bucket": [
       "1_to_9",
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
+    {
+      "title": "POKEMON Brilliant Stars LOOSE Factory Sealed (36 packs) ~ Booster Box Equivalent",
+      "url": "https://www.ebay.com/itm/366262636334?_skw=pokemon+Brilliant+Stars+booster+box&hash=item5546f44f2e:g:e~wAAeSwh6hpsQAJ",
+      "franchise": "pokemon",
+      "set": "Brilliant Stars",
+      "product_type": "booster_box",
+      "price": 400.0,
+      "shipping_cost": 0.0,
+      "total_price": 400.0,
+      "shipping_verified": false,
+      "baseline_price": 649.99,
+      "gapPct": 38.46,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "20_plus",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
     {
       "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
       "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
@@ -62,7 +83,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ1Ehcp04vpmGujiEJMNYyQf18XYdtbgelKowoQQ%2FMnXhh2kUb7Qi0APiEfyALT3bip1bEbQ31d6eWjgtGhaIpl5IMmsRpvnt%2FyBSSZYJbDg2KOP9McXyENBRn8No%2F1DiyB2e0h0p%2FeduHZB51C5WXN5EVADjtpzEpOsOSgcYBAsgURJX7UkfCS3rHdg99Cajvo%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -70,11 +91,11 @@
       "shipping_cost": 0.0,
       "total_price": 52.99,
       "shipping_verified": false,
-      "baseline_price": 57.95,
-      "gapPct": 8.56,
+      "baseline_price": 58.99,
+      "gapPct": 10.17,
       "confidence": "high",
       "shipping_included": true,
-      "gap_bucket": "1_to_9",
+      "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
     },
