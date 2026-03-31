@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-03-31T16:31:19.402990+00:00",
+  "timestamp": "2026-03-31T17:01:58.768115+00:00",
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 3,
+  "total_deals": 4,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 2,
-      "pokemon": 1
+      "pokemon": 2,
+      "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 4
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 2
+      "20_plus": 3,
+      "10_to_19": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -28,8 +28,9 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Battle Styles",
-      "Emperors in the New World"
+      "Emperors in the New World",
+      "Evolving Skies",
+      "Fusion Strike"
     ],
     "product_type": [
       "booster_box"
@@ -40,6 +41,42 @@
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205518977966?_skw=pokemon+Evolving+Skies+booster+box&hash=item2fd9e2bbae:g:jjgAAeSw0Wxpx3l7",
+      "franchise": "pokemon",
+      "set": "Evolving Skies",
+      "product_type": "booster_box",
+      "price": 1528.27,
+      "shipping_cost": 38.97,
+      "total_price": 1528.27,
+      "shipping_verified": true,
+      "baseline_price": 2998.94,
+      "gapPct": 49.04,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "20_plus",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
+      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 668.4,
+      "shipping_cost": 38.97,
+      "total_price": 668.4,
+      "shipping_verified": true,
+      "baseline_price": 1249.44,
+      "gapPct": 46.5,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "20_plus",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
     {
       "title": "One Piece Card Game OP-07 500 Years in the Future - Booster Box New & Sealed",
       "url": "https://www.ebay.com/itm/117117833809?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item1b44c45251:g:2hAAAeSwCoRpy5hk",
@@ -75,25 +112,28 @@
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
-    },
+    }
+  ],
+  "watchlist_deals": [
     {
-      "title": "Pokemon Battle Styles Booster Box New Factory Sealed Sword Shield English Packs",
-      "url": "https://www.ebay.com/itm/168254916849?_skw=pokemon+Battle+Styles+booster+box&hash=item272cc648f1:g:eNkAAeSwgI9pwIxq",
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "booster_box",
-      "price": 269.99,
-      "shipping_cost": 0.0,
-      "total_price": 269.99,
-      "shipping_verified": false,
-      "baseline_price": 300.81,
-      "gapPct": 10.25,
+      "price": 276.17,
+      "shipping_cost": 17.62,
+      "total_price": 276.17,
+      "shipping_verified": true,
+      "baseline_price": 300.0,
+      "gapPct": 7.94,
       "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 602,
       "shipping_included": true,
-      "gap_bucket": "10_to_19",
+      "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
+      "deal_quality": "MEDIUM"
     }
-  ],
-  "watchlist_deals": []
+  ]
 }
