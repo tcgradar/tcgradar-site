@@ -435,6 +435,16 @@
                         <label for="filter-source">Source</label>
                         <select id="filter-source">
                             <option value="">All</option>
+                            <option value="buy_now">Buy Now</option>
+                            <option value="auctions">Auctions</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="filter-language">Language</label>
+                        <select id="filter-language">
+                            <option value="">All</option>
+                            <option value="EN">EN</option>
+                            <option value="JP">JP</option>
                         </select>
                     </div>
                 </div>
@@ -498,7 +508,7 @@
             <!-- STEP 84: Auction Opportunities Section -->
             <div class="deals-section" id="auctions-section" style="margin-top: 40px;">
                 <h3>🔥 Auction opportunities — track and act in real time</h3>
-                <p class="baseline-disclaimer">Based on current bid, not final price. Auctions update every 30 minutes as bids change.</p>
+                <p class="baseline-disclaimer">Based on current bid, not final price. Prices update frequently as bids change.</p>
                 <div class="results-count" id="auctions-count">Showing 0 auction opportunities</div>
                 <div style="overflow-x: auto;">
                     <table class="deals-table">
@@ -547,7 +557,8 @@
             set: '',
             product: '',
             gap: '',
-            source: ''
+            source: '',
+            language: ''
         };
 
         // STEP 94: Normalized item schema extractor
@@ -563,9 +574,11 @@
                         gapPct: item.gapPct || 0,
                         url: item.url || '',
                         title: item.title || '',
+                        language: item.language || 'EN',
                         // Original item for rendering
                         _original: item,
-                        _source: sourceType
+                        _source: sourceType,
+                        _sourceType: 'buy_now'
                     };
                 case 'auction':
                     return {
@@ -575,6 +588,7 @@
                         gapPct: item.gapPct || 0,
                         url: item.url || '',
                         title: item.title || '',
+                        language: item.language || 'EN',
                         // Auction-specific fields
                         bids: item.bids || 0,
                         time_remaining: item.time_remaining || 0,
@@ -585,14 +599,15 @@
                         seller_trust: item.seller_trust || 'MEDIUM',
                         // Original item for rendering
                         _original: item,
-                        _source: sourceType
+                        _source: sourceType,
+                        _sourceType: 'auctions'
                     };
                 default:
                     return { ...item, _original: item, _source: sourceType };
             }
         }
 
-        // STEP 94: Shared filter engine
+        // STEP 97: Shared filter engine with Source and Language support
         // Returns true if item passes all active filters
         function passesFilters(normalizedItem) {
             const f = currentFilters;
@@ -601,12 +616,17 @@
             if (f.set && normalizedItem.set !== f.set) return false;
             if (f.product && normalizedItem.product_type !== f.product) return false;
             if (f.gap && getGapBucket(normalizedItem.gapPct) !== f.gap) return false;
-            if (f.source && !normalizedItem.url.includes(f.source)) return false;
+            
+            // STEP 97: Source filter (buy_now vs auctions)
+            if (f.source && normalizedItem._sourceType !== f.source) return false;
+            
+            // STEP 97: Language filter
+            if (f.language && normalizedItem.language !== f.language) return false;
             
             return true;
         }
 
-        // STEP 94: Apply filters to all tables
+        // STEP 97: Apply filters to all tables
         function applyFilters() {
             // Read current filter values
             currentFilters.franchise = document.getElementById('filter-franchise').value;
@@ -614,6 +634,7 @@
             currentFilters.product = document.getElementById('filter-product').value;
             currentFilters.gap = document.getElementById('filter-gap').value;
             currentFilters.source = document.getElementById('filter-source').value;
+            currentFilters.language = document.getElementById('filter-language').value;
             
             // Filter and render each table
             const filteredDeals = rawDeals.filter(d => passesFilters(normalizeItem(d, 'deal')));
@@ -627,10 +648,10 @@
         }
 
         function clearFilters() {
-            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source'].forEach(id => {
+            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source', 'filter-language'].forEach(id => {
                 document.getElementById(id).value = '';
             });
-            currentFilters = { franchise: '', set: '', product: '', gap: '', source: '' };
+            currentFilters = { franchise: '', set: '', product: '', gap: '', source: '', language: '' };
             
             // Render all tables with unfiltered data
             renderDeals(rawDeals);
@@ -740,28 +761,11 @@
                 '<option value="">All</option>' +
                 gapBucketsPresent.map(b => `<option value="${b}">${gapLabels[b]}</option>`).join('');
 
-            // Dynamic source filter based on actual deals
-            const sources = [...new Set(dashboardData.deals.map(d => {
-                try {
-                    const domain = new URL(d.url).hostname.replace('www.', '');
-                    return domain;
-                } catch {
-                    return 'unknown';
-                }
-            }))].sort();
+            // STEP 97: Source filter is static (All / Buy Now / Auctions)
+            // Options are defined in HTML, no dynamic population needed
 
-            const sourceLabels = {
-                'ebay.com': 'eBay',
-                'gamenerdz.com': 'GameNerdz',
-                'stompinggroundstcg.com': 'Stomping Ground TCG'
-            };
-
-            document.getElementById('filter-source').innerHTML =
-                '<option value="">All</option>' +
-                sources.map(s => `<option value="${s}">${sourceLabels[s] || s}</option>`).join('');
-
-            // STEP 94: Attach listeners to new applyFilters
-            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source'].forEach(id => {
+            // STEP 97: Attach listeners to new applyFilters (including language)
+            ['filter-franchise', 'filter-set', 'filter-product', 'filter-gap', 'filter-source', 'filter-language'].forEach(id => {
                 document.getElementById(id).addEventListener('change', applyFilters);
             });
         }
