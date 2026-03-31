@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-03-31T07:01:21.029742+00:00",
+  "updated_at": "2026-03-31T07:31:35.260531+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
-    "title": "Pokemon Destined Rivals SV10 Booster Bundle 6 Packs Sealed",
-    "price": 47.99,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 460,
-    "franchise": "pokemon",
-    "set": "Destined Rivals",
-    "product_type": "booster_bundle",
-    "confidence": "high",
-    "baseline_price": 59.95,
-    "gapPct": 8.29,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
     "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
     "price": 487.26,
     "seller_rating": 100.0,
@@ -24,8 +10,22 @@
     "set": "Emperors in the New World",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 629.99,
-    "gapPct": 15.39,
+    "baseline_price": 622.49,
+    "gapPct": 14.37,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
+    "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+    "price": 258.55,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 602,
+    "franchise": "pokemon",
+    "set": "Battle Styles",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 300.82,
+    "gapPct": 8.19,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
