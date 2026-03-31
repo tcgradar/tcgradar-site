@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-03-31T12:01:23.442945+00:00",
+  "updated_at": "2026-03-31T12:31:20.108090+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
-    "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
-    "price": 1489.3,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 1411,
-    "franchise": "pokemon",
-    "set": "Evolving Skies",
-    "product_type": "booster_box",
-    "confidence": "high",
-    "baseline_price": 2997.89,
-    "gapPct": 49.02,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
     "title": "One Piece Card Game OP-07 500 Years in the Future - Booster Box New & Sealed",
     "price": 195.63,
     "seller_rating": 100.0,
@@ -24,8 +10,22 @@
     "set": "500 Years in the Future",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 340.0,
-    "gapPct": 32.34,
+    "baseline_price": 337.5,
+    "gapPct": 31.83,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
+    "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
+    "price": 487.26,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 3939,
+    "franchise": "onepiece",
+    "set": "Emperors in the New World",
+    "product_type": "booster_box",
+    "confidence": "low",
+    "baseline_price": 614.99,
+    "gapPct": 13.33,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
