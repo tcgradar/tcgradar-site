@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-03-31T03:01:19.440786+00:00",
+  "updated_at": "2026-03-31T03:31:43.777792+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
-    "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
-    "price": 238.66,
+    "title": "POKEMON Brilliant Stars LOOSE Factory Sealed (36 packs) ~ Booster Box Equivalent",
+    "price": 400.0,
     "seller_rating": 100.0,
-    "seller_feedback_count": 627,
-    "franchise": "onepiece",
-    "set": "500 Years in the Future",
+    "seller_feedback_count": 196,
+    "franchise": "pokemon",
+    "set": "Brilliant Stars",
     "product_type": "booster_box",
-    "confidence": "low",
-    "baseline_price": 340.0,
-    "gapPct": 19.2,
+    "confidence": "high",
+    "baseline_price": 649.99,
+    "gapPct": 38.46,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
@@ -24,8 +24,8 @@
     "set": "Emperors in the New World",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 638.08,
-    "gapPct": 16.15,
+    "baseline_price": 630.0,
+    "gapPct": 15.07,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
