@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-03-31T02:01:24.381474+00:00",
+  "timestamp": "2026-03-31T02:31:19.966772+00:00",
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 4,
+  "total_deals": 3,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 2,
+      "onepiece": 1,
       "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 3,
+      "booster_box": 2,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 3,
+      "10_to_19": 2,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -28,7 +28,6 @@
       "pokemon"
     ],
     "set": [
-      "500 Years in the Future",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -43,24 +42,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
-      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
-      "franchise": "onepiece",
-      "set": "500 Years in the Future",
-      "product_type": "booster_box",
-      "price": 274.72,
-      "shipping_cost": 36.06,
-      "total_price": 274.72,
-      "shipping_verified": true,
-      "baseline_price": 340.0,
-      "gapPct": 19.2,
-      "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
     {
       "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
       "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
@@ -81,7 +62,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ0zXJWuXlPxFI0YwnxuroCbzcftGmrmbJBo4YJS6GrKU4iRQQb9bI2iFLyzCUmCO%2FHJ%2F2ZDVxz0Sacm9M2NMbLUajRDVB5BS9lkpr4AKlO5MFuk9MyKFQvi%2FJZyzCAXSCNEUCk45f4aRXELc%2Bvz%2B6jTWZVzGcbeoAN6I6aEb7X1ojHNnFV2CU0O40qyB3WE8ms%3D",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ37gyBbNpJ13HaBM0EJSs30DuzEcnmfDnppou8ocfOOX2Jj1lcd4Rhqn05QXvp7hzXJSbpdcx9YdWPXV%2BWQq0lYSrAB2OKVFm5IE6rzAbXfeTtqQNkzvZy9LRNla9YkM41AHCtQSGl8g662edeFiVhyKbVLk8BWb--z1s4j6RAnizAu6IM2WhC%2FXBDk7rOYs5g%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
