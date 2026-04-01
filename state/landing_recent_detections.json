@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-04-01T03:34:41.557967+00:00",
+  "updated_at": "2026-04-01T04:04:08.655557+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
-    "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
-    "price": 237.35,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 630,
-    "franchise": "onepiece",
-    "set": "500 Years in the Future",
-    "product_type": "booster_box",
-    "confidence": "low",
-    "baseline_price": 335.0,
-    "gapPct": 18.42,
-    "deal_quality": "HIGH",
-    "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": {
     "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
     "price": 487.26,
     "seller_rating": 99.2,
@@ -26,6 +12,20 @@
     "confidence": "low",
     "baseline_price": 622.49,
     "gapPct": 14.37,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
+    "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
+    "price": 449.99,
+    "seller_rating": 99.3,
+    "seller_feedback_count": 1126,
+    "franchise": "pokemon",
+    "set": "Destined Rivals",
+    "product_type": "booster_box",
+    "confidence": "high",
+    "baseline_price": 599.99,
+    "gapPct": 25.0,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
