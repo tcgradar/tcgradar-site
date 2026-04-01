@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-01T21:31:05.840405+00:00",
+    "generated_at": "2026-04-01T22:01:06.404631+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
     "raw_count": 18,
@@ -101,7 +101,7 @@
       "baseline": 135.0,
       "gapPct": 53.333333333333336,
       "bids": 3,
-      "time_remaining": 3.8245930227777776,
+      "time_remaining": 3.324478311388889,
       "opportunity_type": "ending_soon",
       "url": "https://www.ebay.com/itm/178005441134?_skw=Pokemon+151+booster+box&hash=item2971f37a6e:g:FOMAAeSwiSJpyc9t",
       "franchise": "pokemon",
