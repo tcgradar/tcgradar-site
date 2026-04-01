@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-01T03:01:06.927987+00:00",
+    "generated_at": "2026-04-01T03:31:08.866651+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 22,
+    "raw_count": 19,
     "filtered_count": 3,
     "filter_criteria": {
       "min_gap": 12.0,
@@ -101,7 +101,7 @@
       "baseline": 135.0,
       "gapPct": 55.55555555555556,
       "bids": 1,
-      "time_remaining": 22.324504359444443,
+      "time_remaining": 21.824176289444445,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/178005441134?_skw=Pokemon+151+booster+box&hash=item2971f37a6e:g:FOMAAeSwiSJpyc9t",
       "franchise": "pokemon",
@@ -118,7 +118,7 @@
       "baseline": 646.98,
       "gapPct": 38.85746081795419,
       "bids": 33,
-      "time_remaining": 16.98456506861111,
+      "time_remaining": 16.48400896777778,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/147218159836?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2246e2d8dc:g:z1YAAeSwaFdpwEqS",
       "franchise": "onepiece",
@@ -135,7 +135,7 @@
       "baseline": 646.98,
       "gapPct": 36.36124764289468,
       "bids": 32,
-      "time_remaining": 16.984009500277775,
+      "time_remaining": 16.483453399444446,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/147218162149?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2246e2e1e5:g:DNkAAeSwwkppwEtV",
       "franchise": "onepiece",
