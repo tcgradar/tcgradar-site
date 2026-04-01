@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T02:04:05.089694+00:00",
+  "timestamp": "2026-04-01T02:34:01.135150+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -71,8 +71,8 @@
       "shipping_cost": 45.75,
       "total_price": 533.01,
       "shipping_verified": true,
-      "baseline_price": 614.99,
-      "gapPct": 13.33,
+      "baseline_price": 622.49,
+      "gapPct": 14.37,
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
