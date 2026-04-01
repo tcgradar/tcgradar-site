@@ -544,6 +544,8 @@
                     <div class="emailgate-field">
                         <input type="email" id="emailGateInput" placeholder="your@email.com" required>
                     </div>
+                    <div id="emailGateError" style="display: none; color: #ff6b6b; font-size: 0.9rem; margin-bottom: 16px;">Couldn't submit your email. Please try again.</div>
+                    
                     <button type="submit" class="emailgate-submit" id="emailGateSubmit">Unlock Dashboard</button>
                 </form>
                 <button class="emailgate-cancel" onclick="closeEmailGate()">Maybe later</button>
@@ -593,6 +595,7 @@
         function resetEmailGate() {
             document.getElementById('emailGateFormContainer').style.display = 'block';
             document.getElementById('emailGateSuccess').style.display = 'none';
+            document.getElementById('emailGateError').style.display = 'none';
             document.getElementById('emailGateForm').reset();
             document.getElementById('emailGateSubmit').disabled = false;
             document.getElementById('emailGateSubmit').textContent = 'Unlock Dashboard';
@@ -604,6 +607,9 @@
             const email = document.getElementById('emailGateInput').value.trim();
             
             if (!email) return;
+            
+            // STEP 106B: Hide any previous error
+            document.getElementById('emailGateError').style.display = 'none';
             
             submitBtn.disabled = true;
             submitBtn.textContent = 'Unlocking...';
@@ -630,14 +636,10 @@
                 }
             } catch (error) {
                 console.error('Email gate error:', error);
-                // STEP 106: Still allow access even if submission fails
-                localStorage.setItem('starter_unlocked', 'true');
-                document.getElementById('emailGateFormContainer').style.display = 'none';
-                document.getElementById('emailGateSuccess').style.display = 'block';
-                // Auto-redirect after 2 seconds
-                setTimeout(() => {
-                    window.location.href = 'dashboard/index.html';
-                }, 2000);
+                // STEP 106B: Do NOT unlock on error - show error message instead
+                document.getElementById('emailGateError').style.display = 'block';
+                submitBtn.disabled = false;
+                submitBtn.textContent = 'Unlock Dashboard';
             }
         }
         // Close on Escape key
