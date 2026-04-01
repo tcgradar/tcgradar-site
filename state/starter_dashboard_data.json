@@ -1,98 +1,24 @@
 {
-  "timestamp": "2026-04-01T22:03:43.557143+00:00",
+  "timestamp": "2026-04-01T22:32:52.432765+00:00",
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 3,
+  "total_deals": 0,
+  "all_deals_count": 0,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 3
-    },
-    "by_product_type": {
-      "booster_box": 1,
-      "etb": 1,
-      "booster_bundle": 1
-    },
-    "by_gap_bucket": {
-      "10_to_19": 3
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {}
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Battle Styles",
-      "Destined Rivals"
-    ],
-    "product_type": [
-      "booster_box",
-      "booster_bundle",
-      "etb"
-    ],
-    "gap_bucket": [
-      "10_to_19"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 258.7,
-      "shipping_cost": 0.0,
-      "total_price": 258.7,
-      "shipping_verified": false,
-      "baseline_price": 301.81,
-      "gapPct": 14.28,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "Pokemon TCG: Sword & Shield- Battle Styles Elite Trainer Box (Blue)",
-      "url": "https://www.ebay.com/itm/188178729678?_skw=pokemon+Battle+Styles+booster+box&hash=item2bd0538ace:g:MZEAAOSwEp1nj-1H",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 89.99,
-      "shipping_cost": 0.0,
-      "total_price": 89.99,
-      "shipping_verified": false,
-      "baseline_price": 103.97,
-      "gapPct": 13.45,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ1bvZzL2HN7HNz%2FBG6ODlVXCeY3CqFWIYQujpQpEZk9Otw2mdLCWWEfrNs1hLvM6G%2B3N88RfrEHD%2F3WjwI2rcfeU9aQZVkQ%2BELqooMCTbbvsf54gc9rkkahMMN3%2FS4e2VVTEQXTU4GRrUmN0pBEhKUlFbSr%2F%2BPwZTSyG4mgIrQWX6cqnlieRbOIT6gq0sneCm4%3D",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 52.99,
-      "shipping_cost": 0.0,
-      "total_price": 52.99,
-      "shipping_verified": false,
-      "baseline_price": 60.0,
-      "gapPct": 11.68,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    }
-  ],
+  "deals": [],
   "watchlist_deals": []
 }

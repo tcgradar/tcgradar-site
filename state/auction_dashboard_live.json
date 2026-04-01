@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-04-01T22:01:06.404631+00:00",
+    "generated_at": "2026-04-01T22:30:56.465392+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 18,
-    "filtered_count": 1,
+    "raw_count": 0,
+    "filtered_count": 0,
     "filter_criteria": {
       "min_gap": 12.0,
       "max_bids": 50,
@@ -92,23 +92,5 @@
       ]
     }
   },
-  "auctions": [
-    {
-      "title": "Pok\u00e9mon Scarlet & Violet 151 Poster Collection Booster Box Bulbasaur Charmander\u2026",
-      "current_price": 63.0,
-      "shipping_cost": 0.0,
-      "total_price": 63.0,
-      "baseline": 135.0,
-      "gapPct": 53.333333333333336,
-      "bids": 3,
-      "time_remaining": 3.324478311388889,
-      "opportunity_type": "ending_soon",
-      "url": "https://www.ebay.com/itm/178005441134?_skw=Pokemon+151+booster+box&hash=item2971f37a6e:g:FOMAAeSwiSJpyc9t",
-      "franchise": "pokemon",
-      "set": "151",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 92
-    }
-  ]
+  "auctions": []
 }
