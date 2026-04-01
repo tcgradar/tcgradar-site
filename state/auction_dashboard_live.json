@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-01T04:31:05.596338+00:00",
+    "generated_at": "2026-04-01T05:01:04.431719+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 18,
+    "raw_count": 17,
     "filtered_count": 2,
     "filter_criteria": {
       "min_gap": 12.0,
@@ -95,13 +95,13 @@
   "auctions": [
     {
       "title": "One Piece CCG OP-09 Emperors in the New World Booster Box ENG - New & Sealed #2",
-      "current_price": 435.14,
+      "current_price": 436.49,
       "shipping_cost": 0.0,
-      "total_price": 435.14,
+      "total_price": 436.49,
       "baseline": 646.98,
-      "gapPct": 32.74289777118304,
+      "gapPct": 32.534235988747724,
       "bids": 33,
-      "time_remaining": 15.484351096666668,
+      "time_remaining": 14.984648608333332,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/147218162149?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2246e2e1e5:g:DNkAAeSwwkppwEtV",
       "franchise": "onepiece",
@@ -112,13 +112,13 @@
     },
     {
       "title": "One Piece CCG OP-09 Emperors in the New World Booster Box ENG - New & Sealed #1",
-      "current_price": 435.14,
+      "current_price": 436.49,
       "shipping_cost": 0.0,
-      "total_price": 435.14,
+      "total_price": 436.49,
       "baseline": 646.98,
-      "gapPct": 32.74289777118304,
+      "gapPct": 32.534235988747724,
       "bids": 34,
-      "time_remaining": 15.484906661111111,
+      "time_remaining": 14.985204173333333,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/147218159836?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2246e2d8dc:g:z1YAAeSwaFdpwEqS",
       "franchise": "onepiece",

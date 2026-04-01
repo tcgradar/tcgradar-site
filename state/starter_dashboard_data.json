@@ -1,26 +1,25 @@
 {
-  "timestamp": "2026-04-01T04:33:43.559646+00:00",
+  "timestamp": "2026-04-01T05:04:42.136043+00:00",
   "tier": "starter",
-  "total_deals": 6,
-  "all_deals_count": 6,
+  "total_deals": 7,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 4,
+      "pokemon": 5,
       "onepiece": 2
     },
     "by_product_type": {
       "booster_box": 4,
-      "booster_bundle": 1,
-      "etb": 1
+      "etb": 2,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 4,
-      "1_to_9": 1
+      "20_plus": 2,
+      "10_to_19": 5
     }
   },
   "trust_counts": {
-    "HIGH": 6,
+    "HIGH": 8,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,7 +32,8 @@
       "500 Years in the Future",
       "Battle Styles",
       "Destined Rivals",
-      "Emperors in the New World"
+      "Emperors in the New World",
+      "Temporal Forces"
     ],
     "product_type": [
       "booster_box",
@@ -41,7 +41,6 @@
       "etb"
     ],
     "gap_bucket": [
-      "1_to_9",
       "10_to_19",
       "20_plus"
     ]
@@ -57,8 +56,26 @@
       "shipping_cost": 0.0,
       "total_price": 449.99,
       "shipping_verified": true,
-      "baseline_price": 599.99,
+      "baseline_price": 600.0,
       "gapPct": 25.0,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "20_plus",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
+      "title": "Pokemon TCG: Scarlet & Violet Temporal Forces Elite Trainer Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/236518662475?_skw=pokemon+Temporal+Forces+booster+box&hash=item37119c614b:g:iV0AAeSwfMdpOeg~",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "etb",
+      "price": 100.49,
+      "shipping_cost": 5.49,
+      "total_price": 100.49,
+      "shipping_verified": true,
+      "baseline_price": 130.95,
+      "gapPct": 23.26,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "20_plus",
@@ -71,12 +88,12 @@
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
-      "price": 273.28,
-      "shipping_cost": 35.93,
-      "total_price": 273.28,
+      "price": 274.13,
+      "shipping_cost": 36.04,
+      "total_price": 274.13,
       "shipping_verified": true,
       "baseline_price": 335.0,
-      "gapPct": 18.42,
+      "gapPct": 18.17,
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -89,12 +106,12 @@
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
-      "price": 533.01,
-      "shipping_cost": 45.75,
-      "total_price": 533.01,
+      "price": 537.1,
+      "shipping_cost": 46.1,
+      "total_price": 537.1,
       "shipping_verified": true,
       "baseline_price": 622.49,
-      "gapPct": 14.37,
+      "gapPct": 13.72,
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -120,6 +137,24 @@
       "deal_quality": "HIGH"
     },
     {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 276.33,
+      "shipping_cost": 17.63,
+      "total_price": 276.33,
+      "shipping_verified": true,
+      "baseline_price": 310.0,
+      "gapPct": 10.86,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
       "title": "Pokemon TCG: Sword & Shield- Battle Styles Elite Trainer Box (Blue)",
       "url": "https://www.ebay.com/itm/188178729678?_skw=pokemon+Battle+Styles+booster+box&hash=item2bd0538ace:g:MZEAAOSwEp1nj-1H",
       "franchise": "pokemon",
@@ -136,25 +171,28 @@
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
-    },
+    }
+  ],
+  "watchlist_deals": [
     {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "title": "POKEMON TCG - TEMPORAL FORCES - BOOSTER BOX (36 Packs) NEW SEALED",
+      "url": "https://www.ebay.com/itm/206171538195?_skw=pokemon+Temporal+Forces+booster+box&hash=item3000c80313:g:eroAAeSwhCRpwD4F",
       "franchise": "pokemon",
-      "set": "Battle Styles",
+      "set": "Temporal Forces",
       "product_type": "booster_box",
-      "price": 276.17,
-      "shipping_cost": 17.62,
-      "total_price": 276.17,
+      "price": 300.28,
+      "shipping_cost": 51.96,
+      "total_price": 300.28,
       "shipping_verified": true,
-      "baseline_price": 301.64,
-      "gapPct": 8.44,
+      "baseline_price": 315.0,
+      "gapPct": 4.67,
       "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 3726,
       "shipping_included": true,
       "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
+      "deal_quality": "MEDIUM"
     }
-  ],
-  "watchlist_deals": []
+  ]
 }
