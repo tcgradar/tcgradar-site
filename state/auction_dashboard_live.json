@@ -1,96 +1,30 @@
 {
-  "meta": {
-    "generated_at": "2026-04-01T22:30:56.465392+00:00",
-    "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
-    "version": "STEP_91B_HARDENED",
-    "raw_count": 0,
-    "filtered_count": 0,
-    "filter_criteria": {
-      "min_gap": 12.0,
-      "max_bids": 50,
-      "required_trust": [
-        "HIGH",
-        "MEDIUM"
-      ],
-      "valid_categories": [
-        "\ud83d\udd25 High opportunity",
-        "\u26a0\ufe0f Watch"
-      ],
-      "required_product_type": "booster_box",
-      "min_baseline": 50,
-      "excluded_title_terms": [
-        "elite trainer box",
-        "elite trainer",
-        "etb",
-        "booster packs",
-        "booster pack",
-        "36x",
-        "36 packs",
-        "36 pack",
-        "loose pack",
-        "loose packs",
-        "sleeved pack",
-        "sleeved packs",
-        "half booster",
-        "half box",
-        "1/2 box",
-        "half of",
-        "display",
-        "display box",
-        "8x",
-        "double pack",
-        "dp-",
-        "dp06",
-        "dp-06",
-        "case",
-        "booster case",
-        "booster box case",
-        "collection box",
-        "collection boxes",
-        "ex collection",
-        "v collection",
-        "premium collection",
-        "special collection",
-        "booster bundle",
-        "bundle",
-        "lot of",
-        "lots",
-        "mixed",
-        "variety",
-        "multi",
-        "assorted",
-        "bulk",
-        "s-chinese",
-        "schinese",
-        "chinese",
-        "korean",
-        "german",
-        "french",
-        "italian",
-        "spanish",
-        "japanese",
-        "jp ",
-        "jpn ",
-        "jp booster",
-        "jpn booster",
-        "build & battle",
-        "build and battle",
-        "prerelease",
-        "pre-release",
-        "tins",
-        "blister",
-        "blisters",
-        "3-pack",
-        "3 pack",
-        "triple pack",
-        "tin ",
-        " tin"
-      ],
-      "excluded_whole_word_terms": [
-        "tin",
-        "lot"
-      ]
-    }
+  "timestamp": "2026-04-01T22:30:56.463733+00:00",
+  "enabled": true,
+  "scan_config": {
+    "interval_target_minutes": 10,
+    "sets_scanned": {
+      "pokemon": 4,
+      "onepiece": 4
+    },
+    "queries_executed": 24,
+    "request_delay": 2.0
+  },
+  "summary": {
+    "total_auctions_found": 0,
+    "candidates": 0,
+    "by_franchise": {},
+    "by_seller_trust": {
+      "HIGH": 0,
+      "MEDIUM": 0,
+      "LOW": 0
+    },
+    "by_category": {
+      "\ud83d\udd25 High opportunity": 0,
+      "\u26a0\ufe0f Watch": 0,
+      "\u274c Low": 0
+    },
+    "avg_score": 0.0
   },
   "auctions": []
 }
