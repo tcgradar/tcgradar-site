@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-01T13:03:52.424093+00:00",
+  "updated_at": "2026-04-01T13:33:53.100215+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "OP-15 Adventure on KAMI\u2019s Island Booster Box JP Sealed One Piece TCG US Seller",
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "BATTLE STYLES ELITE TRAINER BOX ETB STRIKE URSHIFU  FACTORY SEALED - POKEMON TCG",
-    "price": 90.0,
-    "seller_rating": 99.8,
-    "seller_feedback_count": 481,
-    "franchise": "pokemon",
-    "set": "Battle Styles",
-    "product_type": "etb",
-    "confidence": "high",
-    "baseline_price": 103.97,
-    "gapPct": 13.44,
+    "title": "OP-15 Adventure on KAMI\u2019s Island Booster Box JP Sealed One Piece TCG US Seller",
+    "price": 95.99,
+    "seller_rating": 99.9,
+    "seller_feedback_count": 5235,
+    "franchise": "onepiece",
+    "set": "Adventure on Kami's Island",
+    "product_type": "booster_box",
+    "confidence": "low",
+    "baseline_price": 105.99,
+    "gapPct": 9.43,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
