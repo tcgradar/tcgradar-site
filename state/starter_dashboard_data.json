@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-04-01T08:34:03.787316+00:00",
+  "timestamp": "2026-04-01T09:03:57.246167+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 5,
+  "total_deals": 6,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 2,
+      "onepiece": 3,
       "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 3,
+      "booster_box": 4,
       "booster_bundle": 1,
       "etb": 1
     },
     "by_gap_bucket": {
       "10_to_19": 3,
-      "1_to_9": 2
+      "1_to_9": 3
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -30,6 +30,7 @@
     ],
     "set": [
       "500 Years in the Future",
+      "Adventure on Kami's Island",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -100,18 +101,18 @@
       "deal_quality": "HIGH"
     },
     {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
+      "title": "OP-15 Adventure on KAMI\u2019s Island Booster Box JP Sealed One Piece TCG US Seller",
+      "url": "https://www.ebay.com/itm/127667135610?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1db98de47a:g:az8AAeSwZUpphJN5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb%2F0gLAoPqtXbtuQJtmN5F2CkCw01UgxhdEI0H1gwymYnwlfTAEhabzAy6H3FNeINLV6APG1JG7Ap4NWeV9PEQlb%2FatX4oHPuFqVHvzV2FU29YhZIwIN7nbcKKf0lIMzPyceki%2B20aIdmZl4HfLo4rcpOfLkFpTOsFrJIbjO6im30uSykBGmgNgbhxFqh3PKEDCW6Fp7L3fCD2bgb7BFda%2FtArH%2Fjnib2fLH0HioaQKaVc67Ex7gvBxf0MPeaKyeqkjf91dtE3P5PV74tX6S%2BU7GVpr%2BRawwkavCkZo1jYG3BA%2FyvGTnZflPVtaQW287%2FzGnm07q0xoozP597T80SZT",
+      "franchise": "onepiece",
+      "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
-      "price": 276.33,
-      "shipping_cost": 17.63,
-      "total_price": 276.33,
+      "price": 95.99,
+      "shipping_cost": 0.0,
+      "total_price": 95.99,
       "shipping_verified": true,
-      "baseline_price": 301.81,
-      "gapPct": 8.44,
-      "confidence": "high",
+      "baseline_price": 105.99,
+      "gapPct": 9.43,
+      "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
@@ -127,8 +128,26 @@
       "shipping_cost": 0.0,
       "total_price": 89.99,
       "shipping_verified": false,
-      "baseline_price": 98.0,
-      "gapPct": 8.17,
+      "baseline_price": 99.0,
+      "gapPct": 9.1,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "1_to_9",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 276.33,
+      "shipping_cost": 17.63,
+      "total_price": 276.33,
+      "shipping_verified": true,
+      "baseline_price": 301.81,
+      "gapPct": 8.44,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "1_to_9",
