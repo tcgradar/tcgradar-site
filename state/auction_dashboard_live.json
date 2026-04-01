@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-01T01:01:05.651890+00:00",
+    "generated_at": "2026-04-01T01:31:06.376667+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
     "raw_count": 24,
@@ -101,14 +101,14 @@
       "baseline": 135.0,
       "gapPct": 55.55555555555556,
       "bids": 1,
-      "time_remaining": 24.324712751944446,
+      "time_remaining": 23.824470428333335,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/178005441134?_skw=Pokemon+151+booster+box&hash=item2971f37a6e:g:FOMAAeSwiSJpyc9t",
       "franchise": "pokemon",
       "set": "151",
       "product_type": "booster_box",
       "seller_trust": "HIGH",
-      "opportunity_score": 90
+      "opportunity_score": 95
     },
     {
       "title": "One Piece CCG OP-09 Emperors in the New World Booster Box ENG - New & Sealed #1",
@@ -118,7 +118,7 @@
       "baseline": 646.98,
       "gapPct": 39.92550001545643,
       "bids": 32,
-      "time_remaining": 18.98493102277778,
+      "time_remaining": 18.484700239722223,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/147218159836?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2246e2d8dc:g:z1YAAeSwaFdpwEqS",
       "franchise": "onepiece",
@@ -135,7 +135,7 @@
       "baseline": 646.98,
       "gapPct": 38.65343596401744,
       "bids": 31,
-      "time_remaining": 18.984375459444447,
+      "time_remaining": 18.484144676944442,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/147218162149?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2246e2e1e5:g:DNkAAeSwwkppwEtV",
       "franchise": "onepiece",
