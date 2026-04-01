@@ -220,7 +220,7 @@
                 <li class="included">Live auction opportunities</li>
                 <li class="included">Tracked auctions over time</li>
             </ul>
-            <a href="#" class="tier-cta" style="background: #1a3a5c; color: #4da6ff;" onclick="event.preventDefault(); openEmailGate(); trackUpgradeClick('pricing');">Unlock full dashboard</a>
+            <a href="dashboard/index.html" class="tier-cta" style="background: #1a3a5c; color: #4da6ff;" onclick="event.preventDefault(); handleProClick();">Unlock full dashboard</a>
         </div>
     </div>
     
@@ -550,13 +550,27 @@
             </div>
             <div class="emailgate-success" id="emailGateSuccess">
                 <h3>✓ You're in!</h3>
-                <p>Welcome to Pro. Access your dashboard now.</p>
+                <p>You now have free beta access to the Pro dashboard.</p>
                 <a href="dashboard/index.html">Go to Dashboard</a>
             </div>
         </div>
     </div>
 
     <script>
+        // STEP 106: Handle PRO button click - check if already unlocked
+        function handleProClick() {
+            trackUpgradeClick('pricing');
+            
+            // Check if already unlocked
+            if (localStorage.getItem('starter_unlocked') === 'true') {
+                // Already unlocked - go directly to dashboard
+                window.location.href = 'dashboard/index.html';
+            } else {
+                // Not unlocked - show email modal
+                openEmailGate();
+            }
+        }
+        
         // STEP 105: Email Gate Modal Functions
         function openEmailGate() {
             document.getElementById('emailGateOverlay').classList.add('active');
@@ -603,17 +617,27 @@
                 });
                 
                 if (response.ok) {
-                    // Show success state with dashboard link
+                    // STEP 106: Set unlock flag and show success
+                    localStorage.setItem('starter_unlocked', 'true');
                     document.getElementById('emailGateFormContainer').style.display = 'none';
                     document.getElementById('emailGateSuccess').style.display = 'block';
+                    // Auto-redirect after 2 seconds
+                    setTimeout(() => {
+                        window.location.href = 'dashboard/index.html';
+                    }, 2000);
                 } else {
                     throw new Error('Submission failed');
                 }
             } catch (error) {
                 console.error('Email gate error:', error);
-                // Still allow access even if submission fails
+                // STEP 106: Still allow access even if submission fails
+                localStorage.setItem('starter_unlocked', 'true');
                 document.getElementById('emailGateFormContainer').style.display = 'none';
                 document.getElementById('emailGateSuccess').style.display = 'block';
+                // Auto-redirect after 2 seconds
+                setTimeout(() => {
+                    window.location.href = 'dashboard/index.html';
+                }, 2000);
             }
         }
         // Close on Escape key
