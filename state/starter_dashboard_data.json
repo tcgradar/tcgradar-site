@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T00:03:58.517154+00:00",
+  "timestamp": "2026-04-01T00:33:58.464804+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -14,8 +14,7 @@
       "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 4,
-      "1_to_9": 1
+      "10_to_19": 5
     }
   },
   "trust_counts": {
@@ -40,7 +39,6 @@
       "etb"
     ],
     "gap_bucket": [
-      "1_to_9",
       "10_to_19"
     ]
   },
@@ -83,7 +81,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ2%2BQs%2FFon%2BW%2BsI%2B3zBR2UY%2BzWn%2Fh0S65uXmawyHyRON5aG5F%2B%2FVory4L4RH8pp%2BWlmfHo2aGUyGwxPbMvaohGZSEEtb8uhxQJAWMXwu232z6lWxbsLsiDW240mk7%2FUTxVgD83C2ARa1BGdSatY0yA8XLWXyCMUE22GzYjhGK483L7s9rJt6Y%2F9Y6QUbBLEw5v8%3D",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ3m0n3iM95%2Bh8NWR4mWSSNrJMeYdx8pRf%2FghqLNLfh5KA7th5gUGYsaQPQ046hPjf%2FstjE%2Fg7vHbgHJZlDbXmi5olzVyhTRHtsMTcSxLAJkq2zT16%2FSw4qH5EDZuDqAvVYv8SUSiy%2BZ3uXlxJbY1GwJ7ws7ouuAAnkyUYYZZTF8%2BWst1C4F4pex2AZs2PnupQs%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -127,11 +125,11 @@
       "shipping_cost": 0.0,
       "total_price": 89.0,
       "shipping_verified": false,
-      "baseline_price": 98.0,
-      "gapPct": 9.18,
+      "baseline_price": 99.0,
+      "gapPct": 10.1,
       "confidence": "high",
       "shipping_included": true,
-      "gap_bucket": "1_to_9",
+      "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
     }
