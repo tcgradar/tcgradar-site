@@ -1,24 +1,25 @@
 {
-  "timestamp": "2026-04-01T12:33:51.405739+00:00",
+  "timestamp": "2026-04-01T13:03:52.398137+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 5,
+  "total_deals": 6,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 3,
-      "pokemon": 2
+      "pokemon": 3,
+      "onepiece": 3
     },
     "by_product_type": {
-      "booster_box": 4,
+      "booster_box": 5,
       "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 3,
-      "1_to_9": 2
+      "20_plus": 1,
+      "10_to_19": 2,
+      "1_to_9": 3
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -31,6 +32,7 @@
       "500 Years in the Future",
       "Adventure on Kami's Island",
       "Battle Styles",
+      "Destined Rivals",
       "Emperors in the New World"
     ],
     "product_type": [
@@ -39,10 +41,29 @@
     ],
     "gap_bucket": [
       "1_to_9",
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
+      "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 449.99,
+      "shipping_cost": 0.0,
+      "total_price": 449.99,
+      "shipping_verified": true,
+      "baseline_price": 599.99,
+      "gapPct": 25.0,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "20_plus",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
       "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
@@ -56,24 +77,6 @@
       "baseline_price": 334.16,
       "gapPct": 17.96,
       "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "BATTLE STYLES ELITE TRAINER BOX ETB STRIKE URSHIFU  FACTORY SEALED - POKEMON TCG",
-      "url": "https://www.ebay.com/itm/318085788242?_skw=pokemon+Battle+Styles+sealed&hash=item4a0f63f252:g:g20AAeSwEhNpy9ln",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 90.0,
-      "shipping_cost": 0.0,
-      "total_price": 90.0,
-      "shipping_verified": false,
-      "baseline_price": 103.97,
-      "gapPct": 13.44,
-      "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
@@ -99,7 +102,7 @@
     },
     {
       "title": "OP-15 Adventure on KAMI\u2019s Island Booster Box JP Sealed One Piece TCG US Seller",
-      "url": "https://www.ebay.com/itm/127667135610?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1db98de47a:g:az8AAeSwZUpphJN5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb%2F0gLAoPqtXbtuQJtmN5F2CkCw01UgxhdEI0H1gwymYnwlfTAEhabzAy6H3FNeINLV6APG1JG7Ap4NWeV9PEQlb%2FatX4oHPuFqVHvzV2FU29YhZIwIN7nbcKKf0lIMzPy%2BC8MqJwqOo%2ByCKTO2xNFYbNMMC16xzWAh3eagVqJcTU8rP9yVA%2FI6tMVIVMA5FXCWptw0oHCGVesviRWY7d%2Fu%2BwN3HPJpdQYLxstoVta%2F0SLMtzaXitPugFYldDOtSUWCAkoG9z5C18Cv32QQiwjk6cEOz3TWeSqZUse69EXXA5J%2FWGXfyyQAmEhRx2pvDwujBbbHldFY3dro6OhaezQT",
+      "url": "https://www.ebay.com/itm/127667135610?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1db98de47a:g:az8AAeSwZUpphJN5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb%2F0gLAoPqtXbtuQJtmN5F2CkCw01UgxhdEI0H1gwymYnwlfTAEhabzAy6H3FNeINLV6APG1JG7Ap4NWeV9PEQlb%2FatX4oHPuFqVHvzV2FU29YhZIwIN7nbcKKf0lIMzPwpl%2FGw%2BfnKO7dbmyh%2FDYXsSC4jAIw9kdKDselx5O60W4lof0hBFatUUrGSRx9mmXjyDCxyqg5Jl7inkJkPecepqvT%2BDgbXEYH7isulWW%2BoJnJQ2hVDJDvGmu65cTt25GmNHJBSXkecb9JyrJaU6j4Vrgi0ED4poP8FIaFFfuW%2FGEptKR0Wr6mfM9ExOFVtVUIqLQ583sTC9Zg8pUGwPLJG",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -117,7 +120,7 @@
     },
     {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+sealed&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "booster_box",
@@ -127,6 +130,24 @@
       "shipping_verified": true,
       "baseline_price": 301.81,
       "gapPct": 8.44,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "1_to_9",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
+      "title": "Pokemon TCG: Sword & Shield- Battle Styles Elite Trainer Box (Blue)",
+      "url": "https://www.ebay.com/itm/188178729678?_skw=pokemon+Battle+Styles+booster+box&hash=item2bd0538ace:g:MZEAAOSwEp1nj-1H",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 89.99,
+      "shipping_cost": 0.0,
+      "total_price": 89.99,
+      "shipping_verified": false,
+      "baseline_price": 98.0,
+      "gapPct": 8.17,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "1_to_9",
