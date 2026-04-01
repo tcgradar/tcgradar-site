@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T15:34:05.433590+00:00",
+  "timestamp": "2026-04-01T16:04:36.764230+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -102,7 +102,7 @@
     },
     {
       "title": "OP-15 Adventure on KAMI\u2019s Island Booster Box JP Sealed One Piece TCG US Seller",
-      "url": "https://www.ebay.com/itm/127667135610?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1db98de47a:g:az8AAeSwZUpphJN5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb%2F0gLAoPqtXbtuQJtmN5F2CkCw01UgxhdEI0H1gwymYnwlfTAEhabzAy6H3FNeINLV6APG1JG7Ap4NWeV9PEQlb%2FatX4oHPuFqVHvzV2FU29YhZIwIN7nbcKKf0lIMzPwqndJlg6y9ElDn88QIIh2%2F0JTJWRdurWmiNOsWdEQm7izcSTHXFlo9m9s9nxCJOEMfPig%2Bf5j4NO6YgK9PAuZ%2BYJwyVnZqeonM3dnjR5ELVpBuUJ0Krcur33CUgsjt6q5I11J5bdlLSLXzsEKgUq3HRpp1bj7JFdZHujM4GmMBsunpoXimpUyU1oDpuvmJp4xEd9OrMEvEyypue%2Bks5nI9",
+      "url": "https://www.ebay.com/itm/127667135610?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1db98de47a:g:az8AAeSwZUpphJN5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb%2F0gLAoPqtXbtuQJtmN5F2CkCw01UgxhdEI0H1gwymYnwlfTAEhabzAy6H3FNeINLV6APG1JG7Ap4NWeV9PEQlb%2FatX4oHPuFqVHvzV2FU29YhZIwIN7nbcKKf0lIMzPxlTDMNI04ifrL6SVeM1LhDqo7DbC6zQOd%2FRXK0k3WmHVMVSJCLGk7YebPITrcPNupd550yf3MH%2FCREriwEReaDdrxts7uJEyuf%2BrXTel04rVyndEjOiR%2BsoHY5hsCS8ijTyFDEFjp8RiMyOUX%2BOUk1KqXLqJvB80D9VKhVCW56E4nqNTOucNZMr9oBkzUtCfjcdkWeyp31nyhaTfEDhxLQ",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -146,8 +146,8 @@
       "shipping_cost": 17.63,
       "total_price": 276.33,
       "shipping_verified": true,
-      "baseline_price": 301.81,
-      "gapPct": 8.44,
+      "baseline_price": 300.9,
+      "gapPct": 8.17,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "1_to_9",
