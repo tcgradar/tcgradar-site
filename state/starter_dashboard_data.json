@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T16:04:36.764230+00:00",
+  "timestamp": "2026-04-01T16:34:02.895124+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -9,12 +9,13 @@
       "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 5,
+      "booster_box": 4,
+      "booster_bundle": 1,
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
-      "10_to_19": 1,
+      "20_plus": 1,
+      "10_to_19": 2,
       "1_to_9": 3
     }
   },
@@ -37,6 +38,7 @@
     ],
     "product_type": [
       "booster_box",
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -65,24 +67,6 @@
       "deal_quality": "HIGH"
     },
     {
-      "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
-      "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 449.99,
-      "shipping_cost": 0.0,
-      "total_price": 449.99,
-      "shipping_verified": true,
-      "baseline_price": 599.99,
-      "gapPct": 25.0,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "20_plus",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
       "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
       "franchise": "onepiece",
@@ -101,8 +85,26 @@
       "deal_quality": "HIGH"
     },
     {
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ02ZGwOkNn0KsDauBwQPdaQBOvO0GdILIPCLUMoJTzbJeVkPCWoWwpM7DisYi1ERtuoziPsR8NvnvOxBle8HPL9ZLSB%2FL%2FB%2BGGjk1CJ1kIGZwxXOYhg6n1ugzo8nnBoO10RIvcZgLe5CwfoSYEJhu%2BKbH4S%2F98wrBIL3unb0GAYK3Wob6Z1GPwfyrF6z8Rc%2B5Y%3D",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 52.99,
+      "shipping_cost": 0.0,
+      "total_price": 52.99,
+      "shipping_verified": false,
+      "baseline_price": 62.99,
+      "gapPct": 15.88,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
       "title": "OP-15 Adventure on KAMI\u2019s Island Booster Box JP Sealed One Piece TCG US Seller",
-      "url": "https://www.ebay.com/itm/127667135610?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1db98de47a:g:az8AAeSwZUpphJN5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb%2F0gLAoPqtXbtuQJtmN5F2CkCw01UgxhdEI0H1gwymYnwlfTAEhabzAy6H3FNeINLV6APG1JG7Ap4NWeV9PEQlb%2FatX4oHPuFqVHvzV2FU29YhZIwIN7nbcKKf0lIMzPxlTDMNI04ifrL6SVeM1LhDqo7DbC6zQOd%2FRXK0k3WmHVMVSJCLGk7YebPITrcPNupd550yf3MH%2FCREriwEReaDdrxts7uJEyuf%2BrXTel04rVyndEjOiR%2BsoHY5hsCS8ijTyFDEFjp8RiMyOUX%2BOUk1KqXLqJvB80D9VKhVCW56E4nqNTOucNZMr9oBkzUtCfjcdkWeyp31nyhaTfEDhxLQ",
+      "url": "https://www.ebay.com/itm/127667135610?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1db98de47a:g:az8AAeSwZUpphJN5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb%2F0gLAoPqtXbtuQJtmN5F2CkCw01UgxhdEI0H1gwymYnwlfTAEhabzAy6H3FNeINLV6APG1JG7Ap4NWeV9PEQlb%2FatX4oHPuFqVHvzV2FU29YhZIwIN7nbcKKf0lIMzPw6QWR8d1mqW4YLvc%2BxqC7tAUylHaawkvSw630iIzdfQMuFm4%2BOjVJ%2FF0sh6ZU%2FHBbeFp8Xq4C972zMq8B%2BGtkFEpK61%2BSIdrDRlDkK6n5hjZ%2BlT2lU2hpCz5sBgjV%2FNqEmaEb%2FaX%2FfyBHF7APJEzvjSNxU%2BMCgm6Pvwk2L0iG3ciB3dpm5xzgfsikHZ9gZ1mwkAXxLN720%2FA9hy4xvJ3U1",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -146,8 +148,8 @@
       "shipping_cost": 17.63,
       "total_price": 276.33,
       "shipping_verified": true,
-      "baseline_price": 300.9,
-      "gapPct": 8.17,
+      "baseline_price": 301.81,
+      "gapPct": 8.44,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "1_to_9",
