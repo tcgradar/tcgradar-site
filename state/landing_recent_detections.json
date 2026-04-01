@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-01T09:03:57.272314+00:00",
-  "source": "active_deals",
+  "updated_at": "2026-04-01T09:34:38.557622+00:00",
+  "source": "previous_scan",
   "starter_quality_deal": {
     "title": "OP-15 Adventure on KAMI\u2019s Island Booster Box JP Sealed One Piece TCG US Seller",
     "price": 95.99,
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
-    "price": 238.09,
-    "seller_rating": 100.0,
-    "seller_feedback_count": 630,
+    "title": "OP-15 Adventure on KAMI\u2019s Island Booster Box JP Sealed One Piece TCG US Seller",
+    "price": 95.99,
+    "seller_rating": 99.9,
+    "seller_feedback_count": 5234,
     "franchise": "onepiece",
-    "set": "500 Years in the Future",
+    "set": "Adventure on Kami's Island",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 334.16,
-    "gapPct": 17.96,
+    "baseline_price": 105.99,
+    "gapPct": 9.43,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
