@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-01T20:01:05.307370+00:00",
+    "generated_at": "2026-04-01T20:31:06.076086+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 16,
+    "raw_count": 17,
     "filtered_count": 0,
     "filter_criteria": {
       "min_gap": 12.0,
