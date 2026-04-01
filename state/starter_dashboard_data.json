@@ -1,24 +1,26 @@
 {
-  "timestamp": "2026-04-01T11:33:57.829791+00:00",
+  "timestamp": "2026-04-01T12:04:37.062309+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 5,
+  "total_deals": 7,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 3,
-      "pokemon": 2
+      "pokemon": 4,
+      "onepiece": 3
     },
     "by_product_type": {
-      "booster_box": 4,
+      "booster_box": 5,
+      "booster_bundle": 1,
       "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 2,
+      "20_plus": 1,
+      "10_to_19": 3,
       "1_to_9": 3
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 7,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -31,18 +33,40 @@
       "500 Years in the Future",
       "Adventure on Kami's Island",
       "Battle Styles",
-      "Emperors in the New World"
+      "Destined Rivals",
+      "Emperors in the New World",
+      "Evolving Skies"
     ],
     "product_type": [
       "booster_box",
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
       "1_to_9",
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205518977966?_skw=pokemon+Evolving+Skies+booster+box&hash=item2fd9e2bbae:g:jjgAAeSw0Wxpx3l7",
+      "franchise": "pokemon",
+      "set": "Evolving Skies",
+      "product_type": "booster_box",
+      "price": 1542.31,
+      "shipping_cost": 41.58,
+      "total_price": 1542.31,
+      "shipping_verified": true,
+      "baseline_price": 2999.49,
+      "gapPct": 48.58,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "20_plus",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
       "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
@@ -62,8 +86,26 @@
       "deal_quality": "HIGH"
     },
     {
+      "title": "Pokemon Destined Rivals SV10 Booster Bundle",
+      "url": "https://www.ebay.com/itm/389828253806?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ac393186e:g:ZZMAAeSwlcZpxaHu",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 52.0,
+      "shipping_cost": 0.0,
+      "total_price": 52.0,
+      "shipping_verified": false,
+      "baseline_price": 59.95,
+      "gapPct": 13.26,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
       "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
+      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+sealed&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
@@ -81,7 +123,7 @@
     },
     {
       "title": "OP-15 Adventure on KAMI\u2019s Island Booster Box JP Sealed One Piece TCG US Seller",
-      "url": "https://www.ebay.com/itm/127667135610?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1db98de47a:g:az8AAeSwZUpphJN5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb%2F0gLAoPqtXbtuQJtmN5F2CkCw01UgxhdEI0H1gwymYnwlfTAEhabzAy6H3FNeINLV6APG1JG7Ap4NWeV9PEQlb%2FatX4oHPuFqVHvzV2FU29YhZIwIN7nbcKKf0lIMzPxDc%2BmtWpZBHgMba6Th1FvNPecmpSXMQiDTzJUURlTX85YrUSGfkq2kDNQDb1mQmGDVNztEQKeOv0oD9dAlc9VVOyNqZjz0gUN5l2dbNxMN5XgYPcln9EwNWKmuqxAeiR8cvnel%2BbrCcBRh5vd5EroRRinL1Ikr07xYiZeSVRppAtKHkaSdVRt2WwzbaXZ2S4DyJzUb5S2Ln81dTlbPO2Tz",
+      "url": "https://www.ebay.com/itm/127667135610?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1db98de47a:g:az8AAeSwZUpphJN5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb%2F0gLAoPqtXbtuQJtmN5F2CkCw01UgxhdEI0H1gwymYnwlfTAEhabzAy6H3FNeINLV6APG1JG7Ap4NWeV9PEQlb%2FatX4oHPuFqVHvzV2FU29YhZIwIN7nbcKKf0lIMzPxxDSfUdv7itDFhPULKtPlR5qnNIFQSjz8r53UtIWw416a2hT42yOMHV%2FsbaZBPRAuUg7eF4wYuZsxDAzGhD1yk2Ak8OpLGD6g9unz7khguc5nS1UTC5u7myEQ1VOmsajLwlHrt9ywhNFbj0XI9%2FZLlKCplCeK4X5%2FfxNKcFDSDDvD9BQtAAd6UzAlpTF%2Bb6Byw51uxeNICKAtaI02wT6JH",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -92,24 +134,6 @@
       "baseline_price": 105.99,
       "gapPct": 9.43,
       "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "Pokemon TCG: Sword & Shield- Battle Styles Elite Trainer Box (Blue)",
-      "url": "https://www.ebay.com/itm/188178729678?_skw=pokemon+Battle+Styles+booster+box&hash=item2bd0538ace:g:MZEAAOSwEp1nj-1H",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 89.99,
-      "shipping_cost": 0.0,
-      "total_price": 89.99,
-      "shipping_verified": false,
-      "baseline_price": 99.0,
-      "gapPct": 9.1,
-      "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
@@ -127,6 +151,24 @@
       "shipping_verified": true,
       "baseline_price": 301.81,
       "gapPct": 8.44,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "1_to_9",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
+      "title": "Pokemon TCG: Sword & Shield- Battle Styles Elite Trainer Box (Blue)",
+      "url": "https://www.ebay.com/itm/188178729678?_skw=pokemon+Battle+Styles+booster+box&hash=item2bd0538ace:g:MZEAAOSwEp1nj-1H",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 89.99,
+      "shipping_cost": 0.0,
+      "total_price": 89.99,
+      "shipping_verified": false,
+      "baseline_price": 98.0,
+      "gapPct": 8.17,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "1_to_9",
