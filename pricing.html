@@ -98,6 +98,8 @@
             padding: 40px;
             width: 280px;
             transition: transform 0.2s, border-color 0.2s;
+            display: flex;
+            flex-direction: column;
         }
         
         .tier-card:hover {
@@ -119,13 +121,19 @@
         .tier-starter .tier-badge { background: #5c4813; color: #ffd700; }
         
         .tier-name { font-size: 1.8rem; color: #fff; margin-bottom: 15px; }
-        .tier-desc { color: #888; margin-bottom: 20px; line-height: 1.5; }
+        .tier-desc { 
+            color: #888; 
+            margin-bottom: 20px; 
+            line-height: 1.5; 
+            min-height: 45px;
+        }
         
         .tier-price {
             color: #fff;
             font-size: 1.1rem;
             margin-bottom: 20px;
             line-height: 1.6;
+            min-height: 55px;
         }
         
         .tier-price .save { color: #7ee787; font-size: 0.9rem; }
@@ -144,10 +152,15 @@
         .tier-starter .tier-cta { background: #ffd700; color: #0f0f23; }
         .tier-starter .tier-cta:hover { background: #ffed4a; }
         
-        .features { list-style: none; margin: 20px 0; text-align: left; }
+        .features { list-style: none; margin: 20px 0; text-align: left; flex-grow: 1; }
         .features li { padding: 8px 0; color: #aaa; }
         .features li.included::before { content: "✓ "; color: #7ee787; }
         .features li.excluded::before { content: "✕ "; color: #ff6b6b; }
+        
+        .tier-cta-wrapper {
+            margin-top: auto;
+            padding-top: 20px;
+        }
         
         .nav-back {
             margin-top: 40px;
@@ -180,13 +193,17 @@
         <div class="tier-card tier-free">
             <div class="tier-badge">Free</div>
             <p class="tier-desc">Try tcgradar with a sample of live opportunities</p>
+            <div class="tier-price">&nbsp;</div>
             <ul class="features">
                 <li class="included">Occasional buy-now deals</li>
                 <li class="included">Occasional auction opportunities</li>
                 <li class="excluded">Real-time alerts</li>
                 <li class="excluded">Full dashboard access</li>
+                <li class="excluded">Tracked auctions over time</li>
             </ul>
-            <a href="dashboard/free.html" class="tier-cta">View free opportunity</a>
+            <div class="tier-cta-wrapper">
+                <a href="dashboard/free.html" class="tier-cta">View free opportunity</a>
+            </div>
         </div>
         
         <!-- STARTER TIER -->
@@ -200,10 +217,13 @@
             <ul class="features">
                 <li class="included">Real-time buy-now deals</li>
                 <li class="included">Real-time auction opportunities</li>
-                <li class="included">Curated high-signal alerts</li>
+                <li class="included">Curated real-time alerts</li>
                 <li class="excluded">Full dashboard access</li>
+                <li class="excluded">Tracked auctions over time</li>
             </ul>
-            <button class="tier-cta" disabled style="background: #333; color: #666; cursor: not-allowed;">Coming soon</button>
+            <div class="tier-cta-wrapper">
+                <button class="tier-cta" disabled style="background: #333; color: #666; cursor: not-allowed;">Coming soon</button>
+            </div>
         </div>
         
         <!-- PRO TIER -->
@@ -215,12 +235,15 @@
                 $205 / year <span class="save">(save 10%)</span>
             </div>
             <ul class="features">
+                <li class="included">Real-time buy-now deals</li>
+                <li class="included">Real-time auction opportunities</li>
+                <li class="included">Real-time alerts</li>
                 <li class="included">Full dashboard access</li>
-                <li class="included">Best deals + watchlist</li>
-                <li class="included">Live auction opportunities</li>
                 <li class="included">Tracked auctions over time</li>
             </ul>
-            <a href="dashboard/index.html" class="tier-cta" style="background: #1a3a5c; color: #4da6ff;" onclick="event.preventDefault(); handleProClick();">Unlock full dashboard</a>
+            <div class="tier-cta-wrapper">
+                <a href="dashboard/index.html" class="tier-cta" style="background: #1a3a5c; color: #4da6ff;" onclick="event.preventDefault(); handleProClick();">Unlock full dashboard</a>
+            </div>
         </div>
     </div>
     
