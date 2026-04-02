@@ -543,7 +543,6 @@
                                 <th>Type</th>
                                 <th>Language</th>
                                 <th>Current Price</th>
-                                <th>Price</th>
                                 <th>Gap</th>
                                 <th>Seller Trust</th>
                             </tr>
@@ -910,7 +909,7 @@
                 auctionCount = 0;
                 renderSummary();
                 countEl.textContent = 'Auction data unavailable';
-                tbody.innerHTML = '<tr><td colspan="13" style="text-align: center; padding: 40px; color: #888;">Auction data unavailable</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="9" style="text-align: center; padding: 40px; color: #888;">Auction data unavailable</td></tr>';
             }
         }
         
@@ -926,12 +925,12 @@
             countEl.textContent = `Showing ${auctionsToRender.length} auction opportunities`;
             
             if (auctionsToRender.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="9" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
                 return;
             }
             
             tbody.innerHTML = auctionsToRender.map(auction => {
-                // STEP 109B: Reordered columns with baseline price
+                // STEP 109D: Simplified price display - baseline in Current Price cell
                 const totalPrice = auction.total_price || auction.current_price || 0;
                 const shippingCost = auction.shipping_cost || 0;
                 const baselinePrice = auction.baseline_price || auction.market_price || 0;
@@ -950,9 +949,9 @@
                     <td>EN</td>
                     <td>
                         <div class="price">$${totalPrice.toFixed(2)}</div>
-                        <div style="font-size: 0.75rem; color: #888;">${shippingCost > 0 ? `(incl. $${shippingCost.toFixed(2)} shipping)` : '(free shipping)'}</div>
+                        <div style="font-size: 0.75rem; color: #888;">${shippingCost > 0 ? `(+ $${shippingCost.toFixed(2)} shipping)` : '(free shipping)'}</div>
+                        <div style="font-size: 0.85rem; color: rgba(255,255,255,0.7); text-decoration: line-through;">~~$${baselinePrice.toFixed(2)}~~</div>
                     </td>
-                    <td>$${baselinePrice.toFixed(2)}</td>
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
                     </td>
