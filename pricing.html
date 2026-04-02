@@ -640,6 +640,13 @@
             
             if (!email) return;
             
+            // STEP 119B: Validate email format (something@something.domain)
+            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            if (!emailRegex.test(email)) {
+                document.getElementById('emailGateError').style.display = 'block';
+                return;
+            }
+            
             // STEP 118A: Hide any previous error
             document.getElementById('emailGateError').style.display = 'none';
             
