@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-02T08:01:05.405037+00:00",
+    "generated_at": "2026-04-02T08:31:04.784961+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
     "raw_count": 18,
@@ -94,23 +94,6 @@
   },
   "auctions": [
     {
-      "title": "ONE PIECE 500 YEARS IN THE FUTURE OP-07 ENGLISH SEALED BOOSTER BOX",
-      "current_price": 138.73,
-      "shipping_cost": 18.02,
-      "total_price": 156.75,
-      "baseline": 335.0,
-      "gapPct": 53.208955223880594,
-      "bids": 15,
-      "time_remaining": 66.98616185416667,
-      "opportunity_type": "early",
-      "url": "https://www.ebay.com/itm/206172313135?_skw=One+Piece+500+Years+in+the+Future+booster+box&hash=item3000d3d62f:g:8ewAAeSw61dpxxvj",
-      "franchise": "onepiece",
-      "set": "500 Years in the Future",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 70
-    },
-    {
       "title": "ONE PIECE EMPERORS IN THE NEW WORLD OP-09 ENGLISH SEALED BOOSTER BOX",
       "current_price": 327.9,
       "shipping_cost": 18.02,
@@ -118,7 +101,7 @@
       "baseline": 646.98,
       "gapPct": 46.53312312590807,
       "bids": 17,
-      "time_remaining": 66.98386120166667,
+      "time_remaining": 66.48402792499999,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/206172313386?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item3000d3d72a:g:0AIAAeSwShhpxxvn",
       "franchise": "onepiece",
@@ -128,6 +111,23 @@
       "opportunity_score": 66
     },
     {
+      "title": "ONE PIECE 500 YEARS IN THE FUTURE OP-07 ENGLISH SEALED BOOSTER BOX",
+      "current_price": 163.95,
+      "shipping_cost": 18.02,
+      "total_price": 181.97,
+      "baseline": 335.0,
+      "gapPct": 45.680597014925375,
+      "bids": 18,
+      "time_remaining": 66.48623292388889,
+      "opportunity_type": "early",
+      "url": "https://www.ebay.com/itm/206172313135?_skw=One+Piece+500+Years+in+the+Future+booster+box&hash=item3000d3d62f:g:8ewAAeSw61dpxxvj",
+      "franchise": "onepiece",
+      "set": "500 Years in the Future",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 65
+    },
+    {
       "title": "ONE PIECE EMPERORS IN THE NEW WORLD OP-09 ENGLISH SEALED BOOSTER BOX",
       "current_price": 335.11,
       "shipping_cost": 18.02,
@@ -135,7 +135,7 @@
       "baseline": 646.98,
       "gapPct": 45.4187146434202,
       "bids": 31,
-      "time_remaining": 66.98386120388889,
+      "time_remaining": 66.48402792888889,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/206172312586?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item3000d3d40a:g:KyUAAeSwh3tpxxxH",
       "franchise": "onepiece",
@@ -152,7 +152,7 @@
       "baseline": 599.99,
       "gapPct": 33.337222287038124,
       "bids": 16,
-      "time_remaining": 66.9927125225,
+      "time_remaining": 66.49279900277779,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/206172312574?_skw=Pokemon+Destined+Rivals+booster+box&hash=item3000d3d3fe:g:8jwAAeSwIXFpxxxH",
       "franchise": "pokemon",
