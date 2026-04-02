@@ -1,23 +1,24 @@
 {
-  "timestamp": "2026-04-02T19:04:02.835601+00:00",
+  "timestamp": "2026-04-02T19:34:40.633962+00:00",
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 6,
+  "total_deals": 5,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 2,
-      "pokemon": 2
+      "pokemon": 3,
+      "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 3,
+      "booster_box": 4,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
+      "20_plus": 1,
       "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 5,
     "MEDIUM": 2,
     "LOW": 0
   },
@@ -30,17 +31,37 @@
       "500 Years in the Future",
       "Battle Styles",
       "Destined Rivals",
-      "Emperors in the New World"
+      "Emperors in the New World",
+      "Evolving Skies"
     ],
     "product_type": [
       "booster_box",
       "booster_bundle"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205518977966?_skw=pokemon+Evolving+Skies+booster+box&hash=item2fd9e2bbae:g:jjgAAeSw0Wxpx3l7",
+      "franchise": "pokemon",
+      "set": "Evolving Skies",
+      "product_type": "booster_box",
+      "price": 1547.1200000000001,
+      "shipping_cost": 41.71,
+      "total_price": 1547.1200000000001,
+      "shipping_verified": true,
+      "baseline_price": 2999.0,
+      "gapPct": 48.41,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "20_plus",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
       "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
@@ -60,8 +81,26 @@
       "deal_quality": "HIGH"
     },
     {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 277.12,
+      "shipping_cost": 17.68,
+      "total_price": 277.12,
+      "shipping_verified": true,
+      "baseline_price": 320.0,
+      "gapPct": 13.4,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ2bl79Isf9WxuN7jw27TfrDlhJW6%2Bl9kiW6sKVvvsmKGmigsARe9EzAcKtUN0vWekO9drmOeZ8Hqq9O%2Bv25qjkl7QSMy%2FJzRmmTdn%2Blo%2BTzeEyhbwT0ui9b8o9YgKrjDXYPaMhLhGXJ8ZYv7AqPEqhw%2BmnH5mz34kucqsf0tRS8iTHKGabVqZOG0F1BhIl8v7o%3D",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ2eW1QdEdocBOMDGZfvx04ev9APQGEfOQJSMmTPtck95NzanTD50uerQ%2B6dD1edosJXu1JIdGumSiih4Y71KqAQlARoK4LzjgqFsIvnS%2BI%2Bbwfalbo07xYTG%2FKEZyhiYMXnNtlXSVS3I8%2BYA3OiSRKs8zBV%2FTDefSFLH7LTNONiZ4dhFo7SKPd4fAOUV0AWKao%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -69,8 +108,8 @@
       "shipping_cost": 0.0,
       "total_price": 52.99,
       "shipping_verified": false,
-      "baseline_price": 63.95,
-      "gapPct": 17.14,
+      "baseline_price": 60.6,
+      "gapPct": 12.56,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -90,24 +129,6 @@
       "baseline_price": 613.78,
       "gapPct": 12.22,
       "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 277.12,
-      "shipping_cost": 17.68,
-      "total_price": 277.12,
-      "shipping_verified": true,
-      "baseline_price": 315.0,
-      "gapPct": 12.03,
-      "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",

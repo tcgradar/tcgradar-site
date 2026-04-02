@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-04-02T19:01:08.577949+00:00",
+    "generated_at": "2026-04-02T19:31:06.299012+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 23,
-    "filtered_count": 4,
+    "raw_count": 26,
+    "filtered_count": 5,
     "filter_criteria": {
       "min_gap": 12.0,
       "max_bids": 50,
@@ -101,7 +101,7 @@
       "baseline": 646.98,
       "gapPct": 46.53312312590807,
       "bids": 17,
-      "time_remaining": 55.98317796638889,
+      "time_remaining": 55.48360957222222,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/206172313386?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item3000d3d72a:g:0AIAAeSwShhpxxvn",
       "franchise": "onepiece",
@@ -118,7 +118,7 @@
       "baseline": 335.0,
       "gapPct": 43.52835820895522,
       "bids": 19,
-      "time_remaining": 55.985461953055555,
+      "time_remaining": 55.48579653666667,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/206172313135?_skw=One+Piece+500+Years+in+the+Future+booster+box&hash=item3000d3d62f:g:8ewAAeSw61dpxxvj",
       "franchise": "onepiece",
@@ -135,7 +135,7 @@
       "baseline": 599.99,
       "gapPct": 33.337222287038124,
       "bids": 16,
-      "time_remaining": 55.99241539416666,
+      "time_remaining": 55.492409852777776,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/206172312574?_skw=Pokemon+Destined+Rivals+booster+box&hash=item3000d3d3fe:g:8jwAAeSwIXFpxxxH",
       "franchise": "pokemon",
@@ -152,7 +152,7 @@
       "baseline": 646.98,
       "gapPct": 33.7228353272126,
       "bids": 38,
-      "time_remaining": 55.9831779725,
+      "time_remaining": 55.48360957777778,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/206172312586?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item3000d3d40a:g:KyUAAeSwh3tpxxxH",
       "franchise": "onepiece",
@@ -160,6 +160,23 @@
       "product_type": "booster_box",
       "seller_trust": "HIGH",
       "opportunity_score": 46
+    },
+    {
+      "title": "Sealed Scarlet & Violet Destined Rivals Booster Box Pok\u00e9mon TCG SV10",
+      "current_price": 410.0,
+      "shipping_cost": 18.0,
+      "total_price": 428.0,
+      "baseline": 599.99,
+      "gapPct": 28.66547775796263,
+      "bids": 16,
+      "time_remaining": 71.90935431833334,
+      "opportunity_type": "early",
+      "url": "https://www.ebay.com/itm/287234589394?_skw=Pokemon+Destined+Rivals+booster+box&hash=item42e08402d2:g:-LgAAeSwteRpxUAM",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 43
     }
   ]
 }
