@@ -1,19 +1,32 @@
 {
-  "updated_at": "2026-04-02T00:02:50.910909+00:00",
+  "updated_at": "2026-04-02T07:04:07.016154+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
+    "title": "ONE PIECE OP07 500 YEARS INTO THE FUTURE BOOSTER BOX ENGLISH SEALED - OP-07 OP7",
+    "price": 289.61,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 775,
+    "franchise": "onepiece",
+    "set": "500 Years in the Future",
+    "product_type": "booster_box",
+    "confidence": "low",
+    "baseline_price": 334.16,
+    "gapPct": 13.33,
+    "deal_quality": "HIGH",
+    "seller_trust": "HIGH"
+  },
+  "best_opportunity_deal": {
     "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-    "price": 258.7,
+    "price": 259.44,
     "seller_rating": 100.0,
     "seller_feedback_count": 602,
     "franchise": "pokemon",
     "set": "Battle Styles",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 301.81,
-    "gapPct": 14.28,
+    "baseline_price": 312.5,
+    "gapPct": 11.32,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
-  },
-  "best_opportunity_deal": null
+  }
 }
