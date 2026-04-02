@@ -355,7 +355,7 @@
         }
 
         .baseline-price {
-            color: #888;
+            color: rgba(255, 255, 255, 0.7);
             font-size: 0.85rem;
             text-decoration: line-through;
         }
@@ -930,10 +930,10 @@
             }
             
             tbody.innerHTML = auctionsToRender.map(auction => {
-                // STEP 109D: Simplified price display - baseline in Current Price cell
+                // STEP 109E: Fixed baseline price display using correct field
                 const totalPrice = auction.total_price || auction.current_price || 0;
                 const shippingCost = auction.shipping_cost || 0;
-                const baselinePrice = auction.baseline_price || auction.market_price || 0;
+                const baselinePrice = auction.baseline || auction.baseline_price || auction.market_price || 0;
                 
                 return `
                 <tr>
@@ -950,7 +950,7 @@
                     <td>
                         <div class="price">$${totalPrice.toFixed(2)}</div>
                         <div style="font-size: 0.75rem; color: #888;">${shippingCost > 0 ? `(+ $${shippingCost.toFixed(2)} shipping)` : '(free shipping)'}</div>
-                        <div style="font-size: 0.85rem; color: rgba(255,255,255,0.7); text-decoration: line-through;">~~$${baselinePrice.toFixed(2)}~~</div>
+                        <div class="baseline-price">$${baselinePrice.toFixed(2)}</div>
                     </td>
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
