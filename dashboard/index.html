@@ -713,10 +713,12 @@
             return statusMap[opportunityType] || '👀 Ongoing';
         }
 
-        function formatTimeLeft(timeRemaining) {
-            if (timeRemaining === undefined || timeRemaining === null) return '-';
-            const hours = Math.floor(timeRemaining / 3600);
-            const minutes = Math.floor((timeRemaining % 3600) / 60);
+        function formatTimeLeft(timeRemainingHours) {
+            if (timeRemainingHours === undefined || timeRemainingHours === null) return '-';
+            // STEP 118C: time_remaining is in hours from backend
+            const totalMinutes = Math.round(timeRemainingHours * 60);
+            const hours = Math.floor(totalMinutes / 60);
+            const minutes = totalMinutes % 60;
             if (hours > 0) {
                 return `${hours}h ${minutes}m`;
             }
