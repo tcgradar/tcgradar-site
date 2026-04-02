@@ -368,6 +368,9 @@
         .seller-trust-medium { color: #ffd700; font-weight: 600; }
         .seller-trust-low { color: #ff6b6b; font-weight: 600; }
 
+        .nav-back a { color: #888; text-decoration: none; }
+        .nav-back a:hover { color: #ffd700; }
+
         .loading, .error {
             text-align: center;
             padding: 40px;
@@ -544,6 +547,7 @@
                                 <th>Language</th>
                                 <th>Current Price</th>
                                 <th>Gap</th>
+                                <th>Status</th>
                                 <th>Seller Trust</th>
                             </tr>
                         </thead>
@@ -553,10 +557,9 @@
                 </div>
             </div>
 
-            <!-- CTA Section -->
-            <div class="cta-section" style="margin-top: 40px; padding: 30px; background: rgba(255, 215, 0, 0.05); border-radius: 12px; border: 1px solid rgba(255, 215, 0, 0.2); text-align: center;">
-                <p style="color: #888; margin-bottom: 20px;">More plans and features are coming soon.</p>
-                <button disabled style="padding: 14px 32px; background: #333; color: #666; border: 2px solid #444; border-radius: 8px; font-weight: bold; cursor: not-allowed;">Coming soon</button>
+            <!-- Back to home -->
+            <div class="nav-back" style="margin-top: 40px; text-align: center;">
+                <a href="../index.html" style="color: #888; text-decoration: none;">← Back to home</a>
             </div>
         </div>
     </div>
@@ -697,6 +700,16 @@
                 'etb': 'ETB'
             };
             return types[type] || type.replace('_', ' ');
+        }
+
+        function formatAuctionStatus(opportunityType) {
+            const statusMap = {
+                'urgent': 'Urgent',
+                'ending': 'Ending soon',
+                'ongoing': 'Ongoing',
+                'early': 'Early opportunity'
+            };
+            return statusMap[opportunityType] || 'Ongoing';
         }
 
         function formatSource(url) {
@@ -909,7 +922,7 @@
                 auctionCount = 0;
                 renderSummary();
                 countEl.textContent = 'Auction data unavailable';
-                tbody.innerHTML = '<tr><td colspan="9" style="text-align: center; padding: 40px; color: #888;">Auction data unavailable</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">Auction data unavailable</td></tr>';
             }
         }
         
@@ -925,7 +938,7 @@
             countEl.textContent = `Showing ${auctionsToRender.length} auction opportunities`;
             
             if (auctionsToRender.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="9" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
                 return;
             }
             
@@ -934,6 +947,7 @@
                 const totalPrice = auction.total_price || auction.current_price || 0;
                 const shippingCost = auction.shipping_cost || 0;
                 const baselinePrice = auction.baseline || auction.baseline_price || auction.market_price || 0;
+                const opportunityType = auction.opportunity_type || 'early';
                 
                 return `
                 <tr>
@@ -955,6 +969,7 @@
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
                     </td>
+                    <td class="urgency-${opportunityType}">${formatAuctionStatus(opportunityType)}</td>
                     <td class="seller-trust-${auction.seller_trust?.toLowerCase() || 'low'}">${auction.seller_trust ? auction.seller_trust.charAt(0).toUpperCase() + auction.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
                 `;
