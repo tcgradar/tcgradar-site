@@ -547,6 +547,7 @@
                                 <th>Language</th>
                                 <th>Current Price</th>
                                 <th>Gap</th>
+                                <th>Time Left</th>
                                 <th>Status</th>
                                 <th>Seller Trust</th>
                             </tr>
@@ -704,12 +705,22 @@
 
         function formatAuctionStatus(opportunityType) {
             const statusMap = {
-                'urgent': 'Urgent',
-                'ending': 'Ending soon',
-                'ongoing': 'Ongoing',
-                'early': 'Early opportunity'
+                'urgent': '🔥 Urgent',
+                'ending': '⚡ Ending soon',
+                'ongoing': '👀 Ongoing',
+                'early': '🧠 Early opportunity'
             };
-            return statusMap[opportunityType] || 'Ongoing';
+            return statusMap[opportunityType] || '👀 Ongoing';
+        }
+
+        function formatTimeLeft(timeRemaining) {
+            if (timeRemaining === undefined || timeRemaining === null) return '-';
+            const hours = Math.floor(timeRemaining / 3600);
+            const minutes = Math.floor((timeRemaining % 3600) / 60);
+            if (hours > 0) {
+                return `${hours}h ${minutes}m`;
+            }
+            return `${minutes}m`;
         }
 
         function formatSource(url) {
@@ -922,7 +933,7 @@
                 auctionCount = 0;
                 renderSummary();
                 countEl.textContent = 'Auction data unavailable';
-                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">Auction data unavailable</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="11" style="text-align: center; padding: 40px; color: #888;">Auction data unavailable</td></tr>';
             }
         }
         
@@ -938,7 +949,7 @@
             countEl.textContent = `Showing ${auctionsToRender.length} auction opportunities`;
             
             if (auctionsToRender.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="10" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="11" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
                 return;
             }
             
@@ -948,6 +959,7 @@
                 const shippingCost = auction.shipping_cost || 0;
                 const baselinePrice = auction.baseline || auction.baseline_price || auction.market_price || 0;
                 const opportunityType = auction.opportunity_type || 'early';
+                const timeRemaining = auction.time_remaining || 0;
                 
                 return `
                 <tr>
@@ -969,6 +981,7 @@
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
                     </td>
+                    <td>${formatTimeLeft(timeRemaining)}</td>
                     <td class="urgency-${opportunityType}">${formatAuctionStatus(opportunityType)}</td>
                     <td class="seller-trust-${auction.seller_trust?.toLowerCase() || 'low'}">${auction.seller_trust ? auction.seller_trust.charAt(0).toUpperCase() + auction.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
