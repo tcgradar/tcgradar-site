@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T20:49:28.311940+00:00",
+  "timestamp": "2026-04-02T21:34:04.789330+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -14,8 +14,7 @@
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 3,
-      "1_to_9": 1
+      "10_to_19": 4
     }
   },
   "trust_counts": {
@@ -39,7 +38,6 @@
       "etb"
     ],
     "gap_bucket": [
-      "1_to_9",
       "10_to_19",
       "20_plus"
     ]
@@ -65,7 +63,7 @@
     },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
-      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
+      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -76,6 +74,24 @@
       "baseline_price": 333.33,
       "gapPct": 17.27,
       "confidence": "low",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
+      "title": "Pokemon TCG Battle Styles RED Elite Trainer Box ETB Single Strike Urshifu",
+      "url": "https://www.ebay.com/itm/257439749533?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf09ad59d:g:svMAAeSwnLRpzrzm",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 89.0,
+      "shipping_cost": 0.0,
+      "total_price": 89.0,
+      "shipping_verified": false,
+      "baseline_price": 103.97,
+      "gapPct": 14.4,
+      "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
@@ -114,24 +130,6 @@
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "Pokemon TCG Battle Styles RED Elite Trainer Box ETB Single Strike Urshifu",
-      "url": "https://www.ebay.com/itm/257439749533?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf09ad59d:g:svMAAeSwnLRpzrzm",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 89.0,
-      "shipping_cost": 0.0,
-      "total_price": 89.0,
-      "shipping_verified": false,
-      "baseline_price": 98.0,
-      "gapPct": 9.18,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
     }
