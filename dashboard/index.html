@@ -537,14 +537,14 @@
                         <thead>
                             <tr>
                                 <th>Deal</th>
-                                <th>Current Price</th>
-                                <th>Gap</th>
-                                <th>Time + Status</th>
-                                <th>Bids</th>
+                                <th>Source</th>
                                 <th>Franchise</th>
                                 <th>Set</th>
                                 <th>Type</th>
                                 <th>Language</th>
+                                <th>Current Price</th>
+                                <th>Price</th>
+                                <th>Gap</th>
                                 <th>Seller Trust</th>
                             </tr>
                         </thead>
@@ -931,51 +931,31 @@
             }
             
             tbody.innerHTML = auctionsToRender.map(auction => {
-                const oppType = auction.opportunity_type || 'early';
-                let urgencyClass, typeLabel;
-                
-                if (oppType === 'urgent') {
-                    urgencyClass = 'urgency-urgent';
-                    typeLabel = '🔥 Urgent';
-                } else if (oppType === 'ending_soon') {
-                    urgencyClass = 'urgency-ending';
-                    typeLabel = '⚡ Ending soon';
-                } else if (oppType === 'ongoing') {
-                    urgencyClass = 'urgency-ongoing';
-                    typeLabel = '👀 Ongoing';
-                } else {
-                    urgencyClass = 'urgency-early';
-                    typeLabel = '🧠 Early opportunity';
-                }
-                
-                // STEP 96E: Reordered columns - Time + Status combined
+                // STEP 109B: Reordered columns with baseline price
                 const totalPrice = auction.total_price || auction.current_price || 0;
                 const shippingCost = auction.shipping_cost || 0;
-                const timeLeft = auction.time_remaining ? auction.time_remaining.toFixed(1) + 'h' : 'Unknown';
+                const baselinePrice = auction.baseline_price || auction.market_price || 0;
                 
                 return `
                 <tr>
                     <td class="title-cell">
                         <a href="${auction.url}" target="_blank" rel="noopener" class="deal-link">${auction.title}</a>
                     </td>
-                    <td>
-                        <div class="price">$${totalPrice.toFixed(2)}</div>
-                        <div style="font-size: 0.75rem; color: #888;">${shippingCost > 0 ? `(incl. $${shippingCost.toFixed(2)} shipping)` : '(free shipping)'}</div>
-                    </td>
-                    <td>
-                        <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
-                    </td>
-                    <td>
-                        <div>${timeLeft}</div>
-                        <div class="${urgencyClass}">${typeLabel}</div>
-                    </td>
-                    <td>${auction.bids || 0}</td>
+                    <td>${auction.source || 'eBay'}</td>
                     <td>
                         <span class="franchise-badge ${getFranchiseClass(auction.franchise)}">${formatFranchise(auction.franchise)}</span>
                     </td>
                     <td>${auction.set || '-'}</td>
                     <td class="product-type">${formatProductType(auction.product_type)}</td>
                     <td>EN</td>
+                    <td>
+                        <div class="price">$${totalPrice.toFixed(2)}</div>
+                        <div style="font-size: 0.75rem; color: #888;">${shippingCost > 0 ? `(incl. $${shippingCost.toFixed(2)} shipping)` : '(free shipping)'}</div>
+                    </td>
+                    <td>$${baselinePrice.toFixed(2)}</td>
+                    <td>
+                        <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
+                    </td>
                     <td class="seller-trust-${auction.seller_trust?.toLowerCase() || 'low'}">${auction.seller_trust ? auction.seller_trust.charAt(0).toUpperCase() + auction.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
                 `;
