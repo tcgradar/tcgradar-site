@@ -637,12 +637,12 @@
             submitBtn.disabled = true;
             submitBtn.textContent = 'Unlocking...';
             
-            // Submit to Formspree
+            // Submit to Google Apps Script
             try {
-                const response = await fetch('https://formspree.io/f/xjgpkwvy', {
+                const response = await fetch('https://script.google.com/macros/s/AKfycbxSpjGRN9A2syFYgoWZVsfHVTBouf37wUulNU7GqsIxLOwLNVVYLfbhwfTO8myId0-LRw/exec', {
                     method: 'POST',
                     headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ email: email, source: 'pro_dashboard_unlock', page: 'pricing' })
+                    body: JSON.stringify({ email: email, source: 'pricing unlock modal' })
                 });
                 
                 if (response.ok) {
