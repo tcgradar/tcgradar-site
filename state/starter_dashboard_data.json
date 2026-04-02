@@ -1,23 +1,24 @@
 {
-  "timestamp": "2026-04-02T19:49:02.757118+00:00",
+  "timestamp": "2026-04-02T20:04:02.114675+00:00",
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 5,
+  "total_deals": 5,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
       "booster_box": 3,
+      "booster_bundle": 1,
       "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 4
+      "10_to_19": 5
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 5,
     "MEDIUM": 1,
     "LOW": 0
   },
@@ -29,10 +30,12 @@
     "set": [
       "500 Years in the Future",
       "Battle Styles",
+      "Destined Rivals",
       "Emperors in the New World"
     ],
     "product_type": [
       "booster_box",
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -59,17 +62,17 @@
       "deal_quality": "HIGH"
     },
     {
-      "title": "Pokemon TCG Battle Styles RED Elite Trainer Box ETB Single Strike Urshifu",
-      "url": "https://www.ebay.com/itm/257439749533?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf09ad59d:g:svMAAeSwnLRpzrzm",
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ1haOvffdLAtlDUvVNl4okcPHYzTaIPnz53xPp2HgPtMy5kIb6c8v80wo7S77OB7mUlLn2lyReTlhyD3tWbpBqQrse2q8AcO%2FbnRgPaEMxsXRylaBAEYgAksfNgIg%2FYh2JLUK3TH7DYqb4cQ3dQD3tQH82cbDEoSn5sFTncBtrCLPSP%2B91a6O2VyXcdmoLLpBc%3D",
       "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 89.0,
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 52.99,
       "shipping_cost": 0.0,
-      "total_price": 89.0,
+      "total_price": 52.99,
       "shipping_verified": false,
-      "baseline_price": 103.97,
-      "gapPct": 14.4,
+      "baseline_price": 63.45,
+      "gapPct": 16.49,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -107,6 +110,24 @@
       "baseline_price": 613.78,
       "gapPct": 12.22,
       "confidence": "low",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
+      "title": "Pokemon TCG Battle Styles RED Elite Trainer Box ETB Single Strike Urshifu",
+      "url": "https://www.ebay.com/itm/257439749533?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf09ad59d:g:svMAAeSwnLRpzrzm",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 89.0,
+      "shipping_cost": 0.0,
+      "total_price": 89.0,
+      "shipping_verified": false,
+      "baseline_price": 100.0,
+      "gapPct": 11.0,
+      "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
