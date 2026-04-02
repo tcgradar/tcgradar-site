@@ -1,26 +1,27 @@
 {
-  "timestamp": "2026-04-02T08:33:56.193714+00:00",
+  "timestamp": "2026-04-02T09:03:56.657341+00:00",
   "tier": "starter",
-  "total_deals": 6,
+  "total_deals": 7,
   "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 3,
-      "pokemon": 3
+      "pokemon": 4
     },
     "by_product_type": {
       "booster_box": 5,
+      "etb": 1,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
       "20_plus": 2,
-      "10_to_19": 3,
+      "10_to_19": 4,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 6,
-    "MEDIUM": 1,
+    "HIGH": 7,
+    "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
@@ -37,7 +38,8 @@
     ],
     "product_type": [
       "booster_box",
-      "booster_bundle"
+      "booster_bundle",
+      "etb"
     ],
     "gap_bucket": [
       "1_to_9",
@@ -74,8 +76,8 @@
       "shipping_cost": 0.0,
       "total_price": 449.99,
       "shipping_verified": true,
-      "baseline_price": 610.88,
-      "gapPct": 26.34,
+      "baseline_price": 604.44,
+      "gapPct": 25.55,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "20_plus",
@@ -101,8 +103,26 @@
       "deal_quality": "HIGH"
     },
     {
+      "title": "Pokemon TCG: Sword & Shield- Battle Styles Elite Trainer Box (Blue)",
+      "url": "https://www.ebay.com/itm/188178729678?_skw=pokemon+Battle+Styles+booster+box&hash=item2bd0538ace:g:MZEAAOSwEp1nj-1H",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 89.99,
+      "shipping_cost": 0.0,
+      "total_price": 89.99,
+      "shipping_verified": false,
+      "baseline_price": 103.97,
+      "gapPct": 13.45,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ0GfX8ozExNLsZkDyRVq9c4bx%2FzMvWRMWPRnVAaBa83DhLsMuuLDNPO2jZT3pqZVW2OKk4M%2B1m7xiYC5Lq%2BLG9SYoCSvrMl%2Fuk5JGFIfv6EGFJjN%2FkYMK18WOiXNNAM654H4Cx3X%2BXnYLIZIUb1S6rOK4n%2FWbENRC9EiNaDV8nHI7OWMZhuGwyUqxsNOtdhpbs%3D",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ0Vo142%2F4mCkklx3uGqUps%2Fz%2FtsP%2Fa0xHdWwc7n0rjEwYzmtng3X%2F%2BIHdVpz71My1Zp%2Baw8%2FDbl%2FtDCEuxz3AdmOarFHHEFiZLFZprbWqG8JJXAWS%2B4cQFWYyrd5j9nLyIReB1Jl5nrSqhx1EqUaRL2B7mJmMUe3iGjluxkANmgS3SjPm2fiTxwY3Ar4blyg%2BM%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -110,8 +130,8 @@
       "shipping_cost": 0.0,
       "total_price": 52.99,
       "shipping_verified": false,
-      "baseline_price": 59.95,
-      "gapPct": 11.61,
+      "baseline_price": 59.99,
+      "gapPct": 11.67,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -138,7 +158,7 @@
     },
     {
       "title": "OP-15 Adventure on KAMI\u2019s Island Booster Box JP Sealed One Piece TCG US Seller",
-      "url": "https://www.ebay.com/itm/127667135610?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1db98de47a:g:az8AAeSwZUpphJN5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb%2F0gLAoPqtXbtuQJtmN5F2CkCw01UgxhdEI0H1gwymYnwlfTAEhabzAy6H3FNeINLV6APG1JG7Ap4NWeV9PEQlb%2FatX4oHPuFqVHvzV2FU29YhZIwIN7nbcKKf0lIMzPz%2F1M82EDyflKh%2FAB6rVmX9mzb3tW9FxihosfyTPwSPf6BZFEViajwSFsBPkUwE89u%2BKDTUyeP6kejhGd6vR4EJZEMS9m5XhCOkAOCXmVYn4HI33Y2KCROwXBZ41VU3G1RWx6G67iCe1uTwoj4bzeZxdgsCYcmYfqTw23MXBfGgIVWZHS77wwgH%2FQY%2FbP%2FHnJ1nYy409QDYu%2Fw3JhvVAf92",
+      "url": "https://www.ebay.com/itm/127667135610?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1db98de47a:g:az8AAeSwZUpphJN5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb%2F0gLAoPqtXbtuQJtmN5F2CkCw01UgxhdEI0H1gwymYnwlfTAEhabzAy6H3FNeINLV6APG1JG7Ap4NWeV9PEQlb%2FatX4oHPuFqVHvzV2FU29YhZIwIN7nbcKKf0lIMzPy%2BRsoh3fA4jrIbbrj%2FqgRFUWkuvtGXWtwPBba5r%2B%2FSrEOYWl%2BfW%2FsN%2FoX5iSgTxZWkHxExEIoGU9twUP9G1cPrvRJXT43YF7MgQKITUWKydr2VRy--aAkXXhIXq36a0nNQGM42%2BvDWfa198c4vdkezEUvz1U%2FDAUGiGUjkWl5sgiilsgi46ryVDdRm9TuAHpsrO1Cgdga5ZAKb5oCCvicw",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
