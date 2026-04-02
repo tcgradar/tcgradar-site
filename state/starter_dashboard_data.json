@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-02T18:34:49.481033+00:00",
+  "timestamp": "2026-04-02T19:04:02.835601+00:00",
   "tier": "starter",
   "total_deals": 4,
-  "all_deals_count": 7,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 2,
@@ -17,7 +17,7 @@
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 4,
     "MEDIUM": 2,
     "LOW": 0
   },
@@ -61,7 +61,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ0H96cjam2RoxqAE8SLCoznEkBFspToEMMlPp5qaFEYu0KN%2FDxhUZZD1ojekQQotrSJK%2BhKGr%2F93apYG7lOfBbrJQ4Eg%2Bb9RMni5UGOZ8Zkd9HFdl7Gi1LQ5wd%2FjCzf0sIMhkOlRWUBmk%2FYAG1n7QJN8NHvQyWIkaj7ROVYoDPPZJCCOuUn8iWpEl0aWaQlOjA%3D",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ2bl79Isf9WxuN7jw27TfrDlhJW6%2Bl9kiW6sKVvvsmKGmigsARe9EzAcKtUN0vWekO9drmOeZ8Hqq9O%2Bv25qjkl7QSMy%2FJzRmmTdn%2Blo%2BTzeEyhbwT0ui9b8o9YgKrjDXYPaMhLhGXJ8ZYv7AqPEqhw%2BmnH5mz34kucqsf0tRS8iTHKGabVqZOG0F1BhIl8v7o%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -71,24 +71,6 @@
       "shipping_verified": false,
       "baseline_price": 63.95,
       "gapPct": 17.14,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 277.12,
-      "shipping_cost": 17.68,
-      "total_price": 277.12,
-      "shipping_verified": true,
-      "baseline_price": 320.0,
-      "gapPct": 13.4,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -112,28 +94,25 @@
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
+    },
+    {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 277.12,
+      "shipping_cost": 17.68,
+      "total_price": 277.12,
+      "shipping_verified": true,
+      "baseline_price": 315.0,
+      "gapPct": 12.03,
+      "confidence": "high",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
     }
   ],
-  "watchlist_deals": [
-    {
-      "title": "POKEMON TCG - TEMPORAL FORCES - BOOSTER BOX (36 Packs) NEW SEALED",
-      "url": "https://www.ebay.com/itm/206171538195?_skw=pokemon+Temporal+Forces+booster+box&hash=item3000c80313:g:eroAAeSwhCRpwD4F",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 302.05,
-      "shipping_cost": 52.26,
-      "total_price": 302.05,
-      "shipping_verified": true,
-      "baseline_price": 314.0,
-      "gapPct": 3.81,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 3734,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "MEDIUM"
-    }
-  ]
+  "watchlist_deals": []
 }
