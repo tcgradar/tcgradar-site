@@ -125,7 +125,10 @@
             color: #888; 
             margin-bottom: 20px; 
             line-height: 1.5; 
-            min-height: 45px;
+            height: 45px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
         
         .tier-price {
@@ -152,7 +155,7 @@
         .tier-starter .tier-cta { background: #ffd700; color: #0f0f23; }
         .tier-starter .tier-cta:hover { background: #ffed4a; }
         
-        .features { list-style: none; margin: 20px 0; text-align: left; flex-grow: 1; }
+        .features { list-style: none; margin: 20px 0; text-align: left; flex-grow: 1; height: 200px; }
         .features li { padding: 8px 0; color: #aaa; }
         .features li.included::before { content: "✓ "; color: #7ee787; }
         .features li.excluded::before { content: "✕ "; color: #ff6b6b; }
