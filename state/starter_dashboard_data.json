@@ -1,25 +1,24 @@
 {
-  "timestamp": "2026-04-02T18:04:00.709408+00:00",
+  "timestamp": "2026-04-02T18:34:49.481033+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 6,
+  "total_deals": 4,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
-      "onepiece": 2
+      "onepiece": 2,
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 4,
+      "booster_box": 3,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
       "10_to_19": 4
     }
   },
   "trust_counts": {
     "HIGH": 5,
-    "MEDIUM": 1,
+    "MEDIUM": 2,
     "LOW": 0
   },
   "available_filters": {
@@ -38,29 +37,10 @@
       "booster_bundle"
     ],
     "gap_bucket": [
-      "10_to_19",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
-      "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 449.99,
-      "shipping_cost": 0.0,
-      "total_price": 449.99,
-      "shipping_verified": true,
-      "baseline_price": 600.0,
-      "gapPct": 25.0,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "20_plus",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
       "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
@@ -74,6 +54,24 @@
       "baseline_price": 333.33,
       "gapPct": 17.27,
       "confidence": "low",
+      "shipping_included": true,
+      "gap_bucket": "10_to_19",
+      "seller_trust": "HIGH",
+      "deal_quality": "HIGH"
+    },
+    {
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
+      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ0H96cjam2RoxqAE8SLCoznEkBFspToEMMlPp5qaFEYu0KN%2FDxhUZZD1ojekQQotrSJK%2BhKGr%2F93apYG7lOfBbrJQ4Eg%2Bb9RMni5UGOZ8Zkd9HFdl7Gi1LQ5wd%2FjCzf0sIMhkOlRWUBmk%2FYAG1n7QJN8NHvQyWIkaj7ROVYoDPPZJCCOuUn8iWpEl0aWaQlOjA%3D",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 52.99,
+      "shipping_cost": 0.0,
+      "total_price": 52.99,
+      "shipping_verified": false,
+      "baseline_price": 63.95,
+      "gapPct": 17.14,
+      "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
@@ -114,25 +112,28 @@
       "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
       "deal_quality": "HIGH"
-    },
-    {
-      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/306850773014?_skw=pokemon+Destined+Rivals+booster+box&hash=item4771bb3816:g:omEAAeSwxdFphQxT&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGalouwJJWo%2Fzs%2F2tyiEjIKX41zPihxFsXsHNwv%2BSx0%2BXkjqveNOETTVvBtSnasLJcroBj7xkYMHvF83G6L%2BcrIG0Ex%2FBLnvu%2BKR73W3MEoB8WQBoaolBquBGzX0U3inXZ3RZmMN1yobXQrGH95KqXuXZFNAgsJ8TelT%2BSYB43eXhg6M0H3vIHoW2az4Mg%2F3LSRfRBVug8c11PHZ6fp2TJ5DAq8qb2wC7De5Get3VWKpbvM0vdXFMCroLgRuY6vKAWFAm0VBJKHqRmn7FhSphuoAnBqExOEtGMwLai1Ka9Q%2F3Q0XNAZRpQPDvrRuAwbRlH0%3D",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 52.99,
-      "shipping_cost": 0.0,
-      "total_price": 52.99,
-      "shipping_verified": false,
-      "baseline_price": 60.0,
-      "gapPct": 11.68,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
     }
   ],
-  "watchlist_deals": []
+  "watchlist_deals": [
+    {
+      "title": "POKEMON TCG - TEMPORAL FORCES - BOOSTER BOX (36 Packs) NEW SEALED",
+      "url": "https://www.ebay.com/itm/206171538195?_skw=pokemon+Temporal+Forces+booster+box&hash=item3000c80313:g:eroAAeSwhCRpwD4F",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 302.05,
+      "shipping_cost": 52.26,
+      "total_price": 302.05,
+      "shipping_verified": true,
+      "baseline_price": 314.0,
+      "gapPct": 3.81,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 3734,
+      "shipping_included": true,
+      "gap_bucket": "1_to_9",
+      "seller_trust": "HIGH",
+      "deal_quality": "MEDIUM"
+    }
+  ]
 }
