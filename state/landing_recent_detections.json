@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-03T08:19:47.015942+00:00",
+  "updated_at": "2026-04-03T09:04:47.637157+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
@@ -16,17 +16,17 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Pokemon 151 sv2a Japanese Booster Box Scarlet & Violet Factory Sealed Mint",
-    "price": 235.85,
-    "seller_rating": 97.2,
-    "seller_feedback_count": 135,
-    "franchise": "pokemon",
-    "set": "151",
+    "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
+    "price": 490.41,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 3946,
+    "franchise": "onepiece",
+    "set": "Emperors in the New World",
     "product_type": "booster_box",
-    "confidence": "high",
-    "baseline_price": 299.99,
-    "gapPct": 21.38,
+    "confidence": "low",
+    "baseline_price": 614.99,
+    "gapPct": 12.77,
     "deal_quality": "HIGH",
-    "seller_trust": "MEDIUM"
+    "seller_trust": "HIGH"
   }
 }
