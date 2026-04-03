@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-04-03T09:04:47.609211+00:00",
+  "timestamp": "2026-04-03T09:50:06.010288+00:00",
   "tier": "starter",
-  "total_deals": 6,
-  "all_deals_count": 6,
+  "total_deals": 5,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 4,
+      "pokemon": 3,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 5,
+      "booster_box": 4,
       "etb": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 5
+      "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 6,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -29,7 +29,6 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -92,24 +91,6 @@
       "shipping_verified": true,
       "baseline_price": 614.99,
       "gapPct": 12.77,
-      "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
-      "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
-    },
-    {
-      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
-      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 349.99,
-      "shipping_cost": 0.0,
-      "total_price": 349.99,
-      "shipping_verified": false,
-      "baseline_price": 397.9,
-      "gapPct": 12.04,
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
