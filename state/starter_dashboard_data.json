@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-04-03T21:04:47.080850+00:00",
+  "timestamp": "2026-04-03T21:49:58.848330+00:00",
   "tier": "starter",
-  "total_deals": 8,
-  "all_deals_count": 8,
+  "total_deals": 10,
+  "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 6,
+      "pokemon": 8,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 6,
-      "booster_bundle": 1,
+      "booster_box": 7,
+      "booster_bundle": 2,
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
+      "20_plus": 2,
       "10_to_19": 5,
-      "1_to_9": 2
+      "1_to_9": 3
     }
   },
   "trust_counts": {
     "HIGH": 6,
-    "MEDIUM": 0,
+    "MEDIUM": 2,
     "LOW": 0,
     "high": 2
   },
@@ -31,6 +31,7 @@
       "pokemon"
     ],
     "set": [
+      "151",
       "500 Years in the Future",
       "Battle Styles",
       "Destined Rivals",
@@ -56,9 +57,24 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 604.43,
-      "gapPct": 25.55,
+      "baseline_price": 621.44,
+      "gapPct": 27.59,
       "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon 151 sv2a Japanese Booster Box Scarlet & Violet Factory Sealed Mint",
+      "url": "https://www.ebay.com/itm/389824196020?_skw=151+japanese+booster+box&hash=item5ac3552db4:g:vGcAAeSwgERpy449",
+      "franchise": "pokemon",
+      "set": "151",
+      "product_type": "booster_box",
+      "price": 235.85,
+      "shipping_cost": 0.0,
+      "baseline_price": 299.99,
+      "gapPct": 21.38,
+      "seller_trust": "MEDIUM",
       "source": "ebay",
       "confidence": "high",
       "gap_bucket": "20_plus"
@@ -86,8 +102,8 @@
       "product_type": "booster_box",
       "price": 276.24,
       "shipping_cost": 17.62,
-      "baseline_price": 320.0,
-      "gapPct": 13.67,
+      "baseline_price": 325.0,
+      "gapPct": 15.0,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -130,18 +146,18 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 536.45,
-      "shipping_cost": 46.04,
-      "baseline_price": 600.0,
-      "gapPct": 10.59,
-      "seller_trust": "HIGH",
+      "title": "Pokemon TCG Scarlet & Violet 151 Booster Bundle Sealed New",
+      "url": "https://www.ebay.com/itm/336514775555?_skw=pokemon+151+booster+box&hash=item4e59d7fa03:g:5d4AAeSwSoZpzlYV",
+      "franchise": "pokemon",
+      "set": "151",
+      "product_type": "booster_bundle",
+      "price": 170.99,
+      "shipping_cost": 0.0,
+      "baseline_price": 190.0,
+      "gapPct": 10.01,
+      "seller_trust": "MEDIUM",
       "source": "ebay",
-      "confidence": "low",
+      "confidence": "high",
       "gap_bucket": "10_to_19"
     },
     {
@@ -160,6 +176,21 @@
       "gap_bucket": "1_to_9"
     },
     {
+      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
+      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 536.45,
+      "shipping_cost": 46.04,
+      "baseline_price": 590.96,
+      "gapPct": 9.22,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "low",
+      "gap_bucket": "1_to_9"
+    },
+    {
       "title": "Pokemon TCG Battle Styles RED Elite Trainer Box ETB Single Strike Urshifu",
       "url": "https://www.ebay.com/itm/257439749533?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf09ad59d:g:svMAAeSwnLRpzrzm",
       "franchise": "pokemon",
@@ -167,8 +198,8 @@
       "product_type": "etb",
       "price": 89.0,
       "shipping_cost": 0.0,
-      "baseline_price": 98.0,
-      "gapPct": 9.18,
+      "baseline_price": 97.0,
+      "gapPct": 8.25,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -176,9 +207,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 6,
+    "ebay_deals": 8,
     "retailer_deals": 2,
-    "total_merged": 8,
+    "total_merged": 10,
     "retailer_deals_visible": true
   }
 }
