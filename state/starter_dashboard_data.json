@@ -1,21 +1,21 @@
 {
-  "timestamp": "2026-04-03T20:19:02.897554+00:00",
+  "timestamp": "2026-04-03T21:04:47.080850+00:00",
   "tier": "starter",
-  "total_deals": 7,
-  "all_deals_count": 7,
+  "total_deals": 8,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5,
+      "pokemon": 6,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 5,
-      "etb": 1,
-      "booster_bundle": 1
+      "booster_box": 6,
+      "booster_bundle": 1,
+      "etb": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 4,
+      "10_to_19": 5,
       "1_to_9": 2
     }
   },
@@ -23,7 +23,7 @@
     "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0,
-    "high": 1
+    "high": 2
   },
   "available_filters": {
     "franchise": [
@@ -56,8 +56,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 610.88,
-      "gapPct": 26.34,
+      "baseline_price": 604.43,
+      "gapPct": 25.55,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -80,7 +80,7 @@
     },
     {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+sealed&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "booster_box",
@@ -112,6 +112,24 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
+      "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box?srsltid=AfmBOopR6RZVKfHANWIepU0SpU7ccc14IIirsL2zmyTI4TLLSDUOUIxT",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 269.97,
+      "shipping_cost": 0,
+      "baseline_price": 312.5,
+      "gapPct": 13.61,
+      "seller_trust": "high",
+      "source": "gamenerdz",
+      "confidence": "high",
+      "language": "EN",
+      "availability": "in_stock",
+      "is_preorder": false,
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
       "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
       "franchise": "onepiece",
@@ -127,8 +145,23 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "Pokemon TCG Destined Rivals Booster Bundle, NEW Factory SEALED",
+      "url": "https://www.ebay.com/itm/117089742105?_skw=pokemon+Destined+Rivals+sealed&hash=item1b4317ad19:g:bEwAAeSwsrNptw~n",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 54.99,
+      "shipping_cost": 0.0,
+      "baseline_price": 60.6,
+      "gapPct": 9.26,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "1_to_9"
+    },
+    {
       "title": "Pokemon TCG Battle Styles RED Elite Trainer Box ETB Single Strike Urshifu",
-      "url": "https://www.ebay.com/itm/257439749533?_skw=Battle+Styles+booster+box&hash=item3bf09ad59d:g:svMAAeSwnLRpzrzm",
+      "url": "https://www.ebay.com/itm/257439749533?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf09ad59d:g:svMAAeSwnLRpzrzm",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "etb",
@@ -140,27 +173,12 @@
       "source": "ebay",
       "confidence": "high",
       "gap_bucket": "1_to_9"
-    },
-    {
-      "title": "Pokemon TCG Destined Rivals Booster Bundle, NEW Factory SEALED",
-      "url": "https://www.ebay.com/itm/117089742105?_skw=pokemon+Destined+Rivals+sealed&hash=item1b4317ad19:g:bEwAAeSwsrNptw~n",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 54.99,
-      "shipping_cost": 0.0,
-      "baseline_price": 60.0,
-      "gapPct": 8.35,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "1_to_9"
     }
   ],
   "_merge_info": {
     "ebay_deals": 6,
-    "retailer_deals": 1,
-    "total_merged": 7,
+    "retailer_deals": 2,
+    "total_merged": 8,
     "retailer_deals_visible": true
   }
 }
