@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-04-03T02:01:03.196052+00:00",
+    "generated_at": "2026-04-03T02:30:55.316916+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 17,
-    "filtered_count": 3,
+    "raw_count": 0,
+    "filtered_count": 0,
     "filter_criteria": {
       "min_gap": 12.0,
       "max_bids": 50,
@@ -92,57 +92,5 @@
       ]
     }
   },
-  "auctions": [
-    {
-      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Box #MYG",
-      "current_price": 355.0,
-      "shipping_cost": 9.99,
-      "total_price": 364.99,
-      "baseline": 599.99,
-      "gapPct": 39.167319455324254,
-      "bids": 9,
-      "time_remaining": 71.40917153361112,
-      "opportunity_type": "early",
-      "url": "https://www.ebay.com/itm/198224862286?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e271f5c4e:g:w08AAeSwqP5pxBOJ",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 61
-    },
-    {
-      "title": "POKEMON SCARLET & VIOLET DESTINED RIVALS SEALED BOOSTER BOX",
-      "current_price": 381.95,
-      "shipping_cost": 18.02,
-      "total_price": 399.96999999999997,
-      "baseline": 599.99,
-      "gapPct": 33.337222287038124,
-      "bids": 16,
-      "time_remaining": 48.99250484861111,
-      "opportunity_type": "early",
-      "url": "https://www.ebay.com/itm/206172312574?_skw=Pokemon+Destined+Rivals+booster+box&hash=item3000d3d3fe:g:8jwAAeSwIXFpxxxH",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 50
-    },
-    {
-      "title": "Sealed Scarlet & Violet Destined Rivals Booster Box Pok\u00e9mon TCG SV10",
-      "current_price": 410.0,
-      "shipping_cost": 18.0,
-      "total_price": 428.0,
-      "baseline": 599.99,
-      "gapPct": 28.66547775796263,
-      "bids": 16,
-      "time_remaining": 65.40944930555555,
-      "opportunity_type": "early",
-      "url": "https://www.ebay.com/itm/287234589394?_skw=Pokemon+Destined+Rivals+booster+box&hash=item42e08402d2:g:-LgAAeSwteRpxUAM",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 43
-    }
-  ]
+  "auctions": []
 }
