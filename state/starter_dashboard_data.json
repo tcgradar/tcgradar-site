@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T10:34:13.096648+00:00",
+  "timestamp": "2026-04-03T11:19:07.588183+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 10,
@@ -35,9 +35,11 @@
     ],
     "product_type": [
       "booster_box",
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
+      "1_to_9",
       "10_to_19",
       "20_plus"
     ]
@@ -53,8 +55,8 @@
       "shipping_cost": 0.0,
       "total_price": 449.99,
       "shipping_verified": true,
-      "baseline_price": 604.44,
-      "gapPct": 25.55,
+      "baseline_price": 600.0,
+      "gapPct": 25.0,
       "confidence": "high",
       "shipping_included": true,
       "gap_bucket": "20_plus",
@@ -89,8 +91,8 @@
       "shipping_cost": 46.04,
       "total_price": 536.45,
       "shipping_verified": true,
-      "baseline_price": 614.99,
-      "gapPct": 12.77,
+      "baseline_price": 610.63,
+      "gapPct": 12.15,
       "confidence": "low",
       "shipping_included": true,
       "gap_bucket": "10_to_19",
@@ -136,26 +138,6 @@
   ],
   "watchlist_deals": [
     {
-      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsfI9MKUrKXBe9yxrtg7dDF8MKiY4nL6gRQjrnoZtHaDv2EZG7xFCD1pUa5nFsCe80zjZICFzrBfkk%2FJYBxt%2F4yYFw6s3mGF0FkfvMwsmyKpcCF6lCHYnlVy3bgJiSPoGars9NvhXTG0VX5Je0xLqmq0hFEx9gMib8xXZe2NnFSKin7wLvtLfH1x4rCZy38JMTc%3D",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 559.99,
-      "shipping_cost": 10.99,
-      "total_price": 559.99,
-      "shipping_verified": true,
-      "baseline_price": 604.44,
-      "gapPct": 7.35,
-      "confidence": "high",
-      "seller_rating": 99.5,
-      "seller_feedback_count": 1991,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "MEDIUM"
-    },
-    {
       "title": "Pokemon Destined Rivals SV10 Booster Bundle",
       "url": "https://www.ebay.com/itm/318099167145?_skw=pokemon+Destined+Rivals+booster+box&hash=item4a103017a9:g:4s8AAeSwve5pz4U6",
       "franchise": "pokemon",
@@ -176,6 +158,26 @@
       "deal_quality": "MEDIUM"
     },
     {
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgse5eUBO%2BMw%2BRjgwebtd%2FrOqkQmbmcWTfeaeUHp5IBuRfNBa4bJToq2evhDMCLD26nJgoqDNOILeo52neNqUtHWfvCm8roy0XcrjarQC2rSCnFDLRf6e%2Bb6%2FXmOgrp7NEeV7Wo%2B2Al0glEhGMEj7JS2zsIBA9z2eau8f7Xu5RNO%2BQ47GbJvLPgblPvMFgYLUFpo%3D",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 559.99,
+      "shipping_cost": 10.99,
+      "total_price": 559.99,
+      "shipping_verified": true,
+      "baseline_price": 600.0,
+      "gapPct": 6.67,
+      "confidence": "high",
+      "seller_rating": 99.5,
+      "seller_feedback_count": 1992,
+      "shipping_included": true,
+      "gap_bucket": "1_to_9",
+      "seller_trust": "HIGH",
+      "deal_quality": "MEDIUM"
+    },
+    {
       "title": "ONE PIECE OP09 EMPERORS IN THE NEW WORLD SEALED BOOSTER BOX ENGLISH OP-09 OP9 EN",
       "url": "https://www.ebay.com/itm/197123391268?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2de5783f24:g:b2MAAOSweWpn2aZF",
       "franchise": "onepiece",
@@ -185,8 +187,8 @@
       "shipping_cost": 0.0,
       "total_price": 576.83,
       "shipping_verified": true,
-      "baseline_price": 614.99,
-      "gapPct": 6.2,
+      "baseline_price": 610.63,
+      "gapPct": 5.54,
       "confidence": "low",
       "seller_rating": 100.0,
       "seller_feedback_count": 788,
