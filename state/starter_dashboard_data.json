@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-04-03T22:34:56.092555+00:00",
+  "timestamp": "2026-04-03T23:19:46.145719+00:00",
   "tier": "starter",
-  "total_deals": 9,
-  "all_deals_count": 9,
+  "total_deals": 8,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 7,
+      "pokemon": 6,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 7,
+      "booster_box": 6,
       "booster_bundle": 1,
       "etb": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 6,
-      "1_to_9": 2
+      "10_to_19": 4,
+      "1_to_9": 3
     }
   },
   "trust_counts": {
-    "HIGH": 7,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 2
@@ -32,7 +32,6 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -131,21 +130,6 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
-      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 349.99,
-      "shipping_cost": 0.0,
-      "baseline_price": 399.5,
-      "gapPct": 12.39,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "low",
-      "gap_bucket": "10_to_19"
-    },
-    {
       "title": "Pokemon TCG Destined Rivals Booster Bundle, NEW Factory SEALED",
       "url": "https://www.ebay.com/itm/117089742105?_skw=pokemon+Destined+Rivals+sealed&hash=item1b4317ad19:g:bEwAAeSwsrNptw~n",
       "franchise": "pokemon",
@@ -153,12 +137,12 @@
       "product_type": "booster_bundle",
       "price": 54.99,
       "shipping_cost": 0.0,
-      "baseline_price": 61.78,
-      "gapPct": 10.99,
+      "baseline_price": 60.6,
+      "gapPct": 9.26,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "1_to_9"
     },
     {
       "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
@@ -192,9 +176,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 7,
+    "ebay_deals": 6,
     "retailer_deals": 2,
-    "total_merged": 9,
+    "total_merged": 8,
     "retailer_deals_visible": true
   }
 }
