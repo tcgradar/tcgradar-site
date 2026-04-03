@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-04-03T15:49:53.406931+00:00",
+  "timestamp": "2026-04-03T16:35:04.678915+00:00",
   "tier": "starter",
-  "total_deals": 9,
-  "all_deals_count": 9,
+  "total_deals": 8,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 7,
+      "pokemon": 6,
       "onepiece": 2
     },
     "by_product_type": {
       "booster_box": 6,
-      "etb": 2,
+      "etb": 1,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 7,
+      "20_plus": 2,
+      "10_to_19": 5,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 8,
+    "HIGH": 7,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 1
@@ -32,11 +32,10 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Astral Radiance",
       "Battle Styles",
-      "Celebrations",
       "Destined Rivals",
-      "Emperors in the New World"
+      "Emperors in the New World",
+      "Fusion Strike"
     ],
     "product_type": [
       "booster_box",
@@ -51,6 +50,21 @@
   },
   "deals": [
     {
+      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 675.02,
+      "shipping_cost": 41.53,
+      "baseline_price": 1268.14,
+      "gapPct": 46.77,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
       "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
       "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
       "franchise": "pokemon",
@@ -58,8 +72,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 610.88,
-      "gapPct": 26.34,
+      "baseline_price": 608.88,
+      "gapPct": 26.1,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -88,8 +102,8 @@
       "product_type": "booster_box",
       "price": 276.24,
       "shipping_cost": 17.62,
-      "baseline_price": 320.0,
-      "gapPct": 13.67,
+      "baseline_price": 327.5,
+      "gapPct": 15.65,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -114,51 +128,6 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
-      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 349.99,
-      "shipping_cost": 0.0,
-      "baseline_price": 399.0,
-      "gapPct": 12.28,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "low",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 536.45,
-      "shipping_cost": 46.04,
-      "baseline_price": 610.63,
-      "gapPct": 12.15,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "low",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon Celebrations Elite Trainer Box ETB 25th Anniversary New Factory Sealed",
-      "url": "https://www.ebay.com/itm/389837955243?_skw=pokemon+Celebrations+booster+box&hash=item5ac42720ab:g:Be8AAeSwdIJpzvz1&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGboM3BWF0vDH0h1BI0wrqGSjcemASkSegqOkPw4tVIKA6piAOlDsLG0%2Bdt1ckwEV83VuPzX5KQzs%2BKaKqCZ0lF%2FbskiKlZwEVr3p9y8jLqFtQ28iC%2FrW4d8VpC%2FDB41Sp4ZTVpRjEGI6L1WO1y2LjHJCs7jjjVLo%2FJor9UgzLzqQBfOwJITkYeMt2OuIMvUeK%2BKCcE2yI4e754rGb98DbGVVnatYi01zrFzpimlmr%2Bge2dadlNVvjmox6QMLlfWq5aa6q3%2BlB2g0pWR3Lmha0bNTFtWg9hV6aI%2FCyqy11lMOJS5aqkkQmnSAwHnPKPRb%2BM%3D",
-      "franchise": "pokemon",
-      "set": "Celebrations",
-      "product_type": "etb",
-      "price": 309.98,
-      "shipping_cost": 9.99,
-      "baseline_price": 349.88,
-      "gapPct": 11.4,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
       "title": "Pokemon TCG Battle Styles RED Elite Trainer Box ETB Single Strike Urshifu",
       "url": "https://www.ebay.com/itm/257439749533?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf09ad59d:g:svMAAeSwnLRpzrzm",
       "franchise": "pokemon",
@@ -171,6 +140,21 @@
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
+      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 536.45,
+      "shipping_cost": 46.04,
+      "baseline_price": 600.0,
+      "gapPct": 10.59,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "low",
       "gap_bucket": "10_to_19"
     },
     {
@@ -190,9 +174,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 8,
+    "ebay_deals": 7,
     "retailer_deals": 1,
-    "total_merged": 9,
+    "total_merged": 8,
     "retailer_deals_visible": true
   }
 }
