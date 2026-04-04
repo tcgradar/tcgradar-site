@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-04T17:19:54.690525+00:00",
+  "updated_at": "2026-04-04T18:04:18.150279+00:00",
   "source": "active_deals",
   "starter_quality_deal": {
     "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
@@ -16,17 +16,17 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Pokemon 151 sv2a Japanese Booster Box Scarlet & Violet Factory Sealed Mint",
-    "price": 235.85,
-    "seller_rating": 97.2,
-    "seller_feedback_count": 135,
+    "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+    "price": 258.16,
+    "seller_rating": 100.0,
+    "seller_feedback_count": 602,
     "franchise": "pokemon",
-    "set": "151",
+    "set": "Battle Styles",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 299.97,
-    "gapPct": 21.38,
+    "baseline_price": 320.0,
+    "gapPct": 13.83,
     "deal_quality": "HIGH",
-    "seller_trust": "MEDIUM"
+    "seller_trust": "HIGH"
   }
 }
