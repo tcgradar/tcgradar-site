@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-04T20:19:07.277533+00:00",
+  "timestamp": "2026-04-04T21:04:13.619691+00:00",
   "tier": "starter",
   "total_deals": 7,
   "all_deals_count": 7,
@@ -126,6 +126,21 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
+      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 535.52,
+      "shipping_cost": 45.96,
+      "baseline_price": 614.99,
+      "gapPct": 12.92,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "low",
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
       "franchise": "pokemon",
@@ -138,21 +153,6 @@
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 535.52,
-      "shipping_cost": 45.96,
-      "baseline_price": 609.54,
-      "gapPct": 12.14,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "low",
       "gap_bucket": "10_to_19"
     }
   ],
