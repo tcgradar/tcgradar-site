@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-04-04T18:49:59.466258+00:00",
+  "timestamp": "2026-04-04T19:34:52.258945+00:00",
   "tier": "starter",
-  "total_deals": 9,
-  "all_deals_count": 9,
+  "total_deals": 8,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 7,
+      "pokemon": 6,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 7,
+      "booster_box": 6,
       "etb": 1,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 7,
+      "10_to_19": 6,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 7,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 2
@@ -32,7 +32,6 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -57,8 +56,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 610.88,
-      "gapPct": 26.34,
+      "baseline_price": 608.88,
+      "gapPct": 26.1,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -153,23 +152,8 @@
       "product_type": "booster_box",
       "price": 535.52,
       "shipping_cost": 45.96,
-      "baseline_price": 612.26,
-      "gapPct": 12.53,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "low",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
-      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 349.99,
-      "shipping_cost": 0.0,
-      "baseline_price": 399.99,
-      "gapPct": 12.5,
+      "baseline_price": 614.99,
+      "gapPct": 12.92,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "low",
@@ -177,14 +161,14 @@
     },
     {
       "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed (Heavy)",
-      "url": "https://www.ebay.com/itm/406718973746?_skw=pokemon+Destined+Rivals+sealed&hash=item5eb2570732:g:FC0AAeSw0gNpncPU&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZCFEogvnCEbR4eIF1ZNJ698mpVyrY4yT3b8nDZrhardRZ82eiLa63wnr1ZAo9CWSk0%2BSSLPA8tLAhw95swz1HGCG5p%2BTMy4U3%2Fy%2Bi8ScUiVOwDu5xnbtSCdSc%2BrkuWYvs5GLPtlCWGOaH6h88JBQWtgD6p4GjN4Y4rCFXh%2Fd1zSJhnFysI7tVmw86luyc86sUhVKbESUYGNhjVVj1pZp27GpA0b59kx%2BLg4O5cnbZgY32V%2BuB60CGM6zSbKIG3DSmHtljLm551oZLVIyiiF6WWARnUz71DyrWO2Uo01EyOyL7V5VRA%2Bqp%2BTPy93u4PVbI%3D",
+      "url": "https://www.ebay.com/itm/406718973746?_skw=pokemon+Destined+Rivals+sealed&hash=item5eb2570732:g:FC0AAeSw0gNpncPU&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZCFEogvnCEbR4eIF1ZNJ698mpVyrY4yT3b8nDZrhardRZ82eiLa63wnr1ZAo9CWSk0%2BSSLPA8tLAhw95swz1HGCG5p%2BTMy4U3%2Fy%2Bi8ScUiVOwDu5xnbtSCdSc%2BrkuWYvtrxoMzl8QfED5ZgedI4%2BmE0lxVDkx8XXUOmAIhgxwQsyF0JDgxLDS7U7J%2FWBumR11YBpXZYzOWKvQIw6KKg1byvZ8mR557uPyxE%2BN0fzgRObsqzxXcL%2B2t9QIDiNC6ICuVg9gO85z8t1XTvkorQJKJsng9xNxg4QMls8JYdi%2BBvMXiwVUukGPKluc5oHI8QDc%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
       "price": 57.88,
       "shipping_cost": 0.0,
-      "baseline_price": 62.95,
-      "gapPct": 8.05,
+      "baseline_price": 63.95,
+      "gapPct": 9.49,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -192,9 +176,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 7,
+    "ebay_deals": 6,
     "retailer_deals": 2,
-    "total_merged": 9,
+    "total_merged": 8,
     "retailer_deals_visible": true
   }
 }
