@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-04T02:19:17.943359+00:00",
+  "timestamp": "2026-04-04T03:04:16.063233+00:00",
   "tier": "starter",
   "total_deals": 8,
   "all_deals_count": 8,
@@ -65,7 +65,7 @@
     },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
-      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
+      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -86,8 +86,8 @@
       "product_type": "booster_box",
       "price": 276.24,
       "shipping_cost": 17.62,
-      "baseline_price": 325.0,
-      "gapPct": 15.0,
+      "baseline_price": 320.0,
+      "gapPct": 13.67,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
