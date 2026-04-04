@@ -1,25 +1,26 @@
 {
-  "timestamp": "2026-04-04T05:19:49.627376+00:00",
+  "timestamp": "2026-04-04T06:04:48.352635+00:00",
   "tier": "starter",
-  "total_deals": 9,
-  "all_deals_count": 9,
+  "total_deals": 8,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 7,
+      "pokemon": 6,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 7,
+      "booster_box": 6,
       "etb": 1,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 8
+      "10_to_19": 6,
+      "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 7,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 2
@@ -31,7 +32,6 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -43,6 +43,7 @@
     ],
     "gap_bucket": [
       "10_to_19",
+      "1_to_9",
       "20_plus"
     ]
   },
@@ -55,8 +56,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 621.44,
-      "gapPct": 27.59,
+      "baseline_price": 610.88,
+      "gapPct": 26.34,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -79,7 +80,7 @@
     },
     {
       "title": "Pokemon Battle Styles Single Strike Urshifu Elite Trainer Box ETB NEW Sealed",
-      "url": "https://www.ebay.com/itm/178020566000?_skw=Battle+Styles+booster+box&hash=item2972da43f0:g:OgcAAeSw0vBp0JpY",
+      "url": "https://www.ebay.com/itm/178020566000?_skw=pokemon+Battle+Styles+booster+box&hash=item2972da43f0:g:OgcAAeSw0vBp0JpY",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "etb",
@@ -144,36 +145,6 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
-      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 349.99,
-      "shipping_cost": 0.0,
-      "baseline_price": 399.99,
-      "gapPct": 12.5,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "low",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon TCG Destined Rivals Booster Bundle, NEW Factory SEALED",
-      "url": "https://www.ebay.com/itm/117089742105?_skw=pokemon+Destined+Rivals+sealed&hash=item1b4317ad19:g:bEwAAeSwsrNptw~n",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 54.99,
-      "shipping_cost": 0.0,
-      "baseline_price": 61.78,
-      "gapPct": 10.99,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
       "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
       "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
       "franchise": "onepiece",
@@ -187,12 +158,27 @@
       "source": "ebay",
       "confidence": "low",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon TCG Destined Rivals Booster Bundle, NEW Factory SEALED",
+      "url": "https://www.ebay.com/itm/117089742105?_skw=pokemon+Destined+Rivals+sealed&hash=item1b4317ad19:g:bEwAAeSwsrNptw~n",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 54.99,
+      "shipping_cost": 0.0,
+      "baseline_price": 60.6,
+      "gapPct": 9.26,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "1_to_9"
     }
   ],
   "_merge_info": {
-    "ebay_deals": 7,
+    "ebay_deals": 6,
     "retailer_deals": 2,
-    "total_merged": 9,
+    "total_merged": 8,
     "retailer_deals_visible": true
   }
 }
