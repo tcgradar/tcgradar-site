@@ -1,25 +1,26 @@
 {
-  "timestamp": "2026-04-04T03:49:14.094950+00:00",
+  "timestamp": "2026-04-04T04:34:53.982727+00:00",
   "tier": "starter",
-  "total_deals": 7,
-  "all_deals_count": 7,
+  "total_deals": 10,
+  "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5,
+      "pokemon": 8,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 6,
-      "etb": 1
+      "booster_box": 7,
+      "etb": 2,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 4,
+      "20_plus": 2,
+      "10_to_19": 6,
       "1_to_9": 2
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 8,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 2
@@ -33,10 +34,12 @@
       "500 Years in the Future",
       "Battle Styles",
       "Destined Rivals",
-      "Emperors in the New World"
+      "Emperors in the New World",
+      "Temporal Forces"
     ],
     "product_type": [
       "booster_box",
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -54,8 +57,23 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 610.88,
-      "gapPct": 26.34,
+      "baseline_price": 608.88,
+      "gapPct": 26.1,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon TCG: Scarlet & Violet Temporal Forces Elite Trainer Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/236518662475?_skw=pokemon+Temporal+Forces+booster+box&hash=item37119c614b:g:iV0AAeSwfMdpOeg~",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "etb",
+      "price": 100.49,
+      "shipping_cost": 5.49,
+      "baseline_price": 132.27,
+      "gapPct": 24.03,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -84,8 +102,8 @@
       "product_type": "booster_box",
       "price": 276.24,
       "shipping_cost": 17.62,
-      "baseline_price": 325.0,
-      "gapPct": 15.0,
+      "baseline_price": 320.0,
+      "gapPct": 13.67,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -128,6 +146,21 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "Pokemon TCG Destined Rivals Booster Bundle, NEW Factory SEALED",
+      "url": "https://www.ebay.com/itm/117089742105?_skw=pokemon+Destined+Rivals+sealed&hash=item1b4317ad19:g:bEwAAeSwsrNptw~n",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 54.99,
+      "shipping_cost": 0.0,
+      "baseline_price": 61.78,
+      "gapPct": 10.99,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
       "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
       "franchise": "onepiece",
@@ -135,23 +168,38 @@
       "product_type": "booster_box",
       "price": 536.45,
       "shipping_cost": 46.04,
-      "baseline_price": 590.96,
-      "gapPct": 9.22,
+      "baseline_price": 597.61,
+      "gapPct": 10.23,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "low",
-      "gap_bucket": "1_to_9"
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "Pokemon TCG Battle Styles RED Elite Trainer Box ETB Single Strike Urshifu",
-      "url": "https://www.ebay.com/itm/257439749533?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf09ad59d:g:svMAAeSwnLRpzrzm",
+      "url": "https://www.ebay.com/itm/257439749533?_skw=Battle+Styles+booster+box&hash=item3bf09ad59d:g:svMAAeSwnLRpzrzm",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "etb",
       "price": 89.0,
       "shipping_cost": 0.0,
-      "baseline_price": 98.0,
-      "gapPct": 9.18,
+      "baseline_price": 97.0,
+      "gapPct": 8.25,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "1_to_9"
+    },
+    {
+      "title": "POKEMON TCG - TEMPORAL FORCES - BOOSTER BOX (36 Packs) NEW SEALED",
+      "url": "https://www.ebay.com/itm/206171538195?_skw=pokemon+Temporal+Forces+booster+box&hash=item3000c80313:g:eroAAeSwhCRpwD4F",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 298.95,
+      "shipping_cost": 51.9,
+      "baseline_price": 305.0,
+      "gapPct": 1.98,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -159,9 +207,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 5,
+    "ebay_deals": 8,
     "retailer_deals": 2,
-    "total_merged": 7,
+    "total_merged": 10,
     "retailer_deals_visible": true
   }
 }
