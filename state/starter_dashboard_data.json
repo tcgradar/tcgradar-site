@@ -1,24 +1,26 @@
 {
-  "timestamp": "2026-04-04T13:34:16.020987+00:00",
+  "timestamp": "2026-04-04T14:19:10.241591+00:00",
   "tier": "starter",
-  "total_deals": 7,
-  "all_deals_count": 7,
+  "total_deals": 8,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5,
+      "pokemon": 6,
       "onepiece": 2
     },
     "by_product_type": {
       "booster_box": 6,
-      "etb": 1
+      "etb": 1,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 6
+      "10_to_19": 6,
+      "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 2
@@ -36,10 +38,12 @@
     ],
     "product_type": [
       "booster_box",
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
       "10_to_19",
+      "1_to_9",
       "20_plus"
     ]
   },
@@ -52,8 +56,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 612.89,
-      "gapPct": 26.58,
+      "baseline_price": 610.88,
+      "gapPct": 26.34,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -97,8 +101,8 @@
       "product_type": "booster_box",
       "price": 275.75,
       "shipping_cost": 17.59,
-      "baseline_price": 325.0,
-      "gapPct": 15.15,
+      "baseline_price": 320.0,
+      "gapPct": 13.83,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -154,12 +158,27 @@
       "source": "ebay",
       "confidence": "low",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed (Heavy)",
+      "url": "https://www.ebay.com/itm/406718973746?_skw=pokemon+Destined+Rivals+sealed&hash=item5eb2570732:g:FC0AAeSw0gNpncPU&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZCFEogvnCEbR4eIF1ZNJ698mpVyrY4yT3b8nDZrhardRZ82eiLa63wnr1ZAo9CWSk0%2BSSLPA8tLAhw95swz1HGCG5p%2BTMy4U3%2Fy%2Bi8ScUiVOwDu5xnbtSCdSc%2BrkuWYvv%2FBbYZicFP51tQVSC%2FNRP2ABXREqdESxGCm4540E%2FjNx5KA9da%2F2u3YupOaH1U2mshT8I8f75ij2SF28mQ45TI0rRfdtH2vGR778YKSA7H8S5K86uR5l%2B21Kf3ZJ8CV%2BSNKW8Mm19CUWSFRbW7AFlz%2BbTiCz6%2FTA4MpYbzBaqazbmad280uJvcRu41KFIP534%3D",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 57.88,
+      "shipping_cost": 0.0,
+      "baseline_price": 63.45,
+      "gapPct": 8.78,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "1_to_9"
     }
   ],
   "_merge_info": {
-    "ebay_deals": 5,
+    "ebay_deals": 6,
     "retailer_deals": 2,
-    "total_merged": 7,
+    "total_merged": 8,
     "retailer_deals_visible": true
   }
 }
