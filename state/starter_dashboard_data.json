@@ -1,27 +1,26 @@
 {
-  "timestamp": "2026-04-04T16:34:19.471674+00:00",
+  "timestamp": "2026-04-04T17:19:54.660866+00:00",
   "tier": "starter",
-  "total_deals": 8,
-  "all_deals_count": 8,
+  "total_deals": 10,
+  "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 6,
+      "pokemon": 8,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 6,
+      "booster_box": 7,
       "etb": 1,
-      "booster_bundle": 1
+      "booster_bundle": 2
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 6,
-      "1_to_9": 1
+      "20_plus": 2,
+      "10_to_19": 8
     }
   },
   "trust_counts": {
     "HIGH": 6,
-    "MEDIUM": 0,
+    "MEDIUM": 2,
     "LOW": 0,
     "high": 2
   },
@@ -31,6 +30,7 @@
       "pokemon"
     ],
     "set": [
+      "151",
       "500 Years in the Future",
       "Battle Styles",
       "Destined Rivals",
@@ -43,7 +43,6 @@
     ],
     "gap_bucket": [
       "10_to_19",
-      "1_to_9",
       "20_plus"
     ]
   },
@@ -56,9 +55,24 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 608.88,
-      "gapPct": 26.1,
+      "baseline_price": 610.88,
+      "gapPct": 26.34,
       "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon 151 sv2a Japanese Booster Box Scarlet & Violet Factory Sealed Mint",
+      "url": "https://www.ebay.com/itm/389824196020?_skw=151+japanese+booster+box&hash=item5ac3552db4:g:vGcAAeSwgERpy449",
+      "franchise": "pokemon",
+      "set": "151",
+      "product_type": "booster_box",
+      "price": 235.85,
+      "shipping_cost": 0.0,
+      "baseline_price": 299.97,
+      "gapPct": 21.38,
+      "seller_trust": "MEDIUM",
       "source": "ebay",
       "confidence": "high",
       "gap_bucket": "20_plus"
@@ -145,6 +159,21 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
+      "url": "https://www.ebay.com/itm/257442823524?_skw=Destined+Rivals+booster+box&hash=item3bf0c9bd64:g:WaEAAeSwVklp0UYz",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 54.95,
+      "shipping_cost": 0.0,
+      "baseline_price": 62.95,
+      "gapPct": 12.71,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
       "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
       "franchise": "onepiece",
@@ -160,25 +189,25 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed (Heavy)",
-      "url": "https://www.ebay.com/itm/406718973746?_skw=pokemon+Destined+Rivals+sealed&hash=item5eb2570732:g:FC0AAeSw0gNpncPU&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZCFEogvnCEbR4eIF1ZNJ698mpVyrY4yT3b8nDZrhardRZ82eiLa63wnr1ZAo9CWSk0%2BSSLPA8tLAhw95swz1HGCG5p%2BTMy4U3%2Fy%2Bi8ScUiVOwDu5xnbtSCdSc%2BrkuWYvtcN3E%2FzuKyO0ls2wYcmRv2DFQh4AP%2FcBcTBnCCR%2FIHQJnR4IyU%2FcGh5FNOYzMgrcSRV4USx0hwhRz8QiHEnlsx%2FyZfdumT48CspEhYWp0jBbmSaNP0%2FFD4tg33SfWnWhQhW1a4GBd6v6HxhpNySfS2qb6dELdywhN--piSfwCKVZJ7sBUszeEfAvyDZOKJgmQ%3D",
+      "title": "Pokemon TCG Scarlet & Violet 151 Booster Bundle Sealed New",
+      "url": "https://www.ebay.com/itm/336514775555?_skw=pokemon+151+booster+box&hash=item4e59d7fa03:g:5d4AAeSwSoZpzlYV",
       "franchise": "pokemon",
-      "set": "Destined Rivals",
+      "set": "151",
       "product_type": "booster_bundle",
-      "price": 57.88,
+      "price": 170.99,
       "shipping_cost": 0.0,
-      "baseline_price": 62.95,
-      "gapPct": 8.05,
-      "seller_trust": "HIGH",
+      "baseline_price": 190.0,
+      "gapPct": 10.01,
+      "seller_trust": "MEDIUM",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "1_to_9"
+      "gap_bucket": "10_to_19"
     }
   ],
   "_merge_info": {
-    "ebay_deals": 6,
+    "ebay_deals": 8,
     "retailer_deals": 2,
-    "total_merged": 8,
+    "total_merged": 10,
     "retailer_deals_visible": true
   }
 }
