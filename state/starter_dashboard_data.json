@@ -1,24 +1,25 @@
 {
-  "timestamp": "2026-04-04T21:04:13.619691+00:00",
+  "timestamp": "2026-04-04T21:49:38.426673+00:00",
   "tier": "starter",
-  "total_deals": 7,
-  "all_deals_count": 7,
+  "total_deals": 8,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 5,
-      "onepiece": 2
+      "onepiece": 3
     },
     "by_product_type": {
-      "booster_box": 6,
+      "booster_box": 7,
       "etb": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 6
+      "10_to_19": 5,
+      "1_to_9": 2
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 2
@@ -30,6 +31,7 @@
     ],
     "set": [
       "500 Years in the Future",
+      "Adventure on Kami's Island",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -40,6 +42,7 @@
     ],
     "gap_bucket": [
       "10_to_19",
+      "1_to_9",
       "20_plus"
     ]
   },
@@ -90,6 +93,21 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 275.75,
+      "shipping_cost": 17.59,
+      "baseline_price": 320.0,
+      "gapPct": 13.83,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
       "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
       "franchise": "pokemon",
@@ -126,40 +144,40 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
+      "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
+      "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
-      "price": 535.52,
-      "shipping_cost": 45.96,
-      "baseline_price": 614.99,
-      "gapPct": 12.92,
+      "price": 581.1800000000001,
+      "shipping_cost": 46.23,
+      "baseline_price": 604.77,
+      "gapPct": 3.9,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "low",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "1_to_9"
     },
     {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
+      "title": "One Piece Card Game OP15 Adventure on Kami\u2019s Island Booster Box English SEALED!",
+      "url": "https://www.ebay.com/itm/406830449208?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item5eb8fc0238:g:h-4AAeSwq9Jp0YLJ",
+      "franchise": "onepiece",
+      "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
-      "price": 275.75,
-      "shipping_cost": 17.59,
-      "baseline_price": 315.0,
-      "gapPct": 12.46,
+      "price": 246.29,
+      "shipping_cost": 35.06,
+      "baseline_price": 251.49,
+      "gapPct": 2.07,
       "seller_trust": "HIGH",
       "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "10_to_19"
+      "confidence": "low",
+      "gap_bucket": "1_to_9"
     }
   ],
   "_merge_info": {
-    "ebay_deals": 5,
+    "ebay_deals": 6,
     "retailer_deals": 2,
-    "total_merged": 7,
+    "total_merged": 8,
     "retailer_deals_visible": true
   }
 }
