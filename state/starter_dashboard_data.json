@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-05T00:49:27.258041+00:00",
+  "timestamp": "2026-04-05T01:35:03.725792+00:00",
   "tier": "starter",
   "total_deals": 8,
   "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5,
-      "onepiece": 3
+      "pokemon": 6,
+      "onepiece": 2
     },
     "by_product_type": {
       "booster_box": 7,
@@ -14,8 +14,8 @@
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 5,
-      "1_to_9": 2
+      "10_to_19": 6,
+      "1_to_9": 1
     }
   },
   "trust_counts": {
@@ -31,7 +31,7 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Adventure on Kami's Island",
+      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -129,6 +129,21 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
+      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 349.99,
+      "shipping_cost": 0.0,
+      "baseline_price": 399.99,
+      "gapPct": 12.5,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "low",
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
       "franchise": "pokemon",
@@ -153,21 +168,6 @@
       "shipping_cost": 46.23,
       "baseline_price": 612.26,
       "gapPct": 5.08,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "low",
-      "gap_bucket": "1_to_9"
-    },
-    {
-      "title": "One Piece Card Game OP15 Adventure on Kami\u2019s Island Booster Box English SEALED!",
-      "url": "https://www.ebay.com/itm/406830449208?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item5eb8fc0238:g:h-4AAeSwq9Jp0YLJ",
-      "franchise": "onepiece",
-      "set": "Adventure on Kami's Island",
-      "product_type": "booster_box",
-      "price": 246.29,
-      "shipping_cost": 35.06,
-      "baseline_price": 252.31,
-      "gapPct": 2.39,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "low",
