@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T13:04:17.139292+00:00",
+  "timestamp": "2026-04-05T13:49:20.972843+00:00",
   "tier": "starter",
   "total_deals": 8,
   "all_deals_count": 8,
@@ -15,8 +15,8 @@
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 6,
-      "1_to_9": 1
+      "10_to_19": 5,
+      "1_to_9": 2
     }
   },
   "trust_counts": {
@@ -56,8 +56,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 599.99,
-      "gapPct": 25.0,
+      "baseline_price": 604.43,
+      "gapPct": 25.55,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -71,8 +71,8 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "baseline_price": 98.0,
-      "gapPct": 18.37,
+      "baseline_price": 99.0,
+      "gapPct": 19.19,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -152,12 +152,12 @@
       "product_type": "booster_bundle",
       "price": 54.99,
       "shipping_cost": 0.0,
-      "baseline_price": 61.78,
-      "gapPct": 10.99,
+      "baseline_price": 60.3,
+      "gapPct": 8.81,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "1_to_9"
     },
     {
       "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
