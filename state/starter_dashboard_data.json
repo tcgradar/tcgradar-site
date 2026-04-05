@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T19:49:34.677597+00:00",
+  "timestamp": "2026-04-05T20:34:19.434700+00:00",
   "tier": "starter",
   "total_deals": 8,
   "all_deals_count": 8,
@@ -15,8 +15,8 @@
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 5,
-      "1_to_9": 2
+      "10_to_19": 6,
+      "1_to_9": 1
     }
   },
   "trust_counts": {
@@ -56,7 +56,7 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 630.0,
+      "baseline_price": 629.99,
       "gapPct": 28.57,
       "seller_trust": "HIGH",
       "source": "ebay",
@@ -71,8 +71,8 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "baseline_price": 98.0,
-      "gapPct": 18.37,
+      "baseline_price": 99.0,
+      "gapPct": 19.19,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -91,6 +91,21 @@
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "low",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon TCG Destined Rivals Booster Bundle, NEW Factory SEALED",
+      "url": "https://www.ebay.com/itm/117089742105?_skw=pokemon+Destined+Rivals+sealed&hash=item1b4317ad19:g:bEwAAeSwsrNptw~n",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 54.99,
+      "shipping_cost": 0.0,
+      "baseline_price": 63.98,
+      "gapPct": 14.05,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
       "gap_bucket": "10_to_19"
     },
     {
@@ -143,21 +158,6 @@
       "source": "ebay",
       "confidence": "high",
       "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon TCG Destined Rivals Booster Bundle, NEW Factory SEALED",
-      "url": "https://www.ebay.com/itm/117089742105?_skw=pokemon+Destined+Rivals+sealed&hash=item1b4317ad19:g:bEwAAeSwsrNptw~n",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 54.99,
-      "shipping_cost": 0.0,
-      "baseline_price": 60.0,
-      "gapPct": 8.35,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "1_to_9"
     },
     {
       "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
