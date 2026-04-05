@@ -1,25 +1,26 @@
 {
-  "timestamp": "2026-04-05T02:19:55.235663+00:00",
+  "timestamp": "2026-04-05T03:04:35.809662+00:00",
   "tier": "starter",
-  "total_deals": 7,
-  "all_deals_count": 7,
+  "total_deals": 8,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5,
+      "pokemon": 6,
       "onepiece": 2
     },
     "by_product_type": {
       "booster_box": 6,
-      "etb": 1
+      "etb": 1,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
       "10_to_19": 5,
-      "1_to_9": 1
+      "1_to_9": 2
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 2
@@ -37,6 +38,7 @@
     ],
     "product_type": [
       "booster_box",
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -54,8 +56,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 599.99,
-      "gapPct": 25.0,
+      "baseline_price": 608.88,
+      "gapPct": 26.1,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -69,8 +71,8 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "baseline_price": 98.0,
-      "gapPct": 18.37,
+      "baseline_price": 98.97,
+      "gapPct": 19.17,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -143,6 +145,21 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed (Heavy)",
+      "url": "https://www.ebay.com/itm/406718973746?_skw=pokemon+Destined+Rivals+sealed&hash=item5eb2570732:g:FC0AAeSw0gNpncPU&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZCFEogvnCEbR4eIF1ZNJ698mpVyrY4yT3b8nDZrhardRZ82eiLa63wnr1ZAo9CWSk0%2BSSLPA8tLAhw95swz1HGCG5p%2BTMy4U3%2Fy%2Bi8ScUiVOwDu5xnbtSCdSc%2BrkuWYvumgQVV0M8cfoDQfXupGB6nQgKlSD%2FNJ3n1Qdc4TcwZz%2BUqAzKn1GBxpbye9kT8CAjfeHsksNeo7GjCR7bb6QXlrC7vrU6owWdbf%2FstISRsmwh6I7eGiFeT%2FdK4Q0BtvciovMKT5zncRyiWEZHdHLk719a3GFaCScry0QQGNcPMin06twiTuH6CC6vZioyVb6s%3D",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 57.88,
+      "shipping_cost": 0.0,
+      "baseline_price": 62.95,
+      "gapPct": 8.05,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "1_to_9"
+    },
+    {
       "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
       "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
       "franchise": "onepiece",
@@ -159,9 +176,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 5,
+    "ebay_deals": 6,
     "retailer_deals": 2,
-    "total_merged": 7,
+    "total_merged": 8,
     "retailer_deals_visible": true
   }
 }
