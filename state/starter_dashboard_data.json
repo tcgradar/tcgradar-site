@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-04-05T20:34:19.434700+00:00",
+  "timestamp": "2026-04-05T21:19:59.206007+00:00",
   "tier": "starter",
-  "total_deals": 8,
-  "all_deals_count": 8,
+  "total_deals": 9,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 6,
+      "pokemon": 7,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 6,
+      "booster_box": 7,
       "etb": 1,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 6,
+      "10_to_19": 7,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 6,
+    "HIGH": 7,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 2
@@ -32,6 +32,7 @@
     ],
     "set": [
       "500 Years in the Future",
+      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -71,8 +72,8 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "baseline_price": 99.0,
-      "gapPct": 19.19,
+      "baseline_price": 98.0,
+      "gapPct": 18.37,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -94,15 +95,15 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "Pokemon TCG Destined Rivals Booster Bundle, NEW Factory SEALED",
-      "url": "https://www.ebay.com/itm/117089742105?_skw=pokemon+Destined+Rivals+sealed&hash=item1b4317ad19:g:bEwAAeSwsrNptw~n",
+      "title": "Pokemon x1 Destined Rivals (SV10) Booster Bundle Box Factory Sealed! 6 Packs!",
+      "url": "https://www.ebay.com/itm/377087603929?_skw=pokemon+Destined+Rivals+booster+box&hash=item57cc2c34d9:g:eaIAAeSwdbdp0St0",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
-      "price": 54.99,
+      "price": 55.0,
       "shipping_cost": 0.0,
       "baseline_price": 63.98,
-      "gapPct": 14.05,
+      "gapPct": 14.04,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -160,6 +161,21 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
+      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 349.99,
+      "shipping_cost": 0.0,
+      "baseline_price": 399.0,
+      "gapPct": 12.28,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "low",
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
       "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
       "franchise": "onepiece",
@@ -176,9 +192,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 6,
+    "ebay_deals": 7,
     "retailer_deals": 2,
-    "total_merged": 8,
+    "total_merged": 9,
     "retailer_deals_visible": true
   }
 }
