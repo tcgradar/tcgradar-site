@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-04-05T05:19:19.138442+00:00",
+  "timestamp": "2026-04-05T06:04:55.550828+00:00",
   "tier": "starter",
-  "total_deals": 7,
-  "all_deals_count": 7,
+  "total_deals": 9,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5,
+      "pokemon": 7,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 6,
-      "etb": 1
+      "booster_box": 7,
+      "etb": 2
     },
     "by_gap_bucket": {
-      "20_plus": 1,
+      "20_plus": 2,
       "10_to_19": 5,
-      "1_to_9": 1
+      "1_to_9": 2
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 7,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 2
@@ -33,7 +33,8 @@
       "500 Years in the Future",
       "Battle Styles",
       "Destined Rivals",
-      "Emperors in the New World"
+      "Emperors in the New World",
+      "Temporal Forces"
     ],
     "product_type": [
       "booster_box",
@@ -54,8 +55,23 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 604.43,
-      "gapPct": 25.55,
+      "baseline_price": 599.99,
+      "gapPct": 25.0,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon TCG: Scarlet & Violet Temporal Forces Elite Trainer Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/236518662475?_skw=pokemon+Temporal+Forces+booster+box&hash=item37119c614b:g:iV0AAeSwfMdpOeg~",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "etb",
+      "price": 100.49,
+      "shipping_cost": 5.49,
+      "baseline_price": 130.0,
+      "gapPct": 22.7,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -84,8 +100,8 @@
       "product_type": "booster_box",
       "price": 273.62,
       "shipping_cost": 35.98,
-      "baseline_price": 334.16,
-      "gapPct": 18.12,
+      "baseline_price": 335.0,
+      "gapPct": 18.32,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "low",
@@ -156,12 +172,27 @@
       "source": "ebay",
       "confidence": "low",
       "gap_bucket": "1_to_9"
+    },
+    {
+      "title": "POKEMON TCG - TEMPORAL FORCES - BOOSTER BOX (36 Packs) NEW SEALED Trusted seller",
+      "url": "https://www.ebay.com/itm/168286970516?_skw=pokemon+Temporal+Forces+booster+box&hash=item272eaf6294:g:b5cAAeSwsaxp0W1j",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 295.97,
+      "shipping_cost": 51.73,
+      "baseline_price": 310.0,
+      "gapPct": 4.53,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "1_to_9"
     }
   ],
   "_merge_info": {
-    "ebay_deals": 5,
+    "ebay_deals": 7,
     "retailer_deals": 2,
-    "total_merged": 7,
+    "total_merged": 9,
     "retailer_deals_visible": true
   }
 }
