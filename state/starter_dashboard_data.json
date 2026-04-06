@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T07:49:51.742258+00:00",
+  "timestamp": "2026-04-06T08:34:18.072673+00:00",
   "tier": "starter",
   "total_deals": 7,
   "all_deals_count": 7,
@@ -134,8 +134,8 @@
       "product_type": "booster_bundle",
       "price": 59.17,
       "shipping_cost": 6.18,
-      "baseline_price": 64.76,
-      "gapPct": 8.63,
+      "baseline_price": 64.88,
+      "gapPct": 8.8,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
