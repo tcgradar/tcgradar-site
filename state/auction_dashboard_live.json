@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-06T14:31:05.685067+00:00",
+    "generated_at": "2026-04-06T15:01:05.498301+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
     "raw_count": 16,
@@ -101,7 +101,7 @@
       "baseline": 135.0,
       "gapPct": 40.74074074074074,
       "bids": 1,
-      "time_remaining": 3.5448884675,
+      "time_remaining": 3.0449734877777774,
       "opportunity_type": "ending_soon",
       "url": "https://www.ebay.com/itm/198231385182?_skw=Pokemon+151+booster+box&hash=item2e2782e45e:g:i5kAAeSwlcZpxsWZ",
       "franchise": "pokemon",
@@ -118,7 +118,7 @@
       "baseline": 646.98,
       "gapPct": 58.731336362793286,
       "bids": 26,
-      "time_remaining": 51.28436800611111,
+      "time_remaining": 50.784414409722224,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/236729591513?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item371e2ee6d9:g:KccAAeSwXZ5pzVuw",
       "franchise": "onepiece",
@@ -128,23 +128,6 @@
       "opportunity_score": 65
     },
     {
-      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Box #LYJ",
-      "current_price": 395.0,
-      "shipping_cost": 9.99,
-      "total_price": 404.99,
-      "baseline": 599.99,
-      "gapPct": 32.50054167569459,
-      "bids": 24,
-      "time_remaining": 12.559424310555555,
-      "opportunity_type": "ongoing",
-      "url": "https://www.ebay.com/itm/198224862288?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e271f5c50:g:EqQAAeSwwaxpxBPI",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 55
-    },
-    {
       "title": "Pokemon Scarlet & Violet Destined Rivals Booster Box #CLD",
       "current_price": 405.0,
       "shipping_cost": 9.99,
@@ -152,7 +135,7 @@
       "baseline": 599.99,
       "gapPct": 30.833847230787182,
       "bids": 18,
-      "time_remaining": 36.47609096472222,
+      "time_remaining": 35.976088859444445,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/198224862272?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e271f5c40:g:vPwAAeSw3htpxBRA",
       "franchise": "pokemon",
@@ -160,6 +143,23 @@
       "product_type": "booster_box",
       "seller_trust": "HIGH",
       "opportunity_score": 53
+    },
+    {
+      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Box #LYJ",
+      "current_price": 415.0,
+      "shipping_cost": 9.99,
+      "total_price": 424.99,
+      "baseline": 599.99,
+      "gapPct": 29.167152785879765,
+      "bids": 26,
+      "time_remaining": 12.059422205277778,
+      "opportunity_type": "ongoing",
+      "url": "https://www.ebay.com/itm/198224862288?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e271f5c50:g:EqQAAeSwwaxpxBPI",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 49
     }
   ]
 }
