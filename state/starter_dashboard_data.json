@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-04-06T00:19:28.825185+00:00",
+  "timestamp": "2026-04-06T01:05:02.916936+00:00",
   "tier": "starter",
-  "total_deals": 7,
-  "all_deals_count": 7,
+  "total_deals": 9,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5,
+      "pokemon": 7,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 5,
-      "etb": 1,
-      "booster_bundle": 1
+      "booster_box": 6,
+      "booster_bundle": 2,
+      "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
+      "20_plus": 3,
       "10_to_19": 4,
       "1_to_9": 2
     }
   },
   "trust_counts": {
     "HIGH": 6,
-    "MEDIUM": 0,
+    "MEDIUM": 2,
     "LOW": 0,
     "high": 1
   },
@@ -31,6 +31,7 @@
       "pokemon"
     ],
     "set": [
+      "151",
       "500 Years in the Future",
       "Battle Styles",
       "Destined Rivals",
@@ -59,6 +60,36 @@
       "baseline_price": 629.99,
       "gapPct": 28.57,
       "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon 151 sv2a Japanese Booster Box Scarlet & Violet Factory Sealed Mint",
+      "url": "https://www.ebay.com/itm/389824196020?_skw=151+japanese+booster+box&hash=item5ac3552db4:g:vGcAAeSwgERpy449",
+      "franchise": "pokemon",
+      "set": "151",
+      "product_type": "booster_box",
+      "price": 235.85,
+      "shipping_cost": 0.0,
+      "baseline_price": 299.99,
+      "gapPct": 21.38,
+      "seller_trust": "MEDIUM",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon TCG Scarlet & Violet 151 Booster Bundle Sealed New",
+      "url": "https://www.ebay.com/itm/336514775555?_skw=pokemon+151+booster+box&hash=item4e59d7fa03:g:5d4AAeSwSoZpzlYV",
+      "franchise": "pokemon",
+      "set": "151",
+      "product_type": "booster_bundle",
+      "price": 149.99,
+      "shipping_cost": 0.0,
+      "baseline_price": 190.0,
+      "gapPct": 21.06,
+      "seller_trust": "MEDIUM",
       "source": "ebay",
       "confidence": "high",
       "gap_bucket": "20_plus"
@@ -134,8 +165,8 @@
       "product_type": "booster_bundle",
       "price": 59.17,
       "shipping_cost": 6.18,
-      "baseline_price": 64.64,
-      "gapPct": 8.46,
+      "baseline_price": 64.32,
+      "gapPct": 8.01,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -149,8 +180,8 @@
       "product_type": "booster_box",
       "price": 581.1800000000001,
       "shipping_cost": 46.23,
-      "baseline_price": 622.49,
-      "gapPct": 6.64,
+      "baseline_price": 614.99,
+      "gapPct": 5.5,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "low",
@@ -158,9 +189,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 6,
+    "ebay_deals": 8,
     "retailer_deals": 1,
-    "total_merged": 7,
+    "total_merged": 9,
     "retailer_deals_visible": true
   }
 }
