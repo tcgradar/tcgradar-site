@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T13:04:12.193163+00:00",
+  "timestamp": "2026-04-06T13:49:27.081271+00:00",
   "tier": "starter",
   "total_deals": 7,
   "all_deals_count": 7,
@@ -112,21 +112,6 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "Pokemon Destined Rivals SV10 Booster Bundle",
-      "url": "https://www.ebay.com/itm/318099167145?_skw=pokemon+Destined+Rivals+booster+box&hash=item4a103017a9:g:4s8AAeSwve5pz4U6",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 55.95,
-      "shipping_cost": 0.0,
-      "baseline_price": 63.95,
-      "gapPct": 12.51,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
       "franchise": "pokemon",
@@ -136,6 +121,21 @@
       "shipping_cost": 17.89,
       "baseline_price": 315.0,
       "gapPct": 12.37,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon Destined Rivals SV10 Booster Bundle",
+      "url": "https://www.ebay.com/itm/318099167145?_skw=pokemon+Destined+Rivals+booster+box&hash=item4a103017a9:g:4s8AAeSwve5pz4U6",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 55.95,
+      "shipping_cost": 0.0,
+      "baseline_price": 62.95,
+      "gapPct": 11.12,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
