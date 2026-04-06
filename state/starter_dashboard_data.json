@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T19:49:15.577677+00:00",
+  "timestamp": "2026-04-06T20:34:21.356745+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -13,8 +13,8 @@
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 3,
-      "10_to_19": 2,
+      "20_plus": 2,
+      "10_to_19": 3,
       "1_to_9": 1
     }
   },
@@ -84,12 +84,12 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "baseline_price": 100.0,
-      "gapPct": 20.0,
+      "baseline_price": 98.97,
+      "gapPct": 19.17,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "20_plus"
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
