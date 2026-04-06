@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T10:04:50.936469+00:00",
+  "timestamp": "2026-04-06T10:50:06.989197+00:00",
   "tier": "starter",
   "total_deals": 8,
   "all_deals_count": 8,
@@ -14,8 +14,8 @@
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 3,
-      "10_to_19": 3,
+      "20_plus": 4,
+      "10_to_19": 2,
       "1_to_9": 2
     }
   },
@@ -32,10 +32,10 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
-      "Emperors in the New World"
+      "Emperors in the New World",
+      "Fusion Strike"
     ],
     "product_type": [
       "booster_box",
@@ -49,6 +49,21 @@
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 673.85,
+      "shipping_cost": 41.46,
+      "baseline_price": 1265.94,
+      "gapPct": 46.77,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
+    },
     {
       "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
       "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
@@ -125,21 +140,6 @@
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
-      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 349.99,
-      "shipping_cost": 0.0,
-      "baseline_price": 399.0,
-      "gapPct": 12.28,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "low",
       "gap_bucket": "10_to_19"
     },
     {
