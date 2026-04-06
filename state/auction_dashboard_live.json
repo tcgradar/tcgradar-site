@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-06T16:31:05.472321+00:00",
+    "generated_at": "2026-04-06T17:31:09.263861+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
     "raw_count": 16,
@@ -95,20 +95,20 @@
   "auctions": [
     {
       "title": "Pok\u00e9mon TCG Scarlet & Violet Alakazam EX Card 151 Collection SEALED 4 Packs",
-      "current_price": 85.0,
+      "current_price": 86.0,
       "shipping_cost": 0.0,
-      "total_price": 85.0,
+      "total_price": 86.0,
       "baseline": 135.0,
-      "gapPct": 37.03703703703704,
-      "bids": 5,
-      "time_remaining": 1.5449523088888888,
+      "gapPct": 36.2962962962963,
+      "bids": 6,
+      "time_remaining": 0.5444815783333333,
       "opportunity_type": "urgent",
       "url": "https://www.ebay.com/itm/198231385182?_skw=Pokemon+151+booster+box&hash=item2e2782e45e:g:i5kAAeSwlcZpxsWZ",
       "franchise": "pokemon",
       "set": "151",
       "product_type": "booster_box",
       "seller_trust": "MEDIUM",
-      "opportunity_score": 77
+      "opportunity_score": 73
     },
     {
       "title": "One Piece English OP-09 Emperors in the New World Booster Box, Worn Box",
@@ -118,7 +118,7 @@
       "baseline": 646.98,
       "gapPct": 58.731336362793286,
       "bids": 26,
-      "time_remaining": 49.28448711555556,
+      "time_remaining": 48.2834407225,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/236729591513?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item371e2ee6d9:g:KccAAeSwXZ5pzVuw",
       "franchise": "onepiece",
@@ -135,7 +135,7 @@
       "baseline": 599.99,
       "gapPct": 30.833847230787182,
       "bids": 18,
-      "time_remaining": 34.47613442694445,
+      "time_remaining": 33.47504271722222,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/198224862272?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e271f5c40:g:vPwAAeSw3htpxBRA",
       "franchise": "pokemon",
@@ -152,7 +152,7 @@
       "baseline": 599.99,
       "gapPct": 29.167152785879765,
       "bids": 27,
-      "time_remaining": 10.559467773055555,
+      "time_remaining": 9.558376061944445,
       "opportunity_type": "ending_soon",
       "url": "https://www.ebay.com/itm/198224862288?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e271f5c50:g:EqQAAeSwwaxpxBPI",
       "franchise": "pokemon",
