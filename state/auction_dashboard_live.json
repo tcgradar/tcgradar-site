@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-05T23:31:06.017904+00:00",
+    "generated_at": "2026-04-06T00:01:16.707353+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 21,
+    "raw_count": 22,
     "filtered_count": 6,
     "filter_criteria": {
       "min_gap": 12.0,
@@ -101,7 +101,7 @@
       "baseline": 646.98,
       "gapPct": 42.21768833657919,
       "bids": 8,
-      "time_remaining": 14.115062353611112,
+      "time_remaining": 13.612068107222221,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/336516719973?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item4e59f5a565:g:5nMAAeSwKe1o371g",
       "franchise": "onepiece",
@@ -118,7 +118,7 @@
       "baseline": 646.98,
       "gapPct": 61.04980061207457,
       "bids": 23,
-      "time_remaining": 66.28422902527778,
+      "time_remaining": 65.78123477972223,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/236729591513?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item371e2ee6d9:g:KccAAeSwXZ5pzVuw",
       "franchise": "onepiece",
@@ -135,7 +135,7 @@
       "baseline": 599.99,
       "gapPct": 37.50062501041684,
       "bids": 22,
-      "time_remaining": 27.559132969444445,
+      "time_remaining": 27.056306891944445,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/198224862288?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e271f5c50:g:EqQAAeSwwaxpxBPI",
       "franchise": "pokemon",
@@ -145,6 +145,23 @@
       "opportunity_score": 55
     },
     {
+      "title": "ONE PIECE TCG OP-09 EMPERORS IN THE NEW WORLD SEALED BOOSTER BOX ENGLISH",
+      "current_price": 472.57,
+      "shipping_cost": 17.93,
+      "total_price": 490.5,
+      "baseline": 646.98,
+      "gapPct": 24.186219048502274,
+      "bids": 47,
+      "time_remaining": 0.9809570083333333,
+      "opportunity_type": "urgent",
+      "url": "https://www.ebay.com/itm/206180416688?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item30014f7cb0:g:9UIAAeSwhFFpxxva",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 49
+    },
+    {
       "title": "Pokemon Scarlet & Violet Destined Rivals Booster Box #CLD",
       "current_price": 402.0,
       "shipping_cost": 9.99,
@@ -152,7 +169,7 @@
       "baseline": 599.99,
       "gapPct": 31.333855564259405,
       "bids": 17,
-      "time_remaining": 51.47579962555556,
+      "time_remaining": 50.97297354472222,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/198224862272?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e271f5c40:g:vPwAAeSw3htpxBRA",
       "franchise": "pokemon",
@@ -169,7 +186,7 @@
       "baseline": 599.99,
       "gapPct": 22.500375006250103,
       "bids": 10,
-      "time_remaining": 27.25913296388889,
+      "time_remaining": 26.756306886111112,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/198224862281?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e271f5c49:g:3owAAeSwbzRpxBOS",
       "franchise": "pokemon",
@@ -177,23 +194,6 @@
       "product_type": "booster_box",
       "seller_trust": "HIGH",
       "opportunity_score": 47
-    },
-    {
-      "title": "ONE PIECE TCG OP-09 EMPERORS IN THE NEW WORLD SEALED BOOSTER BOX ENGLISH",
-      "current_price": 472.57,
-      "shipping_cost": 17.93,
-      "total_price": 490.5,
-      "baseline": 646.98,
-      "gapPct": 24.186219048502274,
-      "bids": 47,
-      "time_remaining": 1.4839512494444442,
-      "opportunity_type": "urgent",
-      "url": "https://www.ebay.com/itm/206180416688?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item30014f7cb0:g:9UIAAeSwhFFpxxva",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 46
     }
   ]
 }
