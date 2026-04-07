@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-04-07T19:49:59.996689+00:00",
+  "timestamp": "2026-04-07T20:34:22.064433+00:00",
   "tier": "starter",
-  "total_deals": 7,
-  "all_deals_count": 7,
+  "total_deals": 6,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5,
+      "pokemon": 4,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 6,
+      "booster_box": 5,
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 3,
+      "20_plus": 2,
       "10_to_19": 3,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 6,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 1
@@ -33,8 +33,7 @@
       "500 Years in the Future",
       "Battle Styles",
       "Destined Rivals",
-      "Emperors in the New World",
-      "Fusion Strike"
+      "Emperors in the New World"
     ],
     "product_type": [
       "booster_box",
@@ -47,21 +46,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 675.14,
-      "shipping_cost": 41.54,
-      "baseline_price": 1248.88,
-      "gapPct": 45.94,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
       "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
@@ -133,8 +117,8 @@
       "product_type": "booster_box",
       "price": 276.73,
       "shipping_cost": 17.94,
-      "baseline_price": 312.5,
-      "gapPct": 11.45,
+      "baseline_price": 310.0,
+      "gapPct": 10.73,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -157,9 +141,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 6,
+    "ebay_deals": 5,
     "retailer_deals": 1,
-    "total_merged": 7,
+    "total_merged": 6,
     "retailer_deals_visible": true
   }
 }
