@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-04-07T17:34:56.172124+00:00",
+  "timestamp": "2026-04-07T18:19:17.612339+00:00",
   "tier": "starter",
-  "total_deals": 7,
-  "all_deals_count": 7,
+  "total_deals": 6,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5,
+      "pokemon": 4,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 6,
+      "booster_box": 5,
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
+      "20_plus": 1,
       "10_to_19": 4,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 6,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 1
@@ -31,7 +31,6 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -70,12 +69,12 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "baseline_price": 100.0,
-      "gapPct": 20.0,
+      "baseline_price": 99.0,
+      "gapPct": 19.19,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "20_plus"
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
@@ -111,21 +110,6 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
-      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 349.99,
-      "shipping_cost": 0.0,
-      "baseline_price": 399.0,
-      "gapPct": 12.28,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "low",
-      "gap_bucket": "10_to_19"
-    },
-    {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
       "franchise": "pokemon",
@@ -133,8 +117,8 @@
       "product_type": "booster_box",
       "price": 276.73,
       "shipping_cost": 17.94,
-      "baseline_price": 310.0,
-      "gapPct": 10.73,
+      "baseline_price": 312.5,
+      "gapPct": 11.45,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -157,9 +141,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 6,
+    "ebay_deals": 5,
     "retailer_deals": 1,
-    "total_merged": 7,
+    "total_merged": 6,
     "retailer_deals_visible": true
   }
 }
