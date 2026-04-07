@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T11:34:20.760755+00:00",
+  "timestamp": "2026-04-07T12:19:13.506515+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -13,8 +13,8 @@
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 4,
+      "20_plus": 2,
+      "10_to_19": 3,
       "1_to_9": 1
     }
   },
@@ -54,8 +54,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 610.0,
-      "gapPct": 26.23,
+      "baseline_price": 609.43,
+      "gapPct": 26.16,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -69,12 +69,12 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "baseline_price": 99.97,
-      "gapPct": 19.98,
+      "baseline_price": 100.0,
+      "gapPct": 20.0,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "20_plus"
     },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
