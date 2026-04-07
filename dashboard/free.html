@@ -372,7 +372,9 @@
     <script>
         async function loadFreeDeal() {
             try {
-                const response = await fetch('../state/free_global_feed.json');
+                // STEP 94B: Cache-busting to ensure fresh data after runtime updates
+                const cacheBuster = `?v=${Date.now()}`;
+                const response = await fetch(`../state/free_global_feed.json${cacheBuster}`);
                 if (!response.ok) throw new Error('Failed to load deal data');
 
                 const data = await response.json();

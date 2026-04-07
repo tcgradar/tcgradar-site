@@ -917,7 +917,9 @@
             const countEl = document.getElementById('auctions-count');
             
             try {
-                const response = await fetch('../state/auction_dashboard_live.json');
+                // STEP 94B: Cache-busting to ensure fresh data after runtime updates
+                const cacheBuster = `?v=${Date.now()}`;
+                const response = await fetch(`../state/auction_dashboard_live.json${cacheBuster}`);
                 if (!response.ok) {
                     throw new Error('Auction data not available');
                 }

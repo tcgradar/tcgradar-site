@@ -663,7 +663,9 @@
             const container = document.getElementById('detection-cards');
 
             try {
-                const response = await fetch('state/landing_recent_detections.json');
+                // STEP 94B: Cache-busting to ensure fresh data after runtime updates
+                const cacheBuster = `?v=${Date.now()}`;
+                const response = await fetch(`state/landing_recent_detections.json${cacheBuster}`);
                 if (!response.ok) {
                     throw new Error('Failed to load detections');
                 }
