@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-04-07T12:19:13.506515+00:00",
+  "timestamp": "2026-04-07T13:04:54.721033+00:00",
   "tier": "starter",
-  "total_deals": 6,
-  "all_deals_count": 6,
+  "total_deals": 7,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 4,
+      "pokemon": 5,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 5,
+      "booster_box": 6,
       "etb": 1
     },
     "by_gap_bucket": {
       "20_plus": 2,
-      "10_to_19": 3,
+      "10_to_19": 4,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 6,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 1
@@ -33,7 +33,8 @@
       "500 Years in the Future",
       "Battle Styles",
       "Destined Rivals",
-      "Emperors in the New World"
+      "Emperors in the New World",
+      "Fusion Strike"
     ],
     "product_type": [
       "booster_box",
@@ -46,6 +47,21 @@
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 675.14,
+      "shipping_cost": 41.54,
+      "baseline_price": 1271.94,
+      "gapPct": 46.92,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
+    },
     {
       "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
       "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
@@ -69,12 +85,12 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "baseline_price": 100.0,
-      "gapPct": 20.0,
+      "baseline_price": 99.0,
+      "gapPct": 19.19,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "20_plus"
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
@@ -117,8 +133,8 @@
       "product_type": "booster_box",
       "price": 276.73,
       "shipping_cost": 17.94,
-      "baseline_price": 319.99,
-      "gapPct": 13.52,
+      "baseline_price": 312.5,
+      "gapPct": 11.45,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -141,9 +157,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 5,
+    "ebay_deals": 6,
     "retailer_deals": 1,
-    "total_merged": 6,
+    "total_merged": 7,
     "retailer_deals_visible": true
   }
 }
