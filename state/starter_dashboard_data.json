@@ -1,26 +1,27 @@
 {
-  "timestamp": "2026-04-07T21:43:54.793133+00:00",
+  "timestamp": "2026-04-07T22:04:18.584818+00:00",
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 10,
+  "total_deals": 5,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
+      "pokemon": 4,
       "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 3,
+      "booster_box": 4,
       "etb": 1
     },
     "by_gap_bucket": {
       "20_plus": 2,
-      "10_to_19": 2
+      "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 9,
-    "MEDIUM": 1,
-    "LOW": 0
+    "HIGH": 4,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "high": 1
   },
   "available_filters": {
     "franchise": [
@@ -30,16 +31,13 @@
     "set": [
       "500 Years in the Future",
       "Battle Styles",
-      "Destined Rivals",
-      "Emperors in the New World"
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box",
-      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
-      "1_to_9",
       "10_to_19",
       "20_plus"
     ]
@@ -53,15 +51,12 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "total_price": 449.99,
-      "shipping_verified": true,
       "baseline_price": 609.99,
       "gapPct": 26.23,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "20_plus",
       "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
     },
     {
       "title": "Pokemon Battle Styles Single Strike Urshifu Elite Trainer Box ETB NEW Sealed",
@@ -71,15 +66,12 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "total_price": 80.0,
-      "shipping_verified": false,
       "baseline_price": 100.0,
       "gapPct": 20.0,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "20_plus",
       "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
     },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
@@ -89,15 +81,30 @@
       "product_type": "booster_box",
       "price": 274.3,
       "shipping_cost": 36.07,
-      "total_price": 274.3,
-      "shipping_verified": true,
       "baseline_price": 333.33,
       "gapPct": 17.71,
-      "confidence": "low",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
+      "source": "ebay",
+      "confidence": "low",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
+      "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 269.97,
+      "shipping_cost": 0,
+      "baseline_price": 312.5,
+      "gapPct": 13.61,
+      "seller_trust": "high",
+      "source": "gamenerdz",
+      "confidence": "high",
+      "language": "EN",
+      "availability": "out_of_stock",
+      "is_preorder": false,
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
@@ -107,137 +114,18 @@
       "product_type": "booster_box",
       "price": 276.73,
       "shipping_cost": 17.94,
-      "total_price": 276.73,
-      "shipping_verified": true,
       "baseline_price": 312.5,
       "gapPct": 11.45,
-      "confidence": "high",
-      "shipping_included": true,
-      "gap_bucket": "10_to_19",
       "seller_trust": "HIGH",
-      "deal_quality": "HIGH"
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "10_to_19"
     }
   ],
-  "watchlist_deals": [
-    {
-      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed...",
-      "url": "https://www.ebay.com/itm/236740955349?_skw=pokemon+Destined+Rivals+booster+box&hash=item371edc4cd5:g:4OAAAeSw5-Vp1E3B",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 59.0,
-      "shipping_cost": 0.0,
-      "total_price": 59.0,
-      "shipping_verified": true,
-      "baseline_price": 62.95,
-      "gapPct": 6.27,
-      "confidence": "high",
-      "seller_rating": 96.4,
-      "seller_feedback_count": 1067,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "MEDIUM",
-      "deal_quality": "MEDIUM"
-    },
-    {
-      "title": "ONE PIECE OP09 EMPERORS IN THE NEW WORLD SEALED BOOSTER BOX ENGLISH OP-09 OP9 EN",
-      "url": "https://www.ebay.com/itm/197123391268?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2de5783f24:g:b2MAAOSweWpn2aZF",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 576.93,
-      "shipping_cost": 0.0,
-      "total_price": 576.93,
-      "shipping_verified": true,
-      "baseline_price": 614.99,
-      "gapPct": 6.19,
-      "confidence": "low",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 811,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "MEDIUM"
-    },
-    {
-      "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
-      "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 582.63,
-      "shipping_cost": 46.35,
-      "total_price": 582.63,
-      "shipping_verified": true,
-      "baseline_price": 614.99,
-      "gapPct": 5.26,
-      "confidence": "low",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 744,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "MEDIUM"
-    },
-    {
-      "title": "Pokemon Battle Styles Rapid Strike Urshifu Elite Trainer Box ETB NEW Sealed",
-      "url": "https://www.ebay.com/itm/178020780989?_skw=pokemon+Battle+Styles+sealed&hash=item2972dd8bbd:g:55MAAeSwnhhp0LlP",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 95.0,
-      "shipping_cost": 0.0,
-      "total_price": 95.0,
-      "shipping_verified": false,
-      "baseline_price": 100.0,
-      "gapPct": 5.0,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 640,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "MEDIUM"
-    },
-    {
-      "title": "Pokemon TCG: Sword & Shield  Battle Styles Booster Box 36 Packs Factory Sealed",
-      "url": "https://www.ebay.com/itm/287240245726?_skw=pokemon+Battle+Styles+booster+box&hash=item42e0da51de:g:pUwAAeSw5o1pyN5D",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 299.99,
-      "shipping_cost": 0.0,
-      "total_price": 299.99,
-      "shipping_verified": false,
-      "baseline_price": 312.5,
-      "gapPct": 4.0,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 186,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "MEDIUM"
-    },
-    {
-      "title": "Pokemon Scarlet & Violet Destined Rivals English Booster Box New Sealed",
-      "url": "https://www.ebay.com/itm/117115394059?_skw=pokemon+Destined+Rivals+booster+box&hash=item1b449f180b:g:qVYAAeSwLTtpyZxe",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 589.95,
-      "shipping_cost": 0.0,
-      "total_price": 589.95,
-      "shipping_verified": true,
-      "baseline_price": 609.99,
-      "gapPct": 3.29,
-      "confidence": "low",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1276,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "MEDIUM"
-    }
-  ]
+  "_merge_info": {
+    "ebay_deals": 4,
+    "retailer_deals": 1,
+    "total_merged": 5,
+    "retailer_deals_visible": true
+  }
 }
