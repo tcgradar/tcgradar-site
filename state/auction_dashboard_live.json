@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-04-07T00:01:04.973621+00:00",
+    "generated_at": "2026-04-07T01:01:05.291019+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 17,
-    "filtered_count": 3,
+    "raw_count": 21,
+    "filtered_count": 5,
     "filter_criteria": {
       "min_gap": 12.0,
       "max_bids": 50,
@@ -101,7 +101,7 @@
       "baseline": 646.98,
       "gapPct": 57.18569352993911,
       "bids": 28,
-      "time_remaining": 41.784531925555555,
+      "time_remaining": 40.78448419527778,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/236729591513?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item371e2ee6d9:g:KccAAeSwXZ5pzVuw",
       "franchise": "onepiece",
@@ -112,20 +112,20 @@
     },
     {
       "title": "Pokemon TCG: Twilight Masquerade Booster Box New & Sealed",
-      "current_price": 178.5,
+      "current_price": 192.5,
       "shipping_cost": 0.0,
-      "total_price": 178.5,
+      "total_price": 192.5,
       "baseline": 352.5,
-      "gapPct": 49.361702127659576,
-      "bids": 14,
-      "time_remaining": 69.79225583166667,
+      "gapPct": 45.39007092198582,
+      "bids": 17,
+      "time_remaining": 68.79220161805556,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/306857727932?_skw=Pokemon+Twilight+Masquerade+booster+box&hash=item47722557bc:g:ooMAAeSwJE9pzuPi",
       "franchise": "pokemon",
       "set": "Twilight Masquerade",
       "product_type": "booster_box",
       "seller_trust": "HIGH",
-      "opportunity_score": 69
+      "opportunity_score": 65
     },
     {
       "title": "Pokemon Scarlet & Violet Destined Rivals Booster Box #CLD",
@@ -135,7 +135,7 @@
       "baseline": 599.99,
       "gapPct": 30.833847230787182,
       "bids": 18,
-      "time_remaining": 26.97616203222222,
+      "time_remaining": 25.97615777861111,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/198224862272?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e271f5c40:g:vPwAAeSw3htpxBRA",
       "franchise": "pokemon",
@@ -143,6 +143,40 @@
       "product_type": "booster_box",
       "seller_trust": "HIGH",
       "opportunity_score": 53
+    },
+    {
+      "title": "Pokemon Twilight Masquerade Booster Box SEALED NEW",
+      "current_price": 238.0,
+      "shipping_cost": 0.0,
+      "total_price": 238.0,
+      "baseline": 352.5,
+      "gapPct": 32.4822695035461,
+      "bids": 34,
+      "time_remaining": 71.49386827527778,
+      "opportunity_type": "early",
+      "url": "https://www.ebay.com/itm/377083218625?_skw=Pokemon+Twilight+Masquerade+booster+box&hash=item57cbe94ac1:g:CScAAeSwuTxpzwmz",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 44
+    },
+    {
+      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Box #PRB",
+      "current_price": 435.0,
+      "shipping_cost": 9.99,
+      "total_price": 444.99,
+      "baseline": 599.99,
+      "gapPct": 25.83376389606493,
+      "bids": 18,
+      "time_remaining": 71.87615777027779,
+      "opportunity_type": "early",
+      "url": "https://www.ebay.com/itm/198224862283?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e271f5c4b:g:x2oAAeSwjAVpxBRA",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 40
     }
   ]
 }
