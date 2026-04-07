@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T10:04:55.481016+00:00",
+  "timestamp": "2026-04-07T10:49:46.468472+00:00",
   "tier": "starter",
   "total_deals": 8,
   "all_deals_count": 8,
@@ -15,8 +15,8 @@
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 4,
-      "1_to_9": 3
+      "10_to_19": 5,
+      "1_to_9": 2
     }
   },
   "trust_counts": {
@@ -32,10 +32,10 @@
     ],
     "set": [
       "500 Years in the Future",
+      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
-      "Emperors in the New World",
-      "Temporal Forces"
+      "Emperors in the New World"
     ],
     "product_type": [
       "booster_box",
@@ -57,7 +57,7 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 610.0,
+      "baseline_price": 609.99,
       "gapPct": 26.23,
       "seller_trust": "HIGH",
       "source": "ebay",
@@ -72,8 +72,8 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "baseline_price": 99.95,
-      "gapPct": 19.96,
+      "baseline_price": 99.97,
+      "gapPct": 19.98,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -120,16 +120,31 @@
       "product_type": "booster_box",
       "price": 276.73,
       "shipping_cost": 17.94,
-      "baseline_price": 315.0,
-      "gapPct": 12.15,
+      "baseline_price": 319.99,
+      "gapPct": 13.52,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
+      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 349.99,
+      "shipping_cost": 0.0,
+      "baseline_price": 399.0,
+      "gapPct": 12.28,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "low",
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed (Heavy)",
-      "url": "https://www.ebay.com/itm/406718973746?_skw=pokemon+Destined+Rivals+sealed&hash=item5eb2570732:g:FC0AAeSw0gNpncPU&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZCFEogvnCEbR4eIF1ZNJ698mpVyrY4yT3b8nDZrhardRZ82eiLa63wnr1ZAo9CWSk0%2BSSLPA8tLAhw95swz1HGCG5p%2BTMy4U3%2Fy%2Bi8ScUiVOwDu5xnbtSCdSc%2BrkuWYvukJs2ISKxW46JpBxHQuddR0%2Fe2KvL9zmdevF2D09x6Ae33DDhoOP4KWfjjlyVqEPl249xLX6umuUh1rRcJy4xPJBT9wmL9rWxAXRJUZIM%2FAzoerISngeg%2BTpxAEJLD%2Fa6edbK1i3bsl7RvkIX4wdRfr7tox%2FmqcfKOn7HmMUKYONvs5kuCUYR7gLPyGLkPaqk%3D",
+      "url": "https://www.ebay.com/itm/406718973746?_skw=pokemon+Destined+Rivals+sealed&hash=item5eb2570732:g:FC0AAeSw0gNpncPU&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZCFEogvnCEbR4eIF1ZNJ698mpVyrY4yT3b8nDZrhardRZ82eiLa63wnr1ZAo9CWSk0%2BSSLPA8tLAhw95swz1HGCG5p%2BTMy4U3%2Fy%2Bi8ScUiVOwDu5xnbtSCdSc%2BrkuWYvs2P7Eg9Sy%2F7%2FuUPYYRdLbyG9eUYc6fu5fcLCFgM5edBV8cBROpVOvCtGujPxB04FWWGCvP%2BErGBR0I%2BjM2CkpPAqDEwC37oxn1fyMnZ755pnvBldof0CebXrQkmurlafyjhA5Rgar3jTumyu4bkML3oR6zqtC5Bb0luWI%2FsKoqhzhzA1yaBWXdlfbI5i2gLQ8%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -137,21 +152,6 @@
       "shipping_cost": 0.0,
       "baseline_price": 62.95,
       "gapPct": 8.05,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "1_to_9"
-    },
-    {
-      "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
-      "url": "https://www.ebay.com/itm/178021795254?_skw=pokemon+Temporal+Forces+booster+box&hash=item2972ed05b6:g:MaAAAeSw1Xtp0TRb",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 287.24,
-      "shipping_cost": 39.97,
-      "baseline_price": 310.0,
-      "gapPct": 7.34,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
