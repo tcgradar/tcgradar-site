@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-04-07T04:49:54.249177+00:00",
+  "timestamp": "2026-04-07T05:34:18.319418+00:00",
   "tier": "starter",
-  "total_deals": 7,
-  "all_deals_count": 7,
+  "total_deals": 6,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5,
+      "pokemon": 4,
       "onepiece": 2
     },
     "by_product_type": {
-      "booster_box": 6,
+      "booster_box": 5,
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
+      "20_plus": 1,
       "10_to_19": 4,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 6,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 1
@@ -31,7 +31,6 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Astral Radiance",
       "Battle Styles",
       "Destined Rivals",
       "Emperors in the New World"
@@ -55,8 +54,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 609.99,
-      "gapPct": 26.23,
+      "baseline_price": 608.88,
+      "gapPct": 26.1,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -70,12 +69,12 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "baseline_price": 100.0,
-      "gapPct": 20.0,
+      "baseline_price": 99.97,
+      "gapPct": 19.98,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "20_plus"
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
@@ -83,28 +82,13 @@
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
-      "price": 273.62,
-      "shipping_cost": 35.98,
+      "price": 274.3,
+      "shipping_cost": 36.07,
       "baseline_price": 335.0,
-      "gapPct": 18.32,
+      "gapPct": 18.12,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "low",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 276.05,
-      "shipping_cost": 17.89,
-      "baseline_price": 319.99,
-      "gapPct": 13.73,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
       "gap_bucket": "10_to_19"
     },
     {
@@ -126,18 +110,18 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
-      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
       "franchise": "pokemon",
-      "set": "Astral Radiance",
+      "set": "Battle Styles",
       "product_type": "booster_box",
-      "price": 349.99,
-      "shipping_cost": 0.0,
-      "baseline_price": 399.5,
-      "gapPct": 12.39,
+      "price": 276.73,
+      "shipping_cost": 17.94,
+      "baseline_price": 319.99,
+      "gapPct": 13.52,
       "seller_trust": "HIGH",
       "source": "ebay",
-      "confidence": "low",
+      "confidence": "high",
       "gap_bucket": "10_to_19"
     },
     {
@@ -146,10 +130,10 @@
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
-      "price": 581.1800000000001,
-      "shipping_cost": 46.23,
+      "price": 582.63,
+      "shipping_cost": 46.35,
       "baseline_price": 622.49,
-      "gapPct": 6.64,
+      "gapPct": 6.4,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "low",
@@ -157,9 +141,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 6,
+    "ebay_deals": 5,
     "retailer_deals": 1,
-    "total_merged": 7,
+    "total_merged": 6,
     "retailer_deals_visible": true
   }
 }
