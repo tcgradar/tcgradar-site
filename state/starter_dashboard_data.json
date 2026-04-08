@@ -1,25 +1,24 @@
 {
-  "timestamp": "2026-04-08T14:34:51.193922+00:00",
+  "timestamp": "2026-04-08T15:19:13.254429+00:00",
   "tier": "starter",
-  "total_deals": 6,
-  "all_deals_count": 6,
+  "total_deals": 5,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5,
+      "pokemon": 4,
       "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 5,
+      "booster_box": 4,
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
-      "10_to_19": 3,
-      "1_to_9": 1
+      "20_plus": 1,
+      "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 1
@@ -32,8 +31,7 @@
     "set": [
       "500 Years in the Future",
       "Battle Styles",
-      "Destined Rivals",
-      "Fusion Strike"
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box",
@@ -41,27 +39,10 @@
     ],
     "gap_bucket": [
       "10_to_19",
-      "1_to_9",
       "20_plus"
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 678.3000000000001,
-      "shipping_cost": 41.73,
-      "baseline_price": 1239.02,
-      "gapPct": 45.26,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
       "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
@@ -121,8 +102,8 @@
       "product_type": "booster_box",
       "price": 277.19000000000005,
       "shipping_cost": 17.97,
-      "baseline_price": 310.0,
-      "gapPct": 10.58,
+      "baseline_price": 312.5,
+      "gapPct": 11.3,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -137,13 +118,13 @@
       "product_type": "etb",
       "price": 90.0,
       "shipping_cost": 0.0,
-      "baseline_price": 99.5,
-      "gapPct": 9.55,
+      "baseline_price": 100.0,
+      "gapPct": 10.0,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9"
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
@@ -188,26 +169,6 @@
       "deal_quality": "low"
     },
     {
-      "title": "Pokemon Hidden Fates ETB Elite Trainer Box Sealed TCG",
-      "url": "https://www.ebay.com/itm/277822746231?_skw=pokemon+Hidden+Fates+booster+box&hash=item40af86ae77:g:tZgAAeSwS5ZpvsGs",
-      "franchise": "pokemon",
-      "set": "Hidden Fates",
-      "product_type": "etb",
-      "price": 489.62,
-      "shipping_cost": 36.0,
-      "total_price": 489.62,
-      "shipping_verified": true,
-      "baseline_price": 525.0,
-      "gapPct": 6.74,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 274,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "low"
-    },
-    {
       "title": "ONE PIECE OP09 EMPERORS IN THE NEW WORLD SEALED BOOSTER BOX ENGLISH OP-09 OP9 EN",
       "url": "https://www.ebay.com/itm/197123391268?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2de5783f24:g:b2MAAOSweWpn2aZF",
       "franchise": "onepiece",
@@ -221,7 +182,27 @@
       "gapPct": 5.75,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 817,
+      "seller_feedback_count": 818,
+      "shipping_included": true,
+      "gap_bucket": "1_to_9",
+      "seller_trust": "HIGH",
+      "deal_quality": "low"
+    },
+    {
+      "title": "Pokemon Battle Styles Rapid Strike Urshifu Elite Trainer Box ETB NEW Sealed",
+      "url": "https://www.ebay.com/itm/178020780989?_skw=pokemon+Battle+Styles+booster+box&hash=item2972dd8bbd:g:55MAAeSwnhhp0LlP",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 95.0,
+      "shipping_cost": 0.0,
+      "total_price": 95.0,
+      "shipping_verified": false,
+      "baseline_price": 100.0,
+      "gapPct": 5.0,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 640,
       "shipping_included": true,
       "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
@@ -248,26 +229,6 @@
       "deal_quality": "low"
     },
     {
-      "title": "Pokemon Battle Styles Rapid Strike Urshifu Elite Trainer Box ETB NEW Sealed",
-      "url": "https://www.ebay.com/itm/178020780989?_skw=pokemon+Battle+Styles+booster+box&hash=item2972dd8bbd:g:55MAAeSwnhhp0LlP",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 95.0,
-      "shipping_cost": 0.0,
-      "total_price": 95.0,
-      "shipping_verified": false,
-      "baseline_price": 99.5,
-      "gapPct": 4.52,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 640,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "low"
-    },
-    {
       "title": "Pokemon TCG: Sword & Shield  Battle Styles Booster Box 36 Packs Factory Sealed",
       "url": "https://www.ebay.com/itm/287240245726?_skw=pokemon+Battle+Styles+booster+box&hash=item42e0da51de:g:pUwAAeSw5o1pyN5D",
       "franchise": "pokemon",
@@ -277,8 +238,8 @@
       "shipping_cost": 0.0,
       "total_price": 299.99,
       "shipping_verified": false,
-      "baseline_price": 310.0,
-      "gapPct": 3.23,
+      "baseline_price": 312.5,
+      "gapPct": 4.0,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 187,
@@ -291,9 +252,9 @@
   "empty_watchlist": false,
   "fallback_deals": [],
   "_merge_info": {
-    "ebay_deals": 5,
+    "ebay_deals": 4,
     "retailer_deals": 1,
-    "total_merged": 6,
+    "total_merged": 5,
     "retailer_deals_visible": true
   }
 }
