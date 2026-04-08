@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-04-08T07:49:53.650729+00:00",
+  "timestamp": "2026-04-08T08:34:14.174688+00:00",
   "tier": "starter",
-  "total_deals": 13,
-  "all_deals_count": 13,
+  "total_deals": 11,
+  "all_deals_count": 11,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 10,
+      "pokemon": 8,
       "onepiece": 3
     },
     "by_product_type": {
-      "booster_box": 9,
-      "etb": 3,
+      "booster_box": 8,
+      "etb": 2,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 3,
+      "20_plus": 2,
       "10_to_19": 3,
-      "1_to_9": 7
+      "1_to_9": 6
     }
   },
   "trust_counts": {
-    "HIGH": 12,
+    "HIGH": 10,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 1
@@ -34,9 +34,7 @@
       "500 Years in the Future",
       "Battle Styles",
       "Destined Rivals",
-      "Emperors in the New World",
-      "Fusion Strike",
-      "Hidden Fates"
+      "Emperors in the New World"
     ],
     "product_type": [
       "booster_box",
@@ -51,21 +49,6 @@
   },
   "deals": [
     {
-      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 678.3000000000001,
-      "shipping_cost": 41.73,
-      "baseline_price": 1248.88,
-      "gapPct": 45.69,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
       "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
       "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
       "franchise": "pokemon",
@@ -73,8 +56,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 608.88,
-      "gapPct": 26.1,
+      "baseline_price": 604.43,
+      "gapPct": 25.55,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -144,6 +127,21 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 559.99,
+      "shipping_cost": 10.99,
+      "baseline_price": 604.43,
+      "gapPct": 7.35,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "1_to_9"
+    },
+    {
       "title": "Pokemon Destined Rivals Booster Bundle - Factory Sealed",
       "url": "https://www.ebay.com/itm/287253552307?_skw=pokemon+Destined+Rivals+sealed&hash=item42e1a55cb3:g:KHUAAeSwV3Rp0WNv",
       "franchise": "pokemon",
@@ -204,21 +202,6 @@
       "gap_bucket": "1_to_9"
     },
     {
-      "title": "Pokemon Hidden Fates ETB Elite Trainer Box Sealed TCG",
-      "url": "https://www.ebay.com/itm/277822746231?_skw=pokemon+Hidden+Fates+booster+box&hash=item40af86ae77:g:tZgAAeSwS5ZpvsGs",
-      "franchise": "pokemon",
-      "set": "Hidden Fates",
-      "product_type": "etb",
-      "price": 489.62,
-      "shipping_cost": 36.0,
-      "baseline_price": 512.47,
-      "gapPct": 4.46,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "1_to_9"
-    },
-    {
       "title": "Pokemon TCG: Sword & Shield  Battle Styles Booster Box 36 Packs Factory Sealed",
       "url": "https://www.ebay.com/itm/287240245726?_skw=pokemon+Battle+Styles+booster+box&hash=item42e0da51de:g:pUwAAeSw5o1pyN5D",
       "franchise": "pokemon",
@@ -232,27 +215,12 @@
       "source": "ebay",
       "confidence": "high",
       "gap_bucket": "1_to_9"
-    },
-    {
-      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389860434054?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ac57e2086:g:J0kAAeSw2nZp1bJR",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 585.0,
-      "shipping_cost": 0.0,
-      "baseline_price": 608.88,
-      "gapPct": 3.92,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "1_to_9"
     }
   ],
   "_merge_info": {
-    "ebay_deals": 12,
+    "ebay_deals": 10,
     "retailer_deals": 1,
-    "total_merged": 13,
+    "total_merged": 11,
     "retailer_deals_visible": true
   }
 }
