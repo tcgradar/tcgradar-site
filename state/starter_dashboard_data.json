@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T21:19:26.721324+00:00",
+  "timestamp": "2026-04-08T21:21:22.260904+00:00",
   "tier": "starter",
   "total_deals": 4,
   "all_deals_count": 11,
@@ -95,7 +95,7 @@
       "language": "EN",
       "shipping_cost": 0,
       "confidence": "high",
-      "deal_quality": "low",
+      "deal_quality": "medium",
       "gap_bucket": "10_to_19"
     },
     {
