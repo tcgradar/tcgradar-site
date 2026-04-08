@@ -409,7 +409,8 @@
     <div class="container">
         <header>
             <h1>Dashboard</h1>
-            <p>Live opportunities across Pokemon and One Piece</p>
+            <p>Deals detected from live marketplace scanning</p>
+            <p id="last-updated" style="font-size: 0.85rem; color: #666; margin-top: 8px;">Loading...</p>
         </header>
 
         <div id="loading" class="loading">Loading dashboard data...</div>
@@ -767,11 +768,35 @@
             document.getElementById('loading').style.display = 'none';
             document.getElementById('dashboard').style.display = 'block';
 
+            // Update timestamp display
+            if (dashboardData.timestamp) {
+                const timestampEl = document.getElementById('last-updated');
+                const relativeTime = formatRelativeTime(dashboardData.timestamp);
+                timestampEl.textContent = `Updated ${relativeTime}`;
+                timestampEl.style.color = '#4CAF50';
+            }
+
             renderSummary();
             renderFilters();
             renderDeals(rawDeals);
-            renderWatchlist(rawWatchlist);
+            // STEP 78: Pass empty state info to watchlist renderer
+            renderWatchlist(rawWatchlist, dashboardData.fallback_deals || [], dashboardData.empty_watchlist || false);
             renderAuctions();
+        }
+
+        // STEP BETA: Format relative timestamp
+        function formatRelativeTime(timestamp) {
+            const now = new Date();
+            const then = new Date(timestamp);
+            const diffMs = now - then;
+            const diffMins = Math.floor(diffMs / 60000);
+            const diffHours = Math.floor(diffMs / 3600000);
+            const diffDays = Math.floor(diffMs / 86400000);
+            
+            if (diffMins < 1) return 'just now';
+            if (diffMins < 60) return `${diffMins} minute${diffMins !== 1 ? 's' : ''} ago`;
+            if (diffHours < 24) return `${diffHours} hour${diffHours !== 1 ? 's' : ''} ago`;
+            return `${diffDays} day${diffDays !== 1 ? 's' : ''} ago`;
         }
 
         function renderSummary() {
@@ -872,10 +897,51 @@
             `}).join('');
         }
 
-        // STEP 78: Render watchlist deals
-        function renderWatchlist(watchlistToRender) {
+        // STEP 78: Render watchlist deals with empty state handling
+        function renderWatchlist(watchlistToRender, fallbackDeals, isEmptyState) {
             const tbody = document.getElementById('watchlist-tbody');
+            const section = document.getElementById('watchlist-section');
             
+            // Handle empty state
+            if (isEmptyState) {
+                document.getElementById('watchlist-count').textContent = 'No strong deals right now — market is quiet';
+                
+                // Render fallback deals (top 3 from full list)
+                if (fallbackDeals && fallbackDeals.length > 0) {
+                    tbody.innerHTML = fallbackDeals.map(deal => {
+                        const source = formatSource(deal.url).toLowerCase().includes('ebay') ? 'ebay' : 'retailer';
+                        return `
+                        <tr style="opacity: 0.7;">
+                            <td class="title-cell">
+                                <a href="${deal.url}" target="_blank" rel="noopener" onclick="trackDealClick('${source}', '${deal.franchise}', '${deal.product_type}', ${deal.gapPct})" class="deal-link">${deal.title}</a>
+                                <span style="font-size: 0.75rem; color: #666; display: block; margin-top: 4px;">(fallback)</span>
+                            </td>
+                            <td>${formatSource(deal.url)}</td>
+                            <td>
+                                <span class="franchise-badge ${getFranchiseClass(deal.franchise)}">${formatFranchise(deal.franchise)}</span>
+                            </td>
+                            <td>${deal.set}</td>
+                            <td class="product-type">${formatProductType(deal.product_type)}</td>
+                            <td>EN</td>
+                            <td>
+                                <div class="price">$${(deal.total_price || deal.price).toFixed(2)}</div>
+                                <div style="font-size: 0.75rem; color: #888;">${deal.shipping_cost > 0 ? `(incl. $${deal.shipping_cost.toFixed(2)} shipping)` : '(free shipping)'}</div>
+                                <div style="font-size: 0.75rem; color: #4CAF50;">Market: $${deal.baseline_price.toFixed(2)}</div>
+                            </td>
+                            <td>
+                                <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
+                            </td>
+                            <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${deal.deal_quality ? deal.deal_quality.charAt(0).toUpperCase() + deal.deal_quality.slice(1).toLowerCase() : 'Low'}</td>
+                            <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
+                        </tr>
+                    `}).join('');
+                } else {
+                    tbody.innerHTML = '<tr><td colspan="11" style="text-align: center; padding: 40px; color: #888;">No deals available</td></tr>';
+                }
+                return;
+            }
+            
+            // Normal watchlist render
             document.getElementById('watchlist-count').textContent = `Showing ${watchlistToRender.length} watchlist items`;
 
             if (watchlistToRender.length === 0) {
@@ -900,7 +966,7 @@
                     <td>
                         <div class="price">$${(deal.total_price || deal.price).toFixed(2)}</div>
                         <div style="font-size: 0.75rem; color: #888;">${deal.shipping_cost > 0 ? `(incl. $${deal.shipping_cost.toFixed(2)} shipping)` : '(free shipping)'}</div>
-                        <div class="baseline-price">$${deal.baseline_price.toFixed(2)}</div>
+                        <div style="font-size: 0.75rem; color: #4CAF50;">Market: $${deal.baseline_price.toFixed(2)}</div>
                     </td>
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
@@ -1191,5 +1257,10 @@
         }
         document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeFeedback(); });
     </script>
+    
+    <!-- Disclaimer -->
+    <div style="text-align: center; padding: 20px; font-size: 0.8rem; color: #666; border-top: 1px solid #333; margin-top: 40px;">
+        Algorithmically detected — always verify before purchasing
+    </div>
 </body>
 </html>
