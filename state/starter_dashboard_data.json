@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T12:19:56.004849+00:00",
+  "timestamp": "2026-04-08T13:04:51.893090+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -9,12 +9,12 @@
       "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 4,
-      "etb": 2
+      "booster_box": 5,
+      "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
-      "10_to_19": 3,
+      "20_plus": 1,
+      "10_to_19": 4,
       "1_to_9": 1
     }
   },
@@ -31,9 +31,9 @@
     ],
     "set": [
       "500 Years in the Future",
+      "Astral Radiance",
       "Battle Styles",
-      "Destined Rivals",
-      "Temporal Forces"
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box",
@@ -54,23 +54,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 604.43,
-      "gapPct": 25.55,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Pokemon TCG: Scarlet & Violet - Temporal Forces Flutter Mane Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/277865320663?_skw=pokemon+Temporal+Forces+booster+box&hash=item40b21050d7:g:FjQAAeSwcdJp0bSj",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "etb",
-      "price": 99.95,
-      "shipping_cost": 0.0,
-      "baseline_price": 130.09,
-      "gapPct": 23.17,
+      "baseline_price": 599.99,
+      "gapPct": 25.0,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -86,6 +71,21 @@
       "shipping_cost": 36.22,
       "baseline_price": 333.33,
       "gapPct": 17.36,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "low",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
+      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 349.99,
+      "shipping_cost": 0.0,
+      "baseline_price": 409.9,
+      "gapPct": 14.62,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "low",
@@ -132,8 +132,8 @@
       "product_type": "etb",
       "price": 90.0,
       "shipping_cost": 0.0,
-      "baseline_price": 99.5,
-      "gapPct": 9.55,
+      "baseline_price": 99.0,
+      "gapPct": 9.09,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
