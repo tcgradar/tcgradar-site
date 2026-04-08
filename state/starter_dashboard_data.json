@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-04-08T20:34:52.883253+00:00",
+  "timestamp": "2026-04-08T21:19:26.721324+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 13,
+  "total_deals": 4,
+  "all_deals_count": 11,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 5
+      "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 4,
+      "booster_box": 3,
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
+      "20_plus": 1,
       "10_to_19": 2,
       "1_to_9": 1
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -28,8 +28,7 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals",
-      "Fusion Strike"
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box",
@@ -42,25 +41,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 678.3000000000001,
-      "shipping_cost": 41.73,
-      "total_price": 678.3000000000001,
-      "shipping_verified": true,
-      "baseline_price": 1129.74,
-      "gapPct": 39.96,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
       "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
@@ -79,6 +59,25 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 259.22,
+      "shipping_cost": 0.0,
+      "total_price": 259.22,
+      "shipping_verified": false,
+      "baseline_price": 317.5,
+      "gapPct": 18.36,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
@@ -100,25 +99,6 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 277.19000000000005,
-      "shipping_cost": 17.97,
-      "total_price": 277.19000000000005,
-      "shipping_verified": true,
-      "baseline_price": 317.5,
-      "gapPct": 12.7,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19"
-    },
-    {
       "title": "Pokemon TCG: Sword & Shield- Battle Styles Elite Trainer Box (Blue)",
       "url": "https://www.ebay.com/itm/188243770207?_skw=pokemon+Battle+Styles+booster+box&hash=item2bd433fb5f:g:MZEAAOSwEp1nj-1H",
       "franchise": "pokemon",
@@ -128,8 +108,8 @@
       "shipping_cost": 0.0,
       "total_price": 90.0,
       "shipping_verified": false,
-      "baseline_price": 99.0,
-      "gapPct": 9.09,
+      "baseline_price": 98.5,
+      "gapPct": 8.63,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -149,8 +129,8 @@
       "shipping_cost": 36.22,
       "total_price": 275.46000000000004,
       "shipping_verified": true,
-      "baseline_price": 331.66,
-      "gapPct": 16.95,
+      "baseline_price": 329.99,
+      "gapPct": 16.52,
       "confidence": "low",
       "seller_rating": 100.0,
       "seller_feedback_count": 631,
@@ -184,28 +164,6 @@
       "watchlist_reason": "small_gap"
     },
     {
-      "title": "Pokemon TCG Fusion Strike Booster Box 36 Packs Sword & Shield New Factory Sealed",
-      "url": "https://www.ebay.com/itm/188234379810?_skw=pokemon+Fusion+Strike+booster+box&hash=item2bd3a4b222:g:rBUAAeSwYc1pzYNG",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 1049.99,
-      "shipping_cost": 0.0,
-      "total_price": 1049.99,
-      "shipping_verified": false,
-      "baseline_price": 1129.74,
-      "gapPct": 7.06,
-      "confidence": "high",
-      "seller_rating": 97.0,
-      "seller_feedback_count": 119,
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "MEDIUM",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
-    },
-    {
       "title": "ONE PIECE OP09 EMPERORS IN THE NEW WORLD SEALED BOOSTER BOX ENGLISH OP-09 OP9 EN",
       "url": "https://www.ebay.com/itm/197123391268?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2de5783f24:g:b2MAAOSweWpn2aZF",
       "franchise": "onepiece",
@@ -215,8 +173,8 @@
       "shipping_cost": 0.0,
       "total_price": 579.63,
       "shipping_verified": true,
-      "baseline_price": 622.49,
-      "gapPct": 6.89,
+      "baseline_price": 614.99,
+      "gapPct": 5.75,
       "confidence": "low",
       "seller_rating": 100.0,
       "seller_feedback_count": 818,
@@ -228,42 +186,20 @@
       "watchlist_reason": "small_gap"
     },
     {
-      "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
-      "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+sealed&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
+      "title": "ONE PIECE TCG OP07 500 Years in the Future English Booster Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/277680212001?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item40a707c821:g:urQAAeSwFMZpeVGd",
       "franchise": "onepiece",
-      "set": "Emperors in the New World",
+      "set": "500 Years in the Future",
       "product_type": "booster_box",
-      "price": 585.0999999999999,
-      "shipping_cost": 46.55,
-      "total_price": 585.0999999999999,
+      "price": 311.78999999999996,
+      "shipping_cost": 46.26,
+      "total_price": 311.78999999999996,
       "shipping_verified": true,
-      "baseline_price": 622.49,
-      "gapPct": 6.01,
-      "confidence": "low",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 744,
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
-    },
-    {
-      "title": "Pokemon Hidden Fates ETB Elite Trainer Box Sealed TCG",
-      "url": "https://www.ebay.com/itm/277822746231?_skw=pokemon+Hidden+Fates+booster+box&hash=item40af86ae77:g:tZgAAeSwS5ZpvsGs",
-      "franchise": "pokemon",
-      "set": "Hidden Fates",
-      "product_type": "etb",
-      "price": 489.62,
-      "shipping_cost": 36.0,
-      "total_price": 489.62,
-      "shipping_verified": true,
-      "baseline_price": 518.74,
-      "gapPct": 5.61,
+      "baseline_price": 329.99,
+      "gapPct": 5.52,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 274,
+      "seller_feedback_count": 276,
       "language": "EN",
       "source": "ebay",
       "seller_trust": "HIGH",
@@ -294,6 +230,28 @@
       "watchlist_reason": "small_gap"
     },
     {
+      "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
+      "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 585.0999999999999,
+      "shipping_cost": 46.55,
+      "total_price": 585.0999999999999,
+      "shipping_verified": true,
+      "baseline_price": 614.99,
+      "gapPct": 4.86,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 744,
+      "language": "EN",
+      "source": "ebay",
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
+    },
+    {
       "title": "Pokemon Battle Styles Rapid Strike Urshifu Elite Trainer Box ETB NEW Sealed",
       "url": "https://www.ebay.com/itm/178020780989?_skw=pokemon+Battle+Styles+booster+box&hash=item2972dd8bbd:g:55MAAeSwnhhp0LlP",
       "franchise": "pokemon",
@@ -303,8 +261,8 @@
       "shipping_cost": 0.0,
       "total_price": 95.0,
       "shipping_verified": false,
-      "baseline_price": 99.0,
-      "gapPct": 4.04,
+      "baseline_price": 98.5,
+      "gapPct": 3.55,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 641,
@@ -320,9 +278,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 4,
+    "ebay_deals": 3,
     "retailer_deals": 1,
-    "total_merged": 5,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
