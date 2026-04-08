@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-04-08T04:49:14.479444+00:00",
+  "timestamp": "2026-04-08T05:34:57.389439+00:00",
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 5,
+  "total_deals": 6,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 4,
+      "pokemon": 5,
       "onepiece": 1
     },
     "by_product_type": {
       "booster_box": 4,
-      "etb": 1
+      "etb": 2
     },
     "by_gap_bucket": {
-      "20_plus": 2,
+      "20_plus": 3,
       "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0,
     "high": 1
@@ -31,7 +31,8 @@
     "set": [
       "500 Years in the Future",
       "Battle Styles",
-      "Destined Rivals"
+      "Destined Rivals",
+      "Temporal Forces"
     ],
     "product_type": [
       "booster_box",
@@ -59,6 +60,21 @@
       "gap_bucket": "20_plus"
     },
     {
+      "title": "Pokemon TCG: Scarlet & Violet - Temporal Forces Flutter Mane Elite Trainer Box",
+      "url": "https://www.ebay.com/itm/277865320663?_skw=pokemon+Temporal+Forces+booster+box&hash=item40b21050d7:g:FjQAAeSwcdJp0bSj",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "etb",
+      "price": 99.95,
+      "shipping_cost": 0.0,
+      "baseline_price": 130.0,
+      "gapPct": 23.12,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
       "title": "Pokemon Battle Styles Single Strike Urshifu Elite Trainer Box ETB NEW Sealed",
       "url": "https://www.ebay.com/itm/178020566000?_skw=pokemon+Battle+Styles+booster+box&hash=item2972da43f0:g:OgcAAeSw0vBp0JpY",
       "franchise": "pokemon",
@@ -66,8 +82,8 @@
       "product_type": "etb",
       "price": 80.0,
       "shipping_cost": 0.0,
-      "baseline_price": 103.64,
-      "gapPct": 22.81,
+      "baseline_price": 100.0,
+      "gapPct": 20.0,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -79,10 +95,10 @@
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
-      "price": 274.3,
-      "shipping_cost": 36.07,
+      "price": 275.46000000000004,
+      "shipping_cost": 36.22,
       "baseline_price": 333.33,
-      "gapPct": 17.71,
+      "gapPct": 17.36,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "low",
@@ -112,10 +128,10 @@
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "booster_box",
-      "price": 276.73,
-      "shipping_cost": 17.94,
+      "price": 277.19000000000005,
+      "shipping_cost": 17.97,
       "baseline_price": 312.5,
-      "gapPct": 11.45,
+      "gapPct": 11.3,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -123,9 +139,9 @@
     }
   ],
   "_merge_info": {
-    "ebay_deals": 4,
+    "ebay_deals": 5,
     "retailer_deals": 1,
-    "total_merged": 5,
+    "total_merged": 6,
     "retailer_deals_visible": true
   }
 }
