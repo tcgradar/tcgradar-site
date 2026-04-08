@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T10:04:09.945240+00:00",
+  "updated_at": "2026-04-08T10:49:09.169691+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
@@ -16,17 +16,17 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
-    "price": 536.28,
+    "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+    "price": 259.22,
     "seller_rating": 100.0,
-    "seller_feedback_count": 744,
-    "franchise": "onepiece",
-    "set": "Emperors in the New World",
+    "seller_feedback_count": 604,
+    "franchise": "pokemon",
+    "set": "Battle Styles",
     "product_type": "booster_box",
-    "confidence": "low",
-    "baseline_price": 614.99,
-    "gapPct": 5.26,
-    "deal_quality": "MEDIUM",
+    "confidence": "high",
+    "baseline_price": 312.5,
+    "gapPct": 11.3,
+    "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
 }
