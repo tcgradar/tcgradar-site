@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-04-08T07:03:07.496515+00:00",
+  "timestamp": "2026-04-08T07:49:53.650729+00:00",
   "tier": "starter",
   "total_deals": 13,
   "all_deals_count": 13,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 5,
-      "pokemon": 8
+      "pokemon": 10,
+      "onepiece": 3
     },
     "by_product_type": {
-      "booster_box": 10,
-      "etb": 2,
+      "booster_box": 9,
+      "etb": 3,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
@@ -32,10 +32,11 @@
     ],
     "set": [
       "500 Years in the Future",
-      "Adventure on Kami's Island",
       "Battle Styles",
       "Destined Rivals",
-      "Emperors in the New World"
+      "Emperors in the New World",
+      "Fusion Strike",
+      "Hidden Fates"
     ],
     "product_type": [
       "booster_box",
@@ -50,18 +51,18 @@
   },
   "deals": [
     {
-      "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
-      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
-      "franchise": "onepiece",
-      "set": "500 Years in the Future",
+      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
       "product_type": "booster_box",
-      "price": 239.24,
-      "shipping_cost": 0.0,
-      "baseline_price": 333.33,
-      "gapPct": 28.23,
+      "price": 678.3000000000001,
+      "shipping_cost": 41.73,
+      "baseline_price": 1248.88,
+      "gapPct": 45.69,
       "seller_trust": "HIGH",
       "source": "ebay",
-      "confidence": "low",
+      "confidence": "high",
       "gap_bucket": "20_plus"
     },
     {
@@ -95,18 +96,18 @@
       "gap_bucket": "20_plus"
     },
     {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
+      "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
+      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
+      "franchise": "onepiece",
+      "set": "500 Years in the Future",
       "product_type": "booster_box",
-      "price": 259.22,
-      "shipping_cost": 0.0,
-      "baseline_price": 312.5,
-      "gapPct": 17.05,
+      "price": 275.46000000000004,
+      "shipping_cost": 36.22,
+      "baseline_price": 333.33,
+      "gapPct": 17.36,
       "seller_trust": "HIGH",
       "source": "ebay",
-      "confidence": "high",
+      "confidence": "low",
       "gap_bucket": "10_to_19"
     },
     {
@@ -123,23 +124,23 @@
       "source": "gamenerdz",
       "confidence": "high",
       "language": "EN",
-      "availability": "out_of_stock",
+      "availability": "in_stock",
       "is_preorder": false,
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
-      "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "url": "https://www.ebay.com/itm/297998490837?_skw=pokemon+Battle+Styles+booster+box&hash=item4562181cd5:g:hegAAeSwedFpgpxA",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
       "product_type": "booster_box",
-      "price": 538.55,
-      "shipping_cost": 0.0,
-      "baseline_price": 614.99,
-      "gapPct": 12.43,
+      "price": 277.19000000000005,
+      "shipping_cost": 17.97,
+      "baseline_price": 312.5,
+      "gapPct": 11.3,
       "seller_trust": "HIGH",
       "source": "ebay",
-      "confidence": "low",
+      "confidence": "high",
       "gap_bucket": "10_to_19"
     },
     {
@@ -150,8 +151,8 @@
       "product_type": "booster_bundle",
       "price": 59.99,
       "shipping_cost": 0.0,
-      "baseline_price": 63.97,
-      "gapPct": 6.22,
+      "baseline_price": 63.99,
+      "gapPct": 6.25,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -159,7 +160,7 @@
     },
     {
       "title": "ONE PIECE OP09 EMPERORS IN THE NEW WORLD SEALED BOOSTER BOX ENGLISH OP-09 OP9 EN",
-      "url": "https://www.ebay.com/itm/197123391268?_skw=onepiece+Emperors+in+the+New+World+sealed&hash=item2de5783f24:g:b2MAAOSweWpn2aZF",
+      "url": "https://www.ebay.com/itm/197123391268?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2de5783f24:g:b2MAAOSweWpn2aZF",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
@@ -188,15 +189,30 @@
       "gap_bucket": "1_to_9"
     },
     {
-      "title": "One Piece OP-07 English Booster Box | Factory Sealed | Genuine Bandai | UK",
-      "url": "https://www.ebay.com/itm/137000537787?_skw=one+piece+OP-07+booster+box&hash=item1fe5de4ebb:g:QocAAeSwq~1prlGZ",
+      "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
+      "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
       "franchise": "onepiece",
-      "set": "500 Years in the Future",
+      "set": "Emperors in the New World",
       "product_type": "booster_box",
-      "price": 318.59,
-      "shipping_cost": 0.0,
-      "baseline_price": 333.33,
-      "gapPct": 4.42,
+      "price": 585.0999999999999,
+      "shipping_cost": 46.55,
+      "baseline_price": 614.99,
+      "gapPct": 4.86,
+      "seller_trust": "HIGH",
+      "source": "ebay",
+      "confidence": "low",
+      "gap_bucket": "1_to_9"
+    },
+    {
+      "title": "Pokemon Hidden Fates ETB Elite Trainer Box Sealed TCG",
+      "url": "https://www.ebay.com/itm/277822746231?_skw=pokemon+Hidden+Fates+booster+box&hash=item40af86ae77:g:tZgAAeSwS5ZpvsGs",
+      "franchise": "pokemon",
+      "set": "Hidden Fates",
+      "product_type": "etb",
+      "price": 489.62,
+      "shipping_cost": 36.0,
+      "baseline_price": 512.47,
+      "gapPct": 4.46,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -230,21 +246,6 @@
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "1_to_9"
-    },
-    {
-      "title": "One Piece TCG OP15-EB04 Adventure on Kami's Island Sealed English Booster Box",
-      "url": "https://www.ebay.com/itm/117123544926?_skw=onepiece+Adventure+on+Kami%27s+Island+sealed&hash=item1b451b775e:g:fnEAAeSw0SNpz7CZ",
-      "franchise": "onepiece",
-      "set": "Adventure on Kami's Island",
-      "product_type": "booster_box",
-      "price": 241.91,
-      "shipping_cost": 0.0,
-      "baseline_price": 249.95,
-      "gapPct": 3.22,
-      "seller_trust": "HIGH",
-      "source": "ebay",
-      "confidence": "low",
       "gap_bucket": "1_to_9"
     }
   ],
