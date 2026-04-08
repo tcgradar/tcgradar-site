@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T01:49:52.661779+00:00",
+  "timestamp": "2026-04-08T02:34:10.968716+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -14,7 +14,8 @@
     },
     "by_gap_bucket": {
       "20_plus": 2,
-      "10_to_19": 3
+      "10_to_19": 2,
+      "1_to_9": 1
     }
   },
   "trust_counts": {
@@ -39,6 +40,7 @@
     ],
     "gap_bucket": [
       "10_to_19",
+      "1_to_9",
       "20_plus"
     ]
   },
@@ -51,8 +53,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 608.88,
-      "gapPct": 26.1,
+      "baseline_price": 604.43,
+      "gapPct": 25.55,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -114,12 +116,12 @@
       "product_type": "booster_box",
       "price": 276.73,
       "shipping_cost": 17.94,
-      "baseline_price": 312.5,
-      "gapPct": 11.45,
+      "baseline_price": 305.96,
+      "gapPct": 9.55,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "1_to_9"
     }
   ],
   "_merge_info": {
