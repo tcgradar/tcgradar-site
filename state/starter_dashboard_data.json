@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T15:19:13.254429+00:00",
+  "timestamp": "2026-04-08T16:04:16.518975+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 5,
@@ -14,7 +14,8 @@
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 4
+      "10_to_19": 3,
+      "1_to_9": 1
     }
   },
   "trust_counts": {
@@ -39,6 +40,7 @@
     ],
     "gap_bucket": [
       "10_to_19",
+      "1_to_9",
       "20_plus"
     ]
   },
@@ -51,8 +53,8 @@
       "product_type": "booster_box",
       "price": 449.99,
       "shipping_cost": 0.0,
-      "baseline_price": 604.43,
-      "gapPct": 25.55,
+      "baseline_price": 599.99,
+      "gapPct": 25.0,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
@@ -118,13 +120,13 @@
       "product_type": "etb",
       "price": 90.0,
       "shipping_cost": 0.0,
-      "baseline_price": 100.0,
-      "gapPct": 10.0,
+      "baseline_price": 99.5,
+      "gapPct": 9.55,
       "seller_trust": "HIGH",
       "source": "ebay",
       "confidence": "high",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19"
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9"
     }
   ],
   "watchlist_deals": [
@@ -138,8 +140,8 @@
       "shipping_cost": 0.0,
       "total_price": 59.99,
       "shipping_verified": false,
-      "baseline_price": 64.94,
-      "gapPct": 7.62,
+      "baseline_price": 64.99,
+      "gapPct": 7.69,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 187,
@@ -158,8 +160,8 @@
       "shipping_cost": 10.99,
       "total_price": 559.99,
       "shipping_verified": true,
-      "baseline_price": 604.43,
-      "gapPct": 7.35,
+      "baseline_price": 599.99,
+      "gapPct": 6.67,
       "confidence": "high",
       "seller_rating": 99.5,
       "seller_feedback_count": 2005,
@@ -189,26 +191,6 @@
       "deal_quality": "low"
     },
     {
-      "title": "Pokemon Battle Styles Rapid Strike Urshifu Elite Trainer Box ETB NEW Sealed",
-      "url": "https://www.ebay.com/itm/178020780989?_skw=pokemon+Battle+Styles+booster+box&hash=item2972dd8bbd:g:55MAAeSwnhhp0LlP",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 95.0,
-      "shipping_cost": 0.0,
-      "total_price": 95.0,
-      "shipping_verified": false,
-      "baseline_price": 100.0,
-      "gapPct": 5.0,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 640,
-      "shipping_included": true,
-      "gap_bucket": "1_to_9",
-      "seller_trust": "HIGH",
-      "deal_quality": "low"
-    },
-    {
       "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
       "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
       "franchise": "onepiece",
@@ -223,6 +205,26 @@
       "confidence": "low",
       "seller_rating": 100.0,
       "seller_feedback_count": 744,
+      "shipping_included": true,
+      "gap_bucket": "1_to_9",
+      "seller_trust": "HIGH",
+      "deal_quality": "low"
+    },
+    {
+      "title": "Pokemon Battle Styles Rapid Strike Urshifu Elite Trainer Box ETB NEW Sealed",
+      "url": "https://www.ebay.com/itm/178020780989?_skw=pokemon+Battle+Styles+booster+box&hash=item2972dd8bbd:g:55MAAeSwnhhp0LlP",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 95.0,
+      "shipping_cost": 0.0,
+      "total_price": 95.0,
+      "shipping_verified": false,
+      "baseline_price": 99.5,
+      "gapPct": 4.52,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 640,
       "shipping_included": true,
       "gap_bucket": "1_to_9",
       "seller_trust": "HIGH",
