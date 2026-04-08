@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T13:11:48.675998+00:00",
+  "timestamp": "2026-04-08T13:13:15.390351+00:00",
   "tier": "starter",
   "total_deals": 6,
   "all_deals_count": 6,
@@ -67,7 +67,7 @@
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
-      "price": 311.68000000000006,
+      "price": 347.9000000000001,
       "shipping_cost": 36.22,
       "baseline_price": 333.33,
       "gapPct": 17.36,
@@ -115,7 +115,7 @@
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "booster_box",
-      "price": 295.1600000000001,
+      "price": 313.1300000000001,
       "shipping_cost": 17.97,
       "baseline_price": 312.5,
       "gapPct": 11.3,
@@ -159,8 +159,8 @@
       "seller_rating": 99.3,
       "seller_feedback_count": 1166,
       "seller_trust": "HIGH",
-      "gap_bucket": "20_plus",
-      "deal_quality": "high"
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
     },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
@@ -168,7 +168,7 @@
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
-      "price": 275.46000000000004,
+      "price": 311.68000000000006,
       "shipping_cost": 36.22,
       "baseline_price": 333.33,
       "gapPct": 17.36,
@@ -176,8 +176,8 @@
       "seller_rating": 100.0,
       "seller_feedback_count": 631,
       "seller_trust": "HIGH",
-      "gap_bucket": "10_to_19",
-      "deal_quality": "low"
+      "deal_quality": "low",
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
@@ -193,8 +193,8 @@
       "seller_rating": 100.0,
       "seller_feedback_count": 515,
       "seller_trust": "HIGH",
-      "gap_bucket": "10_to_19",
-      "deal_quality": "low"
+      "deal_quality": "low",
+      "gap_bucket": "10_to_19"
     }
   ],
   "_merge_info": {
