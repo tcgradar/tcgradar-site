@@ -1,24 +1,23 @@
 {
-  "timestamp": "2026-04-09T03:19:50.504901+00:00",
+  "timestamp": "2026-04-09T04:04:08.645993+00:00",
   "tier": "starter",
-  "total_deals": 6,
-  "all_deals_count": 14,
+  "total_deals": 4,
+  "all_deals_count": 12,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 6
+      "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 4,
-      "booster_bundle": 1,
+      "booster_box": 3,
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
-      "10_to_19": 4
+      "20_plus": 1,
+      "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 6,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -28,12 +27,10 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals",
-      "Fusion Strike"
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box",
-      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -42,25 +39,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 678.3000000000001,
-      "shipping_cost": 41.73,
-      "total_price": 678.3000000000001,
-      "shipping_verified": true,
-      "baseline_price": 1261.59,
-      "gapPct": 46.23,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
       "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
@@ -79,25 +57,6 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Pokemon Destined Rivals  Booster Bundle. Authentic. Factory Sealed",
-      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7MhV1wX%2FQxzCnZHsqcBsuJobw3pqzAcue%2BWdtXE7k3sMBDbcWz5tKMw%2FcxJ8vTjBrYVYkuE2EgwbfbDJyU2eqI%2Fmly4rBfTGgIDWx7KBmiv3WrG8Lwlc9ZQlhIL90uqnyNgOkN%2FtKVAPEZPZmSeTSeDEcuD0Y4kEJEAaBT1kNUy7NlNNncwvW2CH2362Ldtsio%3D",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 54.0,
-      "shipping_cost": 0.0,
-      "total_price": 54.0,
-      "shipping_verified": false,
-      "baseline_price": 64.99,
-      "gapPct": 16.91,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
     },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
@@ -128,7 +87,7 @@
       "shipping_cost": 17.97,
       "total_price": 277.19000000000005,
       "shipping_verified": true,
-      "baseline_price": 320.0,
+      "baseline_price": 319.99,
       "gapPct": 13.38,
       "confidence": "high",
       "language": "EN",
@@ -181,28 +140,6 @@
       "watchlist_reason": "low_confidence"
     },
     {
-      "title": "Pokemon Destined Rivals Booster Bundle - Factory Sealed",
-      "url": "https://www.ebay.com/itm/287253552307?_skw=pokemon+Destined+Rivals+sealed&hash=item42e1a55cb3:g:KHUAAeSwV3Rp0WNv",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 59.99,
-      "shipping_cost": 0.0,
-      "total_price": 59.99,
-      "shipping_verified": false,
-      "baseline_price": 64.99,
-      "gapPct": 7.69,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 187,
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
-    },
-    {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
       "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng",
       "franchise": "pokemon",
@@ -234,11 +171,11 @@
       "shipping_cost": 0.0,
       "total_price": 299.99,
       "shipping_verified": false,
-      "baseline_price": 320.0,
+      "baseline_price": 319.99,
       "gapPct": 6.25,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 187,
+      "seller_feedback_count": 188,
       "language": "EN",
       "source": "ebay",
       "seller_trust": "HIGH",
@@ -292,7 +229,7 @@
     },
     {
       "title": "Pokemon Battle Styles Rapid Strike Urshifu Elite Trainer Box ETB NEW Sealed",
-      "url": "https://www.ebay.com/itm/178020780989?_skw=pokemon+Battle+Styles+booster+box&hash=item2972dd8bbd:g:55MAAeSwnhhp0LlP",
+      "url": "https://www.ebay.com/itm/178020780989?_skw=pokemon+Battle+Styles+sealed&hash=item2972dd8bbd:g:55MAAeSwnhhp0LlP",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "etb",
@@ -333,15 +270,37 @@
       "deal_quality": "low",
       "gap_bucket": "1_to_9",
       "watchlist_reason": "small_gap"
+    },
+    {
+      "title": "One Piece OP15/EB04 Adventure on KAMI\u2019S Island Booster Box ENGLISH Sealed",
+      "url": "https://www.ebay.com/itm/257447615761?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item3bf112dd11:g:tVgAAeSwxCZp1cCs",
+      "franchise": "onepiece",
+      "set": "Adventure on Kami's Island",
+      "product_type": "booster_box",
+      "price": 239.99,
+      "shipping_cost": 0.0,
+      "total_price": 239.99,
+      "shipping_verified": true,
+      "baseline_price": 249.83,
+      "gapPct": 3.94,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1720,
+      "language": "EN",
+      "source": "ebay",
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 5,
+    "ebay_deals": 3,
     "retailer_deals": 1,
-    "total_merged": 6,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
