@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-04-09T04:04:08.694154+00:00",
+  "updated_at": "2026-04-09T04:49:12.549072+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
-    "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-    "price": 259.22,
+    "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
+    "price": 636.57,
     "seller_rating": 100.0,
-    "seller_feedback_count": 604,
+    "seller_feedback_count": 1463,
     "franchise": "pokemon",
-    "set": "Battle Styles",
+    "set": "Fusion Strike",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 317.5,
-    "gapPct": 18.36,
+    "baseline_price": 1261.59,
+    "gapPct": 46.23,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
@@ -29,5 +29,20 @@
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
-  "social_candidates": []
+  "social_candidates": [
+    {
+      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+      "price": 259.22,
+      "seller_rating": 100.0,
+      "seller_feedback_count": 604,
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "confidence": "high",
+      "baseline_price": 317.5,
+      "gapPct": 18.36,
+      "deal_quality": "HIGH",
+      "seller_trust": "HIGH"
+    }
+  ]
 }
