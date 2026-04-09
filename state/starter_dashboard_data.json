@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T23:34:33.981746+00:00",
+  "timestamp": "2026-04-09T00:19:07.736373+00:00",
   "tier": "starter",
   "total_deals": 5,
   "all_deals_count": 13,
@@ -9,13 +9,12 @@
     },
     "by_product_type": {
       "booster_box": 3,
-      "etb": 1,
-      "booster_bundle": 1
+      "booster_bundle": 1,
+      "etb": 1
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 3,
-      "1_to_9": 1
+      "10_to_19": 4
     }
   },
   "trust_counts": {
@@ -37,7 +36,6 @@
       "etb"
     ],
     "gap_bucket": [
-      "1_to_9",
       "10_to_19",
       "20_plus"
     ]
@@ -53,7 +51,7 @@
       "shipping_cost": 0.0,
       "total_price": 449.99,
       "shipping_verified": true,
-      "baseline_price": 599.99,
+      "baseline_price": 600.0,
       "gapPct": 25.0,
       "confidence": "high",
       "language": "EN",
@@ -61,6 +59,25 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon Destined Rivals  Booster Bundle. Authentic. Factory Sealed",
+      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7N8VxgL0%2Bdur5yA4HO2YiKeM81xRO2MvJGdjDDyHzpUUqDsdljlqqcLwtZE7lUw6cTLbePcMesUZz34cMUCNC6rGLKD%2BjdiohyIH0bVOvgTlGt%2BLiqtIgVdlN3P%2F89daM7Go4FFkdtOJcx0EgUg6Mctz96GwBQn%2B8yjyGTeqVfw9WetNfb1lUWvhxJ84LqUNzY%3D",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 54.0,
+      "shipping_cost": 0.0,
+      "total_price": 54.0,
+      "shipping_verified": false,
+      "baseline_price": 64.99,
+      "gapPct": 16.91,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
@@ -118,25 +135,6 @@
       "seller_trust": "HIGH",
       "deal_quality": "medium",
       "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon Scarlett & Violet Destined Rivals Booster Bundle",
-      "url": "https://www.ebay.com/itm/287261154629?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e2195d45:g:G-gAAeSwjr1pxCrz",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 59.980000000000004,
-      "shipping_cost": 9.99,
-      "total_price": 59.980000000000004,
-      "shipping_verified": true,
-      "baseline_price": 66.0,
-      "gapPct": 9.12,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "1_to_9"
     }
   ],
   "watchlist_deals": [
@@ -163,6 +161,28 @@
       "watchlist_reason": "low_confidence"
     },
     {
+      "title": "Pokemon Destined Rivals Booster Bundle - Factory Sealed",
+      "url": "https://www.ebay.com/itm/287253552307?_skw=pokemon+Destined+Rivals+sealed&hash=item42e1a55cb3:g:KHUAAeSwV3Rp0WNv",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 59.99,
+      "shipping_cost": 0.0,
+      "total_price": 59.99,
+      "shipping_verified": false,
+      "baseline_price": 64.99,
+      "gapPct": 7.69,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 187,
+      "language": "EN",
+      "source": "ebay",
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
+    },
+    {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
       "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng",
       "franchise": "pokemon",
@@ -172,7 +192,7 @@
       "shipping_cost": 10.99,
       "total_price": 559.99,
       "shipping_verified": true,
-      "baseline_price": 599.99,
+      "baseline_price": 600.0,
       "gapPct": 6.67,
       "confidence": "high",
       "seller_rating": 99.5,
@@ -220,7 +240,7 @@
       "gapPct": 5.75,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 818,
+      "seller_feedback_count": 820,
       "language": "EN",
       "source": "ebay",
       "seller_trust": "HIGH",
@@ -287,28 +307,6 @@
       "confidence": "low",
       "seller_rating": 100.0,
       "seller_feedback_count": 744,
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
-    },
-    {
-      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
-      "url": "https://www.ebay.com/itm/168008434346?_skw=pokemon+Destined+Rivals+booster+box&hash=item271e1542aa:g:o6AAAOSwoeZoEUHB",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 62.9,
-      "shipping_cost": 0.0,
-      "total_price": 62.9,
-      "shipping_verified": true,
-      "baseline_price": 66.0,
-      "gapPct": 4.7,
-      "confidence": "high",
-      "seller_rating": 99.3,
-      "seller_feedback_count": 635625,
       "language": "EN",
       "source": "ebay",
       "seller_trust": "HIGH",
