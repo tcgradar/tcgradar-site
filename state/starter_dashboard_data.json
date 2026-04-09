@@ -1,24 +1,24 @@
 {
-  "timestamp": "2026-04-09T01:04:52.742255+00:00",
+  "timestamp": "2026-04-09T01:49:51.454993+00:00",
   "tier": "starter",
-  "total_deals": 6,
-  "all_deals_count": 16,
+  "total_deals": 5,
+  "all_deals_count": 15,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 6
+      "pokemon": 5
     },
     "by_product_type": {
       "booster_box": 3,
-      "etb": 2,
-      "booster_bundle": 1
+      "booster_bundle": 1,
+      "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
+      "20_plus": 1,
       "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 6,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -28,8 +28,7 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals",
-      "Temporal Forces"
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box",
@@ -62,27 +61,8 @@
       "gap_bucket": "20_plus"
     },
     {
-      "title": "Pokemon TCG: Scarlet & Violet - Temporal Forces Flutter Mane Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/277865320663?_skw=pokemon+Temporal+Forces+booster+box&hash=item40b21050d7:g:FjQAAeSwcdJp0bSj",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "etb",
-      "price": 99.95,
-      "shipping_cost": 0.0,
-      "total_price": 99.95,
-      "shipping_verified": false,
-      "baseline_price": 130.05,
-      "gapPct": 23.14,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
       "title": "Pokemon Destined Rivals  Booster Bundle. Authentic. Factory Sealed",
-      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7MxoQmOP60In9QTQ0D10GCZcfsbAoZgQVcQaNWl66OjwnHAa3%2FcoI%2FM8Kzj1x75piCrwg2jDRSIAMIbcck4O1ubnBxCR9m%2Fh68Fqpsy6c30ByXr0zgsjUm4VXCv3iujTV%2BwcJWDqF11c3wUY1pK%2BqgiQb2oyYXUHk8fxZMdTFTpHfGr%2FHjZG4PKeoYKSklGWz0%3D",
+      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7MCtxbo9HieDNbs7xnuhcqkorWWFXPerHBnDHgcSFxD8R8P%2F3DH%2BRVM3OFLp7NRFqrVpkDUA%2FZmp4%2BGHZFu6o6yx78KBJC6wADsldLgrLX0kbvmvE4pU4rbK7BJOs9zVKv0jOQY%2FaFIEZdeKkaN%2Fh%2BkbHq0JqQ5KWyIxOmAVLD8xS55aX1mpx3f%2BONEqnKntHw%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -147,8 +127,8 @@
       "shipping_cost": 0.0,
       "total_price": 90.0,
       "shipping_verified": false,
-      "baseline_price": 100.0,
-      "gapPct": 10.0,
+      "baseline_price": 103.5,
+      "gapPct": 13.04,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -181,26 +161,26 @@
       "watchlist_reason": "low_confidence"
     },
     {
-      "title": "POKEMON ELITE TRAINER BOX ETB TEMPORAL FORCES GRN NEW SEALED AWESOME !",
-      "url": "https://www.ebay.com/itm/197994396950?_skw=pokemon+Temporal+Forces+booster+box&hash=item2e1962bd16:g:7KsAAeSw3QdpVp4-",
+      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
+      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
       "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "etb",
-      "price": 119.99,
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 349.99,
       "shipping_cost": 0.0,
-      "total_price": 119.99,
+      "total_price": 349.99,
       "shipping_verified": false,
-      "baseline_price": 130.05,
-      "gapPct": 7.74,
-      "confidence": "high",
+      "baseline_price": 399.5,
+      "gapPct": 12.39,
+      "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 1681,
+      "seller_feedback_count": 515,
       "language": "EN",
       "source": "ebay",
       "seller_trust": "HIGH",
       "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "low_confidence"
     },
     {
       "title": "Pokemon Destined Rivals Booster Bundle - Factory Sealed",
@@ -217,6 +197,28 @@
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 187,
+      "language": "EN",
+      "source": "ebay",
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
+    },
+    {
+      "title": "Pokemon TCG Celebrations Elite Trainer Box Anniversary Edition ",
+      "url": "https://www.ebay.com/itm/267632220456?_skw=pokemon+Celebrations+booster+box&hash=item3e501f9928:g:HBgAAeSwaGNp1Sdr",
+      "franchise": "pokemon",
+      "set": "Celebrations",
+      "product_type": "etb",
+      "price": 325.0,
+      "shipping_cost": 0.0,
+      "total_price": 325.0,
+      "shipping_verified": false,
+      "baseline_price": 350.0,
+      "gapPct": 7.14,
+      "confidence": "high",
+      "seller_rating": 99.3,
+      "seller_feedback_count": 1216,
       "language": "EN",
       "source": "ebay",
       "seller_trust": "HIGH",
@@ -313,42 +315,20 @@
       "watchlist_reason": "small_gap"
     },
     {
-      "title": "Pokemon Battle Styles Rapid Strike Urshifu Elite Trainer Box ETB NEW Sealed",
-      "url": "https://www.ebay.com/itm/178020780989?_skw=pokemon+Battle+Styles+booster+box&hash=item2972dd8bbd:g:55MAAeSwnhhp0LlP",
+      "title": "Battle Styles Elite Trainer Box ETB Rapid Strike Urshifu Factory Sealed Pokemon",
+      "url": "https://www.ebay.com/itm/317959108475?_skw=pokemon+Battle+Styles+sealed&hash=item4a07d6f77b:g:QOsAAeSwdDdpqc6~",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "etb",
-      "price": 95.0,
+      "price": 98.0,
       "shipping_cost": 0.0,
-      "total_price": 95.0,
+      "total_price": 98.0,
       "shipping_verified": false,
-      "baseline_price": 100.0,
-      "gapPct": 5.0,
+      "baseline_price": 103.5,
+      "gapPct": 5.31,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 641,
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
-    },
-    {
-      "title": "Pokemon TCG Temporal Forces Booster Box Factory Sealed With Protector SEE DESC.",
-      "url": "https://www.ebay.com/itm/287102163249?_skw=pokemon+Temporal+Forces+booster+box&hash=item42d89f5931:g:EsAAAeSwmpNpd960",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 289.99,
-      "shipping_cost": 0.0,
-      "total_price": 289.99,
-      "shipping_verified": false,
-      "baseline_price": 305.0,
-      "gapPct": 4.92,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 258,
+      "seller_feedback_count": 191,
       "language": "EN",
       "source": "ebay",
       "seller_trust": "HIGH",
@@ -383,9 +363,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 5,
+    "ebay_deals": 4,
     "retailer_deals": 1,
-    "total_merged": 6,
+    "total_merged": 5,
     "retailer_deals_visible": true
   }
 }
