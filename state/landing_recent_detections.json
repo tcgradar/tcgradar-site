@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-10T23:15:04.455511+00:00",
+  "updated_at": "2026-04-10T23:30:04.789456+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
     "price": 109.7,
     "seller_rating": 100.0,
-    "seller_feedback_count": 10446,
+    "seller_feedback_count": 10447,
     "franchise": "onepiece",
     "set": "500 Years in the Future",
     "product_type": "booster_box",
@@ -16,18 +16,47 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "OP09 Emperors in the New World Booster Box Factory Sealed One Piece ENGLISH",
-    "price": 483.7,
+    "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
+    "price": 109.7,
     "seller_rating": 100.0,
-    "seller_feedback_count": 231,
+    "seller_feedback_count": 10447,
     "franchise": "onepiece",
-    "set": "Emperors in the New World",
+    "set": "500 Years in the Future",
     "product_type": "booster_box",
-    "confidence": "high",
-    "baseline_price": 629.99,
-    "gapPct": 13.58,
+    "confidence": "low",
+    "baseline_price": 321.89,
+    "gapPct": 49.59,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
-  "social_candidates": []
+  "social_candidates": [
+    {
+      "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
+      "price": 109.7,
+      "seller_rating": 100.0,
+      "seller_feedback_count": 10446,
+      "franchise": "onepiece",
+      "set": "500 Years in the Future",
+      "product_type": "booster_box",
+      "confidence": "low",
+      "baseline_price": 321.89,
+      "gapPct": 49.59,
+      "deal_quality": "HIGH",
+      "seller_trust": "HIGH"
+    },
+    {
+      "title": "OP09 Emperors in the New World Booster Box Factory Sealed One Piece ENGLISH",
+      "price": 483.7,
+      "seller_rating": 100.0,
+      "seller_feedback_count": 231,
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "confidence": "high",
+      "baseline_price": 629.99,
+      "gapPct": 13.58,
+      "deal_quality": "HIGH",
+      "seller_trust": "HIGH"
+    }
+  ]
 }
