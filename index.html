@@ -682,6 +682,15 @@
             }
         }
 
+        function formatDealQuality(quality) {
+            const mapping = {
+                'high': 'Safe Buy',
+                'medium': 'Check Deal',
+                'low': 'Low Confidence'
+            };
+            return mapping[(quality || 'low').toLowerCase()] || 'Low Confidence';
+        }
+
         function renderCards(data, container) {
             const cards = [];
 
@@ -710,9 +719,8 @@
             const dealQuality = (item.deal_quality || 'LOW').toLowerCase();
             const sellerTrust = (item.seller_trust || 'LOW').toLowerCase();
             
-            // Normalize display values to Title Case
-            const qualityDisplay = item.deal_quality ? 
-                item.deal_quality.charAt(0).toUpperCase() + item.deal_quality.slice(1).toLowerCase() : 'Low';
+            // Normalize display values
+            const qualityDisplay = formatDealQuality(item.deal_quality);
             const trustDisplay = item.seller_trust ? 
                 item.seller_trust.charAt(0).toUpperCase() + item.seller_trust.slice(1).toLowerCase() : 'Low';
 

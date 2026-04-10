@@ -741,6 +741,15 @@
             }
         }
 
+        function formatDealQuality(quality) {
+            const mapping = {
+                'high': 'Safe Buy',
+                'medium': 'Check Deal',
+                'low': 'Low Confidence'
+            };
+            return mapping[(quality || 'low').toLowerCase()] || 'Low Confidence';
+        }
+
         async function loadDashboardData() {
             try {
                 const response = await fetch('../state/starter_dashboard_data.json');
@@ -891,7 +900,7 @@
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
                     <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}"
-                        >${deal.deal_quality ? deal.deal_quality.charAt(0).toUpperCase() + deal.deal_quality.slice(1).toLowerCase() : 'Low'}</td>
+                        >${formatDealQuality(deal.deal_quality)}</td>
                     <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}"
                         >${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
@@ -932,7 +941,7 @@
                             <td>
                                 <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
                             </td>
-                            <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${deal.deal_quality ? deal.deal_quality.charAt(0).toUpperCase() + deal.deal_quality.slice(1).toLowerCase() : 'Low'}</td>
+                            <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${formatDealQuality(deal.deal_quality)}</td>
                             <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                         </tr>
                     `}).join('');
@@ -972,7 +981,7 @@
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
-                    <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${deal.deal_quality ? deal.deal_quality.charAt(0).toUpperCase() + deal.deal_quality.slice(1).toLowerCase() : 'Low'}</td>
+                    <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${formatDealQuality(deal.deal_quality)}</td>
                     <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
             `}).join('');
@@ -1054,7 +1063,7 @@
                     </td>
                     <td>${formatTimeLeft(timeRemaining)}</td>
                     <td class="urgency-${opportunityType}">${formatAuctionStatus(opportunityType)}</td>
-                    <td class="deal-quality-${auction.deal_quality?.toLowerCase() || 'low'}">${auction.deal_quality ? auction.deal_quality.charAt(0).toUpperCase() + auction.deal_quality.slice(1).toLowerCase() : 'Low'}</td>
+                    <td class="deal-quality-${auction.deal_quality?.toLowerCase() || 'low'}">${formatDealQuality(auction.deal_quality)}</td>
                     <td class="seller-trust-${auction.seller_trust?.toLowerCase() || 'low'}">${auction.seller_trust ? auction.seller_trust.charAt(0).toUpperCase() + auction.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
                 `;
