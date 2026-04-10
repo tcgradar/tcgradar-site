@@ -494,7 +494,7 @@
                                 <th>Language</th>
                                 <th>Price</th>
                                 <th>Gap</th>
-                                <th>Deal quality</th>
+                                <th title="Reflects both the price advantage and our confidence in the market price">Deal quality <span style="color:#888;font-size:0.75rem">ⓘ</span></th>
                                 <th>Seller trust</th>
                             </tr>
                         </thead>
@@ -521,7 +521,7 @@
                                 <th>Language</th>
                                 <th>Price</th>
                                 <th>Gap</th>
-                                <th>Deal quality</th>
+                                <th title="Reflects both the price advantage and our confidence in the market price">Deal quality <span style="color:#888;font-size:0.75rem">ⓘ</span></th>
                                 <th>Seller trust</th>
                             </tr>
                         </thead>
@@ -548,6 +548,7 @@
                                 <th>Language</th>
                                 <th>Current Price</th>
                                 <th>Gap</th>
+                                <th title="Reflects both the price advantage and our confidence in the market price">Deal quality <span style="color:#888;font-size:0.75rem">ⓘ</span></th>
                                 <th>Time Left</th>
                                 <th>Status</th>
                                 <th>Seller Trust</th>
@@ -884,7 +885,7 @@
                     <td>
                         <div class="price">$${(deal.total_price || deal.price).toFixed(2)}</div>
                         <div style="font-size: 0.75rem; color: #888;">${deal.shipping_cost > 0 ? `(incl. $${deal.shipping_cost.toFixed(2)} shipping)` : '(free shipping)'}</div>
-                        <div class="baseline-price">$${deal.baseline_price.toFixed(2)}</div>
+                        <div style="font-size: 0.75rem; color: #4CAF50;">Market: $${deal.baseline_price.toFixed(2)}</div>
                     </td>
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
@@ -1019,7 +1020,7 @@
             countEl.textContent = `Showing ${auctionsToRender.length} auction opportunities`;
             
             if (auctionsToRender.length === 0) {
-                tbody.innerHTML = '<tr><td colspan="11" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
+                tbody.innerHTML = '<tr><td colspan="12" style="text-align: center; padding: 40px; color: #888;">No auctions match your filters</td></tr>';
                 return;
             }
             
@@ -1046,11 +1047,12 @@
                     <td>
                         <div class="price">$${totalPrice.toFixed(2)}</div>
                         <div style="font-size: 0.75rem; color: #888;">${shippingCost > 0 ? `(+ $${shippingCost.toFixed(2)} shipping)` : '(free shipping)'}</div>
-                        <div class="baseline-price">$${baselinePrice.toFixed(2)}</div>
+                        <div style="font-size: 0.75rem; color: #4CAF50;">Market: $${baselinePrice.toFixed(2)}</div>
                     </td>
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
                     </td>
+                    <td class="deal-quality-${auction.deal_quality?.toLowerCase() || 'low'}">${auction.deal_quality ? auction.deal_quality.charAt(0).toUpperCase() + auction.deal_quality.slice(1).toLowerCase() : 'Low'}</td>
                     <td>${formatTimeLeft(timeRemaining)}</td>
                     <td class="urgency-${opportunityType}">${formatAuctionStatus(opportunityType)}</td>
                     <td class="seller-trust-${auction.seller_trust?.toLowerCase() || 'low'}">${auction.seller_trust ? auction.seller_trust.charAt(0).toUpperCase() + auction.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
