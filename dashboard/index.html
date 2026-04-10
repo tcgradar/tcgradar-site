@@ -548,9 +548,9 @@
                                 <th>Language</th>
                                 <th>Current Price</th>
                                 <th>Gap</th>
-                                <th title="Reflects both the price advantage and our confidence in the market price">Deal quality <span style="color:#888;font-size:0.75rem">ⓘ</span></th>
                                 <th>Time Left</th>
                                 <th>Status</th>
+                                <th title="Reflects both the price advantage and our confidence in the market price">Deal quality <span style="color:#888;font-size:0.75rem">ⓘ</span></th>
                                 <th>Seller Trust</th>
                             </tr>
                         </thead>
@@ -1052,9 +1052,9 @@
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(auction.gapPct))}">${(auction.gapPct || 0).toFixed(1)}%</span>
                     </td>
-                    <td class="deal-quality-${auction.deal_quality?.toLowerCase() || 'low'}">${auction.deal_quality ? auction.deal_quality.charAt(0).toUpperCase() + auction.deal_quality.slice(1).toLowerCase() : 'Low'}</td>
                     <td>${formatTimeLeft(timeRemaining)}</td>
                     <td class="urgency-${opportunityType}">${formatAuctionStatus(opportunityType)}</td>
+                    <td class="deal-quality-${auction.deal_quality?.toLowerCase() || 'low'}">${auction.deal_quality ? auction.deal_quality.charAt(0).toUpperCase() + auction.deal_quality.slice(1).toLowerCase() : 'Low'}</td>
                     <td class="seller-trust-${auction.seller_trust?.toLowerCase() || 'low'}">${auction.seller_trust ? auction.seller_trust.charAt(0).toUpperCase() + auction.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
                 `;
