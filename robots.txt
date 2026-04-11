@@ -1,3 +1,4 @@
 User-agent: *
-Allow: /
-Sitemap: https://tcgradar-site.pages.dev/sitemap.xml
+Disallow: /
+
+# Staging environment - no indexing allowed

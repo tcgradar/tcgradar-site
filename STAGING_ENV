@@ -1,0 +1,16 @@
+# Staging Environment Configuration
+# This file identifies the current environment as staging
+# Place this file in the site root to enable staging mode
+
+ENVIRONMENT=staging
+STAGING_URL=https://staging.tcgradar-site.pages.dev
+PRODUCTION_URL=https://tcgradar-site.pages.dev
+
+# State files in staging use "staging_" prefix
+STATE_PREFIX=staging_
+
+# Disable git auto-push in staging
+AUTO_PUSH=false
+
+# Indexing protection enabled
+NOINDEX=true
