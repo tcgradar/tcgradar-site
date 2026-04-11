@@ -741,11 +741,22 @@
             }
         }
 
-        function formatDealQuality(quality) {
+        function formatDealQuality(quality, watchlistReason, gapPct) {
+            // Map internal deal_quality to display label
+            // For 'low', distinguish between low confidence vs low upside
+            if ((quality || 'low').toLowerCase() === 'low') {
+                // Check watchlist_reason first, then fallback to gap threshold
+                if (watchlistReason === 'small_gap') {
+                    return 'Low Upside';
+                }
+                if (gapPct !== undefined && gapPct < 8.0) {
+                    return 'Low Upside';
+                }
+                return 'Low Confidence';
+            }
             const mapping = {
                 'high': 'Safe Buy',
-                'medium': 'Check Deal',
-                'low': 'Low Confidence'
+                'medium': 'Check Deal'
             };
             return mapping[(quality || 'low').toLowerCase()] || 'Low Confidence';
         }
@@ -900,7 +911,7 @@
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
                     <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}"
-                        >${formatDealQuality(deal.deal_quality)}</td>
+                        >${formatDealQuality(deal.deal_quality, null, deal.gapPct)}</td>
                     <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}"
                         >${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
@@ -941,7 +952,7 @@
                             <td>
                                 <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
                             </td>
-                            <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${formatDealQuality(deal.deal_quality)}</td>
+                            <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${formatDealQuality(deal.deal_quality, deal.watchlist_reason, deal.gapPct)}</td>
                             <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                         </tr>
                     `}).join('');
@@ -981,7 +992,7 @@
                     <td>
                         <span class="gap-badge ${getGapBadgeClass(getGapBucket(deal.gapPct))}">${deal.gapPct.toFixed(1)}%</span>
                     </td>
-                    <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${formatDealQuality(deal.deal_quality)}</td>
+                    <td class="deal-quality-${deal.deal_quality?.toLowerCase() || 'low'}">${formatDealQuality(deal.deal_quality, null, deal.gapPct)}</td>
                     <td class="seller-trust-${deal.seller_trust?.toLowerCase() || 'low'}">${deal.seller_trust ? deal.seller_trust.charAt(0).toUpperCase() + deal.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
             `}).join('');
@@ -1063,7 +1074,7 @@
                     </td>
                     <td>${formatTimeLeft(timeRemaining)}</td>
                     <td class="urgency-${opportunityType}">${formatAuctionStatus(opportunityType)}</td>
-                    <td class="deal-quality-${auction.deal_quality?.toLowerCase() || 'low'}">${formatDealQuality(auction.deal_quality)}</td>
+                    <td class="deal-quality-${auction.deal_quality?.toLowerCase() || 'low'}">${formatDealQuality(auction.deal_quality, null, auction.gapPct)}</td>
                     <td class="seller-trust-${auction.seller_trust?.toLowerCase() || 'low'}">${auction.seller_trust ? auction.seller_trust.charAt(0).toUpperCase() + auction.seller_trust.slice(1).toLowerCase() : 'Low'}</td>
                 </tr>
                 `;
