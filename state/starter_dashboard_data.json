@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T19:07:53.571489+00:00",
+  "timestamp": "2026-04-11T19:53:24.840803+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -18,8 +18,7 @@
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 1
+      "20_plus": 2
     }
   },
   "trust_counts": {
@@ -40,14 +39,13 @@
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19",
       "20_plus"
     ]
   },
   "deals": [
     {
       "title": "Pokemon TCG Battle Styles Elite Trainer Box ETB (NEW) (SEALED)",
-      "url": "https://www.ebay.com/itm/298169608068?_skw=pokemon+Battle+Styles+booster+box&hash=item456c4b2784:g:ZNMAAeSwghNpx88D",
+      "url": "https://www.ebay.com/itm/298169608068?_skw=pokemon+Battle+Styles+sealed&hash=item456c4b2784:g:ZNMAAeSwghNpx88D",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "etb",
@@ -66,24 +64,24 @@
       "gap_bucket": "20_plus"
     },
     {
-      "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Bundle Sealed",
-      "url": "https://www.ebay.com/itm/298214032442?_skw=pokemon+Destined+Rivals+booster+box&hash=item456ef1043a:g:NyoAAeSw25tp18Fh",
+      "title": "Pokemon Destined Rivals 6 Pack Booster Bundle Sealed",
+      "url": "https://www.ebay.com/itm/127804820622?_skw=pokemon+Destined+Rivals+booster+box&hash=item1dc1c2cc8e:g:enEAAeSwzClp2p1~",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
-      "price": 52.0,
+      "price": 47.99,
       "shipping_cost": 0.0,
-      "total_price": 52.0,
+      "total_price": 47.99,
       "shipping_verified": false,
       "baseline_price": 62.92,
-      "gapPct": 17.36,
+      "gapPct": 23.73,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "20_plus"
     }
   ],
   "watchlist_deals": [
@@ -156,7 +154,7 @@
     },
     {
       "title": "1 ONE Pokemon Scarlet & Violet Destined Rivals Elite Trainer Box ETB Sealed NEW",
-      "url": "https://www.ebay.com/itm/377101581303?_skw=pokemon+Destined+Rivals+booster+box&hash=item57cd017bf7:g:IfUAAeSw24tp2GVf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYWy04X%2F8XqOLj3wzJIYgCK9E7nXCOdgV6E3gCqpWGOlmBt%2F4q0LZcH1HypM%2Bkfb6Fv7rQu46yDpOpqNQ399ZAcTJAU7u29eqM3Mu%2BGaVx53PpAFHQUqbxAyRxn1kgM6UljN04ni0JnUoPsXlAxXZCDuGEtwcYXrsgaTBUcJCfsR%2FXdZPysstQk5O%2BjPhkjlHobh1VJJshfZI0YfQgb1n36t79H2DQrRjSHxGb7MdchhHwL9LLtlMngEOrdvNXO--aoy31Fu3hqeTAFKz0AntErxTw2JdJstS9F3CatBL1eVo7iZDb05JDGvF6vsA1mUbU%3D",
+      "url": "https://www.ebay.com/itm/377101581303?_skw=pokemon+Destined+Rivals+booster+box&hash=item57cd017bf7:g:IfUAAeSw24tp2GVf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYWy04X%2F8XqOLj3wzJIYgCK9E7nXCOdgV6E3gCqpWGOlmBt%2F4q0LZcH1HypM%2Bkfb6Fv7rQu46yDpOpqNQ399ZAcTJAU7u29eqM3Mu%2BGaVx53PpAFHQUqbxAyRxn1kgM6UkDVgJs%2FonPbf%2FsjBVgIe9MfA5NT4KZCsU1qO80gCC%2FhNR%2ByuhOPUEn1CnItZZanNGKG8AThPDtYj7IG%2BFvw0ggjoh29%2B3sIMBKzv61dNiHACuQPbPJ7h0ObtFGyu%2FNdOlKw2bSJlfUVyPXQ%2FJ3NZL8PuuqdUW9l619aU5Krq4eTwJFUBPi%2BmZFOT85vh0LHAI%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "etb",
