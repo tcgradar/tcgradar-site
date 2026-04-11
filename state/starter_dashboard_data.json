@@ -1,23 +1,24 @@
 {
-  "timestamp": "2026-04-11T15:23:57.619161+00:00",
+  "timestamp": "2026-04-11T16:08:28.676864+00:00",
   "tier": "starter",
-  "total_deals": 2,
+  "total_deals": 3,
   "all_deals_count": 11,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
       "etb": 1,
+      "booster_box": 1,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
+      "20_plus": 2,
       "10_to_19": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -27,9 +28,11 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals"
+      "Destined Rivals",
+      "Fusion Strike"
     ],
     "product_type": [
+      "booster_box",
       "booster_bundle",
       "etb"
     ],
@@ -51,6 +54,25 @@
       "shipping_verified": true,
       "baseline_price": 180.97,
       "gapPct": 39.23,
+      "confidence": "medium",
+      "language": "EN",
+      "source": "ebay",
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 685.78,
+      "shipping_cost": 42.19,
+      "total_price": 685.78,
+      "shipping_verified": true,
+      "baseline_price": 987.99,
+      "gapPct": 30.59,
       "confidence": "medium",
       "language": "EN",
       "source": "ebay",
@@ -102,28 +124,6 @@
       "watchlist_reason": "low_confidence"
     },
     {
-      "title": "Pokemon TCG Sword & Shield Astral Radiance Booster Box Factory Sealed English",
-      "url": "https://www.ebay.com/itm/377104920442?_skw=pokemon+Astral+Radiance+booster+box&hash=item57cd346f7a:g:MAUAAeSwhkpp2f4S",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 332.87,
-      "shipping_cost": 12.99,
-      "total_price": 332.87,
-      "shipping_verified": true,
-      "baseline_price": 386.96,
-      "gapPct": 13.98,
-      "confidence": "high",
-      "seller_rating": 99.7,
-      "seller_feedback_count": 4590,
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence"
-    },
-    {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
       "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
       "franchise": "pokemon",
@@ -166,6 +166,28 @@
       "watchlist_reason": "low_confidence"
     },
     {
+      "title": "Pokemon TCG Sword & Shield Battle Styles Booster Box New/Sealed - 36 Packs",
+      "url": "https://www.ebay.com/itm/397828362443?_skw=pokemon+Battle+Styles+booster+box&hash=item5ca06b10cb:g:uRcAAeSwcM9p2l9k",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 239.98000000000002,
+      "shipping_cost": 9.99,
+      "total_price": 239.98000000000002,
+      "shipping_verified": true,
+      "baseline_price": 264.35,
+      "gapPct": 9.22,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 329,
+      "language": "EN",
+      "source": "ebay",
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "low_confidence"
+    },
+    {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
       "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng",
       "franchise": "pokemon",
@@ -202,28 +224,6 @@
       "confidence": "low",
       "seller_rating": 100.0,
       "seller_feedback_count": 565,
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
-    },
-    {
-      "title": "Pokemon TCG: Sword & Shield ASTRAL RADIANCE 36 SEALED PACKS Booster Box Worth!",
-      "url": "https://www.ebay.com/itm/336502349097?_skw=pokemon+Astral+Radiance+booster+box&hash=item4e591a5d29:g:Hs0AAeSwNLtoMQfA",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 369.99,
-      "shipping_cost": 0.0,
-      "total_price": 369.99,
-      "shipping_verified": false,
-      "baseline_price": 386.96,
-      "gapPct": 4.39,
-      "confidence": "low",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 909,
       "language": "EN",
       "source": "ebay",
       "seller_trust": "HIGH",
@@ -280,9 +280,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 1,
-    "total_merged": 2,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
