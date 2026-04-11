@@ -1,24 +1,23 @@
 {
-  "timestamp": "2026-04-11T09:24:01.871568+00:00",
+  "timestamp": "2026-04-11T10:08:00.043669+00:00",
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 11,
+  "total_deals": 2,
+  "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3
+      "pokemon": 2
     },
     "by_product_type": {
       "etb": 1,
-      "booster_box": 1,
       "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
+      "20_plus": 1,
       "10_to_19": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -28,11 +27,9 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals",
-      "Fusion Strike"
+      "Destined Rivals"
     ],
     "product_type": [
-      "booster_box",
       "booster_bundle",
       "etb"
     ],
@@ -54,25 +51,6 @@
       "shipping_verified": true,
       "baseline_price": 180.97,
       "gapPct": 39.23,
-      "confidence": "medium",
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 685.78,
-      "shipping_cost": 42.19,
-      "total_price": 685.78,
-      "shipping_verified": true,
-      "baseline_price": 987.99,
-      "gapPct": 30.59,
       "confidence": "medium",
       "language": "EN",
       "source": "ebay",
@@ -103,7 +81,7 @@
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7Ukc527Th%2BMKnXN%2BAwnLmmEygWvJm%2BQpbidhWPHfIDh%2BUr6tDdODvSdz4Fk3jGzYwgHX8XgZntJpjBjwZrzoNriSZyzRQvNuvEgjm6DkCpszkKwnvXNluVtPdXJouCnNG5xxwJ68bdpvCHZ3dMk45qxN%2FN9fs9e0XDQUxSYQe2KvQ%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7UyrPcxB61BcKE48nTWu4LGs6ytmvn9RxWZtEoQiVtq0AMRViT4rK%2FTc518hCoe%2B%2FUM2IGgsdoXFnRDPKnyiLKX%2FGgQ1DbuAIigSks5j8wj3cpDEig92xIP6AdtyaluFJxnx7k6kcHyJ4VKOpRdk3%2BlbYTHF0bCu3zoqxZSwXlj9Q%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -189,7 +167,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsfE1aceUj5%2Bx7prYGGCFqnM8Q6dH82%2FHGkWzWxYbbxX%2BXMzX6zRINHXxiK7iMb3e1iS99%2FmsfX%2BZfyVdPseoae44EClbndRy%2B79zM9YOK9vqdeRVZp%2Fgc7FOYdqkAXaQaPZ9k3PY2CxFSCY7oqweW6SOZ8iNS%2FGBk4t6MnAfcPRQtuw%2BcthWwimsZ0fvyGLnGk%3D",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsfTLG5ojcW%2BHpLGCgi6MZhikZRH5sFtw9MsuwLd%2B1XWQ%2BNkQdZY2qw7cuaOBKyACDRXnozJBSL8yfUuhHToxso4bGSVKDENIz6rXAg3RgCamWO%2Byi%2FjpRc17KIL3OMzO9QP7ExPaA4aJxm2T3D7bhn99ZRGtqw%2BpCkXhnUKjgl%2Bs5ZI4P79Ov02Pd5K1tcRNew%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -280,9 +258,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 3,
+    "ebay_deals": 2,
     "retailer_deals": 1,
-    "total_merged": 3,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
