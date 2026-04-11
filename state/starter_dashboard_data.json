@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-11T13:53:10.645165+00:00",
+  "timestamp": "2026-04-11T14:38:40.805388+00:00",
   "tier": "starter",
   "total_deals": 2,
-  "all_deals_count": 9,
+  "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 2
@@ -136,6 +136,28 @@
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 231,
+      "language": "EN",
+      "source": "ebay",
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "low_confidence"
+    },
+    {
+      "title": "Pokemon Destined Rivals Elite Trainer Box ETB Sealed",
+      "url": "https://www.ebay.com/itm/298215567560?_skw=pokemon+Destined+Rivals+sealed&hash=item456f0870c8:g:~vcAAeSwBZ9p2lrW",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "etb",
+      "price": 195.0,
+      "shipping_cost": 0.0,
+      "total_price": 195.0,
+      "shipping_verified": false,
+      "baseline_price": 219.22,
+      "gapPct": 11.05,
+      "confidence": "high",
+      "seller_rating": 99.7,
+      "seller_feedback_count": 974,
       "language": "EN",
       "source": "ebay",
       "seller_trust": "HIGH",
