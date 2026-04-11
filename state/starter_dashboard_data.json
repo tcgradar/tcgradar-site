@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T11:37:47.844864+00:00",
+  "timestamp": "2026-04-11T12:23:15.882301+00:00",
   "tier": "starter",
   "total_deals": 2,
   "all_deals_count": 10,
@@ -41,7 +41,7 @@
   "deals": [
     {
       "title": "Pokemon TCG Battle Styles Elite Trainer Box ETB (NEW) (SEALED)",
-      "url": "https://www.ebay.com/itm/298169608068?_skw=pokemon+Battle+Styles+booster+box&hash=item456c4b2784:g:ZNMAAeSwghNpx88D",
+      "url": "https://www.ebay.com/itm/298169608068?_skw=Battle+Styles+booster+box&hash=item456c4b2784:g:ZNMAAeSwghNpx88D",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "etb",
@@ -81,7 +81,7 @@
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7XW91d1nmYY5Szf7sDESn3TTAzvRrMNobOgMuGlXzBdA%2BB0DgiuxwrvZdNn4b%2FC85pt78LoIKVa6X0VLBFjIhGdoMQP1joOFwpITf3kFpg1uctN%2Buv0taYSVuDLHfGsUwAcEBwGPScFK2rQIJGO4fat7g1LaG0fWxIlD7l7ghE2Dg%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7XVQVbbR239M4pgTJqlx7jxbPtyZlhEih%2Fd3Mig2d3XMyhGuluvs4z2e6bSE0k%2BRZXQQakRvHJSt0jGmGqcxXjEoD7erolazdHd9F5tgoE8wo0uPj90S--dGkmZExjJXC%2B1BRMgWFyFSPLi1CCXUALNFsq05vYYHFSMd08sG%2BfOWA%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -142,28 +142,6 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence"
-    },
-    {
-      "title": "Pokemon Destined Rivals SV10 Booster Bundle",
-      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lUKeP3W3Znk3S85nF0q5fEsQStbl5DAWq7gKJGSuC9LT%2BG3SGPRr%2Bck0Ufg%2FNoIFyk01cEYctbB43HmH5c4VMNSvYBqIDTcjobB7ebqY3Jqzrd0kvgHx9fynJ4Bo0Nc%2F0GmXGXitt309uQqLpMLEHZsjNMaDo8r9o8RwmxsCzzMqcMsHFXYpbjLc%2BOyrA8nOcug%3D",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 58.0,
-      "shipping_cost": 0.0,
-      "total_price": 58.0,
-      "shipping_verified": false,
-      "baseline_price": 62.92,
-      "gapPct": 7.82,
-      "confidence": "high",
-      "seller_rating": 99.5,
-      "seller_feedback_count": 340,
-      "language": "EN",
-      "source": "ebay",
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
     },
     {
       "title": "Sealed 500 Years in the Future Booster Box OP-07 One Piece -Kid Icarus-",
@@ -246,6 +224,28 @@
       "confidence": "low",
       "seller_rating": 99.7,
       "seller_feedback_count": 1202,
+      "language": "EN",
+      "source": "ebay",
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
+    },
+    {
+      "title": "Pokemon TCG - Scarlet & Violet Destined Rivals Booster Bundle - New Sealed",
+      "url": "https://www.ebay.com/itm/147179902291?_skw=pokemon+Destined+Rivals+sealed&hash=item22449b1553:g:6UwAAeSw3IVppPR2",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 60.99,
+      "shipping_cost": 5.99,
+      "total_price": 60.99,
+      "shipping_verified": true,
+      "baseline_price": 62.92,
+      "gapPct": 3.07,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 556,
       "language": "EN",
       "source": "ebay",
       "seller_trust": "HIGH",
