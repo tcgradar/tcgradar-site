@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T05:45:06.369857+00:00",
+  "updated_at": "2026-04-11T06:00:06.382969+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "OP09 Emperors in the New World Booster Box Factory Sealed One Piece ENGLISH",
@@ -29,20 +29,5 @@
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
-  "social_candidates": [
-    {
-      "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "price": 109.7,
-      "seller_rating": 100.0,
-      "seller_feedback_count": 10447,
-      "franchise": "onepiece",
-      "set": "500 Years in the Future",
-      "product_type": "booster_box",
-      "confidence": "low",
-      "baseline_price": 321.89,
-      "gapPct": 49.59,
-      "deal_quality": "HIGH",
-      "seller_trust": "HIGH"
-    }
-  ]
+  "social_candidates": []
 }
