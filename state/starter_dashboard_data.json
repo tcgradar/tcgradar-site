@@ -1,89 +1,70 @@
 {
-  "timestamp": "2026-04-12T08:37:48.270828+00:00",
+  "timestamp": "2026-04-12T12:22:51.187440+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
-    "in_best_deals": 0,
-    "in_watchlist": 1
+    "in_best_deals": 1,
+    "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 8,
+  "total_deals": 3,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2,
+      "onepiece": 1
     },
     "by_product_type": {
-      "etb": 1
+      "booster_bundle": 1,
+      "booster_box": 2
     },
     "by_gap_bucket": {
-      "20_plus": 1
+      "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
     "franchise": [
+      "onepiece",
       "pokemon"
     ],
     "set": [
-      "Battle Styles"
+      "Battle Styles",
+      "Destined Rivals",
+      "Emperors in the New World"
     ],
     "product_type": [
-      "etb"
+      "booster_box",
+      "booster_bundle"
     ],
     "gap_bucket": [
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
     {
-      "title": "Pokemon TCG Battle Styles Elite Trainer Box ETB (NEW) (SEALED)",
-      "url": "https://www.ebay.com/itm/298169608068?_skw=pokemon+Battle+Styles+booster+box&hash=item456c4b2784:g:ZNMAAeSwghNpx88D",
+      "title": "Pokemon Destined Rivals  Booster Bundle. Authentic. Factory Sealed",
+      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7OcRqefC8K9YSd0a2iZO7%2F4A8icj7wG3nq9MFyrNpQwKAAoo4CKYq9wRGQ7Cm8wOMqTDoqFBW6zJQMP%2Bz%2B4NzHWugCAFjTMFpmuAJQVrlqGTovJgtBLNQpRzhwfHYbCH8ZgCOLlkaxOQbsdnYjD4w72AoBVDCpzrcai--L6ZGRnPgdLxB3hXUmMywObS%2FkXPf4%3D",
       "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 109.97999999999999,
-      "shipping_cost": 19.99,
-      "total_price": 109.97999999999999,
-      "shipping_verified": true,
-      "baseline_price": 180.97,
-      "gapPct": 39.23,
-      "confidence": "medium",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 54.0,
+      "shipping_cost": 0.0,
+      "total_price": 54.0,
+      "shipping_verified": false,
+      "baseline_price": 62.92,
+      "gapPct": 14.18,
+      "confidence": "high",
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    }
-  ],
-  "watchlist_deals": [
-    {
-      "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
-      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
-      "franchise": "onepiece",
-      "set": "500 Years in the Future",
-      "product_type": "booster_box",
-      "price": 279.0,
-      "shipping_cost": 36.68,
-      "total_price": 279.0,
-      "shipping_verified": true,
-      "baseline_price": 325.0,
-      "gapPct": 14.15,
-      "confidence": "low",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 632,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence"
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
@@ -102,9 +83,8 @@
       "shipping_cost": 0,
       "confidence": "high",
       "non_ebay": true,
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence"
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "OP09 Emperors in the New World Booster Box Factory Sealed One Piece ENGLISH",
@@ -119,19 +99,64 @@
       "baseline_price": 630.0,
       "gapPct": 13.41,
       "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    }
+  ],
+  "watchlist_deals": [
+    {
+      "title": "Pokemon TCG Battle Styles Elite Trainer Box ETB (NEW) (SEALED)",
+      "url": "https://www.ebay.com/itm/298169608068?_skw=pokemon+Battle+Styles+booster+box&hash=item456c4b2784:g:ZNMAAeSwghNpx88D",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 109.97999999999999,
+      "shipping_cost": 19.99,
+      "total_price": 109.97999999999999,
+      "shipping_verified": true,
+      "baseline_price": 180.97,
+      "gapPct": 39.23,
+      "confidence": "medium",
       "seller_rating": 100.0,
-      "seller_feedback_count": 232,
+      "seller_feedback_count": 527,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence"
+    },
+    {
+      "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
+      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
+      "franchise": "onepiece",
+      "set": "500 Years in the Future",
+      "product_type": "booster_box",
+      "price": 279.0,
+      "shipping_cost": 36.68,
+      "total_price": 279.0,
+      "shipping_verified": true,
+      "baseline_price": 325.0,
+      "gapPct": 14.15,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 633,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence"
     },
     {
       "title": "Pokemon Destined Rivals SV10 Booster Bundle",
-      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lUILXBmgZVEGKgLaEusjjwmEu7Ty0whenn2JU1W7a2V1Q369tLihx7BU9S5%2FcgddNDUy2uUcNvaFAG%2FNlOw0L0g3mui3KcJ3%2B5jzu5pSPuxF4bL34qtpkaC25EmGZXTKQaeewn6U6HQWfo6UQ0fD5hLIDOBBDosFPNWwd%2F8nzbjFQUU2wa7Z9EP%2Fk99%2BiwyGGSc%3D",
+      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lUIwKd7Zs1VKCGAIUIL4zmb6L1rEDXYJ07TS7WNI2GhJpKaj47VSAQ%2B%2B%2BBsJQA0CXCL39yyZC14xunY7abe4rLq7t3cwNI4HWPLLXnwz4iZhaXgfl3OJZ9dqDgBolDIg0Zv2s0Ea4qtjF829p845AVVEEsdaHEvbLZKuZgdeQQnPIBZJYh4oMf3wOpV5lfifqNo%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -226,9 +251,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 1,
-    "total_merged": 1,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
