@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T19:09:24.516179+00:00",
+  "timestamp": "2026-04-12T19:54:29.181050+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,24 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
+  "total_deals": 4,
   "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2,
+      "pokemon": 3,
       "onepiece": 1
     },
     "by_product_type": {
       "booster_bundle": 1,
-      "booster_box": 2
+      "booster_box": 3
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 2
+      "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -107,9 +107,52 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Brand New Pokemon TCG Destined Rivals Booster Box 36 Packs - sealed - small tear",
+      "url": "https://www.ebay.com/itm/306876886176?_skw=Destined+Rivals+booster+box&hash=item477349aca0:g:o3oAAeSw5vBp2~bm",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 530.16,
+      "shipping_cost": 63.88,
+      "total_price": 530.16,
+      "shipping_verified": true,
+      "baseline_price": 594.97,
+      "gapPct": 10.89,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
+    {
+      "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7UlpCHPwyRHgiviRKNZU9r%2FSfinKLaWc4NZaU6wara9vzt6mGjTDRbZkUPZ19BXTK2O8U61aEnyTyr--P2FBVjF3UvUCN3Bgu2%2Fqg6VlH8VLdMsATThc1GnKU9IBDDcIlGVjo6LUWNWtfcTTbhc%2FjZ%2Bv1H%2BMKJKfk2wGjKY3Cvrfg%3D%3D",
+      "franchise": "onepiece",
+      "set": "500 Years in the Future",
+      "product_type": "booster_box",
+      "price": 162.28,
+      "shipping_cost": 52.58,
+      "total_price": 162.28,
+      "shipping_verified": true,
+      "baseline_price": 322.68,
+      "gapPct": 49.71,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 10449,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence"
+    },
     {
       "title": "Pokemon TCG Battle Styles Elite Trainer Box ETB (NEW) (SEALED)",
       "url": "https://www.ebay.com/itm/298169608068?_skw=pokemon+Battle+Styles+booster+box&hash=item456c4b2784:g:ZNMAAeSwghNpx88D",
@@ -134,31 +177,8 @@
       "watchlist_reason": "low_confidence"
     },
     {
-      "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
-      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
-      "franchise": "onepiece",
-      "set": "500 Years in the Future",
-      "product_type": "booster_box",
-      "price": 279.0,
-      "shipping_cost": 36.68,
-      "total_price": 279.0,
-      "shipping_verified": true,
-      "baseline_price": 324.99,
-      "gapPct": 14.15,
-      "confidence": "low",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 633,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence"
-    },
-    {
       "title": "Pokemon Destined Rivals SV10 Booster Bundle",
-      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lUIt%2BasDOTyJVRH3FOAQztHJh3w3CwpwcmnRIxtSaWPP%2BjoDB9SrBmiMY4UWxzipkYii6NjKTUHsaVbZe1LJd0fKcgczrnprQtcHO6%2FGyp5wG4%2FI3AGc8XPGvLyQDZMXeplHMZlf2qxPvowdxCElmq3JtpUvKN5KsGqGwp7GfGX3jyWeRubShr%2F4qwc%2FZqX0uT0%3D",
+      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lULhMTZAJLOB8bz5oOSlao3sGT8jsYoDI1xxJvrEqgVQhA%2B2tYmvQU8RrchQUyoDhdsu2vcjP%2Fi52hV5tSwmbaSsK%2FfjWy1RDxcYpv1NmloxAPhM9Huy2eYb%2FbzhcMck7LAPu%2FuX6NCJojSOCm8lP%2BXlMl7BywY9y7IAcoMzrhKINBs3fBtVfrE5lJqD6igWHeM%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -171,6 +191,29 @@
       "confidence": "high",
       "seller_rating": 99.5,
       "seller_feedback_count": 341,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
+    },
+    {
+      "title": "Sealed 500 Years in the Future Booster Box OP-07 One Piece -Kid Icarus-",
+      "url": "https://www.ebay.com/itm/389758058358?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item5abf63ff76:g:-tMAAeSwcIZpuFjd",
+      "franchise": "onepiece",
+      "set": "500 Years in the Future",
+      "product_type": "booster_box",
+      "price": 299.99,
+      "shipping_cost": 0.0,
+      "total_price": 299.99,
+      "shipping_verified": true,
+      "baseline_price": 322.68,
+      "gapPct": 7.03,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 333320,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -203,31 +246,8 @@
       "watchlist_reason": "small_gap"
     },
     {
-      "title": "Pokemon Destined Rivals Booster Box New Sealed no rips or tears",
-      "url": "https://www.ebay.com/itm/287268244078?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e2858a6e:g:7JsAAeSwICVp27lh",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 555.27,
-      "shipping_cost": 49.41,
-      "total_price": 555.27,
-      "shipping_verified": true,
-      "baseline_price": 594.97,
-      "gapPct": 6.67,
-      "confidence": "low",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 681,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
-    },
-    {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsfNxkdD1diVnOkBDVH6IhxG6hNowHZwZ3rwYM%2FhWwXTJ%2FPdcar2tnUL%2BSofT7bOd5pash06t5WnDLGuED2xU5uZTSOblGh3Nfp97zqWPbqL5LCO%2BhkHL11OfIPOVmDETQzLJUNX6H6TbSWVMUBVoNlUjJFss852zxvXnIxNZmoR1nAPuMyOtJgC2xeUSimRnGk%3D",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsdcabyvQ%2FZJjZEBySG2oawV%2BRZxVmbT%2FccFBLcbzNFQvSZXpL7LMtvHbm1a87HiPN3%2F%2B57BANPGPIRhAn%2BYXbfhoY0zugGrGshF5rneDTzkf01N4txPWwAH4zOiBD8xU4Btppg7WlTC%2B5BqQNDTlhSzajXmX8d5TXg45KlUrqgJfuLj1LwqqPP64YgePWTy7xg%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -247,38 +267,15 @@
       "deal_quality": "low",
       "gap_bucket": "1_to_9",
       "watchlist_reason": "small_gap"
-    },
-    {
-      "title": "ONE PIECE TCG OP07 500 Years in the Future English Booster Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/277680212001?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item40a707c821:g:urQAAeSwFMZpeVGd",
-      "franchise": "onepiece",
-      "set": "500 Years in the Future",
-      "product_type": "booster_box",
-      "price": 315.22999999999996,
-      "shipping_cost": 46.77,
-      "total_price": 315.22999999999996,
-      "shipping_verified": true,
-      "baseline_price": 324.99,
-      "gapPct": 3.0,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 277,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 1,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
