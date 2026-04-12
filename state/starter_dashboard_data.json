@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T08:33:05.237071+00:00",
+  "timestamp": "2026-04-12T08:37:48.270828+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,49 +7,61 @@
     "in_watchlist": 1
   },
   "tier": "starter",
-  "total_deals": 0,
+  "total_deals": 1,
   "all_deals_count": 8,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {}
+    "by_franchise": {
+      "pokemon": 1
+    },
+    "by_product_type": {
+      "etb": 1
+    },
+    "by_gap_bucket": {
+      "20_plus": 1
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Battle Styles"
+    ],
+    "product_type": [
+      "etb"
+    ],
+    "gap_bucket": [
+      "20_plus"
+    ]
   },
-  "deals": [],
-  "watchlist_deals": [
+  "deals": [
     {
-      "title": "Pokemon Destined Rivals  Booster Bundle. Authentic. Factory Sealed",
-      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7NMemoSzbyuexM%2BeYNP%2BZfb8NY1bMqGc4UqhFjG7Ksq%2B4XjhYEYoOkvbHgcRR7%2Fjjqn5hZo2wkSveItf5rtv4KnB6MHJtWG3TNe9xe%2BcmEslc3vNMEOCd7C7zPtNZ9pEykruBhiwO%2FPhAGGL97lNcrKsbXKAqtMybmgyNx4x58HWPFZPnzWV%2BdSI3YubIeoxSc%3D",
+      "title": "Pokemon TCG Battle Styles Elite Trainer Box ETB (NEW) (SEALED)",
+      "url": "https://www.ebay.com/itm/298169608068?_skw=pokemon+Battle+Styles+booster+box&hash=item456c4b2784:g:ZNMAAeSwghNpx88D",
       "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 54.0,
-      "shipping_cost": 0.0,
-      "total_price": 54.0,
-      "shipping_verified": false,
-      "baseline_price": 62.92,
-      "gapPct": 14.18,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 814,
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 109.97999999999999,
+      "shipping_cost": 19.99,
+      "total_price": 109.97999999999999,
+      "shipping_verified": true,
+      "baseline_price": 180.97,
+      "gapPct": 39.23,
+      "confidence": "medium",
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence"
-    },
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    }
+  ],
+  "watchlist_deals": [
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
       "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
@@ -119,7 +131,7 @@
     },
     {
       "title": "Pokemon Destined Rivals SV10 Booster Bundle",
-      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lUJVqtf99ZRnC1gQjMxBf4nue%2FMi8Nu98Llavm91lU2C36myjlMWZoGS78b64IisPYyp329IROXv%2BN%2BdqFMeeCQYjnX7eWw7HDsViXfbNNATd%2FxPHkNsZjGhXPt4254m2BPFPyovfdcX7l7xD29gdDZKJsGKT4GRLjgsYjl8cy3nufcrVOmPPZJavh60owSRJvU%3D",
+      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lUILXBmgZVEGKgLaEusjjwmEu7Ty0whenn2JU1W7a2V1Q369tLihx7BU9S5%2FcgddNDUy2uUcNvaFAG%2FNlOw0L0g3mui3KcJ3%2B5jzu5pSPuxF4bL34qtpkaC25EmGZXTKQaeewn6U6HQWfo6UQ0fD5hLIDOBBDosFPNWwd%2F8nzbjFQUU2wa7Z9EP%2Fk99%2BiwyGGSc%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -214,9 +226,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 1,
     "retailer_deals": 1,
-    "total_merged": 0,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
