@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T22:04:31.474403+00:00",
+  "timestamp": "2026-04-12T22:50:12.131561+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 4,
-  "all_deals_count": 10,
+  "all_deals_count": 11,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 3,
@@ -90,7 +90,7 @@
     },
     {
       "title": "OP09 Emperors in the New World Booster Box Factory Sealed One Piece ENGLISH",
-      "url": "https://www.ebay.com/itm/358429001119?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item537408859f:g:Sf0AAeSwpFxp1961",
+      "url": "https://www.ebay.com/itm/358429001119?_skw=onepiece+Emperors+in+the+New+World+sealed&hash=item537408859f:g:Sf0AAeSwpFxp1961",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
@@ -132,7 +132,7 @@
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7VPI000WMkk5MIDg5Vfw6ciMmzd%2BYm3xkHjUlf2%2FAtS3SuhS1Lc4xKDQ71ss6VyOdBJPWrXzL4QEQnmT2mKWt%2F66%2FuxZTGdN21ksoRriI4CWlsTgfDMFJyCscxg3WI74qmQEpydIpAQTV7NsUvJbHA90OGs2nmOh9QRpi6lmBvrpA%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7Wv0fEhXJjUAJtzyt5lE4%2BQ8BE6SDKqWPRJ6ph8V011tqTEuq%2F3x5r%2BFuGv%2B%2BqwpCMM62FSzjz0Mw4HL9fajH4vlyv1MxPAAVLlsvXXWHl--MtGRKrg2cA6VKGcV9KQjP7d4Rh4aJV2xj7vrJEhHbo9DN7JQXjHktxwghgJr%2FpUsA%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -178,7 +178,7 @@
     },
     {
       "title": "Pokemon Destined Rivals SV10 Booster Bundle",
-      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lUKxcpNLKpl0BeSQOOppVvNb9gNuCMc4A3HFa2Dpq3yFuUk4UXPppNPFvcWy%2ByygjZOksHdpZpFkDdNpf%2B1fWqegHVqJkllvqdG%2FWGw3NHIpkaw4cPeXeAs1jBk8pwua0pjcJpYnZNbq6H7hGbBQtB9reDEZuKvmeszYTgteXWj2PJpGGa8I%2F6Uu2Ak4EYek93Y%3D",
+      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lUJ3XL%2FQzQshkiHNXEX2Dfxot7kqbtuj56mKiqftVLL7Lgtgl5Om%2FyRwDI1JecbXWEAiPccrrVMOa3%2BIsRxafC9rslkLBbt7HXbx632W9zQiMr2EjBIYIjFwMUhUPr1oWUGIUTy%2F5HSwRqtbUizyk%2FBCpwQrzZohb63tuq4CoaHrPXWAsM75Hs22mV3KnFcmnX4%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -213,7 +213,7 @@
       "gapPct": 7.03,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333321,
+      "seller_feedback_count": 333322,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -224,7 +224,7 @@
     },
     {
       "title": "ONE PIECE OP09 EMPERORS IN THE NEW WORLD SEALED BOOSTER BOX ENGLISH OP-09 OP9 EN",
-      "url": "https://www.ebay.com/itm/197123391268?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2de5783f24:g:b2MAAOSweWpn2aZF",
+      "url": "https://www.ebay.com/itm/197123391268?_skw=onepiece+Emperors+in+the+New+World+sealed&hash=item2de5783f24:g:b2MAAOSweWpn2aZF",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
@@ -247,7 +247,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsdmk4BhHpsrJY64EqIaFJ%2Fuq442uzG3tVGcFBedcgwgFBIDFD2Jet6%2F870FEElu9rRfoI6rUk0%2F43OginK9OVe%2BoT0cPWpMMzf%2B8B7nRHiq1Lx0G1%2FNcOKarKMo4UpBCI%2BrHbX8UdGsdpNX%2BjmsT86BTG%2Bq0w1mzX2jjCl8ZXxXQJ2c6ofzyWgvUuTzsN%2BF5uU%3D",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsda5aMlulNRMFAEdBZfHytuX7W9eSF%2FSsQQlXgRDEX0fVkm8h%2BmxiNSHVJ0CiVYr3SVMxQdx19ghiPoimN%2BF9iI64GVWbQ265YhU7yANYXSsK02%2FWmFqAWW5358jUcjRBg9RIldeatcsKYq%2BKsb9bO1TT9gvZNxHTXQsAzEW69XO4iA0Z%2BW6P8CYkg%2BkGdOAv4%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -260,6 +260,29 @@
       "confidence": "high",
       "seller_rating": 99.6,
       "seller_feedback_count": 2020,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
+    },
+    {
+      "title": "Pokemon TCG Scarlet & Violet 151 Elite Trainer Box SEALED",
+      "url": "https://www.ebay.com/itm/227298086316?_skw=pokemon+151+booster+box&hash=item34ec058dac:g:FrkAAeSwcSpp3A6e",
+      "franchise": "pokemon",
+      "set": "151",
+      "product_type": "etb",
+      "price": 600.0,
+      "shipping_cost": 0.0,
+      "total_price": 600.0,
+      "shipping_verified": false,
+      "baseline_price": 631.79,
+      "gapPct": 5.03,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 260,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
