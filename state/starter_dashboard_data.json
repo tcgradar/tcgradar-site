@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-12T13:08:11.159997+00:00",
+  "timestamp": "2026-04-12T13:52:56.813206+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -141,7 +141,7 @@
       "shipping_cost": 36.68,
       "total_price": 279.0,
       "shipping_verified": true,
-      "baseline_price": 325.0,
+      "baseline_price": 324.99,
       "gapPct": 14.15,
       "confidence": "low",
       "seller_rating": 100.0,
@@ -156,7 +156,7 @@
     },
     {
       "title": "Pokemon Destined Rivals SV10 Booster Bundle",
-      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lUIQ3JWUjKz86mNcT3zuGgHaMUhdKh1CjCx4T5LdLNinJGvrGmjU6VKzzzigebyCqgj5Jlbba5Ly%2BNF9q9Otvvk8Mt9JdzLb5fWXSmvyUDsqpiQoYnzdAqI06C7jSb6g3u5TeomqpoAfOVLfshePdFH2fseQOaIjyIw4Fyzc92PpyMjFFU4NZdEtwgE8z2jxDxw%3D",
+      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lUIjYMPAVwFPLmNxHIavOEnOuGhOj5lE%2FdD8RR5G0dm%2FMzCkx8F6V16lBmgse0UvQJx%2BgfgfKKiC9uCd45JGZBmsju2aVt52cF87wfZQQAYIhMPYlu2nR946vzyyGf3TJYMoI64XlBo31dOIrmAqNbEScdl%2BljYiMdgfBG5abXDplECc0B3ZvnbsH4lOaTcNZOI%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -202,7 +202,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsdAqf7qlfgUNXPTeZXoJH8A7EwSh1oUTTRA%2BVHi1OD0w5F%2BzVsFvz42tnE%2F0yRSBuamdMFqeG2Aocy2el2ixAbiS894ZHkeQQE0oDKNRyK2WPvZoVrQU8zytqXcuCO6%2F3d6nOJve3zrcaUvncaptL%2B5wX8kk6KEJaWjvNl0nw0v07H0VIazWyi4ZevOgj4DRd8%3D",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsf7fvC%2FqQ%2BvNTxeq7oxL6VksGeCntFuwPA3fK%2FahHyQnRVmBcH9SO8V8zVEEcbWnjd3H91I5Dk%2BtONyuvn9eTP4lcB6D4qFyZQHfYnP3wNGyuiW8T8UFW%2FI9qgmluaWij9IWKpJry2kDRRcDnTPKabUAdD1N3wPnKBlC1Yxgn82KuUozTvg5lN8my1crcFtPmo%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -233,8 +233,8 @@
       "shipping_cost": 46.77,
       "total_price": 315.22999999999996,
       "shipping_verified": true,
-      "baseline_price": 325.0,
-      "gapPct": 3.01,
+      "baseline_price": 324.99,
+      "gapPct": 3.0,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 277,
