@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T14:37:48.774860+00:00",
+  "updated_at": "2026-04-12T15:23:29.014425+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
@@ -16,17 +16,17 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
-    "price": 242.32,
+    "title": "OP09 Emperors in the New World Booster Box Factory Sealed One Piece ENGLISH",
+    "price": 484.63,
     "seller_rating": 100.0,
-    "seller_feedback_count": 632,
+    "seller_feedback_count": 232,
     "franchise": "onepiece",
-    "set": "500 Years in the Future",
+    "set": "Emperors in the New World",
     "product_type": "booster_box",
-    "confidence": "low",
-    "baseline_price": 325.0,
-    "gapPct": 14.15,
-    "deal_quality": "LOW",
+    "confidence": "high",
+    "baseline_price": 630.0,
+    "gapPct": 13.41,
+    "deal_quality": "MEDIUM",
     "seller_trust": "HIGH"
   },
   "social_candidates": []
