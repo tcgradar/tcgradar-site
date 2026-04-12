@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T20:37:54.762456+00:00",
+  "updated_at": "2026-04-12T07:52:43.945692+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
@@ -24,8 +24,8 @@
     "set": "500 Years in the Future",
     "product_type": "booster_box",
     "confidence": "low",
-    "baseline_price": 327.5,
-    "gapPct": 14.81,
+    "baseline_price": 325.0,
+    "gapPct": 14.15,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
