@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T00:23:45.701098+00:00",
+  "timestamp": "2026-04-13T01:08:46.980870+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,23 +7,23 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 12,
+  "total_deals": 4,
+  "all_deals_count": 13,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3
+      "pokemon": 4
     },
     "by_product_type": {
       "booster_bundle": 1,
-      "booster_box": 2
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "20_plus": 2,
+      "20_plus": 3,
       "10_to_19": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,7 +33,8 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals"
+      "Destined Rivals",
+      "Fusion Strike"
     ],
     "product_type": [
       "booster_box",
@@ -57,6 +58,26 @@
       "shipping_verified": true,
       "baseline_price": 64.91,
       "gapPct": 38.38,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 688.13,
+      "shipping_cost": 44.54,
+      "total_price": 688.13,
+      "shipping_verified": true,
+      "baseline_price": 988.59,
+      "gapPct": 30.39,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -109,7 +130,7 @@
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7W73j%2BuB1xApHNzmHQ9uCHApd%2BrDzEqpIDo817NnPZpOQ7aAeEuRhvg4L9T48t%2FuU3pe2as9%2FN21Op3%2FvzVg49Cv8%2BUQx%2BXsn9DXdqJgRHO3Vjq14%2BiVnFROVL5nV%2BHFUigAMeDSHpKWMfbD%2BY9ujgfYZLjs5BPtgxwyuY3mnSRaQ%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7UYI3vZHZKGIHHOZRstHRx3rU9XeRSc8XzyPDaqqCFXARxj%2FKwpMkuIHtpQPZ9VfgoaQ6jGsC%2Fe5lm2FGY4wkQ%2BkgyQHZKwHfozNVRImQBq5sAK2dOtr6nFdyn%2FB2aoAJF%2F4FJCecJzaOJFqk8ZQCXHrZoCzpBmpk6sxLBBwAUIGg%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -154,43 +175,20 @@
       "watchlist_reason": "low_confidence"
     },
     {
-      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
-      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 349.99,
-      "shipping_cost": 0.0,
-      "total_price": 349.99,
-      "shipping_verified": false,
-      "baseline_price": 386.96,
-      "gapPct": 9.55,
-      "confidence": "low",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 517,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "low_confidence"
-    },
-    {
-      "title": "Pokemon Destined Rivals Booster Bundle",
-      "url": "https://www.ebay.com/itm/236628318552?_skw=pokemon+Destined+Rivals+booster+box&hash=item3718259958:g:ej8AAeSwWBxpi07i",
+      "title": "Pokemon Destined Rivals Elite Trainer Box ETB Sealed - Small Tear/Rip See Photos",
+      "url": "https://www.ebay.com/itm/188271937749?_skw=pokemon+Destined+Rivals+sealed&hash=item2bd5e1c8d5:g:IzMAAeSweDNp3DpE",
       "franchise": "pokemon",
       "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 59.95,
+      "product_type": "etb",
+      "price": 200.0,
       "shipping_cost": 0.0,
-      "total_price": 59.95,
-      "shipping_verified": true,
-      "baseline_price": 64.91,
-      "gapPct": 7.64,
-      "confidence": "high",
-      "seller_rating": 99.6,
-      "seller_feedback_count": 251536,
+      "total_price": 200.0,
+      "shipping_verified": false,
+      "baseline_price": 216.94,
+      "gapPct": 7.81,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 880,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -270,7 +268,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgseJJiBYOFvSk8UooyUL0Ndh5bGEiCYxmsufD%2BJhUcNM3TRbIeaYtVyIN8Xl%2BhDu91rSMZNkXFjPpRDHmxm1QKtWCyexIOOgSQGe75ylncBdfpDn7kXsMIK0ZAtyyh0iSS%2FWzp0rdd%2FgIQQ2KI6%2BnBpXAKy2QkJ9W%2FB5EYqu6asew5ybSVpMqT1TLe5tvpOsqXg%3D",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsez3m9l%2FqgiVbagCESn5qzKLnE%2BSCPGiu2Xlg3Mme239O1%2FAYo2jDzDZFDuBW3KESyH%2B%2BG%2FyuoZKaLCQAAL%2FvZjcLaRxq2OJFReVi%2F%2BBKmto38jkdwl2zvMpd40yQCgYPRh1sbj9BSEuRNUdAeM6E8PeRCMzygR8KQcEKEc4ck6JtSwaJ%2Fdyp5joOf9QeBoDCE%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -292,20 +290,43 @@
       "watchlist_reason": "small_gap"
     },
     {
-      "title": "Pokemon TCG: Sword & Shield ASTRAL RADIANCE 36 SEALED PACKS Booster Box Worth!",
-      "url": "https://www.ebay.com/itm/336502349097?_skw=pokemon+Astral+Radiance+booster+box&hash=item4e591a5d29:g:Hs0AAeSwNLtoMQfA",
+      "title": "Pokemon TCG Destined Rivals Booster Bundle Factory Sealed",
+      "url": "https://www.ebay.com/itm/318076349303?_skw=pokemon+Destined+Rivals+sealed&hash=item4a0ed3eb77:g:rSIAAeSw0vBpySN4",
       "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 369.99,
-      "shipping_cost": 0.0,
-      "total_price": 369.99,
-      "shipping_verified": false,
-      "baseline_price": 386.96,
-      "gapPct": 4.39,
-      "confidence": "low",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 62.28,
+      "shipping_cost": 7.29,
+      "total_price": 62.28,
+      "shipping_verified": true,
+      "baseline_price": 64.91,
+      "gapPct": 4.05,
+      "confidence": "high",
+      "seller_rating": 99.4,
+      "seller_feedback_count": 1185,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
+    },
+    {
+      "title": "Pokemon Hidden Fates ETB Elite Trainer Box Sealed TCG",
+      "url": "https://www.ebay.com/itm/277822746231?_skw=pokemon+Hidden+Fates+booster+box&hash=item40af86ae77:g:tZgAAeSwS5ZpvsGs",
+      "franchise": "pokemon",
+      "set": "Hidden Fates",
+      "product_type": "etb",
+      "price": 491.28000000000003,
+      "shipping_cost": 36.12,
+      "total_price": 491.28000000000003,
+      "shipping_verified": true,
+      "baseline_price": 510.83,
+      "gapPct": 3.83,
+      "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 912,
+      "seller_feedback_count": 274,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -319,9 +340,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 1,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
