@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T15:23:01.760038+00:00",
+  "timestamp": "2026-04-13T16:07:53.694004+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -109,7 +109,7 @@
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7XrVsCzTu%2FRwr7OKSNQfXSofLHPNG2f6dj4gjuBP52DlShVd5fYArR4ApPRNeditR9SPmWwxy7PdH40TJFatN%2FTC8Z2kbvg%2Fpokod9Aq515pYnlQWCVKC7VfyKsF2PKBNaFrqCCUIQO82JvHV6EMPwVLED6s1b3eRIdnPVyBeExsw%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7WL07XmxB6uICOh8x0mCNmWo%2BH6jnQ3XdyxVgklyv50kBlxDczr5zf%2BDoybFqiz8clSJdYs9QbuNHhb9aAYZFfcl1D2nQbQ%2FfNFded9g6oXad9skcsV4NxMX8ihXokuDBOHue2HkMDARc62pWLMmwVuoNOc0quxAhmdgggfkOGHlA%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -167,7 +167,7 @@
       "gapPct": 7.64,
       "confidence": "high",
       "seller_rating": 99.6,
-      "seller_feedback_count": 251539,
+      "seller_feedback_count": 251541,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -190,7 +190,7 @@
       "gapPct": 7.03,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333337,
+      "seller_feedback_count": 333339,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
