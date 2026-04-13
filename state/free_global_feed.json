@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T18:24:28.576896+00:00",
+  "timestamp": "2026-04-13T21:04:24.549498+00:00",
   "tier": "free",
   "deal": {
     "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
@@ -31,8 +31,8 @@
       "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
       "Destined Rivals Booster Box Factory Sealed Pokemon TCG",
       "Pokemon Destined Rivals Booster Box - SV10 - SEALED",
-      "Brand New Pokemon TCG Destined Rivals Booster Box 36 Packs - sealed - small tear",
-      "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box"
+      "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Boosters",
+      "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box 36 Packs"
     ],
     "rematch_triggered": false,
     "rematch_corrected": false,
@@ -45,7 +45,7 @@
   },
   "selection_reason": "weakest_qualifying_deal_gap_24.3pct",
   "next_refresh_hours": 4,
-  "total_safe_deals_available": 10,
-  "_refresh_locked": true,
-  "_next_refresh_in_hours": 2
+  "total_safe_deals_available": 9,
+  "_refresh_locked": false,
+  "_next_refresh_in_hours": 4
 }
