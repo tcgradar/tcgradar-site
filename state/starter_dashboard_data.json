@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T01:08:46.980870+00:00",
+  "timestamp": "2026-04-13T01:53:05.831207+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,23 +7,23 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 13,
+  "total_deals": 3,
+  "all_deals_count": 11,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 4
+      "pokemon": 3
     },
     "by_product_type": {
       "booster_bundle": 1,
-      "booster_box": 3
+      "booster_box": 2
     },
     "by_gap_bucket": {
-      "20_plus": 3,
+      "20_plus": 2,
       "10_to_19": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,8 +33,7 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals",
-      "Fusion Strike"
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box",
@@ -58,26 +57,6 @@
       "shipping_verified": true,
       "baseline_price": 64.91,
       "gapPct": 38.38,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 688.13,
-      "shipping_cost": 44.54,
-      "total_price": 688.13,
-      "shipping_verified": true,
-      "baseline_price": 988.59,
-      "gapPct": 30.39,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -130,7 +109,7 @@
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7UYI3vZHZKGIHHOZRstHRx3rU9XeRSc8XzyPDaqqCFXARxj%2FKwpMkuIHtpQPZ9VfgoaQ6jGsC%2Fe5lm2FGY4wkQ%2BkgyQHZKwHfozNVRImQBq5sAK2dOtr6nFdyn%2FB2aoAJF%2F4FJCecJzaOJFqk8ZQCXHrZoCzpBmpk6sxLBBwAUIGg%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7Xyi083r4n8pWKPVEtueVA9and8v%2BUfi%2FxpyFTsCNCs0DayF6%2FhtSGikxiRquJs46h0d%2FSfpuwz5DRbFu8qIuMtk863bPhFUtLtYx3iIp%2BXaqBhV4T%2FkojH5s2u%2FAbt9qfA528jT%2FkMjkRVdfvMk80ulMSjqY0R4FEpwwHyT%2Fx6bg%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -175,8 +154,8 @@
       "watchlist_reason": "low_confidence"
     },
     {
-      "title": "Pokemon Destined Rivals Elite Trainer Box ETB Sealed - Small Tear/Rip See Photos",
-      "url": "https://www.ebay.com/itm/188271937749?_skw=pokemon+Destined+Rivals+sealed&hash=item2bd5e1c8d5:g:IzMAAeSweDNp3DpE",
+      "title": "Pokemon Destined Rivals Elite Trainer Box ETB Sealed - 2 Rips/Tears See Photos",
+      "url": "https://www.ebay.com/itm/188272023611?_skw=pokemon+Destined+Rivals+sealed&hash=item2bd5e3183b:g:DmEAAeSwpzNp3EGU",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "etb",
@@ -268,7 +247,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsez3m9l%2FqgiVbagCESn5qzKLnE%2BSCPGiu2Xlg3Mme239O1%2FAYo2jDzDZFDuBW3KESyH%2B%2BG%2FyuoZKaLCQAAL%2FvZjcLaRxq2OJFReVi%2F%2BBKmto38jkdwl2zvMpd40yQCgYPRh1sbj9BSEuRNUdAeM6E8PeRCMzygR8KQcEKEc4ck6JtSwaJ%2Fdyp5joOf9QeBoDCE%3D",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsecYqg%2Fb1XXHKQ5oUsy4mIuaX1NFnESi%2FxIqIApwfsMNcLPfmwsb7jY4SMHQtWu3kv4%2FllqTyHhOc78bnnsIp6ONtKV3Yg4559mPbSHork4ZNgUTOAXpoISuF5CU5sxKaMZWfQS8NtMTuyGmt77ig%2BX%2BHNBdfZnhgVd9V6XQGskTyQguprOcRPQuS4yChWGpHM%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -311,38 +290,15 @@
       "deal_quality": "low",
       "gap_bucket": "1_to_9",
       "watchlist_reason": "small_gap"
-    },
-    {
-      "title": "Pokemon Hidden Fates ETB Elite Trainer Box Sealed TCG",
-      "url": "https://www.ebay.com/itm/277822746231?_skw=pokemon+Hidden+Fates+booster+box&hash=item40af86ae77:g:tZgAAeSwS5ZpvsGs",
-      "franchise": "pokemon",
-      "set": "Hidden Fates",
-      "product_type": "etb",
-      "price": 491.28000000000003,
-      "shipping_cost": 36.12,
-      "total_price": 491.28000000000003,
-      "shipping_verified": true,
-      "baseline_price": 510.83,
-      "gapPct": 3.83,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 274,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 3,
+    "ebay_deals": 2,
     "retailer_deals": 1,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
