@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T19:55:06.995589+00:00",
+  "timestamp": "2026-04-13T20:39:30.324070+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,23 +7,23 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 11,
+  "total_deals": 3,
+  "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 4
+      "pokemon": 3
     },
     "by_product_type": {
       "booster_bundle": 1,
-      "booster_box": 3
+      "booster_box": 2
     },
     "by_gap_bucket": {
-      "20_plus": 3,
+      "20_plus": 2,
       "10_to_19": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,8 +33,7 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals",
-      "Fusion Strike"
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box",
@@ -58,26 +57,6 @@
       "shipping_verified": true,
       "baseline_price": 64.91,
       "gapPct": 38.38,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 688.13,
-      "shipping_cost": 44.54,
-      "total_price": 688.13,
-      "shipping_verified": true,
-      "baseline_price": 988.59,
-      "gapPct": 30.39,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -130,7 +109,7 @@
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7WztjSz3s5CjSJnOOhW79JFBizdrBa%2BFKTOJt1JZF1TYfbUTGxL4RtP5ihPZCuYoN4jWFph0YNa9h6wLgLJYnAy%2F9V8bbd0roYsbTuY0C%2FRpBuoMrSqUmv28AF2rX0wgb6xfO2f55gqRb38UlNv8KG0sR7IVvEWGXRxJng8bQpnrg%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7VfokV52Y1y5bgmdd0EjEFFR2FbZOw%2BVKv7%2FUAsYU123qnB6db34wc924KzOcIV39EETAVycsztQ2mbR3gST3lyfB4dO8OdaeAhTfYAnZA6l0Dyo7DCF409rVOcGNBZ5L%2BQ9STU3sb21JXxTaQ8Re2Q0PwAoJIjVAuB8nesy6RdXw%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -188,7 +167,7 @@
       "gapPct": 7.64,
       "confidence": "high",
       "seller_rating": 99.6,
-      "seller_feedback_count": 251544,
+      "seller_feedback_count": 251547,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -211,7 +190,7 @@
       "gapPct": 7.03,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333356,
+      "seller_feedback_count": 333358,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -245,7 +224,7 @@
     },
     {
       "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
-      "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+sealed&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
+      "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
@@ -268,7 +247,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsekBpUCqG1t7jSln7%2FFGcu0Q7UONW%2B1jtCMEDV%2FiSEYYXmFqRDH8RO1vVsVLAAOOqnYC4nKNUY7QHe61ft8ijif9UJCD0EtVdV3HV%2Fx5b41%2FbwBMfi3rfDecjF6HNhm8LN7zBGlE4Yo24tCn0anbHcsoxfqkyvgaj7D%2BMX%2FK4znmV0wAwYGZCjs3cvUNibrL4o%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -294,9 +273,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 3,
+    "ebay_deals": 2,
     "retailer_deals": 1,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
