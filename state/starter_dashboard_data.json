@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T10:53:37.443826+00:00",
+  "timestamp": "2026-04-13T11:37:42.884265+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 11,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 3
@@ -87,7 +87,7 @@
     },
     {
       "title": "Brand New Pokemon TCG Destined Rivals Booster Box 36 Packs - sealed - small tear",
-      "url": "https://www.ebay.com/itm/306876886176?_skw=pokemon+Destined+Rivals+booster+box&hash=item477349aca0:g:o3oAAeSw5vBp2~bm",
+      "url": "https://www.ebay.com/itm/306876886176?_skw=pokemon+Destined+Rivals+sealed&hash=item477349aca0:g:o3oAAeSw5vBp2~bm",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -109,7 +109,7 @@
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7UFFDqvD6WRSZyHkIpXePVKvB61B0gNj8kP%2BH2tRxyZdjZC9NL8sdmMf6TK55pH1ru%2FENnM7jCMEDOmuDfMPs7s77CTSMqIUutg4GdoXPbRzTjVHnmTs4WB62KyTtoQWOCKTiqSoCMAp%2BNYuL6rh3z5wiMQXp7SURoYpYQDjwzkcw%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7WssMXDViurZ89veo5%2BdVQ%2F1slOkbfWzmt9Fvy%2BDL57k3ZB2MOdeXmxdBjDUpnhF7gEC0zR4fZJjFFVbv%2BaLnFpnvxpGrMpE4QWCO80AR55VTni8C74Wa1AuNxGUTFwdcTHgqodDnoInBDgA5L6Kmo1jx1Du6ThE4EPD5ArQ9cMtQ%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -154,29 +154,6 @@
       "watchlist_reason": "low_confidence"
     },
     {
-      "title": "Pokemon Temporal Forces Iron Leaves Elite Trainer Box Scarlet Violet ETB",
-      "url": "https://www.ebay.com/itm/298217609193?_skw=pokemon+Temporal+Forces+booster+box&hash=item456f2797e9:g:C9MAAeSwQ5pp20KQ",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "etb",
-      "price": 137.95999999999998,
-      "shipping_cost": 35.5,
-      "total_price": 137.95999999999998,
-      "shipping_verified": true,
-      "baseline_price": 190.72,
-      "gapPct": 27.66,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1331,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence"
-    },
-    {
       "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
       "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+sealed&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
       "franchise": "onepiece",
@@ -201,7 +178,7 @@
     },
     {
       "title": "Pokemon Destined Rivals Booster Bundle",
-      "url": "https://www.ebay.com/itm/236628318552?_skw=pokemon+Destined+Rivals+booster+box&hash=item3718259958:g:ej8AAeSwWBxpi07i",
+      "url": "https://www.ebay.com/itm/236628318552?_skw=Destined+Rivals+booster+box&hash=item3718259958:g:ej8AAeSwWBxpi07i",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -236,30 +213,7 @@
       "gapPct": 7.03,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333328,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap"
-    },
-    {
-      "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
-      "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 272.44,
-      "shipping_cost": 19.57,
-      "total_price": 272.44,
-      "shipping_verified": true,
-      "baseline_price": 291.27,
-      "gapPct": 6.46,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 238,
+      "seller_feedback_count": 333330,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -270,7 +224,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+sealed&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgseSE%2B2gk08ZqyQzhjx%2BxpETRd%2BSkyE%2BKhGSezYk1qTYHEzyyVGMcKf5PrOxEqrEGZnHgRmMOyP6slqID1hBMuSFgQBgrTfOMor6nInxPxVpAa%2F30WHQ5AY00dGSh9uKsWtRg%2F%2B9brDuVoaP9blMlW8T%2BKVohaDbwE70EhIiGIPXnY2cZuoaZBBRZOk9W5TH4F0%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
