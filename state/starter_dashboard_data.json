@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T07:53:32.854579+00:00",
+  "timestamp": "2026-04-13T08:37:48.788857+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,23 +7,23 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 11,
+  "total_deals": 3,
+  "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 4
+      "pokemon": 3
     },
     "by_product_type": {
       "booster_bundle": 1,
-      "booster_box": 3
+      "booster_box": 2
     },
     "by_gap_bucket": {
       "20_plus": 2,
-      "10_to_19": 2
+      "10_to_19": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,8 +33,7 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals",
-      "Fusion Strike"
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box",
@@ -67,17 +66,17 @@
       "gap_bucket": "20_plus"
     },
     {
-      "title": "Pokemon TCG Sword & Shield Fusion Strike Booster Box English Factory SEALED",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
+      "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
       "franchise": "pokemon",
-      "set": "Fusion Strike",
+      "set": "Destined Rivals",
       "product_type": "booster_box",
-      "price": 688.13,
-      "shipping_cost": 44.54,
-      "total_price": 688.13,
+      "price": 449.99,
+      "shipping_cost": 0.0,
+      "total_price": 449.99,
       "shipping_verified": true,
-      "baseline_price": 988.59,
-      "gapPct": 30.39,
+      "baseline_price": 594.17,
+      "gapPct": 24.27,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -105,32 +104,12 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Brand New Pokemon TCG Destined Rivals Booster Box 36 Packs - sealed - small tear",
-      "url": "https://www.ebay.com/itm/306876886176?_skw=pokemon+Destined+Rivals+booster+box&hash=item477349aca0:g:o3oAAeSw5vBp2~bm",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 530.16,
-      "shipping_cost": 63.88,
-      "total_price": 530.16,
-      "shipping_verified": true,
-      "baseline_price": 594.17,
-      "gapPct": 10.77,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7WFwIL3duJuIjDClbIYHvMEuLgJrhu7jv16A6U7Q7bfJxsWolh%2FRKN0d%2FiNz1uizLaf9Q33QtGdh4Fu8wIy9oGl%2FijQ8jKKdyDylTMTyQT5wjVp4Rk4LSK92rxS1fzKWnIhny%2B1FoTHQC1xq7snSywqS5l%2BpH4CWK8qv6Fkewbl6w%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7USPTSrZYXIEP88GfGGdHzBDOseBlXr7n1Z1EIfmaBkGIYZ2F0wM2gizaiwLFFJZ8E%2FH7HDfkADiZA%2B8iDJHUe7qq4ejrqw0Wj%2FJ6AGIHIkPMl5jYWrb4b9KX1JtIfi%2FfwFG4EfVrso867F1T07E3bzb12EUm%2F%2BQdfNHCZXDdIvow%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -211,7 +190,7 @@
       "gapPct": 7.64,
       "confidence": "high",
       "seller_rating": 99.6,
-      "seller_feedback_count": 251536,
+      "seller_feedback_count": 251537,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -234,7 +213,7 @@
       "gapPct": 7.03,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333324,
+      "seller_feedback_count": 333325,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -294,9 +273,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 3,
+    "ebay_deals": 2,
     "retailer_deals": 1,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
