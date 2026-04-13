@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T05:37:52.847423+00:00",
+  "timestamp": "2026-04-13T06:22:50.710669+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 10,
+  "all_deals_count": 11,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 3
@@ -18,8 +18,8 @@
       "booster_box": 2
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 2
+      "20_plus": 2,
+      "10_to_19": 1
     }
   },
   "trust_counts": {
@@ -66,6 +66,26 @@
       "gap_bucket": "20_plus"
     },
     {
+      "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
+      "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 449.99,
+      "shipping_cost": 0.0,
+      "total_price": 449.99,
+      "shipping_verified": true,
+      "baseline_price": 594.17,
+      "gapPct": 24.27,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
       "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
       "franchise": "pokemon",
@@ -84,32 +104,12 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Brand New Pokemon TCG Destined Rivals Booster Box 36 Packs - sealed - small tear",
-      "url": "https://www.ebay.com/itm/306876886176?_skw=pokemon+Destined+Rivals+booster+box&hash=item477349aca0:g:o3oAAeSw5vBp2~bm",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 530.16,
-      "shipping_cost": 63.88,
-      "total_price": 530.16,
-      "shipping_verified": true,
-      "baseline_price": 594.17,
-      "gapPct": 10.77,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7WYfwtKgQg2yMhZ7E9n4JpONJbKjcx62eZNrxcAaH16W9WH4DLNol3NlyjqhkWyoUyDyqdRvxjmtHWNB5yXQM2j82RkDqyz0zoXgbcCKDVD0jB0hwywh30OkFs5MjNU7IIquUOlgxwRuck%2FZizxbI02OGO%2FwY%2Bz2CfFdeNrgk4w%2BQ%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7VNTX5Kp7ic8k6Nd9tA8lsdkGHSn3xOQN4pJsexeZPuipSVUQAHo8mx0S%2FCVqlOWHr%2FoP%2BLXSz4703OLDf71DqThXImKVoPc9IEC3ZRG597yx%2BlAg6CuC4dLyJ9iq2nTlJUIoUv2IoJQltyweQ0gOzgrxh58adp7gmiSLTsob3A9A%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -154,29 +154,6 @@
       "watchlist_reason": "low_confidence"
     },
     {
-      "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
-      "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 592.62,
-      "shipping_cost": 47.14,
-      "total_price": 592.62,
-      "shipping_verified": true,
-      "baseline_price": 644.59,
-      "gapPct": 8.06,
-      "confidence": "low",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 746,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "low_confidence"
-    },
-    {
       "title": "Pokemon Destined Rivals Booster Bundle",
       "url": "https://www.ebay.com/itm/236628318552?_skw=pokemon+Destined+Rivals+booster+box&hash=item3718259958:g:ej8AAeSwWBxpi07i",
       "franchise": "pokemon",
@@ -213,7 +190,53 @@
       "gapPct": 7.03,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333323,
+      "seller_feedback_count": 333324,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
+    },
+    {
+      "title": "ONE PIECE OP09 EMPERORS IN THE NEW WORLD SEALED BOOSTER BOX ENGLISH OP-09 OP9 EN",
+      "url": "https://www.ebay.com/itm/197123391268?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2de5783f24:g:b2MAAOSweWpn2aZF",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 586.03,
+      "shipping_cost": 0.0,
+      "total_price": 586.03,
+      "shipping_verified": true,
+      "baseline_price": 630.0,
+      "gapPct": 6.98,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 844,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
+    },
+    {
+      "title": "One Piece TCG OP-09 Booster Box - Emperors in the New World - Brand New & Sealed",
+      "url": "https://www.ebay.com/itm/336241736170?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item4e4991b9ea:g:5nMAAeSwKe1o371g",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 592.62,
+      "shipping_cost": 47.14,
+      "total_price": 592.62,
+      "shipping_verified": true,
+      "baseline_price": 630.0,
+      "gapPct": 5.93,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 746,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
