@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T18:24:28.605211+00:00",
+  "timestamp": "2026-04-13T19:10:21.185326+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,34 +7,31 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 11,
+  "total_deals": 3,
+  "all_deals_count": 13,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
-      "onepiece": 1
+      "pokemon": 3
     },
     "by_product_type": {
       "booster_bundle": 1,
-      "booster_box": 3
+      "booster_box": 2
     },
     "by_gap_bucket": {
       "20_plus": 2,
-      "10_to_19": 2
+      "10_to_19": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
     "franchise": [
-      "onepiece",
       "pokemon"
     ],
     "set": [
-      "Adventure on Kami's Island",
       "Battle Styles",
       "Destined Rivals"
     ],
@@ -107,32 +104,12 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "ONE PIECE Adventure on Kami's Island booster box TCG BANDAI factory sealed 2026",
-      "url": "https://www.ebay.com/itm/157831011013?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item24bf761ac5:g:6NsAAeSwteRpytaX",
-      "franchise": "onepiece",
-      "set": "Adventure on Kami's Island",
-      "product_type": "booster_box",
-      "price": 212.95,
-      "shipping_cost": 12.95,
-      "total_price": 212.95,
-      "shipping_verified": true,
-      "baseline_price": 245.04,
-      "gapPct": 13.1,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7UWq1gnQND7ZW%2BDKsUK1MnccpATWSnr0665NSFp9qwNLXpoOchB%2FXjGXQrPGFamXN7L5lPiyOpd5DM%2FmX6Et68S27BDLNHcSUAqnV7b1frg9kyq3muoRSLx1Ifn5u88UyEbdot0L%2FrygYIyhSxonRr9FoRKcW6hts2tK0skT8kHXw%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7XfMy8B7GAn4n05BwnII7beY4FPk9Hg9zo4OAV29AffAm90MFIQXtM7mBQsLA5M2hBF7JP4jdEbDDH2dhjaWnnddFTE8nGW0eFZ1mhTM%2BjEpH2qb7BnWd9egympWPY5hMRrLofhB4hL%2FrxKz3a8DqzY%2FCJ5hEv6E2iDL8B5zSr6Qw%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -144,7 +121,7 @@
       "gapPct": 49.71,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 10453,
+      "seller_feedback_count": 10454,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -177,6 +154,52 @@
       "watchlist_reason": "low_confidence"
     },
     {
+      "title": "36 Astral Radiance Booster Packs Sealed + Booster Box Plastic Case - Pokemon TCG",
+      "url": "https://www.ebay.com/itm/306782557873?_skw=pokemon+Astral+Radiance+booster+box&hash=item476daa56b1:g:ZrwAAeSwMDtpmUvJ",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 349.99,
+      "shipping_cost": 0.0,
+      "total_price": 349.99,
+      "shipping_verified": false,
+      "baseline_price": 386.96,
+      "gapPct": 9.55,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 518,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "low_confidence"
+    },
+    {
+      "title": "Pokemon TCG Astral Radiance Sword & Shield Elite Trainer Box ETB Factory Sealed",
+      "url": "https://www.ebay.com/itm/327101118282?_skw=pokemon+Astral+Radiance+booster+box&hash=item4c28bef74a:g:Kr8AAeSwbzppy3Cp",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "etb",
+      "price": 95.95,
+      "shipping_cost": 0.0,
+      "total_price": 95.95,
+      "shipping_verified": false,
+      "baseline_price": 105.74,
+      "gapPct": 9.26,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 102,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "low_confidence"
+    },
+    {
       "title": "Pokemon Destined Rivals Booster Bundle",
       "url": "https://www.ebay.com/itm/236628318552?_skw=pokemon+Destined+Rivals+booster+box&hash=item3718259958:g:ej8AAeSwWBxpi07i",
       "franchise": "pokemon",
@@ -190,7 +213,7 @@
       "gapPct": 7.64,
       "confidence": "high",
       "seller_rating": 99.6,
-      "seller_feedback_count": 251541,
+      "seller_feedback_count": 251543,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -213,7 +236,7 @@
       "gapPct": 7.03,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333349,
+      "seller_feedback_count": 333352,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -290,15 +313,38 @@
       "deal_quality": "low",
       "gap_bucket": "1_to_9",
       "watchlist_reason": "small_gap"
+    },
+    {
+      "title": "Pokemon TCG: Sword & Shield ASTRAL RADIANCE 36 SEALED PACKS Booster Box Worth!",
+      "url": "https://www.ebay.com/itm/336502349097?_skw=pokemon+Astral+Radiance+booster+box&hash=item4e591a5d29:g:Hs0AAeSwNLtoMQfA",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 369.99,
+      "shipping_cost": 0.0,
+      "total_price": 369.99,
+      "shipping_verified": false,
+      "baseline_price": 386.96,
+      "gapPct": 4.39,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 914,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 3,
+    "ebay_deals": 2,
     "retailer_deals": 1,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
