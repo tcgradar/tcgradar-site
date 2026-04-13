@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T16:53:01.104491+00:00",
+  "timestamp": "2026-04-13T17:38:42.453174+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,31 +7,34 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 10,
+  "total_deals": 4,
+  "all_deals_count": 14,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3
+      "pokemon": 3,
+      "onepiece": 1
     },
     "by_product_type": {
       "booster_bundle": 1,
-      "booster_box": 2
+      "booster_box": 3
     },
     "by_gap_bucket": {
       "20_plus": 2,
-      "10_to_19": 1
+      "10_to_19": 2
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
     "franchise": [
+      "onepiece",
       "pokemon"
     ],
     "set": [
+      "Adventure on Kami's Island",
       "Battle Styles",
       "Destined Rivals"
     ],
@@ -104,12 +107,32 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "ONE PIECE Adventure on Kami's Island booster box TCG BANDAI factory sealed 2026",
+      "url": "https://www.ebay.com/itm/157831011013?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item24bf761ac5:g:6NsAAeSwteRpytaX",
+      "franchise": "onepiece",
+      "set": "Adventure on Kami's Island",
+      "product_type": "booster_box",
+      "price": 212.95,
+      "shipping_cost": 12.95,
+      "total_price": 212.95,
+      "shipping_verified": true,
+      "baseline_price": 245.03,
+      "gapPct": 13.09,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7Xr%2FhKUUpCmThipqvrwymMd7E%2Bj5%2F8At3ddyRkL2lxXNIUvy%2FBJa1kJX2BNDdP5vehIu4QS7HD6nBlX0hHUaCcvCKgjR7RxZ6fVh1STru%2Bq8ZdZZaNnoZdl6O%2Bt2za3BYGPZJRkbTn5uD6pRkWC14GmrXmXaT83I%2BbE%2FVhLoCNOSg%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7VVymM2zj%2Bji46Uvj5czyMkPl9tMkiDXDOVLN%2FbJ4Rb%2Bx2hDHWBaMW4%2FcZ1rEkaDcNHL6ZMJkucTSxFGN0wgXz6f0G1lTyKhQifDTZOGKOuALM0tmCVwqNd21WuXFIz6Rgvx6ExZLqV9uCZ0%2FZ5z448wPIhxvxEgD4j5tinH1RXgQ%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -127,6 +150,29 @@
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "low",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence"
+    },
+    {
+      "title": "Pokemon Temporal Forces Elite Trainer Box Iron Leaves ETB NEW",
+      "url": "https://www.ebay.com/itm/358367535762?_skw=pokemon+Temporal+Forces+booster+box&hash=item53705ea292:g:rksAAeSwo71pwelq&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZgJ39AsZa29lQQvbx5%2B9a2%2BjliMoaSAu5haHe1XKKzHu2DQPNuHQ2nF5GSJ0tD8PB1WueyprW5g%2B6BvMosD%2BjdbKMq5uluoYCEI4x64D81ApMGtAk6QkqnRtmccH60KWa6yQvOLK%2FuAuPnEuJz%2BjyON5%2Fv60AE5RCX1uMTAU%2BexKopvuhxL4F8yst9r19cmso8E03%2BXnsOfus3MJDWtsLLQ%2FmneCITvy1aIJbXGavO%2FngamQR3%2BsNiqr8y5yvfDLUS7zEbGnkw5K1Hgodm9JVQVKNA8If8vw5oZQDLt8mCjpRIVd5vhIoqZoGcVbH6uZg%3D",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "etb",
+      "price": 110.0,
+      "shipping_cost": 0.0,
+      "total_price": 110.0,
+      "shipping_verified": false,
+      "baseline_price": 190.72,
+      "gapPct": 42.32,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 789,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence"
     },
@@ -190,7 +236,7 @@
       "gapPct": 7.03,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333344,
+      "seller_feedback_count": 333346,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -214,6 +260,29 @@
       "confidence": "low",
       "seller_rating": 100.0,
       "seller_feedback_count": 846,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
+    },
+    {
+      "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
+      "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 272.44,
+      "shipping_cost": 19.57,
+      "total_price": 272.44,
+      "shipping_verified": true,
+      "baseline_price": 291.27,
+      "gapPct": 6.46,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 238,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -267,15 +336,38 @@
       "deal_quality": "low",
       "gap_bucket": "1_to_9",
       "watchlist_reason": "small_gap"
+    },
+    {
+      "title": "Pokemon Scarlet and Violet: Destined Rivals Elite Trainer Box ETB Sealed",
+      "url": "https://www.ebay.com/itm/188272729012?_skw=pokemon+Destined+Rivals+booster+box&hash=item2bd5eddbb4:g:XvQAAeSwQ-Np3JB4",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "etb",
+      "price": 209.99,
+      "shipping_cost": 0.0,
+      "total_price": 209.99,
+      "shipping_verified": false,
+      "baseline_price": 216.94,
+      "gapPct": 3.2,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 328,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 1,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
