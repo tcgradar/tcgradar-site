@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T09:53:55.013262+00:00",
+  "timestamp": "2026-04-14T10:38:52.739488+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,22 +7,22 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
+  "total_deals": 3,
   "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
       "booster_bundle": 1,
-      "booster_box": 1
+      "booster_box": 2
     },
     "by_gap_bucket": {
-      "10_to_19": 2
+      "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -45,7 +45,7 @@
   "deals": [
     {
       "title": "Pokemon Destined Rivals  Booster Bundle. Authentic. Factory Sealed",
-      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7NLz4cVayzg2KD%2FQacvyQGk2U4Pzvgw1TTNqGG%2BvQF3db4ku9DNE5dLo3IuR4yyJoAxzj1a5SF73BOc0KQPnobewodzJgbJQSsA8De2zbQi648WpG0n%2FPcj%2FLdCiXGL3x6idRyH6Qj6ofM5NbvyMn6%2BB4VZZwrU8A9bkPhohG2%2Btw11RguhvLs2lNwEEbS66AU%3D",
+      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7NFSBYYpA%2BbiV3DMzf%2B3kpRKk5LmCA5Wzolfx87GVPlDkvkhgA12OuucgeFysKGxl0XyRVEICvAlEuovLkhnQrFAMH1ucHJdpY1IBmG10XDiJNRWbOtSyW6TMNkg1DclpNX%2Fufpt3SKjLOQm5A8DUXJkRsgOIZxWN8%2FnzAKdFRThjE92ttOVjQy32KfEV9G9QM%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -82,12 +82,32 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Brand New Pokemon TCG Destined Rivals Booster Box 36 Packs - sealed - small tear",
+      "url": "https://www.ebay.com/itm/306876886176?_skw=Destined+Rivals+booster+box&hash=item477349aca0:g:o3oAAeSw5vBp2~bm",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 531.9,
+      "shipping_cost": 64.09,
+      "total_price": 531.9,
+      "shipping_verified": true,
+      "baseline_price": 594.17,
+      "gapPct": 10.48,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7VSy1dToGhve30s%2B1HppI0tWjHRxbKp8k149SNRRTncKfeCTbUSeKzi7HFQ5MzLGqTlippRQgKQiuWXfvIsd1VL%2FAm43Q0f%2B2U8nKRnA0Abl02CNgptVBDaWJKD2nR58bAYgRMlk4b3xUvd61X1B48l3nxpaiqxfOwqwuFBYcExmA%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7W4y%2Bewnzmz%2BPVwt%2BuGNzG5PRQah2FWu2F0S5TScYCMjEI%2FJWJijAHKgY4nUDMnotS9j08zoTBUY%2FmZ%2BD44crm4CByiNjuBPdIRQkVsvcLviwmTiOWOOpsSqp5vzmAHyhewDCCCxMfmqIJvzAASE4VreU4%2Fsub8DFRPcbBa%2FBwBUA%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -128,29 +148,6 @@
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence"
-    },
-    {
-      "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Boosters - DAMAGED",
-      "url": "https://www.ebay.com/itm/188274980944?_skw=pokemon+Destined+Rivals+booster+box&hash=item2bd6103850:g:oMQAAeSwrHRp3WTV",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 473.53,
-      "shipping_cost": 68.35,
-      "total_price": 473.53,
-      "shipping_verified": true,
-      "baseline_price": 594.17,
-      "gapPct": 20.3,
-      "confidence": "low",
-      "seller_rating": 99.2,
-      "seller_feedback_count": 2303,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence"
     },
@@ -214,7 +211,7 @@
       "gapPct": 7.52,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333427,
+      "seller_feedback_count": 333428,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -225,7 +222,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsd60Y5A9--LT7jZVBaVXDZHv7qIBeRbX03hAg7o1GbOuAQXBeW5yZ96C1LjY6knvI55CkNfcz9LzyWDmbN%2FiO9D27gVrXHKja2Dxp8hUDQm3hzZbAJ2Ba%2B6JLKKqQsGQK7LTSo4O024XrEiwEWZBi4clwe8h3GL%2BDM5a5OG3AC3rXmYqxlrSqUYGN0RmtSdybE%3D",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsfp9NCallxTNgDs2fkFpJjVtHHpKf3d7PySKqdGtrHO3a3JMObcFYZFICLHRhlSNGw6pIHhCc14j6Qb9gfy5UMl4H3pEtPbN8HGCPAUX3WUm%2Fi7Lpz%2FfSddNJ12th7k1tvYg9lFI55eCZl%2F8vwDsvApj90ztTRKS8unjS7%2FJC0QlpqVPnc1isj89IdAcA97BBQ%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -237,7 +234,7 @@
       "gapPct": 5.75,
       "confidence": "high",
       "seller_rating": 99.6,
-      "seller_feedback_count": 2025,
+      "seller_feedback_count": 2026,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -274,9 +271,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 1,
-    "total_merged": 2,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
