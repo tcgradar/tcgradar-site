@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T19:50:28.636089+00:00",
+  "timestamp": "2026-04-14T20:35:34.171628+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -14,12 +14,12 @@
       "pokemon": 3
     },
     "by_product_type": {
-      "booster_bundle": 1,
-      "booster_box": 2
+      "booster_box": 2,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 2
+      "20_plus": 2,
+      "10_to_19": 1
     }
   },
   "trust_counts": {
@@ -45,6 +45,26 @@
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
+      "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 449.99,
+      "shipping_cost": 0.0,
+      "total_price": 449.99,
+      "shipping_verified": true,
+      "baseline_price": 594.17,
+      "gapPct": 24.27,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
     {
       "title": "Pokemon Destined Rivals Booster Bundle",
       "url": "https://www.ebay.com/itm/168308784128?_skw=pokemon+Destined+Rivals+booster+box&hash=item272ffc3c00:g:YLMAAeSw171p3n3f",
@@ -84,32 +104,12 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Brand New Pokemon TCG Destined Rivals Booster Box 36 Packs - sealed - small tear",
-      "url": "https://www.ebay.com/itm/306876886176?_skw=Destined+Rivals+booster+box&hash=item477349aca0:g:o3oAAeSw5vBp2~bm",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 531.9,
-      "shipping_cost": 64.09,
-      "total_price": 531.9,
-      "shipping_verified": true,
-      "baseline_price": 594.17,
-      "gapPct": 10.48,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
     {
       "title": "Pokemon TCG Battle Styles Elite Trainer Box ETB (NEW) (SEALED)",
-      "url": "https://www.ebay.com/itm/298169608068?_skw=pokemon+Battle+Styles+booster+box&hash=item456c4b2784:g:ZNMAAeSwghNpx88D",
+      "url": "https://www.ebay.com/itm/298169608068?_skw=pokemon+Battle+Styles+sealed&hash=item456c4b2784:g:ZNMAAeSwghNpx88D",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "etb",
@@ -132,7 +132,7 @@
     },
     {
       "title": "One Piece OP- 07 500 Years In The Future Booster Box NEW SEALED INHAND",
-      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
+      "url": "https://www.ebay.com/itm/236576367257?_skw=onepiece+500+Years+in+the+Future+sealed&hash=item37150ce299:g:9vsAAeSw5ItpY5~-",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
