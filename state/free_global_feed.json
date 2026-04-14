@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-14T12:08:35.910095+00:00",
+  "timestamp": "2026-04-14T16:35:26.786041+00:00",
   "tier": "free",
   "deal": {
     "title": "Pokemon Destined Rivals  Booster Bundle. Authentic. Factory Sealed",
     "price": 54.0,
     "shipping_cost": 0.0,
     "total_price": 54.0,
-    "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7MfV5dMC5PQU7f5rdtlG5%2BpaozlComo0jUFMVqV%2BnRVnMvY8bwugoHVLeYeo04kyMTYtxx52RTHyk8cpr0Gdokp5ZjztJMtkIfc7IFJ%2Bx252MhIEvlE1UZn2BoLCTvBQHIb66arKpnHyyz2LtgsT3nL6NZcg0HZS02ruioAc0FrUS6RGGFC0uZ9RvfI55MuBZg%3D",
+    "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7O%2F9GNQPeTBHXleNAqS20dpotiWlxnsk2wYLqqYBEDxvnhwyFeVNZbFLh3wmgwOiVbItOO%2BcJYcQkt7IqEEwBsnkToRWQ6itj9nahLuG2rjUjji1MPJ%2Bxt22kFR4l6Ev0CwQOWBahvEs9NJaGdlFIK9NGZbDsY%2FNJSBT0Z6NK3LcAlDYtj1LgWWmrArvvEyOhY%3D",
     "seller_rating": 100.0,
     "seller_feedback_count": 816,
     "franchise": "pokemon",
@@ -17,22 +17,22 @@
     "variant": "standard",
     "confidence": "high",
     "baseline_price": 64.91,
-    "baseline_raw_count": 50,
-    "baseline_pre_filter_count": 19,
-    "baseline_final_count": 19,
+    "baseline_raw_count": 49,
+    "baseline_pre_filter_count": 15,
+    "baseline_final_count": 15,
     "baseline_raw_min": 28.92,
     "baseline_raw_max": 1749.99,
-    "internal_ebay_baseline": 62.0,
-    "internal_ebay_sample_size": 19,
-    "internal_ebay_raw_count": 50,
-    "baseline_delta_vs_ppt": 4.48,
+    "internal_ebay_baseline": 63.88,
+    "internal_ebay_sample_size": 15,
+    "internal_ebay_raw_count": 49,
+    "baseline_delta_vs_ppt": 1.59,
     "baseline_source_used": "pokemonpricetracker",
     "matched_product_titles_sample": [
-      "Pokemon Destined Rivals Booster Bundle",
-      "Pokemon x1 Destined Rivals (SV10) Booster Bundle Box Factory Sealed! 6 Packs!",
-      "Pokemon Scarlet & Violet Destined Rivals Booster Bundle",
       "Pokemon Scarlet Violet Destined Rivals 25 BOX BOOSTER BUNDLE CASE Factory Sealed",
-      "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box"
+      "Pokemon x1 Destined Rivals (SV10) Booster Bundle Box Factory Sealed! 6 Packs!",
+      "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
+      "Pokemon Scarlet & Violet Destined Rivals Booster Bundle",
+      "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed"
     ],
     "rematch_triggered": false,
     "rematch_corrected": false,
@@ -46,6 +46,6 @@
   "selection_reason": "weakest_qualifying_deal_gap_16.8pct",
   "next_refresh_hours": 4,
   "total_safe_deals_available": 9,
-  "_refresh_locked": true,
-  "_next_refresh_in_hours": 1
+  "_refresh_locked": false,
+  "_next_refresh_in_hours": 4
 }
