@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T02:08:37.509379+00:00",
+  "timestamp": "2026-04-14T02:23:54.754175+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -89,7 +89,7 @@
   "watchlist_deals": [
     {
       "title": "One Piece OP07 500 Years Into The Future Booster Box Display Sealed New",
-      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7WN1du%2BXbNtVZ4azjNH0dJSzdCGT40Y1nrcHWy7T0hl4MrsUWVhiEEhQQaDIJGbzobsTIQFmYOZaUWL0kj%2FVWxTHJlB0pF6cCrhpRXxAGa54jhOJl9kkFUMbbrhC1wDH697rXaRBs1U1qaGa6aB6%2FKKKV%2B66vz0hgBqrxQnA7SE2w%3D%3D",
+      "url": "https://www.ebay.com/itm/168297795397?_skw=one+piece+OP-07+booster+box&hash=item272f548f45:g:f5EAAeSwcTlp17Cd&amdata=enc%3AAQALAAAA8ACCtXRWQnOEpyOqnQQ8KGby2rKrkyVgf2rnLKFaQn%2FWBFurd9n4I8Ltg%2FVNGxU34h3fl8RhZmTuw42C6Ph7tpXyNwCzPnF5oAykhO5qKlkRvtmA6BMoBVftApYgkTY2oRh7khb2cdwHtax%2Fm3C8s7XrpVgtQp3WgASGxhTyt1cj6XlzlJ8NcCrUUhDh4S9vepxi47Y%2FVD0bem6BxXJnxgkB8pplAIu2z3V46u5EeUdEGDP6eGJKvxLp30B1fpnbmFnzCiBDts4PCK2o7rFldiMoPCVwIGF2fsaTNuGgrZz9Trhwzn49injdrMRCBIvEVA%3D%3D",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
@@ -101,7 +101,7 @@
       "gapPct": 49.89,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 10455,
+      "seller_feedback_count": 10457,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -193,7 +193,7 @@
       "gapPct": 7.64,
       "confidence": "high",
       "seller_rating": 99.6,
-      "seller_feedback_count": 251553,
+      "seller_feedback_count": 251554,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -216,7 +216,7 @@
       "gapPct": 7.36,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333401,
+      "seller_feedback_count": 333408,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -227,7 +227,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgscGrgQLjmr0%2F1%2FWGIwrUik%2FkltnRYS1Wof157Z22nAaaNAbZwr2fCcOI8ZWpCohCfIEO%2BPoC4nLLrE6GUO9AsmCwCzhjPh%2FoZffh2cb5JQH2anxj%2BLUUEtesG0CiW1ApKLa4Nuvzl0lDQ62KXjyxllDTpy0Ztrld8rxgFO%2FUzPtrGkifuE2zcFETbweugVxQ%2Fk%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
