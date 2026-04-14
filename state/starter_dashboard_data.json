@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T12:38:41.838803+00:00",
+  "timestamp": "2026-04-14T12:54:27.614867+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -14,11 +14,12 @@
       "pokemon": 3
     },
     "by_product_type": {
-      "booster_bundle": 1,
-      "booster_box": 2
+      "booster_box": 2,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "20_plus": 1,
+      "10_to_19": 2
     }
   },
   "trust_counts": {
@@ -39,29 +40,30 @@
       "booster_bundle"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
     {
-      "title": "Pokemon Destined Rivals  Booster Bundle. Authentic. Factory Sealed",
-      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7MfV5dMC5PQU7f5rdtlG5%2BpaozlComo0jUFMVqV%2BnRVnMvY8bwugoHVLeYeo04kyMTYtxx52RTHyk8cpr0Gdokp5ZjztJMtkIfc7IFJ%2Bx252MhIEvlE1UZn2BoLCTvBQHIb66arKpnHyyz2LtgsT3nL6NZcg0HZS02ruioAc0FrUS6RGGFC0uZ9RvfI55MuBZg%3D",
+      "title": "Pokemon Destined Rivals 36 Factory Sealed Booster Packs! Booster Box of Packs!",
+      "url": "https://www.ebay.com/itm/177795952773?_skw=Destined+Rivals+japanese+booster+box&hash=item296576f085:g:BAAAAeSwivJpcOhF",
       "franchise": "pokemon",
       "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 54.0,
+      "product_type": "booster_box",
+      "price": 449.99,
       "shipping_cost": 0.0,
-      "total_price": 54.0,
-      "shipping_verified": false,
-      "baseline_price": 64.91,
-      "gapPct": 16.81,
+      "total_price": 449.99,
+      "shipping_verified": true,
+      "baseline_price": 594.17,
+      "gapPct": 24.27,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "20_plus"
     },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
@@ -84,17 +86,17 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "Brand New Pokemon TCG Destined Rivals Booster Box 36 Packs - sealed - small tear",
-      "url": "https://www.ebay.com/itm/306876886176?_skw=Destined+Rivals+booster+box&hash=item477349aca0:g:o3oAAeSw5vBp2~bm",
+      "title": "Pokemon Destined Rivals SV10 Booster Bundle",
+      "url": "https://www.ebay.com/itm/257352071645?_skw=pokemon+Destined+Rivals+booster+box&hash=item3beb60f9dd:g:M2MAAeSw7p9pib69&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawrXHgq1P7sWsa51sTHHwOZze4S2f%2FJtZ49Jjl%2F%2Bd%2BvazEvzOjpTimLJTrpiZ2wiwgdzuJoyGOmEZVEat%2Ftzru4tcuPaRh0%2FPtmgZnUj55sr4aFZhlBJvsguwx6av9lUJgy8S0qDy--lsXba3L5wCWPmdlC4PDK%2F6WUCDKAT8bqtzHGJ4NmiJtHJ0S97kCf%2BHeVhe0XcfbfeaZQRe0tXkteZhXy49eArJxf1Je%2F%2BvuydBOsMHsKPsrPpM1bVZd%2F4o6VOPW%2BQ9DGGNeqSZXd7tx0zSo4wKv%2FnkmyAGs4JW5yj7kh4Bkg310EnDyMxOeTPc%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 531.9,
-      "shipping_cost": 64.09,
-      "total_price": 531.9,
-      "shipping_verified": true,
-      "baseline_price": 594.17,
-      "gapPct": 10.48,
+      "product_type": "booster_bundle",
+      "price": 58.0,
+      "shipping_cost": 0.0,
+      "total_price": 58.0,
+      "shipping_verified": false,
+      "baseline_price": 64.91,
+      "gapPct": 10.65,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -161,8 +163,8 @@
       "shipping_cost": 47.3,
       "total_price": 594.56,
       "shipping_verified": true,
-      "baseline_price": 648.88,
-      "gapPct": 8.37,
+      "baseline_price": 647.52,
+      "gapPct": 8.18,
       "confidence": "low",
       "seller_rating": 100.0,
       "seller_feedback_count": 746,
@@ -222,7 +224,7 @@
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
-      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsczSu22i7GBRqklS1kX5azXD1H%2Fpog8C4Rnx80DUpt6FROBcLFuPCsHjbwtvM5v3bPMikncSsBrR8x2HFYXUmszCtE2OS9GYNiSzBvvNWf3du%2FB4Wa6AHsEsqm4l70uvxD%2BuU4htjDzfMPjqzVXtiE4FNcZmrlT0DzjUHVlltG8FLBxg9Hg8WYOZVZPG1lhXw8%3D",
+      "url": "https://www.ebay.com/itm/389566613349?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ab3fac765:g:hKQAAeSwXZFpf8Ng&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZKmt5wg5Goj8HjC6QezbHnWLyjgnfbVGlJoCgycTaAN%2FK2erzLIewFaSWvvFGGgrka1ApujUiHnWbIH4Babd6ARWEV70dGh1nL1T0FjLLnRHVqls73l8NyS2ChSlCrgsdom3F%2FYiZzhaQcfS9LeygirGTXldFBJIbxwA4Q94ugqJ5qtcAdLgL%2Fa5JEDCyWiC657RCHZ4%2B33u%2FDSiuYgNeLxhK6f3Z1Tpy4i9nLa1H--GAI%2FogroqGekOQtl0RsKBho3kRuyD7%2BGc0V2bb7FFwS3DUOy0UnXhy7YzLQFI1OlPeF6Veb0nRH34OT8%2FD5siw%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -244,20 +246,20 @@
       "watchlist_reason": "small_gap"
     },
     {
-      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
-      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
+      "title": "*Sealed Emperors in the New World OP-09 Booster Box* One Piece",
+      "url": "https://www.ebay.com/itm/387610176415?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5a3f5deb9f:g:CTYAAOSwFp5nNKX9",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
-      "price": 628.99,
-      "shipping_cost": 46.92,
-      "total_price": 628.99,
+      "price": 614.99,
+      "shipping_cost": 0.0,
+      "total_price": 614.99,
       "shipping_verified": true,
-      "baseline_price": 648.88,
-      "gapPct": 3.07,
+      "baseline_price": 647.52,
+      "gapPct": 5.02,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 3952,
+      "seller_feedback_count": 333428,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
