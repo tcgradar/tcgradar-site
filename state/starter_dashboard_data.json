@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T16:50:10.528411+00:00",
+  "timestamp": "2026-04-14T17:05:23.309194+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,23 +7,22 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 10,
+  "total_deals": 2,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 2,
-      "booster_bundle": 1
+      "booster_box": 2
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 2
+      "10_to_19": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -36,8 +35,7 @@
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box",
-      "booster_bundle"
+      "booster_box"
     ],
     "gap_bucket": [
       "10_to_19",
@@ -64,26 +62,6 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Pokemon Destined Rivals  Booster Bundle. Authentic. Factory Sealed",
-      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7O%2F9GNQPeTBHXleNAqS20dpotiWlxnsk2wYLqqYBEDxvnhwyFeVNZbFLh3wmgwOiVbItOO%2BcJYcQkt7IqEEwBsnkToRWQ6itj9nahLuG2rjUjji1MPJ%2Bxt22kFR4l6Ev0CwQOWBahvEs9NJaGdlFIK9NGZbDsY%2FNJSBT0Z6NK3LcAlDYtj1LgWWmrArvvEyOhY%3D",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 54.0,
-      "shipping_cost": 0.0,
-      "total_price": 54.0,
-      "shipping_verified": false,
-      "baseline_price": 64.91,
-      "gapPct": 16.81,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
     },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
@@ -163,8 +141,8 @@
       "shipping_cost": 47.3,
       "total_price": 594.56,
       "shipping_verified": true,
-      "baseline_price": 647.52,
-      "gapPct": 8.18,
+      "baseline_price": 648.88,
+      "gapPct": 8.37,
       "confidence": "low",
       "seller_rating": 100.0,
       "seller_feedback_count": 746,
@@ -190,7 +168,7 @@
       "gapPct": 7.7,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333430,
+      "seller_feedback_count": 333431,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -201,7 +179,7 @@
     },
     {
       "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle",
-      "url": "https://www.ebay.com/itm/318142031152?_skw=pokemon+Destined+Rivals+booster+box&hash=item4a12be2530:g:kqYAAeSw-jZp3E~E&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaFpGQSDjsCRZr2lRSMRZJXapYW0GdJf4SndwYXU22ARWKRqh44jTD2pSwbd9px25IzvYT1Egbx5CSkBGEy74qd4hwr9G%2BMM3ans2gPCNrs2WBWrhNOSmgqnzFj7HAFs3MIvxWjEBowkIKGEgh9KJ5yZ%2FzZvr%2Bl5qzchKggHqdwhxmqxhGg8ksih51Izcqv9g89zrStMkEbCU4CVuXRjYE7xB2wkzeSNWzFQlpmrNRR%2Fs%2B8XJbze3ijR2eL7UnZqplGgrxTT2MpiGbuTErrVlBE%2F3MS53KrxcwoOELkdMgBjguATrKJ1txFsX7iy1zeN3Y%3D",
+      "url": "https://www.ebay.com/itm/318142031152?_skw=pokemon+Destined+Rivals+booster+box&hash=item4a12be2530:g:kqYAAeSw-jZp3E~E&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGaFpGQSDjsCRZr2lRSMRZJXapYW0GdJf4SndwYXU22ARWKRqh44jTD2pSwbd9px25IzvYT1Egbx5CSkBGEy74qd4hwr9G%2BMM3ans2gPCNrs2WBWrhNOSmgqnzFj7HAFs3ORA2IN2UASe3vHyInUygl2yMM6fjYUfJc%2BdzpWhAXfH%2BCaDydsjmhpdLbSUGAL56hjTBs1RdFm64B879NWb4rMNF9VUPLDGNGNpCZkehE7zbzOQMezuFVlvjGCRKWL06Nse8gakrRCpiabtYDtb%2BLtqamsDZ79TeGqeG6cD3RINuAWWHG1Nr4iMKaZUlzEBks%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -236,7 +214,7 @@
       "gapPct": 5.75,
       "confidence": "high",
       "seller_rating": 99.6,
-      "seller_feedback_count": 2026,
+      "seller_feedback_count": 2027,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -246,20 +224,20 @@
       "watchlist_reason": "small_gap"
     },
     {
-      "title": "*Sealed Emperors in the New World OP-09 Booster Box* One Piece",
-      "url": "https://www.ebay.com/itm/387610176415?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5a3f5deb9f:g:CTYAAOSwFp5nNKX9",
+      "title": "BOX ONE PIECE OP-09 Emperors In The New World Booster box new Sealed English",
+      "url": "https://www.ebay.com/itm/116740707709?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1b2e49d57d:g:VMUAAeSwLb5pjX1K",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
-      "price": 614.99,
-      "shipping_cost": 0.0,
-      "total_price": 614.99,
+      "price": 628.99,
+      "shipping_cost": 46.92,
+      "total_price": 628.99,
       "shipping_verified": true,
-      "baseline_price": 647.52,
-      "gapPct": 5.02,
+      "baseline_price": 648.88,
+      "gapPct": 3.07,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333430,
+      "seller_feedback_count": 3952,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -273,9 +251,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 1,
-    "total_merged": 3,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
