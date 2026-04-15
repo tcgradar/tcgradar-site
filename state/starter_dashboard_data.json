@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T18:50:03.704623+00:00",
+  "timestamp": "2026-04-15T19:05:22.449091+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -14,8 +14,8 @@
       "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 2,
-      "booster_bundle": 1
+      "booster_bundle": 1,
+      "booster_box": 2
     },
     "by_gap_bucket": {
       "10_to_19": 3
@@ -44,8 +44,28 @@
   },
   "deals": [
     {
+      "title": "Pokemon Destined Rivals  Booster Bundle. Authentic. Factory Sealed",
+      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGab8ZIoff6QPtemoRngyp8IgKr%2F5bOB60u26DDKHQvK%2FzPChlkAQupKD%2FYEsvbaFBEJpb58Yy5Nd3Ny%2FhPZLS%2BRawHiu%2BdY4Sw64GCCE8dFElqz%2Bm33x%2FODgMQ05Htdy7O7vSsjxxe5qARFmpho54iZxdagCzHcmYZhe26SBz60407AzVXOAh7Ba7avPtcm81C%2BHUIooT93HDZpUWf%2FE3o4GkE%2BqF1BZgnAwhU5EzF1g2hyeqNWjEl3vMJU23bgo1KwXI%2FHxLLxAAsZzOdwLcvFwrEdtuOQJXpOiYoanPL6dErnfEmAL7oJfH6qgv0xV%2Bk%3D",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 54.0,
+      "shipping_cost": 0.0,
+      "total_price": 54.0,
+      "shipping_verified": false,
+      "baseline_price": 64.91,
+      "gapPct": 16.81,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "Brand New Pokemon TCG Destined Rivals Booster Box 36 Packs - sealed - small tear",
-      "url": "https://www.ebay.com/itm/306876886176?_skw=pokemon+Destined+Rivals+booster+box&hash=item477349aca0:g:o3oAAeSw5vBp2~bm",
+      "url": "https://www.ebay.com/itm/306876886176?_skw=Destined+Rivals+booster+box&hash=item477349aca0:g:o3oAAeSw5vBp2~bm",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -80,26 +100,6 @@
       "shipping_cost": 0,
       "confidence": "high",
       "non_ebay": true,
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon  Destined Rivals Booster Bundle 6 Packs New Sealed",
-      "url": "https://www.ebay.com/itm/336241383220?_skw=pokemon+Destined+Rivals+sealed&hash=item4e498c5734:g:GAQAAeSwIgVo9RLz",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 58.0,
-      "shipping_cost": 0.0,
-      "total_price": 58.0,
-      "shipping_verified": false,
-      "baseline_price": 64.91,
-      "gapPct": 10.65,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
     }
@@ -161,8 +161,8 @@
       "shipping_cost": 47.51,
       "total_price": 597.24,
       "shipping_verified": true,
-      "baseline_price": 649.44,
-      "gapPct": 8.04,
+      "baseline_price": 648.88,
+      "gapPct": 7.96,
       "confidence": "low",
       "seller_rating": 100.0,
       "seller_feedback_count": 746,
@@ -172,7 +172,7 @@
       "seller_trust": "HIGH",
       "deal_quality": "low",
       "gap_bucket": "1_to_9",
-      "watchlist_reason": "low_confidence"
+      "watchlist_reason": "small_gap"
     },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
@@ -188,7 +188,7 @@
       "gapPct": 5.75,
       "confidence": "high",
       "seller_rating": 99.4,
-      "seller_feedback_count": 2027,
+      "seller_feedback_count": 2028,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -198,7 +198,7 @@
       "watchlist_reason": "small_gap"
     },
     {
-      "title": "*Sealed Emperors in the New World OP-09 Booster Box PRESALE 12/13* One Piece",
+      "title": "*Sealed Emperors in the New World OP-09 Booster Box* One Piece",
       "url": "https://www.ebay.com/itm/387610176415?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5a3f5deb9f:g:CTYAAOSwFp5nNKX9",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
@@ -207,11 +207,11 @@
       "shipping_cost": 0.0,
       "total_price": 614.99,
       "shipping_verified": true,
-      "baseline_price": 649.44,
-      "gapPct": 5.3,
+      "baseline_price": 648.88,
+      "gapPct": 5.22,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 333464,
+      "seller_feedback_count": 333467,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -234,7 +234,7 @@
       "gapPct": 4.05,
       "confidence": "high",
       "seller_rating": 99.4,
-      "seller_feedback_count": 1221,
+      "seller_feedback_count": 1223,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -280,7 +280,7 @@
       "gapPct": 3.25,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 2332,
+      "seller_feedback_count": 2333,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
