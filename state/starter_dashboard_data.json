@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-18T11:45:06.508749+00:00",
+  "timestamp": "2026-04-18T12:05:32.990345+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,22 +7,23 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
+  "total_deals": 3,
   "all_deals_count": 12,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 2
+      "booster_box": 2,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
+      "20_plus": 2,
       "10_to_19": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -35,7 +36,8 @@
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "booster_bundle"
     ],
     "gap_bucket": [
       "10_to_19",
@@ -55,6 +57,26 @@
       "shipping_verified": true,
       "baseline_price": 585.08,
       "gapPct": 23.09,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon Destined Rivals  Booster Bundle. Authentic. Factory Sealed",
+      "url": "https://www.ebay.com/itm/358200063736?_skw=pokemon+Destined+Rivals+sealed&hash=item53666336f8:g:GIAAAeSwzotpiFO-",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 54.0,
+      "shipping_cost": 0.0,
+      "total_price": 54.0,
+      "shipping_verified": false,
+      "baseline_price": 68.0832,
+      "gapPct": 20.69,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -155,31 +177,8 @@
       "watchlist_reason": "low_confidence"
     },
     {
-      "title": "Pokemon TCG Destined Rivals Booster Bundle Factory Sealed",
-      "url": "https://www.ebay.com/itm/318076349303?_skw=pokemon+Destined+Rivals+sealed&hash=item4a0ed3eb77:g:rSIAAeSw0vBpySN4",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 62.28,
-      "shipping_cost": 7.29,
-      "total_price": 62.28,
-      "shipping_verified": true,
-      "baseline_price": 68.0832,
-      "gapPct": 8.52,
-      "confidence": "high",
-      "seller_rating": 99.4,
-      "seller_feedback_count": 1235,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "low_confidence"
-    },
-    {
-      "title": "Pokemon TCG Destined Rivals Elite Trainer Box ETB New Factory Sealed a",
-      "url": "https://www.ebay.com/itm/257462504320?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bf1f60b80:g:0TcAAeSw0Ylp4yiw",
+      "title": "Pokemon TCG Destined Rivals Elite Trainer Box ETB New Factory Sealed b",
+      "url": "https://www.ebay.com/itm/257462504768?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bf1f60d40:g:GnEAAeSwT05p4zoV",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "etb",
@@ -191,7 +190,7 @@
       "gapPct": 8.19,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 1706,
+      "seller_feedback_count": 1707,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -201,20 +200,20 @@
       "watchlist_reason": "low_confidence"
     },
     {
-      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
-      "url": "https://www.ebay.com/itm/188022666572?_skw=pokemon+Destined+Rivals+sealed&hash=item2bc706354c:g:nmYAAeSw0PVpgkdO",
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Bundle Box",
+      "url": "https://www.ebay.com/itm/365620165626?_skw=pokemon+Destined+Rivals+booster+box&hash=item5520a8fbfa:g:xEkAAOSwqlloL37A",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
-      "price": 63.93000000000001,
-      "shipping_cost": 8.98,
-      "total_price": 63.93000000000001,
+      "price": 63.88,
+      "shipping_cost": 0.0,
+      "total_price": 63.88,
       "shipping_verified": true,
       "baseline_price": 68.0832,
-      "gapPct": 6.1,
+      "gapPct": 6.17,
       "confidence": "high",
-      "seller_rating": 99.7,
-      "seller_feedback_count": 8234,
+      "seller_rating": 99.6,
+      "seller_feedback_count": 595272,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -283,7 +282,7 @@
       "gapPct": 3.53,
       "confidence": "medium",
       "seller_rating": 100.0,
-      "seller_feedback_count": 160801,
+      "seller_feedback_count": 160802,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -320,9 +319,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
