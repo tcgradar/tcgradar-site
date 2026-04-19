@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-04-19T22:00:07.170098+00:00",
+  "updated_at": "2026-04-19T22:22:21.261896+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
-    "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-    "price": 265.0,
+    "title": "Pokemon TCG Sword & Shield Battle Styles Booster Box New Factory Sealed",
+    "price": 259.97,
     "seller_rating": 100.0,
-    "seller_feedback_count": 511,
+    "seller_feedback_count": 1165,
     "franchise": "pokemon",
     "set": "Battle Styles",
     "product_type": "booster_box",
     "confidence": "high",
     "baseline_price": 299.99,
-    "gapPct": 11.66,
+    "gapPct": 10.01,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
