@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T19:21:52.566046+00:00",
+  "timestamp": "2026-04-20T20:02:10.394242+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -71,8 +71,8 @@
       "shipping_cost": 48.41,
       "total_price": 521.47,
       "shipping_verified": true,
-      "baseline_price": 587.16,
-      "gapPct": 11.19,
+      "baseline_price": 599.0,
+      "gapPct": 12.94,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -91,8 +91,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 297.37,
-      "gapPct": 10.89,
+      "baseline_price": 299.74,
+      "gapPct": 11.59,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -126,7 +126,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-20T19:21:52.565597+00:00",
-      "_last_seen_at": "2026-04-20T19:21:52.565597+00:00"
+      "_last_seen_at": "2026-04-20T20:02:10.393715+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -151,23 +151,23 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-20T14:02:17.405414+00:00",
-      "_last_seen_at": "2026-04-20T14:02:17.405414+00:00"
+      "_last_seen_at": "2026-04-20T20:02:10.393715+00:00"
     },
     {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "title": "Pokemon Sword and Shield Darkness Ablaze Booster Box Sealed",
+      "url": "https://www.ebay.com/itm/366298965185?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item55491ea4c1:g:FQ0AAeSw5m5pwe~w",
       "franchise": "pokemon",
-      "set": "Astral Radiance",
+      "set": "Darkness Ablaze",
       "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
-      "shipping_verified": true,
-      "baseline_price": 392.5,
-      "gapPct": 20.26,
+      "price": 300.0,
+      "shipping_cost": 0.0,
+      "total_price": 300.0,
+      "shipping_verified": false,
+      "baseline_price": 336.98,
+      "gapPct": 10.97,
       "confidence": "medium",
       "seller_rating": 100.0,
-      "seller_feedback_count": 3669,
+      "seller_feedback_count": 218,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -175,8 +175,8 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-20T11:22:17.106605+00:00",
-      "_last_seen_at": "2026-04-20T18:02:13.345295+00:00"
+      "_first_seen_at": "2026-04-20T20:02:10.393715+00:00",
+      "_last_seen_at": "2026-04-20T20:02:10.393715+00:00"
     }
   ],
   "empty_watchlist": false,
