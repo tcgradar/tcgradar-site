@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T12:01:50.114469+00:00",
+  "timestamp": "2026-04-20T12:41:52.333010+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 2,
-  "all_deals_count": 5,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 2
@@ -21,7 +21,7 @@
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -30,13 +30,15 @@
       "pokemon"
     ],
     "set": [
-      "Battle Styles"
+      "Battle Styles",
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
@@ -162,9 +164,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
