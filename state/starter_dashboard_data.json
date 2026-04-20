@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-19T22:22:21.212794+00:00",
+  "timestamp": "2026-04-20T00:42:19.012194+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -8,18 +8,16 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 5,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 3
     },
     "by_product_type": {
-      "etb": 1,
-      "booster_box": 2
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 2
+      "10_to_19": 3
     }
   },
   "trust_counts": {
@@ -33,12 +31,11 @@
     ],
     "set": [
       "Battle Styles",
-      "Celebrations",
+      "Darkness Ablaze",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box",
-      "etb"
+      "booster_box"
     ],
     "gap_bucket": [
       "10_to_19",
@@ -46,26 +43,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "POKEMON Celebrations Elite Trainer Box ETB 25th Anniversary New Factory Sealed",
-      "url": "https://www.ebay.com/itm/298243186662?_skw=pokemon+Celebrations+booster+box&hash=item4570addfe6:g:cjIAAeSwiJ5p5SY4",
-      "franchise": "pokemon",
-      "set": "Celebrations",
-      "product_type": "etb",
-      "price": 339.99,
-      "shipping_cost": 0.0,
-      "total_price": 339.99,
-      "shipping_verified": true,
-      "baseline_price": 499.97,
-      "gapPct": 32.0,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
       "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
@@ -83,6 +60,26 @@
       "shipping_cost": 0,
       "confidence": "high",
       "non_ebay": true,
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Darkness Ablaze Booster Box Pokemon TCG Factory Sealed Benefits Kids Charity\ud83d\udd25\ud83d\udd25",
+      "url": "https://www.ebay.com/itm/389891566742?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item5ac7592c96:g:cYgAAeSwFCdp3u-f",
+      "franchise": "pokemon",
+      "set": "Darkness Ablaze",
+      "product_type": "booster_box",
+      "price": 292.99,
+      "shipping_cost": 0.0,
+      "total_price": 292.99,
+      "shipping_verified": false,
+      "baseline_price": 330.0,
+      "gapPct": 11.22,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
     },
@@ -109,6 +106,31 @@
   ],
   "watchlist_deals": [
     {
+      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
+      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI4Dxj%2Fstdgl0QuFJLS2o4gXV9LBq3jDgCMAPGj%2FUfxr4kfeQU9yYxqktjkhk2UE9b0p3tGjTL7LJIZUMB3SJ%2BjeyODvDdY7jEDxc7e6I79kdRgkoGHWE63s6xM2G7w1ua20i4BeRf7174%2BttMoVATzKrzjOhtHlMw2f2hRNNd2KdV6Myf9VxMx7b%2F2jzp4Lgng%3D",
+      "franchise": "pokemon",
+      "set": "Chilling Reign",
+      "product_type": "booster_box",
+      "price": 459.98,
+      "shipping_cost": 9.99,
+      "total_price": 459.98,
+      "shipping_verified": true,
+      "baseline_price": 599.95,
+      "gapPct": 23.33,
+      "confidence": "medium",
+      "seller_rating": 96.6,
+      "seller_feedback_count": 5830,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "MEDIUM",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-20T00:42:19.011856+00:00",
+      "_last_seen_at": "2026-04-20T00:42:19.011856+00:00"
+    },
+    {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
       "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
       "franchise": "pokemon",
@@ -129,7 +151,9 @@
       "seller_trust": "HIGH",
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence"
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-19T23:00:02.583748+00:00",
+      "_last_seen_at": "2026-04-19T23:00:02.583748+00:00"
     }
   ],
   "empty_watchlist": false,
