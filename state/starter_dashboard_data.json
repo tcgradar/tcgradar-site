@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T20:41:56.678433+00:00",
+  "timestamp": "2026-04-20T21:21:50.071248+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -72,8 +72,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 297.37,
-      "gapPct": 10.89,
+      "baseline_price": 299.74,
+      "gapPct": 11.59,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -107,7 +107,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-20T19:21:52.565597+00:00",
-      "_last_seen_at": "2026-04-20T20:41:56.677902+00:00"
+      "_last_seen_at": "2026-04-20T21:21:50.070728+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
