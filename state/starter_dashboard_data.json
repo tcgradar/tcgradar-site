@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T15:21:55.228118+00:00",
+  "timestamp": "2026-04-20T16:01:47.577035+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -91,8 +91,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 299.74,
-      "gapPct": 11.59,
+      "baseline_price": 299.87,
+      "gapPct": 11.63,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
