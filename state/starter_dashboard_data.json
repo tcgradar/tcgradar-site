@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T10:42:12.908190+00:00",
+  "timestamp": "2026-04-20T11:22:17.106977+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,21 +7,22 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 5,
+  "total_deals": 4,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 2
+      "etb": 1,
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "10_to_19": 2
+      "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -31,17 +32,38 @@
     ],
     "set": [
       "Battle Styles",
+      "Celebrations",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
-      "10_to_19",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
+    {
+      "title": "ETB Pokemon CELEBRATIONS Elite Trainer Box [ETB] - 25th Anniversary Set - - NEW",
+      "url": "https://www.ebay.com/itm/206221419021?_skw=pokemon+Celebrations+booster+box&hash=item3003c1220d:g:6DEAAeSwl6Zp5eEZ",
+      "franchise": "pokemon",
+      "set": "Celebrations",
+      "product_type": "etb",
+      "price": 324.49,
+      "shipping_cost": 15.0,
+      "total_price": 324.49,
+      "shipping_verified": true,
+      "baseline_price": 380.0,
+      "gapPct": 14.61,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
       "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
@@ -59,6 +81,26 @@
       "shipping_cost": 0,
       "confidence": "high",
       "non_ebay": true,
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip ",
+      "url": "https://www.ebay.com/itm/267644769633?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e50df1561:g:M1EAAeSwfqVp5T5i",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 521.47,
+      "shipping_cost": 48.41,
+      "total_price": 521.47,
+      "shipping_verified": true,
+      "baseline_price": 599.99,
+      "gapPct": 13.09,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
     },
@@ -84,6 +126,31 @@
     }
   ],
   "watchlist_deals": [
+    {
+      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
+      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 314.99,
+      "shipping_cost": 39.99,
+      "total_price": 314.99,
+      "shipping_verified": true,
+      "baseline_price": 392.5,
+      "gapPct": 19.75,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 3669,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-20T11:22:17.106605+00:00",
+      "_last_seen_at": "2026-04-20T11:22:17.106605+00:00"
+    },
     {
       "title": "Pokemon: Paradox Rift Booster Box - 36 Packs Sealed",
       "url": "https://www.ebay.com/itm/358464484286?_skw=pokemon+Paradox+Rift+booster+box&hash=item537625f3be:g:T5oAAeSw8K9p5U6K",
@@ -139,9 +206,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 2,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
