@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T17:21:50.937126+00:00",
+  "timestamp": "2026-04-20T18:02:13.345786+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,21 +7,22 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 5,
+  "total_deals": 4,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3
+      "pokemon": 4
     },
     "by_product_type": {
+      "etb": 1,
       "booster_box": 3
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -31,16 +32,38 @@
     ],
     "set": [
       "Battle Styles",
+      "Celebrations",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
       "10_to_19"
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon Celebrations Elite Trainer Box ETB 25th Anniversary New Factory Sealed",
+      "url": "https://www.ebay.com/itm/236764690244?_skw=pokemon+Celebrations+booster+box&hash=item3720467744:g:K54AAeSwU0pp482K",
+      "franchise": "pokemon",
+      "set": "Celebrations",
+      "product_type": "etb",
+      "price": 339.99,
+      "shipping_cost": 0.0,
+      "total_price": 339.99,
+      "shipping_verified": false,
+      "baseline_price": 400.0,
+      "gapPct": 15.0,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
       "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
@@ -62,26 +85,6 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip ",
-      "url": "https://www.ebay.com/itm/267644769633?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e50df1561:g:M1EAAeSwfqVp5T5i",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 521.47,
-      "shipping_cost": 48.41,
-      "total_price": 521.47,
-      "shipping_verified": true,
-      "baseline_price": 599.0,
-      "gapPct": 12.94,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/227299075707?_skw=pokemon+Battle+Styles+booster+box&hash=item34ec14a67b:g:zv4AAeSwM4Zp3QSe",
       "franchise": "pokemon",
@@ -91,8 +94,28 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 297.37,
-      "gapPct": 10.89,
+      "baseline_price": 299.74,
+      "gapPct": 11.59,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip ",
+      "url": "https://www.ebay.com/itm/267644769633?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e50df1561:g:M1EAAeSwfqVp5T5i",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 521.47,
+      "shipping_cost": 48.41,
+      "total_price": 521.47,
+      "shipping_verified": true,
+      "baseline_price": 584.33,
+      "gapPct": 10.76,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -139,7 +162,7 @@
       "total_price": 314.99,
       "shipping_verified": true,
       "baseline_price": 392.5,
-      "gapPct": 19.75,
+      "gapPct": 20.26,
       "confidence": "medium",
       "seller_rating": 100.0,
       "seller_feedback_count": 3669,
@@ -151,16 +174,16 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-20T11:22:17.106605+00:00",
-      "_last_seen_at": "2026-04-20T11:22:17.106605+00:00"
+      "_last_seen_at": "2026-04-20T18:02:13.345295+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 2,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
