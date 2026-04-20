@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T06:41:51.410175+00:00",
+  "timestamp": "2026-04-20T07:22:16.911637+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,21 +7,21 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
+  "total_deals": 3,
   "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 2
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "10_to_19": 2
+      "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -31,6 +31,7 @@
     ],
     "set": [
       "Battle Styles",
+      "Darkness Ablaze",
       "Destined Rivals"
     ],
     "product_type": [
@@ -59,6 +60,26 @@
       "shipping_cost": 0,
       "confidence": "high",
       "non_ebay": true,
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Darkness Ablaze Booster Box Pokemon TCG Factory Sealed Benefits Kids Charity\ud83d\udd25\ud83d\udd25",
+      "url": "https://www.ebay.com/itm/389891566742?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item5ac7592c96:g:cYgAAeSwFCdp3u-f",
+      "franchise": "pokemon",
+      "set": "Darkness Ablaze",
+      "product_type": "booster_box",
+      "price": 292.99,
+      "shipping_cost": 0.0,
+      "total_price": 292.99,
+      "shipping_verified": false,
+      "baseline_price": 333.49,
+      "gapPct": 12.14,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
     },
@@ -95,7 +116,7 @@
       "total_price": 459.98,
       "shipping_verified": true,
       "baseline_price": 599.95,
-      "gapPct": 23.33,
+      "gapPct": 23.19,
       "confidence": "medium",
       "seller_rating": 96.6,
       "seller_feedback_count": 5830,
@@ -107,32 +128,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-20T00:42:19.011856+00:00",
-      "_last_seen_at": "2026-04-20T00:42:19.011856+00:00"
-    },
-    {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
-      "shipping_verified": true,
-      "baseline_price": 395.0,
-      "gapPct": 19.75,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 3669,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-19T23:00:02.583748+00:00",
-      "_last_seen_at": "2026-04-20T05:22:19.153453+00:00"
+      "_last_seen_at": "2026-04-20T07:22:16.911120+00:00"
     },
     {
       "title": "Pokemon: Paradox Rift Booster Box - 36 Packs Sealed",
@@ -189,9 +185,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 2,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
