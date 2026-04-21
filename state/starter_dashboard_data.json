@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T08:01:51.889982+00:00",
+  "timestamp": "2026-04-21T08:42:00.764912+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 7,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 3
@@ -91,8 +91,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 299.99,
-      "gapPct": 11.66,
+      "baseline_price": 299.87,
+      "gapPct": 11.63,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -126,7 +126,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T03:21:55.605745+00:00",
-      "_last_seen_at": "2026-04-21T08:01:51.889400+00:00"
+      "_last_seen_at": "2026-04-21T08:42:00.764365+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -177,31 +177,6 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T02:42:17.407932+00:00",
       "_last_seen_at": "2026-04-21T03:00:01.511390+00:00"
-    },
-    {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
-      "shipping_verified": true,
-      "baseline_price": 395.77,
-      "gapPct": 21.06,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 3669,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-21T00:02:18.104667+00:00",
-      "_last_seen_at": "2026-04-21T07:00:01.176035+00:00"
     }
   ],
   "empty_watchlist": false,
