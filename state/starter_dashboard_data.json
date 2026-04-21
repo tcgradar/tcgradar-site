@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T02:01:49.372565+00:00",
+  "timestamp": "2026-04-21T02:42:17.408562+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,17 +7,17 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 7,
+  "total_deals": 3,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 2
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "10_to_19": 2
+      "10_to_19": 3
     }
   },
   "trust_counts": {
@@ -37,8 +37,7 @@
       "booster_box"
     ],
     "gap_bucket": [
-      "10_to_19",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
@@ -59,6 +58,26 @@
       "shipping_cost": 0,
       "confidence": "high",
       "non_ebay": true,
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip ",
+      "url": "https://www.ebay.com/itm/267644769633?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e50df1561:g:M1EAAeSwfqVp5T5i",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 521.31,
+      "shipping_cost": 48.25,
+      "total_price": 521.31,
+      "shipping_verified": true,
+      "baseline_price": 599.99,
+      "gapPct": 13.11,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
     },
@@ -110,6 +129,31 @@
       "_last_seen_at": "2026-04-21T02:00:01.889211+00:00"
     },
     {
+      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
+      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI78Krx8iaVRQ9wUj0f6ald%2Fax61vNkRVSe6JWe5jpDjh4JzBp400ylvTkLZGVzovgg5g3CisxHJw6o%2FoeR2z0Wxq0ur9NjI8WKSDkVI6jXbPIlw9cLu3mGpTpZlaGt%2Fzk0O%2BT%2B8gMj7DW0La4CKWJWYFg%2F0PTuWUiU%2FSke7JKWxUlXyvIiwjCGDA1F%2Ff1xpdkw%3D",
+      "franchise": "pokemon",
+      "set": "Chilling Reign",
+      "product_type": "booster_box",
+      "price": 459.98,
+      "shipping_cost": 9.99,
+      "total_price": 459.98,
+      "shipping_verified": true,
+      "baseline_price": 599.41,
+      "gapPct": 23.26,
+      "confidence": "medium",
+      "seller_rating": 96.6,
+      "seller_feedback_count": 5831,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "MEDIUM",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-21T02:42:17.407932+00:00",
+      "_last_seen_at": "2026-04-21T02:42:17.407932+00:00"
+    },
+    {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
       "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
       "franchise": "pokemon",
@@ -157,7 +201,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-20T20:02:10.393715+00:00",
-      "_last_seen_at": "2026-04-20T20:02:10.393715+00:00"
+      "_last_seen_at": "2026-04-21T02:42:17.407932+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
