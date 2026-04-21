@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T00:41:51.182761+00:00",
+  "timestamp": "2026-04-21T01:21:54.882936+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -95,7 +95,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 254.67,
-      "gapPct": 45.99,
+      "gapPct": 45.97,
       "confidence": "medium",
       "seller_rating": 98.7,
       "seller_feedback_count": 406,
@@ -107,7 +107,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-20T19:21:52.565597+00:00",
-      "_last_seen_at": "2026-04-21T00:41:51.182185+00:00"
+      "_last_seen_at": "2026-04-21T01:21:54.882376+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
