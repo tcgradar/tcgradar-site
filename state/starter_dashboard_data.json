@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T08:42:00.764912+00:00",
+  "timestamp": "2026-04-21T09:22:19.421662+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,21 +7,21 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 6,
+  "total_deals": 4,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3
+      "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 4
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 4
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -31,6 +31,7 @@
     ],
     "set": [
       "Battle Styles",
+      "Darkness Ablaze",
       "Destined Rivals"
     ],
     "product_type": [
@@ -100,6 +101,26 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon Sword & Shield Darkness Ablaze Booster Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/157707531347?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item24b819f453:g:4wIAAeSw8cdpnsyw",
+      "franchise": "pokemon",
+      "set": "Darkness Ablaze",
+      "product_type": "booster_box",
+      "price": 304.99,
+      "shipping_cost": 0.0,
+      "total_price": 304.99,
+      "shipping_verified": false,
+      "baseline_price": 345.0,
+      "gapPct": 11.6,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
@@ -114,7 +135,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 235.0,
-      "gapPct": 45.44,
+      "gapPct": 44.62,
       "confidence": "medium",
       "seller_rating": 98.7,
       "seller_feedback_count": 407,
@@ -126,7 +147,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T03:21:55.605745+00:00",
-      "_last_seen_at": "2026-04-21T08:42:00.764365+00:00"
+      "_last_seen_at": "2026-04-21T09:22:19.421078+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -176,16 +197,16 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T02:42:17.407932+00:00",
-      "_last_seen_at": "2026-04-21T03:00:01.511390+00:00"
+      "_last_seen_at": "2026-04-21T09:22:19.421078+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 2,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
