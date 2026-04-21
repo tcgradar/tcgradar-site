@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T23:22:24.154431+00:00",
+  "timestamp": "2026-04-21T00:02:18.105199+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,21 +7,22 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 6,
+  "total_deals": 3,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
+      "etb": 1,
       "booster_box": 2
     },
     "by_gap_bucket": {
-      "10_to_19": 2
+      "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -31,10 +32,12 @@
     ],
     "set": [
       "Battle Styles",
+      "Celebrations",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
       "10_to_19",
@@ -42,6 +45,26 @@
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon Celebrations Elite Trainer Box ETB 25th Anniversary New Factory Sealed",
+      "url": "https://www.ebay.com/itm/236764690244?_skw=pokemon+Celebrations+booster+box&hash=item3720467744:g:K54AAeSwU0pp482K",
+      "franchise": "pokemon",
+      "set": "Celebrations",
+      "product_type": "etb",
+      "price": 339.99,
+      "shipping_cost": 0.0,
+      "total_price": 339.99,
+      "shipping_verified": false,
+      "baseline_price": 400.0,
+      "gapPct": 15.0,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
       "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
@@ -107,7 +130,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-20T19:21:52.565597+00:00",
-      "_last_seen_at": "2026-04-20T23:22:24.153963+00:00"
+      "_last_seen_at": "2026-04-21T00:02:18.104667+00:00"
+    },
+    {
+      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
+      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 314.99,
+      "shipping_cost": 39.99,
+      "total_price": 314.99,
+      "shipping_verified": true,
+      "baseline_price": 395.77,
+      "gapPct": 20.41,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 3669,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-21T00:02:18.104667+00:00",
+      "_last_seen_at": "2026-04-21T00:02:18.104667+00:00"
     },
     {
       "title": "Pokemon Sword and Shield Darkness Ablaze Booster Box Sealed",
@@ -157,16 +205,16 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-20T23:22:24.153963+00:00",
-      "_last_seen_at": "2026-04-20T23:22:24.153963+00:00"
+      "_last_seen_at": "2026-04-21T00:00:01.718109+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 2,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
