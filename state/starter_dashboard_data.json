@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T04:01:49.603553+00:00",
+  "timestamp": "2026-04-21T04:41:52.238393+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 9,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 3
@@ -93,8 +93,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 299.74,
-      "gapPct": 11.59,
+      "baseline_price": 299.99,
+      "gapPct": 11.66,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -116,7 +116,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 235.0,
-      "gapPct": 42.57,
+      "gapPct": 43.18,
       "confidence": "medium",
       "seller_rating": 98.7,
       "seller_feedback_count": 407,
@@ -128,7 +128,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T03:21:55.605745+00:00",
-      "_last_seen_at": "2026-04-21T04:01:49.602851+00:00"
+      "_last_seen_at": "2026-04-21T04:41:52.237732+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -204,31 +204,6 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T00:02:18.104667+00:00",
       "_last_seen_at": "2026-04-21T00:02:18.104667+00:00"
-    },
-    {
-      "title": "Pokemon Sword and Shield Darkness Ablaze Booster Box Sealed",
-      "url": "https://www.ebay.com/itm/366298965185?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item55491ea4c1:g:FQ0AAeSw5m5pwe~w",
-      "franchise": "pokemon",
-      "set": "Darkness Ablaze",
-      "product_type": "booster_box",
-      "price": 300.0,
-      "shipping_cost": 0.0,
-      "total_price": 300.0,
-      "shipping_verified": false,
-      "baseline_price": 336.98,
-      "gapPct": 10.97,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 218,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-20T20:02:10.393715+00:00",
-      "_last_seen_at": "2026-04-21T03:00:01.511390+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
