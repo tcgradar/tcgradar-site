@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T19:21:57.210300+00:00",
+  "timestamp": "2026-04-21T20:02:02.114631+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -71,8 +71,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 299.99,
-      "gapPct": 11.66,
+      "baseline_price": 299.87,
+      "gapPct": 11.63,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -105,7 +105,7 @@
   "watchlist_deals": [
     {
       "title": "ONE PIECE OP15 Adventure on KAMI\u2019s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VTroSUAPp8oBH9qZTq5NFcQ6AoY87xPK4p4DaA%2BKjsT7%2FKNXFNGk0btz3cAK5OIxnHaIM4WhcdmklOzpK2ZI30hIXD9rpRvqxXE541VijaCip5rfoPTODZ55hYdYPYZg3zJC3pSGC0pQMoLx%2FOorI1TlolrZzqJS13HoNb4yVWeftQAKz9IKumYP0XK%2FyW%2Bhm40LTpYpF%2FpYpUGm5P--4%2B",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VFX5IyXJX6CG08aMyoBoXgO02nXXXNilEcLBZLC3CKpXTWDqp5v%2Fokpjp3cW4jPJfjeyJH2A%2BJTX0QUPLljMBaLvZqSfYyhM4nzm57D1vXE3sXVlgE9rFcf0N4FaKA4LejSD8mWOrJlygWPcuHG9OWp9I%2B8LIdcz0CIwQXFf32DFk7b5zfQ%2BuXo35q6yBr%2BfY1N9xeXo3XMfWWrphGPlSw",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -113,11 +113,11 @@
       "shipping_cost": 0.0,
       "total_price": 134.95,
       "shipping_verified": true,
-      "baseline_price": 247.34,
+      "baseline_price": 245.0,
       "gapPct": 44.92,
       "confidence": "medium",
       "seller_rating": 99.1,
-      "seller_feedback_count": 412,
+      "seller_feedback_count": 413,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -125,8 +125,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-21T12:00:01.614103+00:00",
-      "_last_seen_at": "2026-04-21T19:21:57.209671+00:00"
+      "_first_seen_at": "2026-04-21T20:00:02.043370+00:00",
+      "_last_seen_at": "2026-04-21T20:02:02.114025+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
