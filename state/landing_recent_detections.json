@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T10:01:53.381363+00:00",
+  "updated_at": "2026-04-21T10:41:57.350360+00:00",
   "source": "previous_scan",
   "starter_quality_deal": {
     "title": "Pokemon Sword & Shield Darkness Ablaze Booster Box Factory Sealed",
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
-    "price": 255.64,
+    "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
+    "price": 265.0,
     "seller_rating": 100.0,
-    "seller_feedback_count": 238,
+    "seller_feedback_count": 512,
     "franchise": "pokemon",
-    "set": "Temporal Forces",
+    "set": "Battle Styles",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 310.0,
-    "gapPct": 11.13,
+    "baseline_price": 299.99,
+    "gapPct": 11.66,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
