@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T14:42:03.845500+00:00",
+  "timestamp": "2026-04-21T15:22:21.244447+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 6,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 3
@@ -114,7 +114,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 247.34,
-      "gapPct": 44.35,
+      "gapPct": 45.18,
       "confidence": "medium",
       "seller_rating": 99.1,
       "seller_feedback_count": 412,
@@ -126,7 +126,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T12:00:01.614103+00:00",
-      "_last_seen_at": "2026-04-21T14:42:03.844981+00:00"
+      "_last_seen_at": "2026-04-21T15:22:21.243850+00:00"
+    },
+    {
+      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
+      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI7xn0%2FMTe%2BrAh1bylcqsocbMOGJ7NDk6rIJpBMXZJFPR3Fnqe%2BpT7zzhcLxNI%2FEG4BLGBhZBLbTWq--B32X4sO4l50kAJC%2FoxPb9rzY31L5K0QXo%2FHiGJGrN3f7gpOeADqOTaVUc9QXXD2P%2BQx5PTQIgl6oD16injtFqjKjwlZhE4chhMOhxhsgDdAI5zOq2U0%3D",
+      "franchise": "pokemon",
+      "set": "Chilling Reign",
+      "product_type": "booster_box",
+      "price": 459.98,
+      "shipping_cost": 9.99,
+      "total_price": 459.98,
+      "shipping_verified": true,
+      "baseline_price": 599.41,
+      "gapPct": 23.26,
+      "confidence": "medium",
+      "seller_rating": 96.5,
+      "seller_feedback_count": 5832,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "MEDIUM",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-21T15:22:21.243850+00:00",
+      "_last_seen_at": "2026-04-21T15:22:21.243850+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
@@ -176,7 +201,7 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-04-21T10:41:57.300663+00:00",
-      "_last_seen_at": "2026-04-21T14:42:03.844981+00:00"
+      "_last_seen_at": "2026-04-21T15:22:21.243850+00:00"
     }
   ],
   "empty_watchlist": false,
