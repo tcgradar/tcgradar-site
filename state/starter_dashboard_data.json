@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T10:41:57.301228+00:00",
+  "timestamp": "2026-04-21T11:21:52.170135+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,21 +7,21 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 7,
+  "total_deals": 2,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 2
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 2
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -30,8 +30,7 @@
       "pokemon"
     ],
     "set": [
-      "Battle Styles",
-      "Destined Rivals"
+      "Battle Styles"
     ],
     "product_type": [
       "booster_box"
@@ -62,26 +61,6 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip ",
-      "url": "https://www.ebay.com/itm/267644769633?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e50df1561:g:M1EAAeSwfqVp5T5i",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 522.0500000000001,
-      "shipping_cost": 48.32,
-      "total_price": 522.0500000000001,
-      "shipping_verified": true,
-      "baseline_price": 599.99,
-      "gapPct": 12.99,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/227299075707?_skw=pokemon+Battle+Styles+booster+box&hash=item34ec14a67b:g:zv4AAeSwM4Zp3QSe",
       "franchise": "pokemon",
@@ -91,8 +70,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 299.99,
-      "gapPct": 11.66,
+      "baseline_price": 301.94,
+      "gapPct": 12.23,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -114,7 +93,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 235.0,
-      "gapPct": 44.62,
+      "gapPct": 45.44,
       "confidence": "medium",
       "seller_rating": 98.7,
       "seller_feedback_count": 407,
@@ -126,7 +105,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T03:21:55.605745+00:00",
-      "_last_seen_at": "2026-04-21T10:41:57.300663+00:00"
+      "_last_seen_at": "2026-04-21T11:21:52.169583+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -154,31 +133,6 @@
       "_last_seen_at": "2026-04-21T04:01:49.602851+00:00"
     },
     {
-      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
-      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI78Krx8iaVRQ9wUj0f6ald%2Fax61vNkRVSe6JWe5jpDjh4JzBp400ylvTkLZGVzovgg5g3CisxHJw6o%2FoeR2z0Wxq0ur9NjI8WKSDkVI6jXbPIlw9cLu3mGpTpZlaGt%2Fzk0O%2BT%2B8gMj7DW0La4CKWJWYFg%2F0PTuWUiU%2FSke7JKWxUlXyvIiwjCGDA1F%2Ff1xpdkw%3D",
-      "franchise": "pokemon",
-      "set": "Chilling Reign",
-      "product_type": "booster_box",
-      "price": 459.98,
-      "shipping_cost": 9.99,
-      "total_price": 459.98,
-      "shipping_verified": true,
-      "baseline_price": 599.41,
-      "gapPct": 23.26,
-      "confidence": "medium",
-      "seller_rating": 96.6,
-      "seller_feedback_count": 5831,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "MEDIUM",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-21T02:42:17.407932+00:00",
-      "_last_seen_at": "2026-04-21T10:00:01.650116+00:00"
-    },
-    {
       "title": "One Piece TCG \ud83d\udd25 OP-09 Emperors in the New World Booster Box \ud83d\udd25 English SEALED",
       "url": "https://www.ebay.com/itm/397858650061?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5ca23937cd:g:1hIAAeSwVqBp5UyK",
       "franchise": "onepiece",
@@ -189,7 +143,7 @@
       "total_price": 560.3900000000001,
       "shipping_verified": true,
       "baseline_price": 600.18,
-      "gapPct": 6.63,
+      "gapPct": 3.25,
       "confidence": "medium",
       "seller_rating": 99.1,
       "seller_feedback_count": 154,
@@ -201,16 +155,16 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-04-21T10:41:57.300663+00:00",
-      "_last_seen_at": "2026-04-21T10:41:57.300663+00:00"
+      "_last_seen_at": "2026-04-21T11:21:52.169583+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 3,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
