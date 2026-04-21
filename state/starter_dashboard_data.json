@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T12:02:20.467796+00:00",
+  "timestamp": "2026-04-21T12:42:23.656311+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -8,13 +8,14 @@
   },
   "tier": "starter",
   "total_deals": 4,
-  "all_deals_count": 6,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 4
     },
     "by_product_type": {
-      "booster_box": 4
+      "booster_box": 3,
+      "etb": 1
     },
     "by_gap_bucket": {
       "10_to_19": 4
@@ -31,11 +32,12 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals",
-      "Temporal Forces"
+      "Celebrations",
+      "Destined Rivals"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
       "10_to_19"
@@ -92,8 +94,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 299.99,
-      "gapPct": 11.66,
+      "baseline_price": 299.87,
+      "gapPct": 11.63,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -103,17 +105,17 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
-      "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
+      "title": "Pokemon Celebrations Elite Trainer Box ETB 25th Anniversary New Factory Sealed",
+      "url": "https://www.ebay.com/itm/236764690244?_skw=pokemon+Celebrations+booster+box&hash=item3720467744:g:K54AAeSwU0pp482K",
       "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 276.45,
-      "shipping_cost": 19.93,
-      "total_price": 276.45,
-      "shipping_verified": true,
-      "baseline_price": 310.0,
-      "gapPct": 10.82,
+      "set": "Celebrations",
+      "product_type": "etb",
+      "price": 339.99,
+      "shipping_cost": 0.0,
+      "total_price": 339.99,
+      "shipping_verified": false,
+      "baseline_price": 379.99,
+      "gapPct": 10.53,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -147,7 +149,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T12:00:01.614103+00:00",
-      "_last_seen_at": "2026-04-21T12:02:20.467344+00:00"
+      "_last_seen_at": "2026-04-21T12:42:23.655843+00:00"
+    },
+    {
+      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
+      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 314.99,
+      "shipping_cost": 39.99,
+      "total_price": 314.99,
+      "shipping_verified": true,
+      "baseline_price": 399.0,
+      "gapPct": 21.06,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 3669,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-21T12:42:23.655843+00:00",
+      "_last_seen_at": "2026-04-21T12:42:23.655843+00:00"
     },
     {
       "title": "One Piece TCG \ud83d\udd25 OP-09 Emperors in the New World Booster Box \ud83d\udd25 English SEALED",
