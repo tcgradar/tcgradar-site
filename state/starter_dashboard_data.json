@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-21T18:42:42.470581+00:00",
+  "timestamp": "2026-04-21T19:21:57.210300+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -7,23 +7,21 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 8,
+  "total_deals": 3,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 4
+      "pokemon": 3
     },
     "by_product_type": {
-      "etb": 1,
       "booster_box": 3
     },
     "by_gap_bucket": {
-      "20_plus": 1,
       "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,39 +31,16 @@
     ],
     "set": [
       "Battle Styles",
-      "Celebrations",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box",
-      "etb"
+      "booster_box"
     ],
     "gap_bucket": [
-      "10_to_19",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon Celebrations Elite Trainer Box ETB 25th Anniversary - New Factory Sealed",
-      "url": "https://www.ebay.com/itm/336545116851?_skw=pokemon+Celebrations+booster+box&hash=item4e5ba6f2b3:g:tJwAAeSwHUxp57yg",
-      "franchise": "pokemon",
-      "set": "Celebrations",
-      "product_type": "etb",
-      "price": 319.99,
-      "shipping_cost": 0.0,
-      "total_price": 319.99,
-      "shipping_verified": false,
-      "baseline_price": 400.0,
-      "gapPct": 20.0,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
       "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
@@ -151,7 +126,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T12:00:01.614103+00:00",
-      "_last_seen_at": "2026-04-21T18:42:42.469961+00:00"
+      "_last_seen_at": "2026-04-21T19:21:57.209671+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -201,7 +176,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T12:42:23.655843+00:00",
-      "_last_seen_at": "2026-04-21T18:42:42.469961+00:00"
+      "_last_seen_at": "2026-04-21T19:00:01.784002+00:00"
     },
     {
       "title": "One Piece TCG \ud83d\udd25 OP-09 Emperors in the New World Booster Box \ud83d\udd25 English SEALED",
@@ -226,16 +201,16 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-04-21T18:42:42.469961+00:00",
-      "_last_seen_at": "2026-04-21T18:42:42.469961+00:00"
+      "_last_seen_at": "2026-04-21T19:00:01.784002+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 3,
+    "ebay_deals": 2,
     "retailer_deals": 2,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
