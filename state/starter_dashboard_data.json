@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T10:02:23.480255+00:00",
+  "timestamp": "2026-04-22T10:41:56.508900+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,22 +7,22 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 8,
+  "total_deals": 2,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 2
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 2
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,8 +33,7 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles",
-      "Darkness Ablaze"
+      "Battle Styles"
     ],
     "product_type": [
       "booster_box"
@@ -83,26 +82,6 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon Sword & Shield Darkness Ablaze Booster Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/157707531347?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item24b819f453:g:4wIAAeSw8cdpnsyw",
-      "franchise": "pokemon",
-      "set": "Darkness Ablaze",
-      "product_type": "booster_box",
-      "price": 304.99,
-      "shipping_cost": 0.0,
-      "total_price": 304.99,
-      "shipping_verified": false,
-      "baseline_price": 345.0,
-      "gapPct": 11.6,
-      "confidence": "high",
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
@@ -129,7 +108,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-22T04:42:03.284547+00:00",
-      "_last_seen_at": "2026-04-22T10:02:23.479256+00:00"
+      "_last_seen_at": "2026-04-22T10:41:56.508184+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -142,7 +121,7 @@
       "total_price": 420.57,
       "shipping_verified": true,
       "baseline_price": 599.0,
-      "gapPct": 29.85,
+      "gapPct": 29.78,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 342,
@@ -154,7 +133,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-22T07:22:28.185860+00:00",
-      "_last_seen_at": "2026-04-22T10:02:23.479256+00:00"
+      "_last_seen_at": "2026-04-22T10:41:56.508184+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -204,7 +183,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-22T05:22:02.952334+00:00",
-      "_last_seen_at": "2026-04-22T10:02:23.479256+00:00"
+      "_last_seen_at": "2026-04-22T10:41:56.508184+00:00"
     },
     {
       "title": "One Piece OP09 OP9 SEALED Box Emperors in the New World Booster Display ENG",
@@ -236,9 +215,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
