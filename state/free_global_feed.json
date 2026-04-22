@@ -2,7 +2,7 @@
   "timestamp": "2026-04-22T16:02:01.025021+00:00",
   "tier": "free",
   "deal": {
-    "title": "ONE PIECE OP15 Adventure on KAMI\u2019s Island Booster Box JAPANESE Sealed TCG",
+    "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
     "price": 134.95,
     "shipping_cost": 0.0,
     "total_price": 134.95,
@@ -30,5 +30,5 @@
   "next_refresh_hours": 4,
   "total_safe_deals_available": 3,
   "_refresh_locked": true,
-  "_next_refresh_in_hours": 4
+  "_next_refresh_in_hours": 3
 }
