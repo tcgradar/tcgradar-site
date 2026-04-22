@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T02:41:55.956681+00:00",
+  "timestamp": "2026-04-22T03:21:59.306903+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 10,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
@@ -117,7 +117,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 245.0,
-      "gapPct": 44.92,
+      "gapPct": 45.36,
       "confidence": "medium",
       "seller_rating": 99.1,
       "seller_feedback_count": 413,
@@ -129,7 +129,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T20:00:02.043370+00:00",
-      "_last_seen_at": "2026-04-22T02:41:55.955872+00:00"
+      "_last_seen_at": "2026-04-22T03:21:59.306146+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
@@ -179,7 +179,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T21:22:02.545036+00:00",
-      "_last_seen_at": "2026-04-22T02:41:55.955872+00:00"
+      "_last_seen_at": "2026-04-22T03:21:59.306146+00:00"
     },
     {
       "title": "One Piece OP09 OP9 SEALED Box Emperors in the New World Booster Display ENG",
@@ -191,8 +191,8 @@
       "shipping_cost": 70.72,
       "total_price": 554.02,
       "shipping_verified": true,
-      "baseline_price": 616.87,
-      "gapPct": 10.19,
+      "baseline_price": 618.75,
+      "gapPct": 10.46,
       "confidence": "low",
       "seller_rating": 100.0,
       "seller_feedback_count": 1125,
@@ -203,8 +203,8 @@
       "deal_quality": "low",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-22T01:00:01.079344+00:00",
-      "_last_seen_at": "2026-04-22T01:00:01.079344+00:00"
+      "_first_seen_at": "2026-04-22T03:21:59.306146+00:00",
+      "_last_seen_at": "2026-04-22T03:21:59.306146+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
@@ -230,31 +230,6 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-22T00:42:32.962965+00:00",
       "_last_seen_at": "2026-04-22T01:00:01.079344+00:00"
-    },
-    {
-      "title": "One Piece TCG \ud83d\udd25 OP-09 Emperors in the New World Booster Box \ud83d\udd25 English SEALED",
-      "url": "https://www.ebay.com/itm/397858650061?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5ca23937cd:g:1hIAAeSwVqBp5UyK",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 560.3900000000001,
-      "shipping_cost": 46.06,
-      "total_price": 560.3900000000001,
-      "shipping_verified": true,
-      "baseline_price": 604.63,
-      "gapPct": 7.32,
-      "confidence": "medium",
-      "seller_rating": 99.1,
-      "seller_feedback_count": 154,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-04-21T18:42:42.469961+00:00",
-      "_last_seen_at": "2026-04-21T19:00:01.784002+00:00"
     },
     {
       "title": "Pokemon Destined Rivals Booster Box 36 Pack Sealed READ DESCRIPTION",
