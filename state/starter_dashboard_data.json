@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T15:21:58.051424+00:00",
+  "timestamp": "2026-04-22T16:02:01.055171+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -108,7 +108,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-22T13:00:01.252198+00:00",
-      "_last_seen_at": "2026-04-22T15:21:58.050739+00:00"
+      "_last_seen_at": "2026-04-22T16:02:01.054479+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -120,11 +120,11 @@
       "shipping_cost": 44.87,
       "total_price": 420.57,
       "shipping_verified": true,
-      "baseline_price": 599.0,
+      "baseline_price": 599.99,
       "gapPct": 29.9,
       "confidence": "medium",
       "seller_rating": 99.7,
-      "seller_feedback_count": 342,
+      "seller_feedback_count": 343,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -132,8 +132,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-22T07:22:28.185860+00:00",
-      "_last_seen_at": "2026-04-22T15:21:58.050739+00:00"
+      "_first_seen_at": "2026-04-22T16:00:01.770121+00:00",
+      "_last_seen_at": "2026-04-22T16:02:01.054479+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
@@ -183,7 +183,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-22T13:22:33.250125+00:00",
-      "_last_seen_at": "2026-04-22T15:21:58.050739+00:00"
+      "_last_seen_at": "2026-04-22T16:02:01.054479+00:00"
     },
     {
       "title": "One Piece OP09 OP9 SEALED Box Emperors in the New World Booster Display ENG",
@@ -207,8 +207,8 @@
       "deal_quality": "low",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-22T15:21:58.050739+00:00",
-      "_last_seen_at": "2026-04-22T15:21:58.050739+00:00"
+      "_first_seen_at": "2026-04-22T16:00:01.770121+00:00",
+      "_last_seen_at": "2026-04-22T16:00:01.770121+00:00"
     }
   ],
   "empty_watchlist": false,
