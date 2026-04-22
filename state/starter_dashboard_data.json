@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T12:42:01.745066+00:00",
+  "timestamp": "2026-04-22T13:22:33.250734+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,22 +7,22 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 6,
+  "total_deals": 3,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 2
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "10_to_19": 2
+      "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,7 +33,8 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles"
+      "Battle Styles",
+      "Temporal Forces"
     ],
     "product_type": [
       "booster_box"
@@ -82,12 +83,32 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
+      "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 276.04999999999995,
+      "shipping_cost": 19.9,
+      "total_price": 276.04999999999995,
+      "shipping_verified": true,
+      "baseline_price": 315.0,
+      "gapPct": 12.37,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
     {
       "title": "ONE PIECE OP15 Adventure on KAMI\u2019s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3XpmrNnFK0cYVXBgHa3NWnPhMkrF00qrfVdwbctOH2oCjl1IIS1Hj2v8NtG8zkN1SnS%2B%2BFPam7RcFsnwmBeIIxf99Cjxz0LUpI0%2BI3o66TEeLsFSKRM9iRAX7MabEqD%2B22SRoPE9F7CEbIWovpVZUCziRAvrnkNQFW3Wn6T90VHOMr7ZCQi9qpwge4v3yHTRv8P6wNIifu0jpCNYupxU95j",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3U5%2F31nvLdlBvBeYrmiHwFEi0PgZm6lkjvF%2FJpQv6%2FvoahBw6AYrWzD%2FJQquadryYlIGaz4VluA5zTtUjprI3bITnWHqRoVQOavLOGilcDz5i3bfdaYmAYhG2wFj9XpGq4lfOknrn0eDFjC2IEA%2FsSz1oK1%2FpyZlqxovkc7KHCmRFj4pMcwUjLyaQ254XcZ5iLSpbhN%2BikzKdg6V%2BIhysPa",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -95,11 +116,11 @@
       "shipping_cost": 0.0,
       "total_price": 134.95,
       "shipping_verified": true,
-      "baseline_price": 245.0,
+      "baseline_price": 241.5,
       "gapPct": 44.12,
       "confidence": "medium",
       "seller_rating": 99.1,
-      "seller_feedback_count": 419,
+      "seller_feedback_count": 422,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -107,8 +128,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-22T04:42:03.284547+00:00",
-      "_last_seen_at": "2026-04-22T12:42:01.744432+00:00"
+      "_first_seen_at": "2026-04-22T13:00:01.252198+00:00",
+      "_last_seen_at": "2026-04-22T13:22:33.250125+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -121,7 +142,7 @@
       "total_price": 420.57,
       "shipping_verified": true,
       "baseline_price": 599.0,
-      "gapPct": 29.79,
+      "gapPct": 29.78,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 342,
@@ -133,7 +154,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-22T07:22:28.185860+00:00",
-      "_last_seen_at": "2026-04-22T12:42:01.744432+00:00"
+      "_last_seen_at": "2026-04-22T13:22:33.250125+00:00"
     },
     {
       "title": "Pokemon TCG Sealed 2021 Sword & Shield Battle Styles Booster Box",
@@ -145,11 +166,11 @@
       "shipping_cost": 0.0,
       "total_price": 259.99,
       "shipping_verified": false,
-      "baseline_price": 299.74,
+      "baseline_price": 297.37,
       "gapPct": 12.57,
       "confidence": "medium",
       "seller_rating": 100.0,
-      "seller_feedback_count": 1728,
+      "seller_feedback_count": 1730,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -157,8 +178,8 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-22T05:22:02.952334+00:00",
-      "_last_seen_at": "2026-04-22T12:42:01.744432+00:00"
+      "_first_seen_at": "2026-04-22T13:22:33.250125+00:00",
+      "_last_seen_at": "2026-04-22T13:22:33.250125+00:00"
     },
     {
       "title": "One Piece OP09 OP9 SEALED Box Emperors in the New World Booster Display ENG",
@@ -190,9 +211,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 1,
     "retailer_deals": 3,
-    "total_merged": 2,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
