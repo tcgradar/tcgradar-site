@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T00:01:59.904735+00:00",
+  "timestamp": "2026-04-22T00:42:32.963667+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 7,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
@@ -85,17 +85,17 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip2",
-      "url": "https://www.ebay.com/itm/267644770609?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e50df1931:g:45EAAeSw6z9p5T64",
+      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed TINY Rip",
+      "url": "https://www.ebay.com/itm/206221820226?_skw=pokemon+Destined+Rivals+booster+box&hash=item3003c74142:g:Fr4AAeSwz9pp5hmd",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
-      "price": 537.97,
-      "shipping_cost": 64.24,
-      "total_price": 537.97,
+      "price": 529.04,
+      "shipping_cost": 48.55,
+      "total_price": 529.04,
       "shipping_verified": true,
       "baseline_price": 599.5,
-      "gapPct": 10.26,
+      "gapPct": 11.75,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -129,7 +129,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T20:00:02.043370+00:00",
-      "_last_seen_at": "2026-04-22T00:01:59.904133+00:00"
+      "_last_seen_at": "2026-04-22T00:42:32.962965+00:00"
     },
     {
       "title": "Pokemon TCG Sealed 2021 Sword & Shield Battle Styles Booster Box",
@@ -154,7 +154,57 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T21:22:02.545036+00:00",
-      "_last_seen_at": "2026-04-22T00:01:59.904133+00:00"
+      "_last_seen_at": "2026-04-22T00:42:32.962965+00:00"
+    },
+    {
+      "title": "One Piece OP09 OP9 SEALED Box Emperors in the New World Booster Display ENG",
+      "url": "https://www.ebay.com/itm/147253347082?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2248fbc30a:g:sEsAAeSwYudp2gqI",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 554.02,
+      "shipping_cost": 70.72,
+      "total_price": 554.02,
+      "shipping_verified": true,
+      "baseline_price": 616.87,
+      "gapPct": 10.19,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1125,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-22T00:42:32.962965+00:00",
+      "_last_seen_at": "2026-04-22T00:42:32.962965+00:00"
+    },
+    {
+      "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
+      "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 276.45,
+      "shipping_cost": 19.93,
+      "total_price": 276.45,
+      "shipping_verified": true,
+      "baseline_price": 305.0,
+      "gapPct": 9.36,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 239,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-22T00:42:32.962965+00:00",
+      "_last_seen_at": "2026-04-22T00:42:32.962965+00:00"
     },
     {
       "title": "One Piece TCG \ud83d\udd25 OP-09 Emperors in the New World Booster Box \ud83d\udd25 English SEALED",
