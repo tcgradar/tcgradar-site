@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T00:42:32.963667+00:00",
+  "timestamp": "2026-04-22T01:22:34.034069+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,22 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 9,
+  "total_deals": 4,
+  "all_deals_count": 11,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 3,
+      "onepiece": 1
     },
     "by_product_type": {
+      "etb": 1,
       "booster_box": 3
     },
     "by_gap_bucket": {
+      "20_plus": 1,
       "10_to_19": 3
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -34,16 +36,39 @@
     "set": [
       "Adventure on Kami's Island",
       "Battle Styles",
+      "Celebrations",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG - Celebrations 25th Anniversary Elite Trainer Box ETB | New/Sealed!",
+      "url": "https://www.ebay.com/itm/127732590673?_skw=pokemon+Celebrations+booster+box&hash=item1dbd74a851:g:pUUAAeSwFXppsQ1x",
+      "franchise": "pokemon",
+      "set": "Celebrations",
+      "product_type": "etb",
+      "price": 363.6,
+      "shipping_cost": 33.79,
+      "total_price": 363.6,
+      "shipping_verified": true,
+      "baseline_price": 522.5,
+      "gapPct": 30.41,
+      "confidence": "high",
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
     {
       "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
       "url": "https://stompinggroundstcg.com/products/one-piece-adventure-on-kamis-island-booster-box-op-15",
@@ -85,17 +110,17 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed TINY Rip",
-      "url": "https://www.ebay.com/itm/206221820226?_skw=pokemon+Destined+Rivals+booster+box&hash=item3003c74142:g:Fr4AAeSwz9pp5hmd",
+      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip2",
+      "url": "https://www.ebay.com/itm/267644770609?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e50df1931:g:45EAAeSw6z9p5T64",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
-      "price": 529.04,
-      "shipping_cost": 48.55,
-      "total_price": 529.04,
+      "price": 537.97,
+      "shipping_cost": 64.24,
+      "total_price": 537.97,
       "shipping_verified": true,
       "baseline_price": 599.5,
-      "gapPct": 11.75,
+      "gapPct": 10.26,
       "confidence": "high",
       "language": "EN",
       "source": "ebay",
@@ -129,7 +154,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T20:00:02.043370+00:00",
-      "_last_seen_at": "2026-04-22T00:42:32.962965+00:00"
+      "_last_seen_at": "2026-04-22T01:22:34.033278+00:00"
+    },
+    {
+      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
+      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 314.99,
+      "shipping_cost": 39.99,
+      "total_price": 314.99,
+      "shipping_verified": true,
+      "baseline_price": 397.77,
+      "gapPct": 20.81,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 3670,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-22T01:22:34.033278+00:00",
+      "_last_seen_at": "2026-04-22T01:22:34.033278+00:00"
     },
     {
       "title": "Pokemon TCG Sealed 2021 Sword & Shield Battle Styles Booster Box",
@@ -154,7 +204,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-21T21:22:02.545036+00:00",
-      "_last_seen_at": "2026-04-22T00:42:32.962965+00:00"
+      "_last_seen_at": "2026-04-22T01:22:34.033278+00:00"
     },
     {
       "title": "One Piece OP09 OP9 SEALED Box Emperors in the New World Booster Display ENG",
@@ -178,8 +228,8 @@
       "deal_quality": "low",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-22T00:42:32.962965+00:00",
-      "_last_seen_at": "2026-04-22T00:42:32.962965+00:00"
+      "_first_seen_at": "2026-04-22T01:00:01.079344+00:00",
+      "_last_seen_at": "2026-04-22T01:00:01.079344+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
@@ -204,7 +254,7 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-22T00:42:32.962965+00:00",
-      "_last_seen_at": "2026-04-22T00:42:32.962965+00:00"
+      "_last_seen_at": "2026-04-22T01:00:01.079344+00:00"
     },
     {
       "title": "One Piece TCG \ud83d\udd25 OP-09 Emperors in the New World Booster Box \ud83d\udd25 English SEALED",
@@ -261,9 +311,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
