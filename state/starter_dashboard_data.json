@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T16:46:28.963518+00:00",
+  "timestamp": "2026-04-23T06:00:01.748561+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,22 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 7,
+  "total_deals": 2,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 2
     },
     "by_gap_bucket": {
-      "10_to_19": 3
-    },
-    "by_source": {
-      "stompinggroundstcg": 1,
-      "gamenerdz": 1,
-      "ebay": 1
+      "10_to_19": 2
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,8 +33,7 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles",
-      "Darkness Ablaze"
+      "Battle Styles"
     ],
     "product_type": [
       "booster_box"
@@ -88,34 +82,12 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon Sword & Shield Darkness Ablaze Booster Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/157707531347?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item24b819f453:g:4wIAAeSw8cdpnsyw",
-      "franchise": "pokemon",
-      "set": "Darkness Ablaze",
-      "product_type": "booster_box",
-      "price": 304.99,
-      "shipping_cost": 0.0,
-      "total_price": 304.99,
-      "shipping_verified": false,
-      "baseline_price": 347.5,
-      "gapPct": 12.23,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 103,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
     {
-      "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3UGwKjR7E4ur8g9a7%2Fa5Uub7cm5eZ7FL62tYjqKGfC0otM9oe%2Bpa9KgpEez6R38YZ01cIbgoJUJjva36aTRXPfwffrwquShxLt%2BjIcLYSyvYWtyCDsMnAlMzeVpkt02SsP40mKUeZtAdaM6z4ns%2BtVsX2UIIXjLtrtgwC6gJhsNCd206eL7N4DPMtUiNThGxBrqA4YAvTMEKMmQp9dL19G2",
+      "title": "ONE PIECE OP15 Adventure on KAMI\u2019s Island Booster Box JAPANESE Sealed TCG",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3XGp4ufyQXNxDhn2Q8lBC5ihW%2Bhet0m4xCnx2h7EFdt6PdUxPAqmqqqkWVtVzNdFGE49R%2BlpSjpssOmKgdLEYoj1leC%2FWk74pP5Rgj3%2F0XciNK8y7uSvCkBrqKrjDWoS0v%2BZ%2Fy0fGBkjxm6w1taOCMhvOI0IXZV7itw%2B8xiutks%2FLNFtNEn9R6B6NY%2F7bFFmEt3Ij0%2BQieWsJobkV1SkBm2",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -127,7 +99,7 @@
       "gapPct": 43.77,
       "confidence": "medium",
       "seller_rating": 99.2,
-      "seller_feedback_count": 423,
+      "seller_feedback_count": 425,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -135,12 +107,12 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-22T16:45:52.354073+00:00",
-      "_last_seen_at": "2026-04-22T16:46:28.962863+00:00"
+      "_first_seen_at": "2026-04-23T05:00:01.591487+00:00",
+      "_last_seen_at": "2026-04-23T06:00:01.747878+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
-      "url": "https://www.ebay.com/itm/377132902748?_skw=pokemon+Destined+Rivals+booster+box&hash=item57cedf695c:g:4sAAAeSwmmlp6G3K&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYFydc72StOCmaqEufVaUlCSW7eLeetlm0GKNutn66QfTGRELi7npKzCQVfeVRi4YCSa7i5JFhaTHhYpRBNUTZTpwOcW0Xx5GpsL%2BuMak5FPcg4IdAXXGbwTOM6jY17m92G9LgNS1BWMzxJEc7j7Xroa7PA0L8ejrO9xukAtbJwbgWFO2JT3UhBqGr4BCMAA9FJ9w2GyQhFwS5ryAokFu%2BkQDSGRaD6AWPYnfN8Xpkne%2FjngeSLf4S4XfLJPVaNJ64RrZYejx%2Fo2hkFFBi0ZUiYUWAyDUmh%2Bm44%2B9szRsNq37Tad3SeuGpBZL4nGT1mskM%3D",
+      "url": "https://www.ebay.com/itm/377132902748?_skw=pokemon+Destined+Rivals+booster+box&hash=item57cedf695c:g:4sAAAeSwmmlp6G3K",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -148,8 +120,8 @@
       "shipping_cost": 44.87,
       "total_price": 420.57,
       "shipping_verified": true,
-      "baseline_price": 599.99,
-      "gapPct": 29.9,
+      "baseline_price": 599.5,
+      "gapPct": 29.85,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 343,
@@ -160,33 +132,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-22T16:45:52.354073+00:00",
-      "_last_seen_at": "2026-04-22T16:46:28.962863+00:00"
-    },
-    {
-      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
-      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI6VyA%2FpxCjAVLImHiJhXJJXnSJBdPGufeQlID5SyqttXCvCPmqHWPqJmPmW7QKVzu2N41A5GNO6vkHUcji4TRXXo0ksROcQEnRs7%2Ft6LwXM5J%2Bw5npTuzC61BnstcaZrjJF7mLd10yMzcWVXrcvG6lcdGCOF%2BP35tsArMQfOvYlyb%2FfE1OpqLDhV%2BskggShdb0%3D",
-      "franchise": "pokemon",
-      "set": "Chilling Reign",
-      "product_type": "booster_box",
-      "price": 459.98,
-      "shipping_cost": 9.99,
-      "total_price": 459.98,
-      "shipping_verified": true,
-      "baseline_price": 589.43,
-      "gapPct": 21.96,
-      "confidence": "medium",
-      "seller_rating": 96.5,
-      "seller_feedback_count": 5832,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "MEDIUM",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-22T16:45:52.354073+00:00",
-      "_last_seen_at": "2026-04-22T16:46:28.962863+00:00"
+      "_first_seen_at": "2026-04-23T00:00:01.788518+00:00",
+      "_last_seen_at": "2026-04-23T06:00:01.747878+00:00"
     },
     {
       "title": "Pokemon TCG Sealed 2021 Sword & Shield Battle Styles Booster Box",
@@ -198,8 +145,8 @@
       "shipping_cost": 0.0,
       "total_price": 259.99,
       "shipping_verified": false,
-      "baseline_price": 297.37,
-      "gapPct": 12.57,
+      "baseline_price": 299.87,
+      "gapPct": 13.3,
       "confidence": "medium",
       "seller_rating": 100.0,
       "seller_feedback_count": 1730,
@@ -210,17 +157,17 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-22T16:45:52.354073+00:00",
-      "_last_seen_at": "2026-04-22T16:46:28.962863+00:00"
+      "_first_seen_at": "2026-04-23T06:00:01.747878+00:00",
+      "_last_seen_at": "2026-04-23T06:00:01.747878+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
