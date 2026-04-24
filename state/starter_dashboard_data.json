@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T22:22:08.545183+00:00",
+  "timestamp": "2026-04-24T23:02:35.579659+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,27 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
+  "total_deals": 4,
   "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 4
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 4
     },
     "by_source": {
       "stompinggroundstcg": 1,
       "gamenerdz": 1,
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,7 +38,8 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles"
+      "Battle Styles",
+      "Temporal Forces"
     ],
     "product_type": [
       "booster_box"
@@ -89,6 +90,28 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
+      "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 275.31,
+      "shipping_cost": 19.85,
+      "total_price": 275.31,
+      "shipping_verified": true,
+      "baseline_price": 315.0,
+      "gapPct": 12.6,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 240,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/227299075707?_skw=pokemon+Battle+Styles+booster+box&hash=item34ec14a67b:g:zv4AAeSwM4Zp3QSe",
       "franchise": "pokemon",
@@ -98,8 +121,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 299.99,
-      "gapPct": 11.66,
+      "baseline_price": 299.87,
+      "gapPct": 11.63,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 517,
@@ -114,7 +137,7 @@
   "watchlist_deals": [
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3Xeslvx2GHekjV8CinslofftM%2FQ0Oi1UGk0GwD0KUZ4G1x0Wi0iXyKNt4tpyDPhlYaqSNFdo3tNvr%2BWZNXM9zOpUz61n%2BG5bj6p9zdtwMS9mczUeORuYVdLqCuqMnKFfpYYx3uQ7DI%2FoH%2BBirl%2BGgCfgA8J7JHan7Cdc%2BdYMKqSGqTercnz7mZau1A1fs0IBSK6l8I5V4jKMqWStX%2F6%2B%2BsG",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VpqGNXH4VxoMyDnskUZbHC8waUZkaiCF6%2FxbxqQx%2Fo0wqvRE8kbUMf9a5vp8TkxEnE4KarxnGvAG84otPG8mX5FBVVmjpd9RCi4lXBw49b%2FVZ1VuKlYqag9Ei%2B8qti7xIvWVWpyNKMbnJS1g2IQgzRR7zmD4fRfvdUPtvmG7w%2Ba5jx9ZiCbwSeCAgsM2cLELKe%2Fr5cWl59bhxA4Btl1pwN",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -122,8 +145,8 @@
       "shipping_cost": 0.0,
       "total_price": 134.95,
       "shipping_verified": true,
-      "baseline_price": 236.95,
-      "gapPct": 43.41,
+      "baseline_price": 238.47,
+      "gapPct": 43.77,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -134,8 +157,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-24T14:26:43.482555+00:00",
-      "_last_seen_at": "2026-04-24T22:22:08.544590+00:00"
+      "_first_seen_at": "2026-04-24T23:00:01.173064+00:00",
+      "_last_seen_at": "2026-04-24T23:02:35.579134+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -148,7 +171,7 @@
       "total_price": 419.3,
       "shipping_verified": true,
       "baseline_price": 608.88,
-      "gapPct": 30.63,
+      "gapPct": 32.37,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 345,
@@ -160,7 +183,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T17:42:10.918477+00:00",
-      "_last_seen_at": "2026-04-24T22:22:08.544590+00:00"
+      "_last_seen_at": "2026-04-24T23:02:35.579134+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
@@ -186,40 +209,15 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T18:22:37.103022+00:00",
       "_last_seen_at": "2026-04-24T19:00:01.324651+00:00"
-    },
-    {
-      "title": "Pokemon TCG Sealed 2021 Sword & Shield Battle Styles Booster Box",
-      "url": "https://www.ebay.com/itm/389920658431?_skw=pokemon+Battle+Styles+booster+box&hash=item5ac91513ff:g:LGMAAeSwrclp57pj",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 259.99,
-      "shipping_cost": 0.0,
-      "total_price": 259.99,
-      "shipping_verified": false,
-      "baseline_price": 299.74,
-      "gapPct": 13.26,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1731,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-24T14:26:43.482555+00:00",
-      "_last_seen_at": "2026-04-24T22:00:01.237683+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
