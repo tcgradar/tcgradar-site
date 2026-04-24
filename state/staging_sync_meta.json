@@ -1,8 +1,7 @@
 {
-  "last_sync": "2026-04-24T15:06:42.814252+00:00",
+  "last_sync": "2026-04-24T15:46:34.913273+00:00",
   "environment": "staging",
   "files_synced": [
-    "starter_dashboard_data.json",
     "auction_high_deals.json",
     "free_global_feed.json",
     "landing_recent_detections.json",
