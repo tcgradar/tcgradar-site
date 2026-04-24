@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T16:27:38.109407+00:00",
+  "timestamp": "2026-04-24T17:02:06.783434+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 8,
+  "total_deals": 2,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 2
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 2
     },
     "by_source": {
       "stompinggroundstcg": 1,
-      "ebay": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,8 +37,7 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles",
-      "Temporal Forces"
+      "Battle Styles"
     ],
     "product_type": [
       "booster_box"
@@ -66,28 +64,6 @@
       "shipping_cost": 0,
       "confidence": "high",
       "non_ebay": true,
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon TCG Scarlet & Violet Booster Box - Factory Sealed",
-      "url": "https://www.ebay.com/itm/267612231072?_skw=pokemon+Temporal+Forces+booster+box&hash=item3e4eee95a0:g:8OEAAeSwmT9pundB",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 275.31,
-      "shipping_cost": 19.85,
-      "total_price": 275.31,
-      "shipping_verified": true,
-      "baseline_price": 319.99,
-      "gapPct": 13.96,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 240,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
     },
@@ -136,7 +112,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T14:26:43.482555+00:00",
-      "_last_seen_at": "2026-04-24T16:27:38.108702+00:00"
+      "_last_seen_at": "2026-04-24T17:02:06.782741+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -161,7 +137,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T09:05:37.016705+00:00",
-      "_last_seen_at": "2026-04-24T16:27:38.108702+00:00"
+      "_last_seen_at": "2026-04-24T17:02:06.782741+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -211,7 +187,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T14:26:43.482555+00:00",
-      "_last_seen_at": "2026-04-24T16:27:38.108702+00:00"
+      "_last_seen_at": "2026-04-24T17:02:06.782741+00:00"
     },
     {
       "title": "One Piece OP09 OP9 SEALED Box Emperors in the New World Booster Display ENG",
@@ -243,9 +219,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
