@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T18:22:37.103778+00:00",
+  "timestamp": "2026-04-24T19:02:09.980204+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -112,7 +112,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T14:26:43.482555+00:00",
-      "_last_seen_at": "2026-04-24T18:22:37.103022+00:00"
+      "_last_seen_at": "2026-04-24T19:02:09.979448+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -137,7 +137,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T17:42:10.918477+00:00",
-      "_last_seen_at": "2026-04-24T18:22:37.103022+00:00"
+      "_last_seen_at": "2026-04-24T19:02:09.979448+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
@@ -162,7 +162,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T18:22:37.103022+00:00",
-      "_last_seen_at": "2026-04-24T18:22:37.103022+00:00"
+      "_last_seen_at": "2026-04-24T19:00:01.324651+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -200,7 +200,7 @@
       "total_price": 259.99,
       "shipping_verified": false,
       "baseline_price": 299.74,
-      "gapPct": 12.57,
+      "gapPct": 13.26,
       "confidence": "medium",
       "seller_rating": 100.0,
       "seller_feedback_count": 1731,
@@ -212,7 +212,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T14:26:43.482555+00:00",
-      "_last_seen_at": "2026-04-24T18:22:37.103022+00:00"
+      "_last_seen_at": "2026-04-24T19:02:09.979448+00:00"
     },
     {
       "title": "One Piece OP09 OP9 SEALED Box Emperors in the New World Booster Display ENG",
