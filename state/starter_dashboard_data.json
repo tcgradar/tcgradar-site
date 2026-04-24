@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T15:45:31.350553+00:00",
+  "timestamp": "2026-04-24T16:00:01.508256+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -112,7 +112,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T14:26:43.482555+00:00",
-      "_last_seen_at": "2026-04-24T15:45:31.349842+00:00"
+      "_last_seen_at": "2026-04-24T16:00:01.507231+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -137,7 +137,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T09:05:37.016705+00:00",
-      "_last_seen_at": "2026-04-24T15:45:31.349842+00:00"
+      "_last_seen_at": "2026-04-24T16:00:01.507231+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -187,7 +187,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T14:26:43.482555+00:00",
-      "_last_seen_at": "2026-04-24T15:45:31.349842+00:00"
+      "_last_seen_at": "2026-04-24T16:00:01.507231+00:00"
     },
     {
       "title": "One Piece OP09 OP9 SEALED Box Emperors in the New World Booster Display ENG",
