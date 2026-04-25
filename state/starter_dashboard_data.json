@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T21:42:14.780911+00:00",
+  "timestamp": "2026-04-25T22:22:13.204358+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -123,7 +123,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 238.0,
-      "gapPct": 43.54,
+      "gapPct": 43.3,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T15:06:44.463017+00:00",
-      "_last_seen_at": "2026-04-25T21:42:14.780115+00:00"
+      "_last_seen_at": "2026-04-25T22:22:13.203622+00:00"
     },
     {
       "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
@@ -160,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T14:26:05.794019+00:00",
-      "_last_seen_at": "2026-04-25T21:42:14.780115+00:00"
+      "_last_seen_at": "2026-04-25T22:00:01.572864+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -173,7 +173,7 @@
       "total_price": 421.32,
       "shipping_verified": true,
       "baseline_price": 608.88,
-      "gapPct": 30.29,
+      "gapPct": 29.78,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 347,
@@ -185,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T18:27:35.194824+00:00",
-      "_last_seen_at": "2026-04-25T21:42:14.780115+00:00"
+      "_last_seen_at": "2026-04-25T22:22:13.203622+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
