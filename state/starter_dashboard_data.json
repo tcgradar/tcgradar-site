@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T11:06:07.365692+00:00",
+  "timestamp": "2026-04-25T11:45:42.547985+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,27 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 9,
+  "total_deals": 3,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
-      "onepiece": 1
+      "onepiece": 1,
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 4
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "10_to_19": 4
+      "10_to_19": 3
     },
     "by_source": {
-      "ebay": 2,
       "stompinggroundstcg": 1,
-      "gamenerdz": 1
+      "gamenerdz": 1,
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,8 +38,7 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles",
-      "Destined Rivals"
+      "Battle Styles"
     ],
     "product_type": [
       "booster_box"
@@ -49,28 +48,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip ",
-      "url": "https://www.ebay.com/itm/267649603746?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e5128d8a2:g:M1EAAeSwfqVp5T5i",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 514.9200000000001,
-      "shipping_cost": 48.07,
-      "total_price": 514.9200000000001,
-      "shipping_verified": true,
-      "baseline_price": 614.43,
-      "gapPct": 16.2,
-      "confidence": "high",
-      "seller_rating": 98.9,
-      "seller_feedback_count": 830,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
     {
       "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
       "url": "https://stompinggroundstcg.com/products/one-piece-adventure-on-kamis-island-booster-box-op-15",
@@ -121,8 +98,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 300.0,
-      "gapPct": 11.67,
+      "baseline_price": 299.87,
+      "gapPct": 11.63,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 517,
@@ -158,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T07:05:57.228746+00:00",
-      "_last_seen_at": "2026-04-25T11:06:07.365034+00:00"
+      "_last_seen_at": "2026-04-25T11:07:12.200398+00:00"
     },
     {
       "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
@@ -196,7 +173,7 @@
       "total_price": 421.32,
       "shipping_verified": true,
       "baseline_price": 608.88,
-      "gapPct": 30.8,
+      "gapPct": 31.43,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 345,
@@ -208,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T09:46:54.295129+00:00",
-      "_last_seen_at": "2026-04-25T10:00:01.849201+00:00"
+      "_last_seen_at": "2026-04-25T11:45:42.547258+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
@@ -265,9 +242,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 3,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
