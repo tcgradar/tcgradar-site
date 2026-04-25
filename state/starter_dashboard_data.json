@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T13:45:37.504399+00:00",
+  "timestamp": "2026-04-25T14:26:05.794585+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,27 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 7,
+  "total_deals": 4,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 4
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 4
     },
     "by_source": {
       "stompinggroundstcg": 1,
       "gamenerdz": 1,
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,7 +38,8 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles"
+      "Battle Styles",
+      "Darkness Ablaze"
     ],
     "product_type": [
       "booster_box"
@@ -89,6 +90,28 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "Pokemon Sword & Shield Darkness Ablaze Booster Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/157707531347?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item24b819f453:g:4wIAAeSw8cdpnsyw",
+      "franchise": "pokemon",
+      "set": "Darkness Ablaze",
+      "product_type": "booster_box",
+      "price": 304.99,
+      "shipping_cost": 0.0,
+      "total_price": 304.99,
+      "shipping_verified": false,
+      "baseline_price": 347.5,
+      "gapPct": 12.23,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 103,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
       "url": "https://www.ebay.com/itm/227299075707?_skw=pokemon+Battle+Styles+booster+box&hash=item34ec14a67b:g:zv4AAeSwM4Zp3QSe",
       "franchise": "pokemon",
@@ -98,8 +121,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 300.0,
-      "gapPct": 11.67,
+      "baseline_price": 299.99,
+      "gapPct": 11.66,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 517,
@@ -123,7 +146,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 238.0,
-      "gapPct": 43.25,
+      "gapPct": 43.3,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -135,7 +158,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T07:05:57.228746+00:00",
-      "_last_seen_at": "2026-04-25T13:45:37.503819+00:00"
+      "_last_seen_at": "2026-04-25T14:26:05.794019+00:00"
     },
     {
       "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
@@ -147,11 +170,11 @@
       "shipping_cost": 40.58,
       "total_price": 162.35,
       "shipping_verified": true,
-      "baseline_price": 263.87,
-      "gapPct": 38.47,
+      "baseline_price": 284.21,
+      "gapPct": 42.88,
       "confidence": "medium",
       "seller_rating": 99.8,
-      "seller_feedback_count": 6335,
+      "seller_feedback_count": 6345,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -159,8 +182,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-25T06:25:58.281827+00:00",
-      "_last_seen_at": "2026-04-25T07:00:01.977029+00:00"
+      "_first_seen_at": "2026-04-25T14:26:05.794019+00:00",
+      "_last_seen_at": "2026-04-25T14:26:05.794019+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -185,41 +208,41 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T09:46:54.295129+00:00",
-      "_last_seen_at": "2026-04-25T13:45:37.503819+00:00"
+      "_last_seen_at": "2026-04-25T14:00:01.191045+00:00"
     },
     {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
+      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI4kiMjb7oCiyDj5ADp%2BkYyeU1%2FY2kZes3kk%2FT10CLXYETkAprLp0ztaZI3Zr1gqP%2BuE1gQyKXMw1PAvLGXFLxhK8HNPk9o7JiZ0Vf1jGQIKFCZ4g6AcU%2Flcvw0Iapt2K7yZYmOyQQaBio9i4ZRJ8o8D03oguHxT0SFj23cMo0Vt%2BZws9fNg70Ww91hVpDTghi8%3D",
       "franchise": "pokemon",
-      "set": "Astral Radiance",
+      "set": "Chilling Reign",
       "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
+      "price": 469.98,
+      "shipping_cost": 19.99,
+      "total_price": 469.98,
       "shipping_verified": true,
-      "baseline_price": 400.0,
-      "gapPct": 21.25,
+      "baseline_price": 592.43,
+      "gapPct": 20.67,
       "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 3672,
+      "seller_rating": 96.6,
+      "seller_feedback_count": 5837,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
-      "seller_trust": "HIGH",
+      "seller_trust": "MEDIUM",
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-25T06:25:58.281827+00:00",
-      "_last_seen_at": "2026-04-25T13:00:01.337136+00:00"
+      "_first_seen_at": "2026-04-25T14:26:05.794019+00:00",
+      "_last_seen_at": "2026-04-25T14:26:05.794019+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
