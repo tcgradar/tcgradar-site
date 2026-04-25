@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T15:45:40.141232+00:00",
+  "timestamp": "2026-04-25T16:27:05.920960+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -98,8 +98,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 300.0,
-      "gapPct": 11.67,
+      "baseline_price": 299.99,
+      "gapPct": 11.66,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 517,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T15:06:44.463017+00:00",
-      "_last_seen_at": "2026-04-25T15:45:40.140559+00:00"
+      "_last_seen_at": "2026-04-25T16:00:01.509907+00:00"
     },
     {
       "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
@@ -185,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T09:46:54.295129+00:00",
-      "_last_seen_at": "2026-04-25T15:45:40.140559+00:00"
+      "_last_seen_at": "2026-04-25T16:00:01.509907+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
