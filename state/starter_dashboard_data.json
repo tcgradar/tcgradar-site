@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T01:45:57.091313+00:00",
+  "timestamp": "2026-04-25T02:25:32.037611+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,27 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 9,
+  "total_deals": 3,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 3
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 4
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "10_to_19": 4
+      "10_to_19": 3
     },
     "by_source": {
       "stompinggroundstcg": 1,
       "gamenerdz": 1,
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,8 +38,7 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles",
-      "Darkness Ablaze"
+      "Battle Styles"
     ],
     "product_type": [
       "booster_box"
@@ -110,28 +109,6 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon Sword & Shield Darkness Ablaze Booster Box Factory Sealed",
-      "url": "https://www.ebay.com/itm/157707531347?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item24b819f453:g:4wIAAeSw8cdpnsyw",
-      "franchise": "pokemon",
-      "set": "Darkness Ablaze",
-      "product_type": "booster_box",
-      "price": 304.99,
-      "shipping_cost": 0.0,
-      "total_price": 304.99,
-      "shipping_verified": false,
-      "baseline_price": 345.0,
-      "gapPct": 11.6,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 103,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
@@ -158,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T23:00:01.173064+00:00",
-      "_last_seen_at": "2026-04-25T01:45:57.090691+00:00"
+      "_last_seen_at": "2026-04-25T02:00:01.527416+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -183,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T01:45:57.090691+00:00",
-      "_last_seen_at": "2026-04-25T01:45:57.090691+00:00"
+      "_last_seen_at": "2026-04-25T02:25:32.036912+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -208,32 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T01:45:57.090691+00:00",
-      "_last_seen_at": "2026-04-25T01:45:57.090691+00:00"
-    },
-    {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
-      "shipping_verified": true,
-      "baseline_price": 400.0,
-      "gapPct": 21.39,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 3672,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-24T18:22:37.103022+00:00",
-      "_last_seen_at": "2026-04-25T01:00:01.942628+00:00"
+      "_last_seen_at": "2026-04-25T02:00:01.527416+00:00"
     },
     {
       "title": "Pokemon TCG - Celebrations 25th Anniversary Elite Trainer Box ETB | New/Sealed!",
@@ -265,9 +217,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 3,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
