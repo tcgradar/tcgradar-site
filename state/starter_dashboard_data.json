@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T02:25:32.037611+00:00",
+  "timestamp": "2026-04-25T03:05:33.703454+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T23:00:01.173064+00:00",
-      "_last_seen_at": "2026-04-25T02:00:01.527416+00:00"
+      "_last_seen_at": "2026-04-25T03:05:33.702831+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -148,7 +148,7 @@
       "total_price": 419.3,
       "shipping_verified": true,
       "baseline_price": 622.5,
-      "gapPct": 32.64,
+      "gapPct": 32.37,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 345,
@@ -160,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T01:45:57.090691+00:00",
-      "_last_seen_at": "2026-04-25T02:25:32.036912+00:00"
+      "_last_seen_at": "2026-04-25T03:05:33.702831+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
