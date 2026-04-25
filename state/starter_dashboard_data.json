@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T13:05:43.705990+00:00",
+  "timestamp": "2026-04-25T13:45:37.504399+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 8,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
@@ -123,7 +123,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 238.0,
-      "gapPct": 43.3,
+      "gapPct": 43.25,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T07:05:57.228746+00:00",
-      "_last_seen_at": "2026-04-25T13:00:01.337136+00:00"
+      "_last_seen_at": "2026-04-25T13:45:37.503819+00:00"
     },
     {
       "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
@@ -173,7 +173,7 @@
       "total_price": 421.32,
       "shipping_verified": true,
       "baseline_price": 608.88,
-      "gapPct": 32.04,
+      "gapPct": 31.43,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 345,
@@ -185,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T09:46:54.295129+00:00",
-      "_last_seen_at": "2026-04-25T13:05:43.705291+00:00"
+      "_last_seen_at": "2026-04-25T13:45:37.503819+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
@@ -211,31 +211,6 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T06:25:58.281827+00:00",
       "_last_seen_at": "2026-04-25T13:00:01.337136+00:00"
-    },
-    {
-      "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
-      "url": "https://www.ebay.com/itm/147217893804?_skw=pokemon+Temporal+Forces+booster+box&hash=item2246dec9ac:g:aCMAAeSwWpxpwBB7&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbCB3xvHQfjXub5pj%2BPt1VF9fo7L4pz89QEYAvCsC70lqfltMMC0S5ULePCqhFjO7PvCBUmBKYClS0zNDrtddHyd7iOSRy1BaZayoEwGwbsc5Lr%2F%2BzP2ZGCkZRi6bqSoxqCCxDWhwqPl3hjM2h1WGJ28Q5den5hnIgcNRsh9sngXIf4qrBYjHSU662TwBjRYMeYZd2GTLJ4BxBKhI%2FFhUvEfuYSAs9ol46K%2FxAV2HQyOyDnUkRPQh9TVe67PV9kKNcQIW7GTroa0sR3e2MskEmXZnjuLdfCd2y5by4r66iSD5voUc1NMfh%2Bw0x4%2FA%2BQHAs%3D",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 311.94,
-      "shipping_cost": 41.3,
-      "total_price": 311.94,
-      "shipping_verified": true,
-      "baseline_price": 325.0,
-      "gapPct": 4.02,
-      "confidence": "high",
-      "seller_rating": 97.3,
-      "seller_feedback_count": 560,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "MEDIUM",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-04-25T05:05:56.861354+00:00",
-      "_last_seen_at": "2026-04-25T05:07:01.884023+00:00"
     }
   ],
   "empty_watchlist": false,
