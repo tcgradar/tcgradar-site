@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T09:05:39.617494+00:00",
+  "timestamp": "2026-04-25T09:45:46.272010+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T07:05:57.228746+00:00",
-      "_last_seen_at": "2026-04-25T09:00:01.711138+00:00"
+      "_last_seen_at": "2026-04-25T09:45:46.271228+00:00"
     },
     {
       "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
@@ -173,7 +173,7 @@
       "total_price": 419.3,
       "shipping_verified": true,
       "baseline_price": 622.5,
-      "gapPct": 30.29,
+      "gapPct": 30.8,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 345,
@@ -185,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T01:45:57.090691+00:00",
-      "_last_seen_at": "2026-04-25T09:05:39.616710+00:00"
+      "_last_seen_at": "2026-04-25T09:45:46.271228+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
