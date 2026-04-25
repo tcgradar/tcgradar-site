@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T04:25:36.129784+00:00",
+  "timestamp": "2026-04-25T05:05:56.862046+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,27 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 7,
+  "total_deals": 4,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 4
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 4
     },
     "by_source": {
       "stompinggroundstcg": 1,
-      "gamenerdz": 1,
-      "ebay": 1
+      "ebay": 2,
+      "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,7 +38,8 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles"
+      "Battle Styles",
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box"
@@ -65,6 +66,28 @@
       "shipping_cost": 0,
       "confidence": "high",
       "non_ebay": true,
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip ",
+      "url": "https://www.ebay.com/itm/267649603746?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e5128d8a2:g:M1EAAeSwfqVp5T5i",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 514.9200000000001,
+      "shipping_cost": 48.07,
+      "total_price": 514.9200000000001,
+      "shipping_verified": true,
+      "baseline_price": 608.88,
+      "gapPct": 15.43,
+      "confidence": "high",
+      "seller_rating": 98.9,
+      "seller_feedback_count": 830,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
     },
@@ -123,7 +146,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 238.47,
-      "gapPct": 43.77,
+      "gapPct": 43.3,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -135,7 +158,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-24T23:00:01.173064+00:00",
-      "_last_seen_at": "2026-04-25T04:00:01.487504+00:00"
+      "_last_seen_at": "2026-04-25T05:05:56.861354+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -160,7 +183,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T01:45:57.090691+00:00",
-      "_last_seen_at": "2026-04-25T04:25:36.128861+00:00"
+      "_last_seen_at": "2026-04-25T05:00:01.896999+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -211,15 +234,40 @@
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-04-25T00:25:59.219937+00:00",
       "_last_seen_at": "2026-04-25T01:00:01.942628+00:00"
+    },
+    {
+      "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
+      "url": "https://www.ebay.com/itm/147217893804?_skw=pokemon+Temporal+Forces+booster+box&hash=item2246dec9ac:g:aCMAAeSwWpxpwBB7&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGbCB3xvHQfjXub5pj%2BPt1VF9fo7L4pz89QEYAvCsC70lqfltMMC0S5ULePCqhFjO7PvCBUmBKYClS0zNDrtddHyd7iOSRy1BaZayoEwGwbsc5Lr%2F%2BzP2ZGCkZRi6bqSoxqCCxDWhwqPl3hjM2h1WGJ28Q5den5hnIgcNRsh9sngXIf4qrBYjHSU662TwBjRYMeYZd2GTLJ4BxBKhI%2FFhUvEfuYSAs9ol46K%2FxAV2HQyOyDnUkRPQh9TVe67PV9kKNcQIW7GTroa0sR3e2MskEmXZnjuLdfCd2y5by4r66iSD5voUc1NMfh%2Bw0x4%2FA%2BQHAs%3D",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 311.94,
+      "shipping_cost": 41.3,
+      "total_price": 311.94,
+      "shipping_verified": true,
+      "baseline_price": 325.0,
+      "gapPct": 4.02,
+      "confidence": "high",
+      "seller_rating": 97.3,
+      "seller_feedback_count": 560,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "MEDIUM",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-04-25T05:05:56.861354+00:00",
+      "_last_seen_at": "2026-04-25T05:05:56.861354+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
