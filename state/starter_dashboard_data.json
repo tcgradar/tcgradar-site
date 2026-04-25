@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T12:26:00.834883+00:00",
+  "timestamp": "2026-04-25T13:05:43.705990+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -98,8 +98,8 @@
       "shipping_cost": 0.0,
       "total_price": 265.0,
       "shipping_verified": true,
-      "baseline_price": 299.87,
-      "gapPct": 11.63,
+      "baseline_price": 300.0,
+      "gapPct": 11.67,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 517,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T07:05:57.228746+00:00",
-      "_last_seen_at": "2026-04-25T12:26:00.834205+00:00"
+      "_last_seen_at": "2026-04-25T13:00:01.337136+00:00"
     },
     {
       "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
@@ -173,7 +173,7 @@
       "total_price": 421.32,
       "shipping_verified": true,
       "baseline_price": 608.88,
-      "gapPct": 31.43,
+      "gapPct": 32.04,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 345,
@@ -185,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T09:46:54.295129+00:00",
-      "_last_seen_at": "2026-04-25T12:00:01.587915+00:00"
+      "_last_seen_at": "2026-04-25T13:05:43.705291+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
@@ -210,7 +210,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T06:25:58.281827+00:00",
-      "_last_seen_at": "2026-04-25T12:26:00.834205+00:00"
+      "_last_seen_at": "2026-04-25T13:00:01.337136+00:00"
     },
     {
       "title": "Pokemon TCG Temporal Forces Booster Box 36 Packs Brand New & Factory Sealed!",
