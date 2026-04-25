@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T22:22:13.204358+00:00",
+  "timestamp": "2026-04-25T23:02:09.452868+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 9,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
@@ -135,32 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T15:06:44.463017+00:00",
-      "_last_seen_at": "2026-04-25T22:22:13.203622+00:00"
-    },
-    {
-      "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
-      "url": "https://www.ebay.com/itm/297999865745?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item45622d1791:g:f3EAAeSwfxlpg0Nv",
-      "franchise": "onepiece",
-      "set": "500 Years in the Future",
-      "product_type": "booster_box",
-      "price": 162.35,
-      "shipping_cost": 40.58,
-      "total_price": 162.35,
-      "shipping_verified": true,
-      "baseline_price": 284.21,
-      "gapPct": 41.86,
-      "confidence": "medium",
-      "seller_rating": 99.8,
-      "seller_feedback_count": 6345,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-25T14:26:05.794019+00:00",
-      "_last_seen_at": "2026-04-25T22:00:01.572864+00:00"
+      "_last_seen_at": "2026-04-25T23:02:09.452258+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -185,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T18:27:35.194824+00:00",
-      "_last_seen_at": "2026-04-25T22:22:13.203622+00:00"
+      "_last_seen_at": "2026-04-25T23:02:09.452258+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -236,31 +211,6 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T18:27:35.194824+00:00",
       "_last_seen_at": "2026-04-25T19:00:01.871910+00:00"
-    },
-    {
-      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
-      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI4kiMjb7oCiyDj5ADp%2BkYyeU1%2FY2kZes3kk%2FT10CLXYETkAprLp0ztaZI3Zr1gqP%2BuE1gQyKXMw1PAvLGXFLxhK8HNPk9o7JiZ0Vf1jGQIKFCZ4g6AcU%2Flcvw0Iapt2K7yZYmOyQQaBio9i4ZRJ8o8D03oguHxT0SFj23cMo0Vt%2BZws9fNg70Ww91hVpDTghi8%3D",
-      "franchise": "pokemon",
-      "set": "Chilling Reign",
-      "product_type": "booster_box",
-      "price": 469.98,
-      "shipping_cost": 19.99,
-      "total_price": 469.98,
-      "shipping_verified": true,
-      "baseline_price": 592.43,
-      "gapPct": 20.67,
-      "confidence": "medium",
-      "seller_rating": 96.6,
-      "seller_feedback_count": 5837,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "MEDIUM",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-25T14:26:05.794019+00:00",
-      "_last_seen_at": "2026-04-25T21:03:50.799360+00:00"
     }
   ],
   "empty_watchlist": false,
