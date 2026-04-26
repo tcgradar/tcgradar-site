@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-26T11:42:32.676502+00:00",
+  "timestamp": "2026-04-26T12:23:05.296156+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,29 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 6,
+  "total_deals": 5,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 4,
+      "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 4,
+      "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "20_plus": 1,
+      "10_to_19": 4
     },
     "by_source": {
+      "ebay": 3,
       "stompinggroundstcg": 1,
-      "ebay": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,16 +40,42 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles"
+      "Battle Styles",
+      "Destined Rivals",
+      "Hidden Fates"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
+      "url": "https://www.ebay.com/itm/277914002536?_skw=pokemon+Destined+Rivals+booster+box&hash=item40b4f72468:g:wboAAeSwI-lp5vGf",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 399.99,
+      "shipping_cost": 0.0,
+      "total_price": 399.99,
+      "shipping_verified": true,
+      "baseline_price": 599.99,
+      "gapPct": 33.33,
+      "confidence": "high",
+      "seller_rating": 99.0,
+      "seller_feedback_count": 311,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
     {
       "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
       "url": "https://stompinggroundstcg.com/products/one-piece-adventure-on-kamis-island-booster-box-op-15",
@@ -78,8 +106,8 @@
       "shipping_cost": 0.0,
       "total_price": 255.0,
       "shipping_verified": true,
-      "baseline_price": 297.37,
-      "gapPct": 14.25,
+      "baseline_price": 299.74,
+      "gapPct": 14.93,
       "confidence": "high",
       "seller_rating": 99.9,
       "seller_feedback_count": 1505,
@@ -109,6 +137,28 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "2019 POKEMON TCG SUN & MOON HIDDEN FATES ELITE TRAINER BOX ETB FACTORY SEALED",
+      "url": "https://www.ebay.com/itm/366369789581?_skw=pokemon+Hidden+Fates+booster+box&hash=item554d57568d:g:4wkAAeSwph5p7S5P",
+      "franchise": "pokemon",
+      "set": "Hidden Fates",
+      "product_type": "etb",
+      "price": 489.49,
+      "shipping_cost": 0.0,
+      "total_price": 489.49,
+      "shipping_verified": false,
+      "baseline_price": 549.98,
+      "gapPct": 11.0,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 117,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
@@ -123,7 +173,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 235.0,
-      "gapPct": 43.21,
+      "gapPct": 42.77,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -135,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-26T07:45:34.641782+00:00",
-      "_last_seen_at": "2026-04-26T11:42:32.675933+00:00"
+      "_last_seen_at": "2026-04-26T12:23:05.295663+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -160,7 +210,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-26T11:00:01.963898+00:00",
-      "_last_seen_at": "2026-04-26T11:42:32.675933+00:00"
+      "_last_seen_at": "2026-04-26T12:00:01.664508+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
@@ -192,9 +242,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 3,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 5,
     "retailer_deals_visible": true
   }
 }
