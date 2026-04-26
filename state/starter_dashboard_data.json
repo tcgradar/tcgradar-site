@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-26T06:25:40.083237+00:00",
+  "timestamp": "2026-04-26T07:06:07.376516+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,29 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 8,
+  "total_deals": 5,
+  "all_deals_count": 11,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 4,
+      "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 3
+      "etb": 1,
+      "booster_box": 4
     },
     "by_gap_bucket": {
+      "20_plus": 2,
       "10_to_19": 3
     },
     "by_source": {
+      "ebay": 3,
       "stompinggroundstcg": 1,
-      "ebay": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,16 +40,64 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles"
+      "Battle Styles",
+      "Celebrations",
+      "Destined Rivals"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG Shining Fates ETB Elite Trainer Box New Sealed",
+      "url": "https://www.ebay.com/itm/327123961326?_skw=pokemon+Celebrations+booster+box&hash=item4c2a1b85ee:g:12MAAeSwv2hp7XuZ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGags2VeHHFXY2v2rfJVf3zWhVlyymbGbUsT4i23vF1Vv38PGk4toc6n78x1HP2v6%2FM40FElwI6r23vGmPdA32SoHEuuZ5kmiqkUDFqQyJ4Y7X2oB4gi0SaY2%2FSSaOBWzm6p7BmKKPg%2F234tO%2F4HZFpyNLlhbZTyxZI1RgRHhbJH73J%2BNsZrIUqek8tyZfbxIY9%2BWYVndGvWS1btLoGdnx7pBB2Judpj0uaAIoCyQV6izNI2Z%2B7a0kzcSw9qqdHR4pvkcmifS%2FHMuVGheimT1kEuJdhQc4wq54x3lr8KU2BJqLUos0oH0K%2FIMiayUHkZ9JQ%3D",
+      "franchise": "pokemon",
+      "set": "Celebrations",
+      "product_type": "etb",
+      "price": 215.0,
+      "shipping_cost": 0.0,
+      "total_price": 215.0,
+      "shipping_verified": true,
+      "baseline_price": 375.0,
+      "gapPct": 42.67,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1023,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
+      "url": "https://www.ebay.com/itm/277914002536?_skw=pokemon+Destined+Rivals+booster+box&hash=item40b4f72468:g:wboAAeSwI-lp5vGf",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 399.99,
+      "shipping_cost": 0.0,
+      "total_price": 399.99,
+      "shipping_verified": true,
+      "baseline_price": 599.5,
+      "gapPct": 33.28,
+      "confidence": "high",
+      "seller_rating": 99.0,
+      "seller_feedback_count": 311,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
     {
       "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
       "url": "https://stompinggroundstcg.com/products/one-piece-adventure-on-kamis-island-booster-box-op-15",
@@ -123,7 +173,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 237.81,
-      "gapPct": 43.21,
+      "gapPct": 42.89,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -135,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T23:42:38.809621+00:00",
-      "_last_seen_at": "2026-04-26T06:25:40.082559+00:00"
+      "_last_seen_at": "2026-04-26T07:06:07.375780+00:00"
     },
     {
       "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
@@ -185,7 +235,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-26T03:00:01.939038+00:00",
-      "_last_seen_at": "2026-04-26T06:25:40.082559+00:00"
+      "_last_seen_at": "2026-04-26T07:00:01.931055+00:00"
+    },
+    {
+      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
+      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 314.99,
+      "shipping_cost": 39.99,
+      "total_price": 314.99,
+      "shipping_verified": true,
+      "baseline_price": 400.7,
+      "gapPct": 21.39,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 3672,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-26T07:06:07.375780+00:00",
+      "_last_seen_at": "2026-04-26T07:06:07.375780+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -242,9 +317,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 3,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 5,
     "retailer_deals_visible": true
   }
 }
