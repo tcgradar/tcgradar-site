@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-26T01:45:41.005835+00:00",
+  "timestamp": "2026-04-26T02:25:42.013270+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -123,7 +123,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 237.81,
-      "gapPct": 42.89,
+      "gapPct": 43.21,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T23:42:38.809621+00:00",
-      "_last_seen_at": "2026-04-26T01:45:41.005229+00:00"
+      "_last_seen_at": "2026-04-26T02:25:42.012704+00:00"
     },
     {
       "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
@@ -185,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T18:27:35.194824+00:00",
-      "_last_seen_at": "2026-04-26T01:45:41.005229+00:00"
+      "_last_seen_at": "2026-04-26T02:25:42.012704+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
