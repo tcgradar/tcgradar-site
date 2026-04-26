@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-26T02:25:42.013270+00:00",
+  "timestamp": "2026-04-26T03:06:16.607087+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,27 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 7,
+  "total_deals": 4,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2,
+      "pokemon": 3,
       "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 4
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 4
     },
     "by_source": {
-      "ebay": 1,
+      "ebay": 2,
       "stompinggroundstcg": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,7 +38,8 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles"
+      "Battle Styles",
+      "Darkness Ablaze"
     ],
     "product_type": [
       "booster_box"
@@ -109,6 +110,28 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon Sword & Shield Darkness Ablaze Booster Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/157707531347?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item24b819f453:g:4wIAAeSw8cdpnsyw",
+      "franchise": "pokemon",
+      "set": "Darkness Ablaze",
+      "product_type": "booster_box",
+      "price": 304.99,
+      "shipping_cost": 0.0,
+      "total_price": 304.99,
+      "shipping_verified": false,
+      "baseline_price": 345.0,
+      "gapPct": 11.6,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 103,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
@@ -135,7 +158,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-25T23:42:38.809621+00:00",
-      "_last_seen_at": "2026-04-26T02:25:42.012704+00:00"
+      "_last_seen_at": "2026-04-26T03:00:01.939038+00:00"
     },
     {
       "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
@@ -172,7 +195,7 @@
       "shipping_cost": 44.95,
       "total_price": 421.32,
       "shipping_verified": true,
-      "baseline_price": 608.88,
+      "baseline_price": 599.99,
       "gapPct": 29.78,
       "confidence": "medium",
       "seller_rating": 99.7,
@@ -184,42 +207,67 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-25T18:27:35.194824+00:00",
-      "_last_seen_at": "2026-04-26T02:25:42.012704+00:00"
+      "_first_seen_at": "2026-04-26T03:00:01.939038+00:00",
+      "_last_seen_at": "2026-04-26T03:06:16.606513+00:00"
     },
     {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
+      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI4O5S5DrIEpoiN8YKJSFe4rhQtl2GemEBX9qkvjO6QcuEQTTJSO16vtjZ9NnqL9Dw0szZ8I11Zsata%2F2An3pcjNmln8VY4ltrxOeNgPTIB2bTtAzNghLVDrWYiQFgUyehoUs1XSPvzHECRscHZxVsC7HTO1vYLz6v%2FMGWGA2hQrQdXE2KTduFVbGRSgqx7KIPk%3D",
       "franchise": "pokemon",
-      "set": "Astral Radiance",
+      "set": "Chilling Reign",
       "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
+      "price": 469.98,
+      "shipping_cost": 19.99,
+      "total_price": 469.98,
       "shipping_verified": true,
-      "baseline_price": 400.0,
-      "gapPct": 21.39,
+      "baseline_price": 592.43,
+      "gapPct": 20.67,
+      "confidence": "medium",
+      "seller_rating": 96.6,
+      "seller_feedback_count": 5838,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "MEDIUM",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-26T03:06:16.606513+00:00",
+      "_last_seen_at": "2026-04-26T03:06:16.606513+00:00"
+    },
+    {
+      "title": "ONE PIECE TCG ADVENTURE ON KAMI'S ISLAND SEALED BOOSTER BOX+DASH PACK OP-15 EB04",
+      "url": "https://www.ebay.com/itm/257471582757?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item3bf2809225:g:CcsAAeSwB3Fp6n2v",
+      "franchise": "onepiece",
+      "set": "Adventure on Kami's Island",
+      "product_type": "booster_box",
+      "price": 209.99,
+      "shipping_cost": 0.0,
+      "total_price": 209.99,
+      "shipping_verified": true,
+      "baseline_price": 234.5,
+      "gapPct": 10.45,
       "confidence": "medium",
       "seller_rating": 100.0,
-      "seller_feedback_count": 3672,
-      "language": "EN",
+      "seller_feedback_count": 19790,
+      "language": "JP",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "medium",
-      "gap_bucket": "20_plus",
+      "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-25T18:27:35.194824+00:00",
-      "_last_seen_at": "2026-04-26T01:07:08.660958+00:00"
+      "_first_seen_at": "2026-04-26T03:06:16.606513+00:00",
+      "_last_seen_at": "2026-04-26T03:06:16.606513+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
