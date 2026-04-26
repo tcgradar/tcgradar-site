@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-26T19:41:37.918703+00:00",
+  "timestamp": "2026-04-26T20:24:35.469106+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -158,7 +158,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-26T16:00:01.892928+00:00",
-      "_last_seen_at": "2026-04-26T19:41:37.917927+00:00"
+      "_last_seen_at": "2026-04-26T20:24:35.468302+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -233,7 +233,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-26T15:42:36.314834+00:00",
-      "_last_seen_at": "2026-04-26T19:41:37.917927+00:00"
+      "_last_seen_at": "2026-04-26T20:24:35.468302+00:00"
     },
     {
       "title": "Pokemon Destined Rivals Booster Box Sealed",

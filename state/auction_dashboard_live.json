@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T19:42:53.750237+00:00",
+    "generated_at": "2026-04-26T20:26:01.442683+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 9,
-    "filtered_count": 5,
+    "raw_count": 0,
+    "filtered_count": 0,
     "filter_criteria": {
       "min_gap": 12.0,
       "max_bids": 50,
@@ -92,96 +92,5 @@
       ]
     }
   },
-  "auctions": [
-    {
-      "title": "Pok\u00e9mon TCG Scarlet & Violet Temporal Forces Booster Box Factory Sealed SV05",
-      "current_price": 182.5,
-      "shipping_cost": 0.0,
-      "total_price": 182.5,
-      "baseline": 294.83,
-      "gapPct": 38.099921988942775,
-      "bids": 13,
-      "time_remaining": 54.54313362277777,
-      "opportunity_type": "early",
-      "url": "https://www.ebay.com/itm/287280749962?_skw=Pokemon+Temporal+Forces+booster+box&hash=item42e3445d8a:g:FfgAAeSw27Bp5DV5",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 55,
-      "deal_quality": "medium"
-    },
-    {
-      "title": "2024 Pokemon Scarlet & Violet Temporal Forces Factory Sealed Booster Box",
-      "current_price": 200.0,
-      "shipping_cost": 14.95,
-      "total_price": 214.95,
-      "baseline": 294.83,
-      "gapPct": 27.09357935081233,
-      "bids": 19,
-      "time_remaining": 28.75785586388889,
-      "opportunity_type": "ongoing",
-      "url": "https://www.ebay.com/itm/377134315829?_skw=Pokemon+Temporal+Forces+booster+box&hash=item57cef4f935:g:sq8AAeSwLqJp6Sf8",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 47,
-      "deal_quality": "medium"
-    },
-    {
-      "title": "\u2728\ufe0fPok\u00e9mon Scarlet & Violet Temporal Forces Booster Box SEALED w/ Acrylic \ud83d\udd25",
-      "current_price": 235.5,
-      "shipping_cost": 0.0,
-      "total_price": 235.5,
-      "baseline": 294.83,
-      "gapPct": 20.12346097751246,
-      "bids": 15,
-      "time_remaining": 6.4539669519444445,
-      "opportunity_type": "ending_soon",
-      "url": "https://www.ebay.com/itm/178062704512?_skw=Pokemon+Temporal+Forces+booster+box&hash=item29755d3f80:g:CWIAAeSwJyRp46RV",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 45,
-      "deal_quality": "medium"
-    },
-    {
-      "title": "Pokemon TCG Scarlet & Violet Temporal Forces Booster Box SEALED w/Acrylic",
-      "current_price": 224.5,
-      "shipping_cost": 20.0,
-      "total_price": 244.5,
-      "baseline": 294.83,
-      "gapPct": 17.0708543906658,
-      "bids": 10,
-      "time_remaining": 7.303966966388889,
-      "opportunity_type": "ending_soon",
-      "url": "https://www.ebay.com/itm/389910991568?_skw=Pokemon+Temporal+Forces+booster+box&hash=item5ac88192d0:g:474AAeSwJnVp5Qyg",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 42,
-      "deal_quality": "medium"
-    },
-    {
-      "title": "Pokemon TCG Scarlet & Violet Temporal Forces Booster Box SEALED/NEW",
-      "current_price": 217.5,
-      "shipping_cost": 18.0,
-      "total_price": 235.5,
-      "baseline": 294.83,
-      "gapPct": 20.12346097751246,
-      "bids": 11,
-      "time_remaining": 31.97063363,
-      "opportunity_type": "ongoing",
-      "url": "https://www.ebay.com/itm/366358639970?_skw=Pokemon+Temporal+Forces+booster+box&hash=item554cad3562:g:aRgAAeSwhkpp5mar",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 40,
-      "deal_quality": "medium"
-    }
-  ]
+  "auctions": []
 }
