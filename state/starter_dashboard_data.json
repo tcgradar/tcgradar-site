@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-26T15:02:32.602924+00:00",
+  "timestamp": "2026-04-26T15:42:36.315508+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -123,7 +123,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 235.0,
-      "gapPct": 43.21,
+      "gapPct": 43.77,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-26T07:45:34.641782+00:00",
-      "_last_seen_at": "2026-04-26T15:02:32.602250+00:00"
+      "_last_seen_at": "2026-04-26T15:42:36.314834+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -160,32 +160,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-26T11:00:01.963898+00:00",
-      "_last_seen_at": "2026-04-26T14:00:01.885478+00:00"
+      "_last_seen_at": "2026-04-26T15:42:36.314834+00:00"
     },
     {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
+      "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
+      "url": "https://www.ebay.com/itm/227317724091?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item34ed3133bb:g:LrwAAeSwhYVp7iER",
+      "franchise": "onepiece",
+      "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
+      "price": 197.95,
+      "shipping_cost": 0.0,
+      "total_price": 197.95,
       "shipping_verified": true,
-      "baseline_price": 400.7,
-      "gapPct": 21.25,
+      "baseline_price": 232.5,
+      "gapPct": 14.86,
       "confidence": "medium",
       "seller_rating": 100.0,
-      "seller_feedback_count": 3672,
+      "seller_feedback_count": 611,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "medium",
-      "gap_bucket": "20_plus",
+      "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-26T07:06:07.375780+00:00",
-      "_last_seen_at": "2026-04-26T14:00:01.885478+00:00"
+      "_first_seen_at": "2026-04-26T15:42:36.314834+00:00",
+      "_last_seen_at": "2026-04-26T15:42:36.314834+00:00"
     },
     {
       "title": "Pokemon Destined Rivals Booster Box Sealed",
@@ -210,7 +210,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-26T14:24:47.014458+00:00",
-      "_last_seen_at": "2026-04-26T15:02:32.602250+00:00"
+      "_last_seen_at": "2026-04-26T15:03:37.171585+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
