@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T06:03:17.878097+00:00",
+  "timestamp": "2026-04-27T06:42:50.235618+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -123,7 +123,7 @@
       "total_price": 282.29,
       "shipping_verified": true,
       "baseline_price": 548.32,
-      "gapPct": 48.52,
+      "gapPct": 48.18,
       "confidence": "medium",
       "seller_rating": 99.6,
       "seller_feedback_count": 459,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T06:03:17.876777+00:00",
-      "_last_seen_at": "2026-04-27T06:03:17.876777+00:00"
+      "_last_seen_at": "2026-04-27T06:42:50.234818+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -148,7 +148,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 235.81,
-      "gapPct": 42.24,
+      "gapPct": 41.83,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -160,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T00:00:01.898464+00:00",
-      "_last_seen_at": "2026-04-27T06:03:17.876777+00:00"
+      "_last_seen_at": "2026-04-27T06:42:50.234818+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -185,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T06:03:17.876777+00:00",
-      "_last_seen_at": "2026-04-27T06:03:17.876777+00:00"
+      "_last_seen_at": "2026-04-27T06:04:28.561859+00:00"
     },
     {
       "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -210,7 +210,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T02:03:53.643942+00:00",
-      "_last_seen_at": "2026-04-27T06:03:17.876777+00:00"
+      "_last_seen_at": "2026-04-27T06:42:50.234818+00:00"
     },
     {
       "title": "Pokemon Destined Rivals Booster Box Sealed",
@@ -235,7 +235,7 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T04:22:49.716985+00:00",
-      "_last_seen_at": "2026-04-27T06:03:17.876777+00:00"
+      "_last_seen_at": "2026-04-27T06:42:50.234818+00:00"
     }
   ],
   "empty_watchlist": false,
