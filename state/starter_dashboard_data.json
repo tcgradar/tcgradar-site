@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T10:42:56.244770+00:00",
+  "timestamp": "2026-04-27T11:22:53.883195+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T06:03:17.876777+00:00",
-      "_last_seen_at": "2026-04-27T10:04:04.676566+00:00"
+      "_last_seen_at": "2026-04-27T11:22:53.882161+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -148,7 +148,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 232.0,
-      "gapPct": 41.83,
+      "gapPct": 42.77,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -160,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T08:02:48.339227+00:00",
-      "_last_seen_at": "2026-04-27T10:42:56.243842+00:00"
+      "_last_seen_at": "2026-04-27T11:22:53.882161+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
@@ -210,7 +210,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T09:23:11.413111+00:00",
-      "_last_seen_at": "2026-04-27T10:42:56.243842+00:00"
+      "_last_seen_at": "2026-04-27T11:22:53.882161+00:00"
     },
     {
       "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -235,7 +235,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T10:04:04.676566+00:00",
-      "_last_seen_at": "2026-04-27T10:42:56.243842+00:00"
+      "_last_seen_at": "2026-04-27T11:22:53.882161+00:00"
     },
     {
       "title": "Pokemon Sword and Shield Lost Origin Booster Box Sealed",
@@ -310,7 +310,7 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-04-27T10:42:56.243842+00:00",
-      "_last_seen_at": "2026-04-27T10:42:56.243842+00:00"
+      "_last_seen_at": "2026-04-27T11:00:01.167277+00:00"
     }
   ],
   "empty_watchlist": false,
