@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T10:02:53.867190+00:00",
+  "timestamp": "2026-04-27T10:42:56.244770+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 10,
+  "all_deals_count": 11,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T06:03:17.876777+00:00",
-      "_last_seen_at": "2026-04-27T10:02:53.866230+00:00"
+      "_last_seen_at": "2026-04-27T10:04:04.676566+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -160,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T08:02:48.339227+00:00",
-      "_last_seen_at": "2026-04-27T10:02:53.866230+00:00"
+      "_last_seen_at": "2026-04-27T10:42:56.243842+00:00"
     },
     {
       "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
@@ -210,7 +210,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T09:23:11.413111+00:00",
-      "_last_seen_at": "2026-04-27T10:02:53.866230+00:00"
+      "_last_seen_at": "2026-04-27T10:42:56.243842+00:00"
     },
     {
       "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -226,7 +226,7 @@
       "gapPct": 14.65,
       "confidence": "medium",
       "seller_rating": 99.3,
-      "seller_feedback_count": 649364,
+      "seller_feedback_count": 649425,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -234,8 +234,8 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-27T02:03:53.643942+00:00",
-      "_last_seen_at": "2026-04-27T10:02:53.866230+00:00"
+      "_first_seen_at": "2026-04-27T10:04:04.676566+00:00",
+      "_last_seen_at": "2026-04-27T10:42:56.243842+00:00"
     },
     {
       "title": "Pokemon Sword and Shield Lost Origin Booster Box Sealed",
@@ -286,6 +286,31 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T04:22:49.716985+00:00",
       "_last_seen_at": "2026-04-27T09:00:01.383277+00:00"
+    },
+    {
+      "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
+      "url": "https://www.ebay.com/itm/137256163075?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1ff51ad703:g:dZcAAeSw8P5p7L2l",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 556.54,
+      "shipping_cost": 61.31,
+      "total_price": 556.54,
+      "shipping_verified": true,
+      "baseline_price": 574.14,
+      "gapPct": 3.07,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 148,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-04-27T10:42:56.243842+00:00",
+      "_last_seen_at": "2026-04-27T10:42:56.243842+00:00"
     }
   ],
   "empty_watchlist": false,
