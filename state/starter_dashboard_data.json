@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T14:42:52.999463+00:00",
+  "timestamp": "2026-04-27T15:25:39.533578+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 9,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
@@ -160,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T08:02:48.339227+00:00",
-      "_last_seen_at": "2026-04-27T14:42:52.998703+00:00"
+      "_last_seen_at": "2026-04-27T15:25:39.532816+00:00"
     },
     {
       "title": "Pokemon Rivali Predestinati Box Italian Destined Rivals Booster Box Sealed ",
@@ -185,7 +185,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T09:23:11.413111+00:00",
-      "_last_seen_at": "2026-04-27T14:42:52.998703+00:00"
+      "_last_seen_at": "2026-04-27T15:25:39.532816+00:00"
     },
     {
       "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -210,32 +210,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T10:04:04.676566+00:00",
-      "_last_seen_at": "2026-04-27T14:42:52.998703+00:00"
-    },
-    {
-      "title": "Pokemon Sword and Shield Lost Origin Booster Box Sealed",
-      "url": "https://www.ebay.com/itm/366371442500?_skw=pokemon+Lost+Origin+booster+box&hash=item554d708f44:g:9ecAAeSwnLZp7ltI",
-      "franchise": "pokemon",
-      "set": "Lost Origin",
-      "product_type": "booster_box",
-      "price": 700.0,
-      "shipping_cost": 0.0,
-      "total_price": 700.0,
-      "shipping_verified": false,
-      "baseline_price": 813.0,
-      "gapPct": 12.5,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 225,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-27T07:23:20.237000+00:00",
-      "_last_seen_at": "2026-04-27T14:04:36.630064+00:00"
+      "_last_seen_at": "2026-04-27T15:25:39.532816+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
@@ -260,7 +235,7 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T14:42:52.998703+00:00",
-      "_last_seen_at": "2026-04-27T14:42:52.998703+00:00"
+      "_last_seen_at": "2026-04-27T15:25:39.532816+00:00"
     }
   ],
   "empty_watchlist": false,
