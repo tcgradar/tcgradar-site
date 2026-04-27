@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T08:02:48.339956+00:00",
+  "timestamp": "2026-04-27T08:43:22.872361+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,29 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 8,
+  "total_deals": 4,
+  "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
-      "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 3,
+      "onepiece": 1
     },
     "by_product_type": {
+      "etb": 1,
       "booster_box": 3
     },
     "by_gap_bucket": {
+      "20_plus": 1,
       "10_to_19": 3
     },
     "by_source": {
+      "ebay": 2,
       "stompinggroundstcg": 1,
-      "ebay": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,16 +40,41 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles"
+      "Battle Styles",
+      "Celebrations"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG Shining Fates ETB Elite Trainer Box New Sealed",
+      "url": "https://www.ebay.com/itm/327123961326?_skw=pokemon+Celebrations+booster+box&hash=item4c2a1b85ee:g:12MAAeSwv2hp7XuZ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGags2VeHHFXY2v2rfJVf3zWhVlyymbGbUsT4i23vF1Vv38PGk4toc6n78x1HP2v6%2FM40FElwI6r23vGmPdA32SoHEuuZ5kmiqkUDFqQyJ4Y7X2oB4gi0SaY2%2FSSaOBWzm6mluE2z%2Br9j2TPMHjt8TV5VXGO6vL%2BY1l2GB09YOL0LlM%2BrupETXdQOqZdg%2BzCRv9NbizdFOJnpwyXlAp3JZ5Az9Cd2OcmG%2FgrHZVfLPvFMwc3Lb2teukgOddM69kBQzGq4PEpryr9EKImv6IPANshzHh%2FqFNtFT4%2FXwJI3g4xbD5870EAuyzFCNt%2F4oSa0Rg%3D",
+      "franchise": "pokemon",
+      "set": "Celebrations",
+      "product_type": "etb",
+      "price": 215.0,
+      "shipping_cost": 0.0,
+      "total_price": 215.0,
+      "shipping_verified": true,
+      "baseline_price": 365.0,
+      "gapPct": 41.1,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1023,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
     {
       "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
       "url": "https://stompinggroundstcg.com/products/one-piece-adventure-on-kamis-island-booster-box-op-15",
@@ -135,7 +162,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T06:03:17.876777+00:00",
-      "_last_seen_at": "2026-04-27T08:02:48.339227+00:00"
+      "_last_seen_at": "2026-04-27T08:03:59.158396+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -160,7 +187,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T08:02:48.339227+00:00",
-      "_last_seen_at": "2026-04-27T08:02:48.339227+00:00"
+      "_last_seen_at": "2026-04-27T08:43:22.871565+00:00"
+    },
+    {
+      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
+      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
+      "franchise": "pokemon",
+      "set": "Astral Radiance",
+      "product_type": "booster_box",
+      "price": 314.99,
+      "shipping_cost": 39.99,
+      "total_price": 314.99,
+      "shipping_verified": true,
+      "baseline_price": 399.5,
+      "gapPct": 21.15,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 3672,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-27T08:43:22.871565+00:00",
+      "_last_seen_at": "2026-04-27T08:43:22.871565+00:00"
     },
     {
       "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -185,7 +237,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T02:03:53.643942+00:00",
-      "_last_seen_at": "2026-04-27T08:02:48.339227+00:00"
+      "_last_seen_at": "2026-04-27T08:43:22.871565+00:00"
     },
     {
       "title": "Pokemon Sword and Shield Lost Origin Booster Box Sealed",
@@ -235,16 +287,16 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T04:22:49.716985+00:00",
-      "_last_seen_at": "2026-04-27T08:02:48.339227+00:00"
+      "_last_seen_at": "2026-04-27T08:43:22.871565+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
