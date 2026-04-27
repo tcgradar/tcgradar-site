@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T21:45:39.755834+00:00",
+  "timestamp": "2026-04-27T22:05:40.273178+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 8,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
@@ -113,31 +113,6 @@
   ],
   "watchlist_deals": [
     {
-      "title": "ONE PIECE Card Game Emperors in the New World OP-09 Booster Box NEW SEALED FS",
-      "url": "https://www.ebay.com/itm/196850247770?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2dd530685a:g:XwQAAOSwAUVmyehd&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGbAggOqo%2BF9kaDAT%2BgxFIgzavumOUPY2ifte5PJ0n1Gv9%2BUT9%2FFWynddHUq%2Fum2o7swbPtNgbArhyXGW8%2FJeQJxBSd9xULnO7ji8MovqiA%2BevTUWm9K8ok1XHjswJZSBL%2BrNPL3pCwpx7ffyEDD8Yf%2BfkxDGXdT49q1QRZwrEqOS3t1VphZsEhpLRJyks8QbFprry8j301sJkzaBG4JPCyvTx6cm%2Bps6zLRSJt%2BcwnsJkWRn0VQtLxgcRMqlHu7%2Fn7BdcfSiF2fAfzjfMZmFN%2BgmTBMLJfcOjJKTL4XIFVO8H9UTUcyulM4zflxcQq0VQPKoooKJbcqGC8vFYGcW7Ol",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 282.29,
-      "shipping_cost": 49.99,
-      "total_price": 282.29,
-      "shipping_verified": true,
-      "baseline_price": 548.32,
-      "gapPct": 48.52,
-      "confidence": "medium",
-      "seller_rating": 99.6,
-      "seller_feedback_count": 460,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-27T14:03:25.671192+00:00",
-      "_last_seen_at": "2026-04-27T14:04:36.630064+00:00"
-    },
-    {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
       "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3V5ZnVvk%2FSZhsZ64E6%2Fwu9Z3KnYtq%2BnUd9zbPtLgw09O88FILPT4gFICePEE25a21lHL9A5E6W1H8H1QyDv9LhymZ%2BxaNr9cgZzvkGI6TbCvJDUhFazh0ZtgmS4lgxvb%2FZzlNkb4l8I2elTRI7yaVW%2BK5mzJ2dgi9rfj9PiMKP14rH2nuuacvc3aZmefXq0GxapfyL1A%2B%2BHiGasa3NyN3%2Bh",
       "franchise": "onepiece",
@@ -160,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T17:00:01.742887+00:00",
-      "_last_seen_at": "2026-04-27T21:45:39.755095+00:00"
+      "_last_seen_at": "2026-04-27T22:05:40.272536+00:00"
     },
     {
       "title": "Pokemon Rivali Predestinati Box Italian Destined Rivals Booster Box Sealed ",
@@ -185,7 +160,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T17:25:40.032827+00:00",
-      "_last_seen_at": "2026-04-27T21:45:39.755095+00:00"
+      "_last_seen_at": "2026-04-27T22:05:40.272536+00:00"
     },
     {
       "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -210,7 +185,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T18:05:39.610192+00:00",
-      "_last_seen_at": "2026-04-27T21:45:39.755095+00:00"
+      "_last_seen_at": "2026-04-27T22:05:40.272536+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
@@ -235,7 +210,7 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T14:42:52.998703+00:00",
-      "_last_seen_at": "2026-04-27T21:45:39.755095+00:00"
+      "_last_seen_at": "2026-04-27T22:05:40.272536+00:00"
     }
   ],
   "empty_watchlist": false,
