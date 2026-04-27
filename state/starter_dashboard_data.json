@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T13:22:53.273574+00:00",
+  "timestamp": "2026-04-27T14:03:25.672677+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,28 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 11,
+  "total_deals": 4,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
       "onepiece": 1,
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 3,
+      "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 4
     },
     "by_source": {
       "stompinggroundstcg": 1,
-      "ebay": 1,
+      "ebay": 2,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,10 +39,12 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles"
+      "Battle Styles",
+      "Hidden Fates"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
       "10_to_19"
@@ -109,12 +112,34 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "2019 POKEMON TCG SUN & MOON HIDDEN FATES ELITE TRAINER BOX ETB FACTORY SEALED",
+      "url": "https://www.ebay.com/itm/366369789581?_skw=pokemon+Hidden+Fates+booster+box&hash=item554d57568d:g:4wkAAeSwph5p7S5P",
+      "franchise": "pokemon",
+      "set": "Hidden Fates",
+      "product_type": "etb",
+      "price": 489.49,
+      "shipping_cost": 0.0,
+      "total_price": 489.49,
+      "shipping_verified": false,
+      "baseline_price": 549.99,
+      "gapPct": 11.0,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 117,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
     {
       "title": "ONE PIECE Card Game Emperors in the New World OP-09 Booster Box NEW SEALED FS",
-      "url": "https://www.ebay.com/itm/196850247770?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2dd530685a:g:XwQAAOSwAUVmyehd&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGbAggOqo%2BF9kaDAT%2BgxFIgzavumOUPY2ifte5PJ0n1Gv9%2BUT9%2FFWynddHUq%2Fum2o7swbPtNgbArhyXGW8%2FJeQJxBSd9xULnO7ji8MovqiA%2BevTUWm9K8ok1XHjswJZSBL%2BC2DL8vU7CSmDCS24gJIDxinc3Vd7%2BY%2FvktdX%2B4t5WD%2BlXEv87N74EhjVgxr0pFv5AZeR2lPa3ZbUrW0o0b2HgjLi09GEmih8FQXk%2BVJAg5HjldHi7i6ZhCC%2FsPZw8BH8Yf%2Fgj3pzoi8CKM2UUBYNkRtY1cwmPJ8KFWJpDqWOsIZed%2FMmhB8%2BV1KSv5nGC6fweeCXthb9E9gtF0FlOCUS6",
+      "url": "https://www.ebay.com/itm/196850247770?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2dd530685a:g:XwQAAOSwAUVmyehd&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGbAggOqo%2BF9kaDAT%2BgxFIgzavumOUPY2ifte5PJ0n1Gv9%2BUT9%2FFWynddHUq%2Fum2o7swbPtNgbArhyXGW8%2FJeQJxBSd9xULnO7ji8MovqiA%2BevTUWm9K8ok1XHjswJZSBL%2BrNPL3pCwpx7ffyEDD8Yf%2BfkxDGXdT49q1QRZwrEqOS3t1VphZsEhpLRJyks8QbFprry8j301sJkzaBG4JPCyvTx6cm%2Bps6zLRSJt%2BcwnsJkWRn0VQtLxgcRMqlHu7%2Fn7BdcfSiF2fAfzjfMZmFN%2BgmTBMLJfcOjJKTL4XIFVO8H9UTUcyulM4zflxcQq0VQPKoooKJbcqGC8vFYGcW7Ol",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
@@ -126,7 +151,7 @@
       "gapPct": 48.52,
       "confidence": "medium",
       "seller_rating": 99.6,
-      "seller_feedback_count": 459,
+      "seller_feedback_count": 460,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -134,8 +159,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-27T06:03:17.876777+00:00",
-      "_last_seen_at": "2026-04-27T13:22:53.272516+00:00"
+      "_first_seen_at": "2026-04-27T14:03:25.671192+00:00",
+      "_last_seen_at": "2026-04-27T14:03:25.671192+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -148,7 +173,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 232.0,
-      "gapPct": 41.2,
+      "gapPct": 41.33,
       "confidence": "medium",
       "seller_rating": 99.2,
       "seller_feedback_count": 432,
@@ -160,57 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T08:02:48.339227+00:00",
-      "_last_seen_at": "2026-04-27T13:22:53.272516+00:00"
-    },
-    {
-      "title": "Pokemon Sword & Shield ASTRAL RADIANCE Booster Box Sealed BRAZILIAN PORTUGUESE",
-      "url": "https://www.ebay.com/itm/277578484256?_skw=pokemon+Astral+Radiance+booster+box&hash=item40a0f78a20:g:oB8AAOSwfjNjG-Gd",
-      "franchise": "pokemon",
-      "set": "Astral Radiance",
-      "product_type": "booster_box",
-      "price": 314.99,
-      "shipping_cost": 39.99,
-      "total_price": 314.99,
-      "shipping_verified": true,
-      "baseline_price": 399.5,
-      "gapPct": 21.15,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 3672,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-27T08:43:22.871565+00:00",
-      "_last_seen_at": "2026-04-27T09:00:01.383277+00:00"
-    },
-    {
-      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
-      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI5wtvx2OlJ4h%2F4s0qxzs4txV0spaF3xW5x%2B4SlDfvQK5A3K5iIz6qtp1DaiFR%2BQsl4jtF45cQZJNkQkRF5A6T4LzNe%2FH7U4HiS7xqzKUfz9MG6KwG5V1g8vctMZUHZekAmkselOsv2IDgVv5rYQWEW5Pm02V2pcT1NP2XiEzB6OvQlNh4Z2%2FgWxQQK9nfOwWzg%3D",
-      "franchise": "pokemon",
-      "set": "Chilling Reign",
-      "product_type": "booster_box",
-      "price": 469.98,
-      "shipping_cost": 19.99,
-      "total_price": 469.98,
-      "shipping_verified": true,
-      "baseline_price": 592.43,
-      "gapPct": 20.67,
-      "confidence": "medium",
-      "seller_rating": 96.6,
-      "seller_feedback_count": 5840,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "MEDIUM",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-27T12:03:23.959297+00:00",
-      "_last_seen_at": "2026-04-27T12:04:35.198541+00:00"
+      "_last_seen_at": "2026-04-27T14:03:25.671192+00:00"
     },
     {
       "title": "Pokemon Rivali Predestinati Box Italian Destined Rivals Booster Box Sealed ",
@@ -235,7 +210,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T09:23:11.413111+00:00",
-      "_last_seen_at": "2026-04-27T13:22:53.272516+00:00"
+      "_last_seen_at": "2026-04-27T14:03:25.671192+00:00"
     },
     {
       "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -260,7 +235,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T10:04:04.676566+00:00",
-      "_last_seen_at": "2026-04-27T13:22:53.272516+00:00"
+      "_last_seen_at": "2026-04-27T14:03:25.671192+00:00"
     },
     {
       "title": "Pokemon Sword and Shield Lost Origin Booster Box Sealed",
@@ -273,7 +248,7 @@
       "total_price": 700.0,
       "shipping_verified": false,
       "baseline_price": 813.0,
-      "gapPct": 13.9,
+      "gapPct": 12.5,
       "confidence": "medium",
       "seller_rating": 100.0,
       "seller_feedback_count": 225,
@@ -285,41 +260,16 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T07:23:20.237000+00:00",
-      "_last_seen_at": "2026-04-27T08:00:01.490134+00:00"
-    },
-    {
-      "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
-      "url": "https://www.ebay.com/itm/137256163075?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1ff51ad703:g:dZcAAeSw8P5p7L2l",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 556.54,
-      "shipping_cost": 61.31,
-      "total_price": 556.54,
-      "shipping_verified": true,
-      "baseline_price": 574.14,
-      "gapPct": 3.07,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 148,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-04-27T10:42:56.243842+00:00",
-      "_last_seen_at": "2026-04-27T11:00:01.167277+00:00"
+      "_last_seen_at": "2026-04-27T14:03:25.671192+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
