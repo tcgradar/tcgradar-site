@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T23:05:39.643772+00:00",
+  "timestamp": "2026-04-27T23:25:39.333451+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -135,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T17:00:01.742887+00:00",
-      "_last_seen_at": "2026-04-27T23:05:39.643150+00:00"
+      "_last_seen_at": "2026-04-27T23:25:39.332835+00:00"
     },
     {
       "title": "Pokemon Rivali Predestinati Box Italian Destined Rivals Booster Box Sealed ",
@@ -160,7 +160,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T17:25:40.032827+00:00",
-      "_last_seen_at": "2026-04-27T23:05:39.643150+00:00"
+      "_last_seen_at": "2026-04-27T23:25:39.332835+00:00"
     },
     {
       "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -185,7 +185,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T18:05:39.610192+00:00",
-      "_last_seen_at": "2026-04-27T23:05:39.643150+00:00"
+      "_last_seen_at": "2026-04-27T23:25:39.332835+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
@@ -210,7 +210,7 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-27T22:45:39.233199+00:00",
-      "_last_seen_at": "2026-04-27T23:05:39.643150+00:00"
+      "_last_seen_at": "2026-04-27T23:25:39.332835+00:00"
     }
   ],
   "empty_watchlist": false,
