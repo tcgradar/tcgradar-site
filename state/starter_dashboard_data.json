@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T12:43:03.366116+00:00",
+  "timestamp": "2026-04-28T13:00:01.679978+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -136,7 +136,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T12:43:03.365625+00:00",
-      "_last_seen_at": "2026-04-28T12:43:03.365625+00:00"
+      "_last_seen_at": "2026-04-28T13:00:01.679153+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -186,7 +186,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T08:43:08.841676+00:00",
-      "_last_seen_at": "2026-04-28T12:43:03.365625+00:00"
+      "_last_seen_at": "2026-04-28T13:00:01.679153+00:00"
     },
     {
       "title": "One Piece OP15 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -211,7 +211,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T12:43:03.365625+00:00",
-      "_last_seen_at": "2026-04-28T12:43:03.365625+00:00"
+      "_last_seen_at": "2026-04-28T13:00:01.679153+00:00"
     }
   ],
   "empty_watchlist": false,
