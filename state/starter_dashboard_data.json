@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T08:43:08.842157+00:00",
+  "timestamp": "2026-04-28T11:04:02.334909+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,27 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 7,
+  "total_deals": 3,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
-      "onepiece": 1
+      "onepiece": 2,
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 4
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "10_to_19": 4
+      "10_to_19": 3
     },
     "by_source": {
-      "ebay": 2,
       "stompinggroundstcg": 1,
+      "ebay": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -39,7 +39,7 @@
     "set": [
       "Adventure on Kami's Island",
       "Battle Styles",
-      "Destined Rivals"
+      "Emperors in the New World"
     ],
     "product_type": [
       "booster_box"
@@ -49,50 +49,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip ",
-      "url": "https://www.ebay.com/itm/267649603746?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e5128d8a2:g:M1EAAeSwfqVp5T5i",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 480.03,
-      "shipping_cost": 46.91,
-      "total_price": 480.03,
-      "shipping_verified": true,
-      "baseline_price": 599.0,
-      "gapPct": 19.86,
-      "confidence": "high",
-      "seller_rating": 98.9,
-      "seller_feedback_count": 833,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Battle Styles Booster Box Pokemon TCG Sword & Shield SWSH05 New Factory Sealed",
-      "url": "https://www.ebay.com/itm/267652835868?_skw=pokemon+Battle+Styles+booster+box&hash=item3e515a2a1c:g:tUoAAeSw8P5p8GN~",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 250.0,
-      "shipping_cost": 0.0,
-      "total_price": 250.0,
-      "shipping_verified": false,
-      "baseline_price": 299.49,
-      "gapPct": 16.52,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 150,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
     {
       "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
       "url": "https://stompinggroundstcg.com/products/one-piece-adventure-on-kamis-island-booster-box-op-15",
@@ -110,6 +66,28 @@
       "shipping_cost": 0,
       "confidence": "high",
       "non_ebay": true,
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
+      "url": "https://www.ebay.com/itm/137256163075?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1ff51ad703:g:dZcAAeSw8P5p7L2l",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 495.34,
+      "shipping_cost": 0.0,
+      "total_price": 495.34,
+      "shipping_verified": false,
+      "baseline_price": 580.19,
+      "gapPct": 14.62,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 148,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
     },
@@ -137,19 +115,19 @@
   "watchlist_deals": [
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3V5ZnVvk%2FSZhsZ64E6%2Fwu9Z3KnYtq%2BnUd9zbPtLgw09O88FILPT4gFICePEE25a21lHL9A5E6W1H8H1QyDv9LhymZ%2BxaNr9cgZzvkGI6TbCvJDUhFazh0ZtgmS4lgxvb%2FZzlNkb4l8I2elTRI7yaVW%2BK5mzJ2dgi9rfj9PiMKP14rH2nuuacvc3aZmefXq0GxapfyL1A%2B%2BHiGasa3NyN3%2Bh",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VQwHsYo%2B4M64xfEYJqjQ85KlsuXKta552tXXx2lFXLpE86eQdAct%2FK9BcjC0jSSeDOac2Cq7uCRauWFQi70b%2FqgB%2B0ao7F0ZX6LbEvSfip9qOHcZlHAn59hDxvT5y0HZh6inwWD4B0gDs0RwJRds3XEpVahob3dHwKpXp%2BHHrG5yI3%2FMrqh79%2BHF24SwaNMMB4Ltj%2FgHVwyW2Av63%2B1o6D",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
       "price": 134.95,
       "shipping_cost": 0.0,
       "total_price": 134.95,
-      "shipping_verified": true,
-      "baseline_price": 229.5,
+      "shipping_verified": false,
+      "baseline_price": 225.0,
       "gapPct": 40.02,
       "confidence": "medium",
       "seller_rating": 98.8,
-      "seller_feedback_count": 434,
+      "seller_feedback_count": 439,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -157,33 +135,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-28T01:00:01.767856+00:00",
-      "_last_seen_at": "2026-04-28T08:43:08.841676+00:00"
-    },
-    {
-      "title": "Pokemon Rivali Predestinati Box Italian Destined Rivals Booster Box Sealed ",
-      "url": "https://www.ebay.com/itm/318207939528?_skw=pokemon+Destined+Rivals+booster+box&hash=item4a16abd3c8:g:vwoAAeSwzmBp7imJ",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 499.0,
-      "shipping_cost": 0.0,
-      "total_price": 499.0,
-      "shipping_verified": false,
-      "baseline_price": 599.0,
-      "gapPct": 16.69,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 2597,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-28T02:00:01.929638+00:00",
-      "_last_seen_at": "2026-04-28T02:00:01.929638+00:00"
+      "_first_seen_at": "2026-04-28T10:00:01.344751+00:00",
+      "_last_seen_at": "2026-04-28T11:00:01.510799+00:00"
     },
     {
       "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -196,7 +149,7 @@
       "total_price": 198.44,
       "shipping_verified": true,
       "baseline_price": 235.0,
-      "gapPct": 15.56,
+      "gapPct": 13.72,
       "confidence": "medium",
       "seller_rating": 99.3,
       "seller_feedback_count": 650270,
@@ -208,16 +161,16 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T08:43:08.841676+00:00",
-      "_last_seen_at": "2026-04-28T08:43:08.841676+00:00"
+      "_last_seen_at": "2026-04-28T11:04:02.334484+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 3,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
