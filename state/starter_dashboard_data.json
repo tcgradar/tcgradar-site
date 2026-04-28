@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T19:03:03.042276+00:00",
+  "timestamp": "2026-04-28T19:42:40.172077+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,27 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
+  "total_deals": 3,
   "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
+      "pokemon": 2,
       "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 4
+      "booster_box": 3
     },
     "by_gap_bucket": {
-      "10_to_19": 4
+      "10_to_19": 3
     },
     "by_source": {
-      "ebay": 2,
+      "ebay": 1,
       "stompinggroundstcg": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,8 +38,7 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles",
-      "Destined Rivals"
+      "Battle Styles"
     ],
     "product_type": [
       "booster_box"
@@ -49,28 +48,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon Destined Rivals Booster Box Sealed 36 Packs Brand New Sealed - Tiny rip",
-      "url": "https://www.ebay.com/itm/397885857959?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ca3d860a7:g:hjwAAeSw73lp78FH",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 489.44000000000005,
-      "shipping_cost": 47.22,
-      "total_price": 489.44000000000005,
-      "shipping_verified": true,
-      "baseline_price": 599.0,
-      "gapPct": 18.29,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 323,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
     {
       "title": "Battle Styles Booster Box Pokemon TCG Sword & Shield SWSH05 New Factory Sealed",
       "url": "https://www.ebay.com/itm/267652835868?_skw=pokemon+Battle+Styles+booster+box&hash=item3e515a2a1c:g:tUoAAeSw8P5p8GN~",
@@ -171,7 +148,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 227.0,
-      "gapPct": 40.55,
+      "gapPct": 40.02,
       "confidence": "medium",
       "seller_rating": 98.8,
       "seller_feedback_count": 439,
@@ -183,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T18:02:45.125323+00:00",
-      "_last_seen_at": "2026-04-28T19:03:03.041584+00:00"
+      "_last_seen_at": "2026-04-28T19:42:40.171321+00:00"
     },
     {
       "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
@@ -208,7 +185,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T12:43:03.365625+00:00",
-      "_last_seen_at": "2026-04-28T19:03:03.041584+00:00"
+      "_last_seen_at": "2026-04-28T19:42:40.171321+00:00"
+    },
+    {
+      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
+      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI7a2mZ5X%2BNlmOxUge3Do85sR3fCP6BM9%2BqtbNgjkfXk1DZ3ek4o5ect25HO2Bz4DUbfNVBrZquHChOH7vruO9qrcJDgaGKt2bJRHNkDLLYpn1hoG%2B0XG%2BcuK%2FJbc8XttRSa%2B7YfPtrWwM99NWQ0buFeHKymtKCXPVhow3%2FrweGMOFojSZUw31E3eUZAbuLOjo0%3D",
+      "franchise": "pokemon",
+      "set": "Chilling Reign",
+      "product_type": "booster_box",
+      "price": 469.98,
+      "shipping_cost": 19.99,
+      "total_price": 469.98,
+      "shipping_verified": true,
+      "baseline_price": 597.65,
+      "gapPct": 21.36,
+      "confidence": "medium",
+      "seller_rating": 96.5,
+      "seller_feedback_count": 5841,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "MEDIUM",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-28T19:42:40.171321+00:00",
+      "_last_seen_at": "2026-04-28T19:42:40.171321+00:00"
     },
     {
       "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -265,9 +267,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 3,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
