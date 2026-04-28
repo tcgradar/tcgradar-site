@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T16:42:33.198207+00:00",
+  "timestamp": "2026-04-28T17:00:01.933554+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -183,7 +183,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T16:42:33.197498+00:00",
-      "_last_seen_at": "2026-04-28T16:42:33.197498+00:00"
+      "_last_seen_at": "2026-04-28T17:00:01.932361+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -208,7 +208,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T10:00:01.344751+00:00",
-      "_last_seen_at": "2026-04-28T16:42:33.197498+00:00"
+      "_last_seen_at": "2026-04-28T17:00:01.932361+00:00"
     },
     {
       "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
@@ -220,11 +220,11 @@
       "shipping_cost": 0.0,
       "total_price": 198.44,
       "shipping_verified": true,
-      "baseline_price": 235.0,
+      "baseline_price": 230.0,
       "gapPct": 13.72,
       "confidence": "medium",
       "seller_rating": 99.3,
-      "seller_feedback_count": 650270,
+      "seller_feedback_count": 650478,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -232,8 +232,8 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-28T08:43:08.841676+00:00",
-      "_last_seen_at": "2026-04-28T16:42:33.197498+00:00"
+      "_first_seen_at": "2026-04-28T16:43:43.241317+00:00",
+      "_last_seen_at": "2026-04-28T17:00:01.932361+00:00"
     },
     {
       "title": "One Piece OP15 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
