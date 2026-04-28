@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T21:03:43.898687+00:00",
+  "timestamp": "2026-04-28T22:42:48.958133+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -18,8 +18,7 @@
       "booster_box": 4
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 3
+      "10_to_19": 4
     },
     "by_source": {
       "ebay": 2,
@@ -46,8 +45,7 @@
       "booster_box"
     ],
     "gap_bucket": [
-      "10_to_19",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
@@ -61,8 +59,8 @@
       "shipping_cost": 45.98,
       "total_price": 452.03000000000003,
       "shipping_verified": true,
-      "baseline_price": 577.5,
-      "gapPct": 21.73,
+      "baseline_price": 565.0,
+      "gapPct": 19.99,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 232,
@@ -71,7 +69,7 @@
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "20_plus"
+      "gap_bucket": "10_to_19"
     },
     {
       "title": "Battle Styles Booster Box Pokemon TCG Sword & Shield SWSH05 New Factory Sealed",
@@ -173,7 +171,7 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 227.0,
-      "gapPct": 40.55,
+      "gapPct": 40.02,
       "confidence": "medium",
       "seller_rating": 98.8,
       "seller_feedback_count": 439,
@@ -185,7 +183,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T18:02:45.125323+00:00",
-      "_last_seen_at": "2026-04-28T21:03:43.898068+00:00"
+      "_last_seen_at": "2026-04-28T22:42:48.957510+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
