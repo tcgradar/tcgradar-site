@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T12:03:26.159300+00:00",
+  "timestamp": "2026-04-28T12:43:03.366116+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,29 +7,27 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 6,
+  "total_deals": 3,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
-      "onepiece": 1
+      "onepiece": 1,
+      "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1,
       "booster_box": 3
     },
     "by_gap_bucket": {
-      "20_plus": 1,
       "10_to_19": 3
     },
     "by_source": {
-      "ebay": 2,
       "stompinggroundstcg": 1,
+      "ebay": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -41,40 +39,16 @@
     "set": [
       "Adventure on Kami's Island",
       "Battle Styles",
-      "Celebrations"
+      "Destined Rivals"
     ],
     "product_type": [
-      "booster_box",
-      "etb"
+      "booster_box"
     ],
     "gap_bucket": [
-      "10_to_19",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Shining Fates ETB Elite Trainer Box New Sealed",
-      "url": "https://www.ebay.com/itm/327123961326?_skw=pokemon+Celebrations+booster+box&hash=item4c2a1b85ee:g:12MAAeSwv2hp7XuZ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGags2VeHHFXY2v2rfJVf3zWhVlyymbGbUsT4i23vF1Vv38PGk4toc6n78x1HP2v6%2FM40FElwI6r23vGmPdA32SoHEuuZ5kmiqkUDFqQyJ4Y7X2oB4gi0SaY2%2FSSaOBWzm7jxRSMqEPbNuncCqjHGNc1zVocR5bLgqq6lYbvvuVwBOM1IJfael7XkSX%2BBvGZxM%2Fw83rxJfMFPp0vUR3aaJvISSxv1irEjNM9meVGv7weXsKD2esX7hJc1r0XjumkUGD5qG4Jbio8Lw8F2jn6WiUPmHtBFoPlRu6KZnLxjhP8t5tR%2BVKzDM9RPIqSn1e1orM%3D",
-      "franchise": "pokemon",
-      "set": "Celebrations",
-      "product_type": "etb",
-      "price": 215.0,
-      "shipping_cost": 0.0,
-      "total_price": 215.0,
-      "shipping_verified": false,
-      "baseline_price": 375.0,
-      "gapPct": 42.67,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1023,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
       "url": "https://stompinggroundstcg.com/products/one-piece-adventure-on-kamis-island-booster-box-op-15",
@@ -96,20 +70,20 @@
       "gap_bucket": "10_to_19"
     },
     {
-      "title": "Battle Styles Booster Box Pokemon TCG Sword & Shield SWSH05 New Factory Sealed",
-      "url": "https://www.ebay.com/itm/267652835868?_skw=pokemon+Battle+Styles+booster+box&hash=item3e515a2a1c:g:tUoAAeSw8P5p8GN~",
+      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip ",
+      "url": "https://www.ebay.com/itm/267649603746?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e5128d8a2:g:M1EAAeSwfqVp5T5i",
       "franchise": "pokemon",
-      "set": "Battle Styles",
+      "set": "Destined Rivals",
       "product_type": "booster_box",
-      "price": 250.0,
-      "shipping_cost": 0.0,
-      "total_price": 250.0,
-      "shipping_verified": false,
-      "baseline_price": 297.25,
-      "gapPct": 15.9,
+      "price": 480.03,
+      "shipping_cost": 46.91,
+      "total_price": 480.03,
+      "shipping_verified": true,
+      "baseline_price": 560.04,
+      "gapPct": 14.29,
       "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 150,
+      "seller_rating": 98.9,
+      "seller_feedback_count": 833,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -139,6 +113,31 @@
     }
   ],
   "watchlist_deals": [
+    {
+      "title": "Sealed Japanese One Piece OP-07 500 Years in the Future Booster Box 24 Packs",
+      "url": "https://www.ebay.com/itm/297999865745?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item45622d1791:g:f3EAAeSwfxlpg0Nv",
+      "franchise": "onepiece",
+      "set": "500 Years in the Future",
+      "product_type": "booster_box",
+      "price": 121.8,
+      "shipping_cost": 0.0,
+      "total_price": 121.8,
+      "shipping_verified": false,
+      "baseline_price": 236.87,
+      "gapPct": 48.58,
+      "confidence": "medium",
+      "seller_rating": 99.8,
+      "seller_feedback_count": 6414,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-28T12:43:03.365625+00:00",
+      "_last_seen_at": "2026-04-28T12:43:03.365625+00:00"
+    },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
       "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VQwHsYo%2B4M64xfEYJqjQ85KlsuXKta552tXXx2lFXLpE86eQdAct%2FK9BcjC0jSSeDOac2Cq7uCRauWFQi70b%2FqgB%2B0ao7F0ZX6LbEvSfip9qOHcZlHAn59hDxvT5y0HZh6inwWD4B0gDs0RwJRds3XEpVahob3dHwKpXp%2BHHrG5yI3%2FMrqh79%2BHF24SwaNMMB4Ltj%2FgHVwyW2Av63%2B1o6D",
@@ -187,16 +186,41 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T08:43:08.841676+00:00",
-      "_last_seen_at": "2026-04-28T12:00:01.398698+00:00"
+      "_last_seen_at": "2026-04-28T12:43:03.365625+00:00"
+    },
+    {
+      "title": "One Piece OP15 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
+      "url": "https://www.ebay.com/itm/127832838240?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item1dc36e5060:g:Vk0AAeSwWlNp1oXR",
+      "franchise": "onepiece",
+      "set": "Adventure on Kami's Island",
+      "product_type": "booster_box",
+      "price": 198.0,
+      "shipping_cost": 0.0,
+      "total_price": 198.0,
+      "shipping_verified": true,
+      "baseline_price": 225.0,
+      "gapPct": 12.0,
+      "confidence": "medium",
+      "seller_rating": 99.5,
+      "seller_feedback_count": 1374,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-28T12:43:03.365625+00:00",
+      "_last_seen_at": "2026-04-28T12:43:03.365625+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 3,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
