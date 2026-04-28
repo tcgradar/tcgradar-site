@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T00:10:33.750381+00:00",
+    "generated_at": "2026-04-28T02:45:00.923388+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 0,
-    "filtered_count": 0,
+    "raw_count": 10,
+    "filtered_count": 4,
     "filter_criteria": {
       "min_gap": 10.0,
       "max_bids": 50,
@@ -92,5 +92,78 @@
       ]
     }
   },
-  "auctions": []
+  "auctions": [
+    {
+      "title": "Pok\u00e9mon Destined Rivals 36 Factory Sealed Booster  Packs",
+      "current_price": 202.5,
+      "shipping_cost": 0.0,
+      "total_price": 202.5,
+      "baseline": 585.54,
+      "gapPct": 65.41653857977252,
+      "bids": 2,
+      "time_remaining": 45.56963360583334,
+      "opportunity_type": "ongoing",
+      "url": "https://www.ebay.com/itm/397883526693?_skw=Pokemon+Destined+Rivals+booster+box&hash=item5ca3b4ce25:g:H1cAAeSwzJ1p7qql",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "seller_trust": "MEDIUM",
+      "opportunity_score": 90,
+      "deal_quality": "high"
+    },
+    {
+      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Box #EKE",
+      "current_price": 242.5,
+      "shipping_cost": 9.99,
+      "total_price": 252.49,
+      "baseline": 585.54,
+      "gapPct": 56.879120128428454,
+      "bids": 31,
+      "time_remaining": 47.29852248361111,
+      "opportunity_type": "ongoing",
+      "url": "https://www.ebay.com/itm/198291966699?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e2b1f4aeb:g:83kAAeSwLGBp48H~",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 70,
+      "deal_quality": "high"
+    },
+    {
+      "title": "One Piece Card Game - OP07 Booster Box English 500 Years in the Future - Sealed",
+      "current_price": 181.33,
+      "shipping_cost": 33.83,
+      "total_price": 215.16000000000003,
+      "baseline": 335.0,
+      "gapPct": 35.7731343283582,
+      "bids": 8,
+      "time_remaining": 16.755612405833336,
+      "opportunity_type": "ongoing",
+      "url": "https://www.ebay.com/itm/168316339496?_skw=One+Piece+500+Years+in+the+Future+booster+box&hash=item27306f8528:g:-vcAAeSwjoxphygA",
+      "franchise": "onepiece",
+      "set": "500 Years in the Future",
+      "product_type": "booster_box",
+      "seller_trust": "MEDIUM",
+      "opportunity_score": 68,
+      "deal_quality": "medium"
+    },
+    {
+      "title": "POKEMON TCG: Scarlet & Violet Destined Rivals Booster Box, Sealed Box is Worn",
+      "current_price": 212.5,
+      "shipping_cost": 0.0,
+      "total_price": 212.5,
+      "baseline": 585.54,
+      "gapPct": 63.70871332445264,
+      "bids": 40,
+      "time_remaining": 61.617689158055555,
+      "opportunity_type": "early",
+      "url": "https://www.ebay.com/itm/397872807217?_skw=Pokemon+Destined+Rivals+booster+box&hash=item5ca3113d31:g:lkYAAeSwqZVp6kfp",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 65,
+      "deal_quality": "medium"
+    }
+  ]
 }
