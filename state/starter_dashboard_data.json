@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T07:23:11.335155+00:00",
+  "timestamp": "2026-04-29T08:23:28.195810+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,29 +7,27 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
+  "total_deals": 3,
   "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
+      "pokemon": 2,
       "onepiece": 1
     },
     "by_product_type": {
-      "etb": 1,
       "booster_box": 3
     },
     "by_gap_bucket": {
-      "20_plus": 1,
       "10_to_19": 3
     },
     "by_source": {
-      "ebay": 2,
+      "ebay": 1,
       "stompinggroundstcg": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -40,41 +38,16 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles",
-      "Celebrations"
+      "Battle Styles"
     ],
     "product_type": [
-      "booster_box",
-      "etb"
+      "booster_box"
     ],
     "gap_bucket": [
-      "10_to_19",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Shining Fates ETB Elite Trainer Box New Sealed",
-      "url": "https://www.ebay.com/itm/327123961326?_skw=pokemon+Celebrations+booster+box&hash=item4c2a1b85ee:g:12MAAeSwv2hp7XuZ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGags2VeHHFXY2v2rfJVf3zWhVlyymbGbUsT4i23vF1Vv38PGk4toc6n78x1HP2v6%2FM40FElwI6r23vGmPdA32SoHEuuZ5kmiqkUDFqQyJ4Y7X2oB4gi0SaY2%2FSSaOBWzm4fnMMWhRFilcNzu7Nof7QbP%2FpiBG0P5fKItGj1KV4Lb8YCtw73CloT0QLEkMnAePyrbmLsliX6489dBBHIy2tL1s%2F%2B1rOSDgJ76wbQOOJdGGuPQeEJwvc9OCov1pl2vHph2vkNtTGlLZ85hT0gNPHqNS0mOXQq2QupVI6xtA2EwvW%2BLX%2FOR8AX5xprOA5SM80%3D",
-      "franchise": "pokemon",
-      "set": "Celebrations",
-      "product_type": "etb",
-      "price": 215.0,
-      "shipping_cost": 0.0,
-      "total_price": 215.0,
-      "shipping_verified": true,
-      "baseline_price": 380.0,
-      "gapPct": 43.42,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1023,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Battle Styles Booster Box Pokemon TCG Sword & Shield SWSH05 New Factory Sealed",
       "url": "https://www.ebay.com/itm/267652835868?_skw=pokemon+Battle+Styles+booster+box&hash=item3e515a2a1c:g:tUoAAeSw8P5p8GN~",
@@ -85,8 +58,8 @@
       "shipping_cost": 0.0,
       "total_price": 250.0,
       "shipping_verified": false,
-      "baseline_price": 299.99,
-      "gapPct": 16.66,
+      "baseline_price": 299.74,
+      "gapPct": 16.59,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 150,
@@ -162,7 +135,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T02:03:23.033436+00:00",
-      "_last_seen_at": "2026-04-29T07:23:11.334717+00:00"
+      "_last_seen_at": "2026-04-29T08:23:28.195331+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -175,7 +148,7 @@
       "total_price": 421.40999999999997,
       "shipping_verified": true,
       "baseline_price": 594.43,
-      "gapPct": 29.74,
+      "gapPct": 29.2,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 350,
@@ -187,16 +160,41 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T04:03:01.713079+00:00",
-      "_last_seen_at": "2026-04-29T07:23:11.334717+00:00"
+      "_last_seen_at": "2026-04-29T08:23:28.195331+00:00"
+    },
+    {
+      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
+      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI6%2F9aHywnXQqCSWFSfssKXmROF94gt%2B15IlDqf%2BQYsfMxPv1uttZfuRw2LYIaUZywFUNm8cIFK%2BOF1uUGiF1jS763M6mSIf0qL7v5WVmHbe7MFDUiuUtVYFvNd99VGtRCWZEEIda2h%2FhhfSJPSgi9DHwqUeoOHl7oCYJSfeuMZRHgD3S%2Fg6HJ5NfFZgIGcBZ%2FM%3D",
+      "franchise": "pokemon",
+      "set": "Chilling Reign",
+      "product_type": "booster_box",
+      "price": 469.98,
+      "shipping_cost": 19.99,
+      "total_price": 469.98,
+      "shipping_verified": true,
+      "baseline_price": 597.45,
+      "gapPct": 21.34,
+      "confidence": "medium",
+      "seller_rating": 96.5,
+      "seller_feedback_count": 5842,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "MEDIUM",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-04-29T08:23:28.195331+00:00",
+      "_last_seen_at": "2026-04-29T08:23:28.195331+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 3,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
