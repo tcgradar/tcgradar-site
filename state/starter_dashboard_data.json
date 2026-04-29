@@ -1,40 +1,44 @@
 {
-  "timestamp": "2026-04-29T14:24:19.238645+00:00",
+  "timestamp": "2026-04-29T15:03:25.146795+00:00",
   "non_ebay_stats": {
-    "detected": 1,
-    "in_output": 1,
-    "in_best_deals": 1,
+    "detected": 2,
+    "in_output": 2,
+    "in_best_deals": 2,
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 8,
+  "total_deals": 4,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3
+      "pokemon": 3,
+      "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 4
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 2
+      "10_to_19": 3
     },
     "by_source": {
       "ebay": 2,
+      "stompinggroundstcg": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
     "franchise": [
+      "onepiece",
       "pokemon"
     ],
     "set": [
+      "Adventure on Kami's Island",
       "Battle Styles",
       "Destined Rivals"
     ],
@@ -92,6 +96,26 @@
       "gap_bucket": "10_to_19"
     },
     {
+      "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
+      "url": "https://stompinggroundstcg.com/products/one-piece-adventure-on-kamis-island-booster-box-op-15",
+      "franchise": "onepiece",
+      "set": "Adventure on Kami's Island",
+      "product_type": "booster_box",
+      "price": 189.0,
+      "baseline_price": 225.0,
+      "gapPct": 16.0,
+      "seller_trust": "HIGH",
+      "source": "stompinggroundstcg",
+      "availability": "unknown",
+      "is_preorder": false,
+      "language": "EN",
+      "shipping_cost": 0,
+      "confidence": "high",
+      "non_ebay": true,
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
       "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
       "franchise": "pokemon",
@@ -136,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T14:24:19.237912+00:00",
-      "_last_seen_at": "2026-04-29T14:24:19.237912+00:00"
+      "_last_seen_at": "2026-04-29T15:00:01.610425+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -161,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T10:22:36.513971+00:00",
-      "_last_seen_at": "2026-04-29T14:24:19.237912+00:00"
+      "_last_seen_at": "2026-04-29T15:03:25.146098+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -211,7 +235,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T08:23:28.195331+00:00",
-      "_last_seen_at": "2026-04-29T14:24:19.237912+00:00"
+      "_last_seen_at": "2026-04-29T15:00:01.610425+00:00"
     },
     {
       "title": "Pokemon TCG Lost Origin Booster Box Sword & Shield SEALED With Plastic Sleeve",
@@ -244,8 +268,8 @@
   "_single_writer_info": {
     "version": "v2.0",
     "ebay_deals": 2,
-    "retailer_deals": 2,
-    "total_merged": 3,
+    "retailer_deals": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
