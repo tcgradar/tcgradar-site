@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T21:00:01.503750+00:00",
+  "timestamp": "2026-04-29T21:43:45.102341+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,28 +7,28 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 7,
+  "total_deals": 3,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
+      "pokemon": 2,
       "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 4
+      "booster_box": 3
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 3
+      "10_to_19": 2
     },
     "by_source": {
-      "ebay": 2,
+      "ebay": 1,
       "stompinggroundstcg": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -61,7 +61,7 @@
       "shipping_cost": 45.92,
       "total_price": 451.43,
       "shipping_verified": true,
-      "baseline_price": 599.97,
+      "baseline_price": 599.95,
       "gapPct": 24.76,
       "confidence": "high",
       "seller_rating": 100.0,
@@ -90,28 +90,6 @@
       "shipping_cost": 0,
       "confidence": "high",
       "non_ebay": true,
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Battle Styles Booster Box Pokemon TCG Sword & Shield SWSH05 New Factory Sealed",
-      "url": "https://www.ebay.com/itm/267652835868?_skw=pokemon+Battle+Styles+booster+box&hash=item3e515a2a1c:g:tUoAAeSw8P5p8GN~",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 250.0,
-      "shipping_cost": 0.0,
-      "total_price": 250.0,
-      "shipping_verified": false,
-      "baseline_price": 295.0,
-      "gapPct": 15.25,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 150,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
     },
@@ -160,7 +138,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T14:24:19.237912+00:00",
-      "_last_seen_at": "2026-04-29T16:00:01.677807+00:00"
+      "_last_seen_at": "2026-04-29T21:43:45.101851+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -185,23 +163,23 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T18:23:37.018882+00:00",
-      "_last_seen_at": "2026-04-29T21:00:01.502973+00:00"
+      "_last_seen_at": "2026-04-29T21:04:49.127452+00:00"
     },
     {
-      "title": "Pokemon TCG Lost Origin Booster Box Sword & Shield SEALED With Plastic Sleeve",
-      "url": "https://www.ebay.com/itm/406891555769?_skw=pokemon+Lost+Origin+booster+box&hash=item5ebca06bb9:g:~VQAAeSwCctp8U2f",
+      "title": "POKEMON TCG SWORD AND SHIELD BATTLE STYLE BOOSTER BOX NEW/SEALED",
+      "url": "https://www.ebay.com/itm/147255832182?_skw=pokemon+Battle+Styles+booster+box&hash=item224921ae76:g:KCgAAeSwAaFp3BE9",
       "franchise": "pokemon",
-      "set": "Lost Origin",
+      "set": "Battle Styles",
       "product_type": "booster_box",
-      "price": 709.99,
+      "price": 255.0,
       "shipping_cost": 0.0,
-      "total_price": 709.99,
+      "total_price": 255.0,
       "shipping_verified": true,
-      "baseline_price": 812.52,
-      "gapPct": 12.62,
+      "baseline_price": 297.25,
+      "gapPct": 14.21,
       "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 841,
+      "seller_rating": 98.8,
+      "seller_feedback_count": 1460,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -209,17 +187,17 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-29T13:03:21.024230+00:00",
-      "_last_seen_at": "2026-04-29T13:04:26.271713+00:00"
+      "_first_seen_at": "2026-04-29T21:43:45.101851+00:00",
+      "_last_seen_at": "2026-04-29T21:43:45.101851+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 3,
-    "total_merged": 4,
+    "total_merged": 3,
     "retailer_deals_visible": true
   }
 }
