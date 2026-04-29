@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T00:42:57.842317+00:00",
+  "timestamp": "2026-04-29T01:23:04.042425+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,29 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
+  "total_deals": 5,
   "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3,
+      "pokemon": 4,
       "onepiece": 1
     },
     "by_product_type": {
+      "etb": 1,
       "booster_box": 4
     },
     "by_gap_bucket": {
-      "10_to_19": 4
+      "20_plus": 2,
+      "10_to_19": 3
     },
     "by_source": {
-      "ebay": 2,
+      "ebay": 3,
       "stompinggroundstcg": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 5,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -39,16 +41,41 @@
     "set": [
       "Adventure on Kami's Island",
       "Battle Styles",
+      "Celebrations",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG Shining Fates ETB Elite Trainer Box New Sealed",
+      "url": "https://www.ebay.com/itm/327123961326?_skw=pokemon+Celebrations+booster+box&hash=item4c2a1b85ee:g:12MAAeSwv2hp7XuZ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGags2VeHHFXY2v2rfJVf3zWhVlyymbGbUsT4i23vF1Vv38PGk4toc6n78x1HP2v6%2FM40FElwI6r23vGmPdA32SoHEuuZ5kmiqkUDFqQyJ4Y7X2oB4gi0SaY2%2FSSaOBWzm45f9cd0TGuoQWx2NYfWx7lWZ7QIS4PJMD8sRRmtM%2Fj5XaKYDrQzlHsFDf7Ko8eLTU8xYwWxulRE%2Bbfx0Kh%2Ffwlk%2BdkXJXAT81sN8omSEncjaYsp2G8vXKQwCNS6OQf4L6%2F5%2B1NdmF3hWZNch2YXRGux0uxcIjHl6VL%2FhnvXsl6WuQM4TqSaVSP1uTgdbD%2Bsm0%3D",
+      "franchise": "pokemon",
+      "set": "Celebrations",
+      "product_type": "etb",
+      "price": 215.0,
+      "shipping_cost": 0.0,
+      "total_price": 215.0,
+      "shipping_verified": true,
+      "baseline_price": 380.0,
+      "gapPct": 43.42,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1023,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
     {
       "title": "Pokemon Destined Rivals Booster Box 36 Pack Sealed- see description",
       "url": "https://www.ebay.com/itm/336526072335?_skw=pokemon+Destined+Rivals+booster+box&hash=item4e5a845a0f:g:YscAAeSwx-Bp15Qm",
@@ -59,8 +86,8 @@
       "shipping_cost": 45.98,
       "total_price": 452.03000000000003,
       "shipping_verified": true,
-      "baseline_price": 565.0,
-      "gapPct": 19.99,
+      "baseline_price": 594.43,
+      "gapPct": 23.96,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 232,
@@ -69,7 +96,7 @@
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "20_plus"
     },
     {
       "title": "Battle Styles Booster Box Pokemon TCG Sword & Shield SWSH05 New Factory Sealed",
@@ -158,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T18:02:45.125323+00:00",
-      "_last_seen_at": "2026-04-29T00:42:57.841763+00:00"
+      "_last_seen_at": "2026-04-29T01:23:04.041946+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -184,40 +211,15 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T19:42:40.171321+00:00",
       "_last_seen_at": "2026-04-28T20:00:01.216873+00:00"
-    },
-    {
-      "title": "One Piece OP15/EB04 Adventure on KAMI’S Island Booster Box ENGLISH Sealed",
-      "url": "https://www.ebay.com/itm/168231442186?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item272b60170a:g:EVoAAeSwhgxptNSQ",
-      "franchise": "onepiece",
-      "set": "Adventure on Kami's Island",
-      "product_type": "booster_box",
-      "price": 198.44,
-      "shipping_cost": 0.0,
-      "total_price": 198.44,
-      "shipping_verified": true,
-      "baseline_price": 230.0,
-      "gapPct": 13.72,
-      "confidence": "medium",
-      "seller_rating": 99.3,
-      "seller_feedback_count": 650478,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-28T16:43:43.241317+00:00",
-      "_last_seen_at": "2026-04-28T18:00:01.218373+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 3,
-    "total_merged": 4,
+    "total_merged": 5,
     "retailer_deals_visible": true
   }
 }
