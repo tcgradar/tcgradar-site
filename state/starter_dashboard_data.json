@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T17:42:41.067371+00:00",
+  "timestamp": "2026-04-29T18:23:37.019442+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -103,8 +103,8 @@
       "shipping_cost": 0.0,
       "total_price": 250.0,
       "shipping_verified": false,
-      "baseline_price": 297.25,
-      "gapPct": 15.9,
+      "baseline_price": 295.0,
+      "gapPct": 15.25,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 150,
@@ -164,7 +164,7 @@
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3Vjwks%2FHzEEXw0HPI3Q3SM%2Bjs5S7vKNn7ST6xQaREB5sTNQ1VwI7gMM6aqap%2BAxBbSx6BkJh71iSo97XWGMs1qzPch36obMtam%2FSg6Msxsrcj2Lo3b7K4QpBB1FgdMMO08%2FVaP%2F8KTcoLMdn7KsdCJxDhopmeqxpISRCFm8uZt2PTsRug%2F63%2BEAtbrA2mrx3bMT0BcK1nGspwCecgesBvLo",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VzL5JRWMWp2r1XpIx7YjWvLjyvCJY1AgZ9LvKHdRvXfS3gZV%2BwOTUFONqUmOenD3%2Bjz5FOZ4y%2FjL84KzmacsRhJa1p8jWgNf%2BLBLJqfWQvTU4rUxwIJ8ug6AUlPJCm%2B%2FGJuT3r90i%2FyRtAI3ZcC3CJiF%2FClqH24DsumppYypNrYm%2Bod7Shp2%2F23iBFTab%2Fct%2FqUOzjbgAReIqO%2FtRZWLMu",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -184,8 +184,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-29T10:22:36.513971+00:00",
-      "_last_seen_at": "2026-04-29T17:42:41.066768+00:00"
+      "_first_seen_at": "2026-04-29T18:23:37.018882+00:00",
+      "_last_seen_at": "2026-04-29T18:23:37.018882+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
