@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T16:23:05.695145+00:00",
+  "timestamp": "2026-04-29T17:04:26.862736+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 4,
-  "all_deals_count": 9,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 3,
@@ -83,8 +83,8 @@
       "shipping_cost": 0.0,
       "total_price": 250.0,
       "shipping_verified": false,
-      "baseline_price": 299.99,
-      "gapPct": 16.66,
+      "baseline_price": 299.74,
+      "gapPct": 16.59,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 150,
@@ -185,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T10:22:36.513971+00:00",
-      "_last_seen_at": "2026-04-29T16:23:05.694462+00:00"
+      "_last_seen_at": "2026-04-29T17:04:26.862097+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -211,31 +211,6 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T12:23:19.088353+00:00",
       "_last_seen_at": "2026-04-29T14:00:01.416746+00:00"
-    },
-    {
-      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
-      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI6%2F9aHywnXQqCSWFSfssKXmROF94gt%2B15IlDqf%2BQYsfMxPv1uttZfuRw2LYIaUZywFUNm8cIFK%2BOF1uUGiF1jS763M6mSIf0qL7v5WVmHbe7MFDUiuUtVYFvNd99VGtRCWZEEIda2h%2FhhfSJPSgi9DHwqUeoOHl7oCYJSfeuMZRHgD3S%2Fg6HJ5NfFZgIGcBZ%2FM%3D",
-      "franchise": "pokemon",
-      "set": "Chilling Reign",
-      "product_type": "booster_box",
-      "price": 469.98,
-      "shipping_cost": 19.99,
-      "total_price": 469.98,
-      "shipping_verified": true,
-      "baseline_price": 597.45,
-      "gapPct": 21.15,
-      "confidence": "medium",
-      "seller_rating": 96.5,
-      "seller_feedback_count": 5842,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "MEDIUM",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-29T08:23:28.195331+00:00",
-      "_last_seen_at": "2026-04-29T15:00:01.610425+00:00"
     },
     {
       "title": "Pokemon TCG Lost Origin Booster Box Sword & Shield SEALED With Plastic Sleeve",
