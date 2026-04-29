@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T22:43:32.071409+00:00",
+  "timestamp": "2026-04-29T23:00:01.101372+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -138,7 +138,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T18:23:37.018882+00:00",
-      "_last_seen_at": "2026-04-29T22:43:32.070948+00:00"
+      "_last_seen_at": "2026-04-29T23:00:01.100733+00:00"
     },
     {
       "title": "POKEMON TCG SWORD AND SHIELD BATTLE STYLE BOOSTER BOX NEW/SEALED",
@@ -163,7 +163,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T21:43:45.101851+00:00",
-      "_last_seen_at": "2026-04-29T22:43:32.070948+00:00"
+      "_last_seen_at": "2026-04-29T23:00:01.100733+00:00"
     }
   ],
   "empty_watchlist": false,
