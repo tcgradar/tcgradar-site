@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T15:03:25.146795+00:00",
+  "timestamp": "2026-04-29T15:43:48.787727+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -160,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T14:24:19.237912+00:00",
-      "_last_seen_at": "2026-04-29T15:00:01.610425+00:00"
+      "_last_seen_at": "2026-04-29T15:43:48.786977+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -185,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T10:22:36.513971+00:00",
-      "_last_seen_at": "2026-04-29T15:03:25.146098+00:00"
+      "_last_seen_at": "2026-04-29T15:43:48.786977+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",

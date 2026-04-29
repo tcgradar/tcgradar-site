@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T14:25:29.653320+00:00",
+    "generated_at": "2026-04-29T15:44:55.924361+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
     "raw_count": 15,
-    "filtered_count": 2,
+    "filtered_count": 3,
     "filter_criteria": {
       "min_gap": 10.0,
       "max_bids": 50,
@@ -101,7 +101,7 @@
       "baseline": 552.47,
       "gapPct": 40.546998027042186,
       "bids": 7,
-      "time_remaining": 53.07737251694444,
+      "time_remaining": 51.75387092611111,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/168322672428?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2730d0272c:g:E6cAAeSwpNlphyvs",
       "franchise": "onepiece",
@@ -119,7 +119,7 @@
       "baseline": 552.47,
       "gapPct": 16.04612015132044,
       "bids": 4,
-      "time_remaining": 29.23237250277778,
+      "time_remaining": 27.908870912222223,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/168320830467?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2730b40c03:g:E6cAAeSwpNlphyvs",
       "franchise": "onepiece",
@@ -127,6 +127,24 @@
       "product_type": "booster_box",
       "seller_trust": "MEDIUM",
       "opportunity_score": 41,
+      "deal_quality": "medium"
+    },
+    {
+      "title": "One Piece OP-05 TCG Awakening of the New Era Booster Box, Sealed Box Has Wear",
+      "current_price": 750.0,
+      "shipping_cost": 0.0,
+      "total_price": 750.0,
+      "baseline": 947.45,
+      "gapPct": 20.840149875982906,
+      "bids": 38,
+      "time_remaining": 23.030317989722224,
+      "opportunity_type": "ongoing",
+      "url": "https://www.ebay.com/itm/397872559594?_skw=One+Piece+Awakening+of+the+New+Era+booster+box&hash=item5ca30d75ea:g:oCEAAeSwQOlp6jFl",
+      "franchise": "onepiece",
+      "set": "Awakening of the New Era",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 40,
       "deal_quality": "medium"
     }
   ]
