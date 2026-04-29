@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T10:23:43.465528+00:00",
+    "generated_at": "2026-04-29T11:45:24.342876+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 14,
+    "raw_count": 15,
     "filtered_count": 2,
     "filter_criteria": {
       "min_gap": 10.0,
@@ -95,21 +95,21 @@
   "auctions": [
     {
       "title": "One Piece TCG - OP09 Emperors in the New World Booster Box English - SEALED New",
-      "current_price": 281.15,
+      "current_price": 287.91,
       "shipping_cost": 33.79,
-      "total_price": 314.94,
+      "total_price": 321.70000000000005,
       "baseline": 552.47,
-      "gapPct": 42.994189729759086,
-      "bids": 5,
-      "time_remaining": 57.10684705305556,
+      "gapPct": 41.77059387840063,
+      "bids": 6,
+      "time_remaining": 55.74582098916667,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/168322672428?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2730d0272c:g:E6cAAeSwpNlphyvs",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
       "seller_trust": "MEDIUM",
-      "opportunity_score": 72,
-      "deal_quality": "high"
+      "opportunity_score": 66,
+      "deal_quality": "medium"
     },
     {
       "title": "One Piece TCG - OP09 Emperors in the New World Booster Box English - SEALED New",
@@ -119,7 +119,7 @@
       "baseline": 552.47,
       "gapPct": 16.04612015132044,
       "bids": 4,
-      "time_remaining": 33.26184703916667,
+      "time_remaining": 31.900820975555554,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/168320830467?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2730b40c03:g:E6cAAeSwpNlphyvs",
       "franchise": "onepiece",
