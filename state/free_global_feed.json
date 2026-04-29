@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-29T05:23:11.303779+00:00",
+  "timestamp": "2026-04-29T09:42:36.358907+00:00",
   "tier": "free",
   "deal": {
     "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
     "price": 134.95,
     "shipping_cost": 0.0,
     "total_price": 134.95,
-    "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3Wzc89cCYyieZTXZgLyyYfmQjRUCHIFRJDCdtRyzA0smu0neVubM04Dur4LsiE3PXZEFJuoiFvQjFakQsObwYu6Qt0CEpRlRTBDt%2B%2B%2BDPLOUHJ%2Fq9dg5PP3ux1HPBAZZtHgLBJPMN1Ik9%2B8Gkb8Yc2XYLBl%2BHB2j8c%2FTSYOSgV%2Fgx5RFbfxY%2Ba7lot1U4ANdbSko3LAfomH8xMSJyU7XM6d",
+    "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3X4e6n8ydXGj8ODGuuL13AEVU2xpS6WovMNiYgBqOM2SsZt9mgtMPEkr5XbPw4yptNDMDPfN9svTteqHV9dF3hn2PgdmJSJ4aNGv%2FlHO5rOzczd%2B%2F7F75igKSr7CxrjICJTwspjMQ%2BdOjr3NJuOKor01CsRsQr8e3qlJAQuvmLvt0Q28D%2Biy1tYdI5XIcq0gnhUNTLpC5O9zQrIPrWAzNbc",
     "seller_rating": 98.8,
     "seller_feedback_count": 443,
     "franchise": "onepiece",
@@ -17,7 +17,7 @@
     "variant": "standard_box",
     "confidence": "medium",
     "baseline_price": 227.0,
-    "baseline_raw_count": 22,
+    "baseline_raw_count": 23,
     "baseline_pre_filter_count": 18,
     "baseline_final_count": 10,
     "baseline_raw_min": 99.99,
@@ -29,6 +29,6 @@
   "selection_reason": "mid_tier_deal_gap_40.5pct",
   "next_refresh_hours": 4,
   "total_safe_deals_available": 3,
-  "_refresh_locked": true,
-  "_next_refresh_in_hours": 1
+  "_refresh_locked": false,
+  "_next_refresh_in_hours": 4
 }
