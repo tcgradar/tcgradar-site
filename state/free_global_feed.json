@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-04-29T18:23:36.989365+00:00",
+  "timestamp": "2026-04-29T22:43:32.041503+00:00",
   "tier": "free",
   "deal": {
     "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
     "price": 134.95,
     "shipping_cost": 0.0,
     "total_price": 134.95,
-    "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VzL5JRWMWp2r1XpIx7YjWvLjyvCJY1AgZ9LvKHdRvXfS3gZV%2BwOTUFONqUmOenD3%2Bjz5FOZ4y%2FjL84KzmacsRhJa1p8jWgNf%2BLBLJqfWQvTU4rUxwIJ8ug6AUlPJCm%2B%2FGJuT3r90i%2FyRtAI3ZcC3CJiF%2FClqH24DsumppYypNrYm%2Bod7Shp2%2F23iBFTab%2Fct%2FqUOzjbgAReIqO%2FtRZWLMu",
+    "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3XHb8wJUeRcqniWYSfLTM0J9CzRKicMr390ZRdSErD5E9cVG0crqvHkyJ8AatPwaO4laSsJLuEWHPBYLs1kWIM%2FJHXMhx%2BeZRZNi5AbfVw%2B%2FH9Pfxn%2FYQj1nPu--DDLjAwFnAMLSBUw8VB1J5845w2CqPeyH3x0wkYheLPUDI8IjazBak98V7FTCezrjHwBVQYAONUYauT5vrspf8j6cN0f",
     "seller_rating": 98.8,
     "seller_feedback_count": 443,
     "franchise": "onepiece",
@@ -17,9 +17,9 @@
     "variant": "standard_box",
     "confidence": "medium",
     "baseline_price": 225.0,
-    "baseline_raw_count": 25,
-    "baseline_pre_filter_count": 18,
-    "baseline_final_count": 8,
+    "baseline_raw_count": 29,
+    "baseline_pre_filter_count": 22,
+    "baseline_final_count": 10,
     "baseline_raw_min": 95.99,
     "baseline_raw_max": 2639.88,
     "gapPct": 40.02,
@@ -29,6 +29,6 @@
   "selection_reason": "mid_tier_deal_gap_40.0pct",
   "next_refresh_hours": 4,
   "total_safe_deals_available": 3,
-  "_refresh_locked": true,
-  "_next_refresh_in_hours": 1
+  "_refresh_locked": false,
+  "_next_refresh_in_hours": 4
 }
