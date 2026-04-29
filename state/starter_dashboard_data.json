@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T01:23:04.042425+00:00",
+  "timestamp": "2026-04-29T02:03:23.033877+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,29 +7,28 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 5,
-  "all_deals_count": 7,
+  "total_deals": 4,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 4,
+      "pokemon": 3,
       "onepiece": 1
     },
     "by_product_type": {
-      "etb": 1,
       "booster_box": 4
     },
     "by_gap_bucket": {
-      "20_plus": 2,
+      "20_plus": 1,
       "10_to_19": 3
     },
     "by_source": {
-      "ebay": 3,
+      "ebay": 2,
       "stompinggroundstcg": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 5,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -41,12 +40,10 @@
     "set": [
       "Adventure on Kami's Island",
       "Battle Styles",
-      "Celebrations",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box",
-      "etb"
+      "booster_box"
     ],
     "gap_bucket": [
       "10_to_19",
@@ -54,28 +51,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Shining Fates ETB Elite Trainer Box New Sealed",
-      "url": "https://www.ebay.com/itm/327123961326?_skw=pokemon+Celebrations+booster+box&hash=item4c2a1b85ee:g:12MAAeSwv2hp7XuZ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGags2VeHHFXY2v2rfJVf3zWhVlyymbGbUsT4i23vF1Vv38PGk4toc6n78x1HP2v6%2FM40FElwI6r23vGmPdA32SoHEuuZ5kmiqkUDFqQyJ4Y7X2oB4gi0SaY2%2FSSaOBWzm45f9cd0TGuoQWx2NYfWx7lWZ7QIS4PJMD8sRRmtM%2Fj5XaKYDrQzlHsFDf7Ko8eLTU8xYwWxulRE%2Bbfx0Kh%2Ffwlk%2BdkXJXAT81sN8omSEncjaYsp2G8vXKQwCNS6OQf4L6%2F5%2B1NdmF3hWZNch2YXRGux0uxcIjHl6VL%2FhnvXsl6WuQM4TqSaVSP1uTgdbD%2Bsm0%3D",
-      "franchise": "pokemon",
-      "set": "Celebrations",
-      "product_type": "etb",
-      "price": 215.0,
-      "shipping_cost": 0.0,
-      "total_price": 215.0,
-      "shipping_verified": true,
-      "baseline_price": 380.0,
-      "gapPct": 43.42,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1023,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Pokemon Destined Rivals Booster Box 36 Pack Sealed- see description",
       "url": "https://www.ebay.com/itm/336526072335?_skw=pokemon+Destined+Rivals+booster+box&hash=item4e5a845a0f:g:YscAAeSwx-Bp15Qm",
@@ -86,8 +61,8 @@
       "shipping_cost": 45.98,
       "total_price": 452.03000000000003,
       "shipping_verified": true,
-      "baseline_price": 594.43,
-      "gapPct": 23.96,
+      "baseline_price": 577.5,
+      "gapPct": 21.73,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 232,
@@ -164,7 +139,7 @@
   "watchlist_deals": [
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3WspzHSG0YB8C0qsdQBi10DyD0KTvTlYSXP2bO36DnbRxwbJNG1buw7yLJIvbf7cKuzVLTVBWhjawwXB7AGiGNhkWokno5xRdQhpRKZLtSWiRZ96vhE72QGd8A648CHCWHxwUFzLQaKlKU8eKnLbMRNToKZJx2kK14ruTe%2FADK%2BK2lOWXHRBRSm3a3ew6%2FZlLlXXJG2ZBgOHTat1U%2Bjw6OA",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3UwNpL%2FnNrBS0QhH7Zcz%2FA4U3vjmHu73aCs3m0pv0xDtaLP9Zxy91W%2Bl1LlyzcF1dz4gqgdKXMgnVroPRyQkbOb5ho2LGdwQ73eFFG4i8mmOH11UceYHH%2BLDxVuPCfvyRm%2BTAflUTJX44lah3V7tXxS7l0Io18MKSFG1U%2BIRpuQjDjaZ4hZuZyoGBi7EIq8%2BPXkJFxw8J5ZWkM0VRq6uAkx",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -173,10 +148,10 @@
       "total_price": 134.95,
       "shipping_verified": true,
       "baseline_price": 227.0,
-      "gapPct": 41.07,
+      "gapPct": 40.55,
       "confidence": "medium",
       "seller_rating": 98.8,
-      "seller_feedback_count": 439,
+      "seller_feedback_count": 441,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -184,8 +159,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-28T18:02:45.125323+00:00",
-      "_last_seen_at": "2026-04-29T01:23:04.041946+00:00"
+      "_first_seen_at": "2026-04-29T02:03:23.033436+00:00",
+      "_last_seen_at": "2026-04-29T02:03:23.033436+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -210,16 +185,16 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-28T19:42:40.171321+00:00",
-      "_last_seen_at": "2026-04-28T20:00:01.216873+00:00"
+      "_last_seen_at": "2026-04-29T02:03:23.033436+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 3,
+    "ebay_deals": 2,
     "retailer_deals": 3,
-    "total_merged": 5,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
