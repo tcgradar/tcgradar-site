@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T13:03:21.024824+00:00",
+  "timestamp": "2026-04-29T13:43:23.404184+00:00",
   "non_ebay_stats": {
     "detected": 2,
     "in_output": 2,
@@ -7,27 +7,28 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 7,
+  "total_deals": 4,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2,
+      "pokemon": 3,
       "onepiece": 1
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 3,
+      "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 3
+      "10_to_19": 4
     },
     "by_source": {
-      "ebay": 1,
+      "ebay": 2,
       "stompinggroundstcg": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -38,10 +39,12 @@
     ],
     "set": [
       "Adventure on Kami's Island",
-      "Battle Styles"
+      "Battle Styles",
+      "Celebrations"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
       "10_to_19"
@@ -109,6 +112,28 @@
       "non_ebay": true,
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon Celebrations 25th Anniversary Elite Trainer Box 2021 ETB Factory Sealed",
+      "url": "https://www.ebay.com/itm/127835645781?_skw=pokemon+Celebrations+booster+box&hash=item1dc3992755:g:8dsAAeSw73lp8dcA",
+      "franchise": "pokemon",
+      "set": "Celebrations",
+      "product_type": "etb",
+      "price": 330.0,
+      "shipping_cost": 0.0,
+      "total_price": 330.0,
+      "shipping_verified": false,
+      "baseline_price": 375.0,
+      "gapPct": 12.0,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 682,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
@@ -135,7 +160,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T10:22:36.513971+00:00",
-      "_last_seen_at": "2026-04-29T13:03:21.024230+00:00"
+      "_last_seen_at": "2026-04-29T13:43:23.403559+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -148,7 +173,7 @@
       "total_price": 420.84999999999997,
       "shipping_verified": true,
       "baseline_price": 594.43,
-      "gapPct": 29.73,
+      "gapPct": 29.74,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 352,
@@ -160,7 +185,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T12:23:19.088353+00:00",
-      "_last_seen_at": "2026-04-29T13:03:21.024230+00:00"
+      "_last_seen_at": "2026-04-29T13:43:23.403559+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -210,16 +235,16 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T13:03:21.024230+00:00",
-      "_last_seen_at": "2026-04-29T13:03:21.024230+00:00"
+      "_last_seen_at": "2026-04-29T13:04:26.271713+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 3,
-    "total_merged": 3,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
