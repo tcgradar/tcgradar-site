@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-04-30T10:23:54.610027+00:00",
+    "generated_at": "2026-04-30T11:43:57.556452+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_91B_HARDENED",
-    "raw_count": 21,
+    "raw_count": 20,
     "filtered_count": 4,
     "filter_criteria": {
       "min_gap": 10.0,
@@ -94,24 +94,6 @@
   },
   "auctions": [
     {
-      "title": "One Piece OP-05 Awakening of the New Era Booster Box Sealed English",
-      "current_price": 575.0,
-      "shipping_cost": 12.0,
-      "total_price": 587.0,
-      "baseline": 946.19,
-      "gapPct": 37.96172016191252,
-      "bids": 20,
-      "time_remaining": 10.168621761944445,
-      "opportunity_type": "ending_soon",
-      "url": "https://www.ebay.com/itm/127836676049?_skw=One+Piece+Awakening+of+the+New+Era+booster+box&hash=item1dc3a8dfd1:g:yYYAAeSwiY5p8Rmu",
-      "franchise": "onepiece",
-      "set": "Awakening of the New Era",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 65,
-      "deal_quality": "medium"
-    },
-    {
       "title": "One Piece TCG - OP09 Emperors in the New World Booster Box English - SEALED New",
       "current_price": 293.76,
       "shipping_cost": 33.69,
@@ -119,7 +101,7 @@
       "baseline": 552.1,
       "gapPct": 40.69009237456983,
       "bids": 6,
-      "time_remaining": 56.68714789361111,
+      "time_remaining": 55.35295854611111,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/168332312272?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2731633ed0:g:E6cAAeSwpNlphyvs",
       "franchise": "onepiece",
@@ -130,6 +112,24 @@
       "deal_quality": "medium"
     },
     {
+      "title": "One Piece OP-05 Awakening of the New Era Booster Box Sealed English",
+      "current_price": 610.0,
+      "shipping_cost": 12.0,
+      "total_price": 622.0,
+      "baseline": 946.19,
+      "gapPct": 34.26267451568924,
+      "bids": 21,
+      "time_remaining": 8.834971220277778,
+      "opportunity_type": "ending_soon",
+      "url": "https://www.ebay.com/itm/127836676049?_skw=One+Piece+Awakening+of+the+New+Era+booster+box&hash=item1dc3a8dfd1:g:yYYAAeSwiY5p8Rmu",
+      "franchise": "onepiece",
+      "set": "Awakening of the New Era",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 56,
+      "deal_quality": "medium"
+    },
+    {
       "title": "One Piece TCG - OP09 Emperors in the New World Booster Box English - SEALED New",
       "current_price": 354.39,
       "shipping_cost": 33.69,
@@ -137,7 +137,7 @@
       "baseline": 552.1,
       "gapPct": 29.70838616192719,
       "bids": 12,
-      "time_remaining": 33.10381456277778,
+      "time_remaining": 31.769625215277777,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/168322672428?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2730d0272c:g:E6cAAeSwpNlphyvs",
       "franchise": "onepiece",
@@ -155,7 +155,7 @@
       "baseline": 552.1,
       "gapPct": 16.250679224778125,
       "bids": 4,
-      "time_remaining": 9.258814555833334,
+      "time_remaining": 7.924625208888889,
       "opportunity_type": "ending_soon",
       "url": "https://www.ebay.com/itm/168320830467?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2730b40c03:g:E6cAAeSwpNlphyvs",
       "franchise": "onepiece",
