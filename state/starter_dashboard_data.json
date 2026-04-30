@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T13:42:57.385061+00:00",
+  "timestamp": "2026-04-30T14:00:01.074630+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -88,7 +88,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-30T13:42:57.384490+00:00",
-      "_last_seen_at": "2026-04-30T13:42:57.384490+00:00"
+      "_last_seen_at": "2026-04-30T14:00:01.073811+00:00"
     },
     {
       "title": "POKEMON TCG SWORD AND SHIELD BATTLE STYLE BOOSTER BOX NEW/SEALED",
@@ -113,7 +113,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-30T06:00:01.898341+00:00",
-      "_last_seen_at": "2026-04-30T13:42:57.384490+00:00"
+      "_last_seen_at": "2026-04-30T14:00:01.073811+00:00"
     },
     {
       "title": "OP-15 Adventure on KAMI’s Island Booster Box JP Sealed One Piece TCG US Seller",
