@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T11:42:48.627735+00:00",
+  "timestamp": "2026-04-30T12:23:30.378531+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 2,
-  "all_deals_count": 7,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 2
@@ -92,31 +92,6 @@
   ],
   "watchlist_deals": [
     {
-      "title": "ONE PIECE Card Game Emperors in the New World OP-09 Booster Box NEW SEALED FS",
-      "url": "https://www.ebay.com/itm/196850247770?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2dd530685a:g:XwQAAOSwAUVmyehd&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGbAggOqo%2BF9kaDAT%2BgxFIgzavumOUPY2ifte5PJ0n1Gv9%2BUT9%2FFWynddHUq%2Fum2o7swbPtNgbArhyXGW8%2FJeQJxBSd9xULnO7ji8MovqiA%2BevTUWm9K8ok1XHjswJZSBL%2FgEszjPXOsDujn%2FN6ifeaXKwScz6um0khqGW6uCzM%2F6kS%2BJZUctIREMiYOEpSUi%2BJa%2Bceg9YEN2EtToE2a5V0VFah%2BZ1fr3JZ9H6JePAPrH6boOJKtw6F8gprXj%2F0HBecolSKcvKZX5gDngO%2Bdmv6EHs2hpmq%2BaZEd8HLSePVTC4Acu3ZlueQle1Ck0eWlAesmrRP9vBznsWIM97VFWsrb",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 282.29,
-      "shipping_cost": 49.99,
-      "total_price": 282.29,
-      "shipping_verified": true,
-      "baseline_price": 560.26,
-      "gapPct": 49.46,
-      "confidence": "medium",
-      "seller_rating": 99.6,
-      "seller_feedback_count": 463,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-30T04:22:50.637462+00:00",
-      "_last_seen_at": "2026-04-30T10:00:01.309117+00:00"
-    },
-    {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
       "url": "https://www.ebay.com/itm/377132902748?_skw=pokemon+Destined+Rivals+booster+box&hash=item57cedf695c:g:4sAAAeSwmmlp6G3K",
       "franchise": "pokemon",
@@ -152,7 +127,7 @@
       "total_price": 255.0,
       "shipping_verified": true,
       "baseline_price": 299.49,
-      "gapPct": 14.21,
+      "gapPct": 15.0,
       "confidence": "medium",
       "seller_rating": 98.8,
       "seller_feedback_count": 1461,
@@ -164,7 +139,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-30T06:00:01.898341+00:00",
-      "_last_seen_at": "2026-04-30T11:42:48.627026+00:00"
+      "_last_seen_at": "2026-04-30T12:23:30.377886+00:00"
     },
     {
       "title": "OP-15 Adventure on KAMI’s Island Booster Box JP Sealed One Piece TCG US Seller",
@@ -214,7 +189,7 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-04-30T11:02:39.497350+00:00",
-      "_last_seen_at": "2026-04-30T11:03:55.342163+00:00"
+      "_last_seen_at": "2026-04-30T12:23:30.377886+00:00"
     }
   ],
   "empty_watchlist": false,
