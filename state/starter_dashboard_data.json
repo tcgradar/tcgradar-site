@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T02:23:11.716627+00:00",
+  "timestamp": "2026-04-30T03:04:55.573808+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -92,29 +92,29 @@
   ],
   "watchlist_deals": [
     {
-      "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VzL5JRWMWp2r1XpIx7YjWvLjyvCJY1AgZ9LvKHdRvXfS3gZV%2BwOTUFONqUmOenD3%2Bjz5FOZ4y%2FjL84KzmacsRhJa1p8jWgNf%2BLBLJqfWQvTU4rUxwIJ8ug6AUlPJCm%2B%2FGJuT3r90i%2FyRtAI3ZcC3CJiF%2FClqH24DsumppYypNrYm%2Bod7Shp2%2F23iBFTab%2Fct%2FqUOzjbgAReIqO%2FtRZWLMu",
-      "franchise": "onepiece",
-      "set": "Adventure on Kami's Island",
+      "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
+      "url": "https://www.ebay.com/itm/297011097989?_skw=pokemon+Chilling+Reign+booster+box&hash=item45273db185:g:CN0AAOSw5OJnrPEf&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYpOHvuq3a7KPfkGGuvBjcb3HR9OIcW%2FuNTNW35RnoQUTvRa8ZZ2aG%2B%2B%2Fk0L8vCUjuQiqGw5IeuB4U4dw5Z1eSoeHDKSRCMNYcFGoA%2BgBuyH%2BZ%2FsSAL132nVee%2FsDyvVI7c9GSzXC3thOFm9E2hbMJPyt09Q9%2Bf6EcU9a8IpZ%2B8OsSpWMhZiYScM6wE5mYkUIcO2DLkG3UetUgEftnfqbRd65heId%2FCny%2Bq5Zu5ZLUrL1i51%2BJRlcbMAMyFDAKpzYz9gmET4HnpEFZRC4Do1X6P9P7Bhawkv7wPwp0HQjk1VECbD5%2Fxx2iJ8fkBPwpf8ec%3D",
+      "franchise": "pokemon",
+      "set": "Chilling Reign",
       "product_type": "booster_box",
-      "price": 134.95,
-      "shipping_cost": 0.0,
-      "total_price": 134.95,
+      "price": 469.98,
+      "shipping_cost": 19.99,
+      "total_price": 469.98,
       "shipping_verified": true,
-      "baseline_price": 225.0,
-      "gapPct": 40.02,
+      "baseline_price": 590.75,
+      "gapPct": 20.44,
       "confidence": "medium",
-      "seller_rating": 98.8,
-      "seller_feedback_count": 443,
-      "language": "JP",
+      "seller_rating": 96.5,
+      "seller_feedback_count": 5844,
+      "language": "EN",
       "source": "ebay",
       "non_ebay": false,
-      "seller_trust": "HIGH",
+      "seller_trust": "MEDIUM",
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-29T18:23:37.018882+00:00",
-      "_last_seen_at": "2026-04-30T00:00:01.934098+00:00"
+      "_first_seen_at": "2026-04-30T03:04:55.573468+00:00",
+      "_last_seen_at": "2026-04-30T03:04:55.573468+00:00"
     },
     {
       "title": "POKEMON TCG SWORD AND SHIELD BATTLE STYLE BOOSTER BOX NEW/SEALED",
@@ -127,7 +127,7 @@
       "total_price": 255.0,
       "shipping_verified": true,
       "baseline_price": 297.25,
-      "gapPct": 14.21,
+      "gapPct": 14.93,
       "confidence": "medium",
       "seller_rating": 98.8,
       "seller_feedback_count": 1460,
@@ -139,7 +139,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T21:43:45.101851+00:00",
-      "_last_seen_at": "2026-04-30T02:23:11.716109+00:00"
+      "_last_seen_at": "2026-04-30T03:04:55.573468+00:00"
     }
   ],
   "empty_watchlist": false,
