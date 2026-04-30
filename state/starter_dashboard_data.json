@@ -1,44 +1,40 @@
 {
-  "timestamp": "2026-04-29T23:00:01.101372+00:00",
+  "timestamp": "2026-04-30T00:03:42.489335+00:00",
   "non_ebay_stats": {
-    "detected": 2,
-    "in_output": 2,
-    "in_best_deals": 2,
+    "detected": 1,
+    "in_output": 1,
+    "in_best_deals": 1,
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 5,
+  "total_deals": 2,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2,
-      "onepiece": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 3
+      "booster_box": 2
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 2
+      "10_to_19": 1
     },
     "by_source": {
       "ebay": 1,
-      "stompinggroundstcg": 1,
       "gamenerdz": 1
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
     "franchise": [
-      "onepiece",
       "pokemon"
     ],
     "set": [
-      "Adventure on Kami's Island",
       "Battle Styles",
       "Destined Rivals"
     ],
@@ -72,26 +68,6 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "20_plus"
-    },
-    {
-      "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
-      "url": "https://stompinggroundstcg.com/products/one-piece-adventure-on-kamis-island-booster-box-op-15",
-      "franchise": "onepiece",
-      "set": "Adventure on Kami's Island",
-      "product_type": "booster_box",
-      "price": 189.0,
-      "baseline_price": 225.0,
-      "gapPct": 16.0,
-      "seller_trust": "HIGH",
-      "source": "stompinggroundstcg",
-      "availability": "unknown",
-      "is_preorder": false,
-      "language": "EN",
-      "shipping_cost": 0,
-      "confidence": "high",
-      "non_ebay": true,
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
     },
     {
       "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
@@ -138,7 +114,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T18:23:37.018882+00:00",
-      "_last_seen_at": "2026-04-29T23:00:01.100733+00:00"
+      "_last_seen_at": "2026-04-30T00:00:01.934098+00:00"
     },
     {
       "title": "POKEMON TCG SWORD AND SHIELD BATTLE STYLE BOOSTER BOX NEW/SEALED",
@@ -163,7 +139,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-29T21:43:45.101851+00:00",
-      "_last_seen_at": "2026-04-29T23:00:01.100733+00:00"
+      "_last_seen_at": "2026-04-30T00:03:42.488831+00:00"
     }
   ],
   "empty_watchlist": false,
@@ -171,8 +147,8 @@
   "_single_writer_info": {
     "version": "v2.0",
     "ebay_deals": 1,
-    "retailer_deals": 3,
-    "total_merged": 3,
+    "retailer_deals": 2,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
