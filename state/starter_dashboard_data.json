@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T16:04:00.021652+00:00",
+  "timestamp": "2026-04-30T16:05:19.306793+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -112,7 +112,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-30T15:03:07.683135+00:00",
-      "_last_seen_at": "2026-04-30T16:04:00.020969+00:00"
+      "_last_seen_at": "2026-04-30T16:05:19.306117+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -137,7 +137,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-30T13:42:57.384490+00:00",
-      "_last_seen_at": "2026-04-30T16:04:00.020969+00:00"
+      "_last_seen_at": "2026-04-30T16:05:19.306117+00:00"
     },
     {
       "title": "POKEMON TCG SWORD AND SHIELD BATTLE STYLE BOOSTER BOX NEW/SEALED",
@@ -162,7 +162,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-30T14:23:56.913968+00:00",
-      "_last_seen_at": "2026-04-30T16:04:00.020969+00:00"
+      "_last_seen_at": "2026-04-30T16:05:19.306117+00:00"
     },
     {
       "title": "OP-15 Adventure on KAMI’s Island Booster Box JP Sealed One Piece TCG US Seller",
