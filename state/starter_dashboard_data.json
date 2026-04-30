@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T05:04:00.740595+00:00",
+  "timestamp": "2026-04-30T06:22:43.381808+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 1,
@@ -88,7 +88,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-30T04:22:50.637462+00:00",
-      "_last_seen_at": "2026-04-30T05:04:00.740021+00:00"
+      "_last_seen_at": "2026-04-30T06:00:01.898341+00:00"
     },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box Open - 36 Sealed Packs",
@@ -101,7 +101,7 @@
       "total_price": 419.53999999999996,
       "shipping_verified": true,
       "baseline_price": 599.48,
-      "gapPct": 30.02,
+      "gapPct": 30.07,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 353,
@@ -113,7 +113,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-30T05:02:49.829054+00:00",
-      "_last_seen_at": "2026-04-30T05:04:00.740021+00:00"
+      "_last_seen_at": "2026-04-30T06:22:43.381156+00:00"
     },
     {
       "title": "Pokemon 36 x Chilling Reign Sealed Booster Packs (Equal to Booster Box) Lot Pack",
@@ -150,11 +150,11 @@
       "shipping_cost": 0.0,
       "total_price": 255.0,
       "shipping_verified": true,
-      "baseline_price": 297.25,
+      "baseline_price": 299.49,
       "gapPct": 14.86,
       "confidence": "medium",
       "seller_rating": 98.8,
-      "seller_feedback_count": 1460,
+      "seller_feedback_count": 1461,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -162,8 +162,8 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-04-29T21:43:45.101851+00:00",
-      "_last_seen_at": "2026-04-30T05:04:00.740021+00:00"
+      "_first_seen_at": "2026-04-30T06:00:01.898341+00:00",
+      "_last_seen_at": "2026-04-30T06:22:43.381156+00:00"
     }
   ],
   "empty_watchlist": false,
