@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T15:43:56.172905+00:00",
+    "generated_at": "2026-05-01T16:23:55.210495+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 21,
@@ -108,7 +108,7 @@
       "old_gapPct": 37.05254237288136,
       "gapPct": 42.82,
       "bids": 9,
-      "time_remaining": 27.353351645833335,
+      "time_remaining": 26.686970048055557,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/168332312272?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2731633ed0:g:E6cAAeSwpNlphyvs",
       "franchise": "onepiece",
@@ -131,7 +131,7 @@
       "old_gapPct": 33.59322033898305,
       "gapPct": 39.36,
       "bids": 12,
-      "time_remaining": 3.770018315,
+      "time_remaining": 3.1036367172222223,
       "opportunity_type": "ending_soon",
       "url": "https://www.ebay.com/itm/168322672428?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2730d0272c:g:E6cAAeSwpNlphyvs",
       "franchise": "onepiece",
@@ -154,7 +154,7 @@
       "old_gapPct": 38.17431192660551,
       "gapPct": 41.28,
       "bids": 28,
-      "time_remaining": 58.31177244361111,
+      "time_remaining": 57.64609223611111,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/178076132120?_skw=Pokemon+Destined+Rivals+booster+box&hash=item29762a2318:g:RDkAAeSwZJ9p1USx",
       "franchise": "pokemon",
@@ -177,14 +177,14 @@
       "old_gapPct": 25.688073394495415,
       "gapPct": 25.69,
       "bids": 17,
-      "time_remaining": 48.165383580833335,
-      "opportunity_type": "early",
+      "time_remaining": 47.49970337416667,
+      "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/236784881418?_skw=Pokemon+Destined+Rivals+booster+box&hash=item37217a8f0a:g:lwEAAeSwSoFp8NSh",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
       "seller_trust": "HIGH",
-      "opportunity_score": 40,
+      "opportunity_score": 45,
       "deal_quality": "medium"
     }
   ]
