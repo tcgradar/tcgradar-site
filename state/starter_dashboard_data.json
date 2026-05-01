@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T07:42:34.382251+00:00",
+  "timestamp": "2026-05-01T08:23:25.000134+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 1,
-  "all_deals_count": 5,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 1
@@ -17,7 +17,7 @@
       "booster_box": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 1
+      "20_plus": 1
     },
     "by_source": {
       "ebay": 1
@@ -39,31 +39,31 @@
       "booster_box"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "20_plus"
     ]
   },
   "deals": [
     {
-      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed TINY Rip",
-      "url": "https://www.ebay.com/itm/206221820226?_skw=pokemon+Destined+Rivals+booster+box&hash=item3003c74142:g:Fr4AAeSwz9pp5hmd",
+      "title": "Pokemon Cards - S&V: Destined Rivals - BOOSTER BOX [36 Packs] - Factory Sealed",
+      "url": "https://www.ebay.com/itm/318217117050?_skw=pokemon+Destined+Rivals+booster+box&hash=item4a1737dd7a:g:JToAAeSwxChp8QKc",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
-      "price": 468.41,
-      "shipping_cost": 46.69,
-      "total_price": 468.41,
+      "price": 444.75,
+      "shipping_cost": 0.0,
+      "total_price": 444.75,
       "shipping_verified": true,
       "baseline_price": 545.0,
-      "gapPct": 14.05,
+      "gapPct": 18.39,
       "confidence": "high",
-      "seller_rating": 98.8,
-      "seller_feedback_count": 162,
+      "seller_rating": 98.7,
+      "seller_feedback_count": 155,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "20_plus"
     }
   ],
   "watchlist_deals": [
@@ -91,6 +91,31 @@
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-01T05:02:57.415877+00:00",
       "_last_seen_at": "2026-05-01T05:04:01.863049+00:00"
+    },
+    {
+      "title": "POKEMON TCG SWORD AND SHIELD BATTLE STYLE BOOSTER BOX NEW/SEALED",
+      "url": "https://www.ebay.com/itm/147255832182?_skw=pokemon+Battle+Styles+booster+box&hash=item224921ae76:g:KCgAAeSwAaFp3BE9",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 255.0,
+      "shipping_cost": 0.0,
+      "total_price": 255.0,
+      "shipping_verified": true,
+      "baseline_price": 259.97,
+      "gapPct": 1.91,
+      "confidence": "medium",
+      "seller_rating": 98.9,
+      "seller_feedback_count": 1464,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-01T08:00:01.528655+00:00",
+      "_last_seen_at": "2026-05-01T08:00:01.528655+00:00"
     },
     {
       "title": "Pokemon Twilight masquerade elite trainer box IN GERMAN / DEUTSCH",
