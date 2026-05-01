@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T03:42:27.805171+00:00",
+  "timestamp": "2026-05-01T04:23:51.826789+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 1,
-  "all_deals_count": 3,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 1
@@ -115,7 +115,32 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-30T23:00:01.161543+00:00",
-      "_last_seen_at": "2026-05-01T03:00:01.825783+00:00"
+      "_last_seen_at": "2026-05-01T04:00:01.639700+00:00"
+    },
+    {
+      "title": "ONE PIECE Card Game Emperors in the New World OP-09 Booster Box NEW SEALED FS",
+      "url": "https://www.ebay.com/itm/196850247770?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item2dd530685a:g:XwQAAOSwAUVmyehd&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGbAggOqo%2BF9kaDAT%2BgxFIgzavumOUPY2ifte5PJ0n1Gv9%2BUT9%2FFWynddHUq%2Fum2o7swbPtNgbArhyXGW8%2FJeQJxBSd9xULnO7ji8MovqiA%2BevTUWm9K8ok1XHjswJZSBL%2B3gtdP6raolfW48DQ4ys9e8BlRKZOUJ0cuavsC5DhaLV5NTcrN75GF40zAgUiWiJC8yCwfp8qR%2FHKGtOOBqoH8rNt1wnFsJkbzN1ZohM73wdA4EhDcn1f5FTmreNXimpz0hkVLVmJwB9Q4TxcwuBdWRKnTzF6BPbdAU9kYhglLNdL%2BwB4K7cU%2BWsBf%2FzlV1wv1WALWqmEM5AZaBG%2F6rQt%2F",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 282.29,
+      "shipping_cost": 49.99,
+      "total_price": 282.29,
+      "shipping_verified": true,
+      "baseline_price": 104.99,
+      "gapPct": -168.87,
+      "confidence": "medium",
+      "seller_rating": 99.6,
+      "seller_feedback_count": 464,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-01T04:00:01.639700+00:00",
+      "_last_seen_at": "2026-05-01T04:00:01.639700+00:00"
     }
   ],
   "empty_watchlist": false,
