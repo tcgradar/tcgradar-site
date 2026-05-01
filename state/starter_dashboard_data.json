@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T05:02:57.417858+00:00",
+  "timestamp": "2026-05-01T05:42:44.532528+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -68,31 +68,6 @@
   ],
   "watchlist_deals": [
     {
-      "title": "Pokemon Twilight masquerade elite trainer box IN GERMAN / DEUTSCH",
-      "url": "https://www.ebay.com/itm/117143325690?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item1b46494bfa:g:ADsAAeSwr0Np3q4I&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa2fgacbhAGN3U7yVXkSNBgMjM0y%2FgSRnpq2PClUhKScvTRa17hM4SehqlJoBSo0idsfaMxRq0xunUkvYlSEFg2ooOoHaXXzbTrH3tmZNOMfqk6lx1P4paNuPqopmnZpK0HzLu6Q%2FDOH%2F7dTY%2BsKja6DbA67jL%2FxJnJU4iAOAtpkapUjgfa9%2BJ6IZBR3ql8QLiKLn19dezprvoqaljozgAlWZKcE7WGl33tDMskUtz3VKrEChDD0wUD27MkAL3oj1j4%2BrtFjG0aX6kb4Xek%2B3zOPEbrDpqbSMLkZ%2FyA7Gef0iW2ha%2BaD30WwFZ4tVT%2BLO4%3D",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 98.84,
-      "shipping_cost": 34.36,
-      "total_price": 98.84,
-      "shipping_verified": true,
-      "baseline_price": 298.87,
-      "gapPct": 66.93,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 478,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-01T05:02:57.415877+00:00",
-      "_last_seen_at": "2026-05-01T05:02:57.415877+00:00"
-    },
-    {
       "title": "Pokemon Sword & Shield Chilling Reign Booster Box Factory Sealed 36 Packs",
       "url": "https://www.ebay.com/itm/157873374442?_skw=pokemon+Chilling+Reign+booster+box&hash=item24c1fc84ea:g:SSgAAeSwzmBp84Fw",
       "franchise": "pokemon",
@@ -140,7 +115,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-01T05:02:57.415877+00:00",
-      "_last_seen_at": "2026-05-01T05:02:57.415877+00:00"
+      "_last_seen_at": "2026-05-01T05:04:01.863049+00:00"
     },
     {
       "title": "POKEMON TCG SWORD AND SHIELD BATTLE STYLE BOOSTER BOX NEW/SEALED",
@@ -166,6 +141,31 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-04-30T23:00:01.161543+00:00",
       "_last_seen_at": "2026-05-01T05:00:01.461579+00:00"
+    },
+    {
+      "title": "Pokemon Twilight masquerade elite trainer box IN GERMAN / DEUTSCH",
+      "url": "https://www.ebay.com/itm/117143325690?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item1b46494bfa:g:ADsAAeSwr0Np3q4I&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGa2fgacbhAGN3U7yVXkSNBgMjM0y%2FgSRnpq2PClUhKScvTRa17hM4SehqlJoBSo0idsfaMxRq0xunUkvYlSEFg2ooOoHaXXzbTrH3tmZNOMfqk6lx1P4paNuPqopmnZpK0HzLu6Q%2FDOH%2F7dTY%2BsKja6DbA67jL%2FxJnJU4iAOAtpkapUjgfa9%2BJ6IZBR3ql8QLiKLn19dezprvoqaljozgAlWZKcE7WGl33tDMskUtz3VKrEChDD0wUD27MkAL3oj1j4%2BrtFjG0aX6kb4Xek%2B3zOPEbrDpqbSMLkZ%2FyA7Gef0iW2ha%2BaD30WwFZ4tVT%2BLO4%3D",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 98.84,
+      "shipping_cost": 34.36,
+      "total_price": 98.84,
+      "shipping_verified": true,
+      "baseline_price": 85.0,
+      "gapPct": -16.28,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 478,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-01T05:02:57.415877+00:00",
+      "_last_seen_at": "2026-05-01T05:04:01.863049+00:00"
     },
     {
       "title": "Pokemon TCG Sword & Shield Celebrations Elite Trainer Box ETB *Factory Sealed*",
