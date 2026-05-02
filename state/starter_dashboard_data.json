@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T23:43:26.610295+00:00",
+  "timestamp": "2026-05-02T00:23:12.335080+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,92 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
+  "total_deals": 0,
   "all_deals_count": 5,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 2
-    },
-    "by_product_type": {
-      "etb": 1,
-      "booster_box": 1
-    },
-    "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 1
-    },
-    "by_source": {
-      "ebay": 2
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Celebrations",
-      "Destined Rivals"
-    ],
-    "product_type": [
-      "booster_box",
-      "etb"
-    ],
-    "gap_bucket": [
-      "10_to_19",
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon TCG Shining Fates ETB Elite Trainer Box New Sealed",
-      "url": "https://www.ebay.com/itm/327123961326?_skw=pokemon+Celebrations+booster+box&hash=item4c2a1b85ee:g:12MAAeSwv2hp7XuZ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGags2VeHHFXY2v2rfJVf3zWhVlyymbGbUsT4i23vF1Vv38PGk4toc6n78x1HP2v6%2FM40FElwI6r23vGmPdA32SoHEuuZ5kmiqkUDFqQyJ4Y7X2oB4gi0SaY2%2FSSaOBWzm65j6S%2F3qrKgmoIfaWVqtQIGvU8OSvlZ0G0Pyls2r95AkLCYZ1OGnCvUqVas11ShvBLegURcdOb8CjCOIt%2FIo0GhiMsGIGee9uz9qXV4f0IJmMIWDfDXNhLf3ZlBCsMN3rQNPHsUKBya7hT80%2BK29dPyzrtbr0aCZcM%2Ff90dLLnAKAqvE07AorrTjBwl8LVDro%3D",
-      "franchise": "pokemon",
-      "set": "Celebrations",
-      "product_type": "etb",
-      "price": 215.0,
-      "shipping_cost": 0.0,
-      "total_price": 215.0,
-      "shipping_verified": true,
-      "baseline_price": 275.0,
-      "gapPct": 21.82,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1023,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - SMALL TEAR",
-      "url": "https://www.ebay.com/itm/178094536045?_skw=pokemon+Destined+Rivals+booster+box&hash=item297742f56d:g:F8MAAeSw129p9If1",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 464.74,
-      "shipping_cost": 43.02,
-      "total_price": 464.74,
-      "shipping_verified": true,
-      "baseline_price": 545.0,
-      "gapPct": 14.73,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 118,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -117,7 +51,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-01T23:43:26.608978+00:00",
-      "_last_seen_at": "2026-05-01T23:43:26.608978+00:00"
+      "_last_seen_at": "2026-05-02T00:23:12.333088+00:00"
+    },
+    {
+      "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - SMALL TEAR",
+      "url": "https://www.ebay.com/itm/178094536045?_skw=pokemon+Destined+Rivals+booster+box&hash=item297742f56d:g:F8MAAeSw129p9If1",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 464.74,
+      "shipping_cost": 43.02,
+      "total_price": 464.74,
+      "shipping_verified": true,
+      "baseline_price": 505.07,
+      "gapPct": 7.99,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 118,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-02T00:23:12.333088+00:00",
+      "_last_seen_at": "2026-05-02T00:23:12.333088+00:00"
     },
     {
       "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
@@ -142,7 +101,32 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-01T18:23:19.288738+00:00",
-      "_last_seen_at": "2026-05-01T19:00:01.709223+00:00"
+      "_last_seen_at": "2026-05-02T00:23:12.333088+00:00"
+    },
+    {
+      "title": "Pokemon Stellar Crown Booster Box - Scarlet & Violet TCG New Sealed ",
+      "url": "https://www.ebay.com/itm/117144994429?_skw=pokemon+Stellar+Crown+booster+box&hash=item1b4662c27d:g:CRAAAeSwI3Zp3~a2",
+      "franchise": "pokemon",
+      "set": "Stellar Crown",
+      "product_type": "booster_box",
+      "price": 270.0,
+      "shipping_cost": 0.0,
+      "total_price": 270.0,
+      "shipping_verified": true,
+      "baseline_price": 280.0,
+      "gapPct": 3.57,
+      "confidence": "medium",
+      "seller_rating": 99.7,
+      "seller_feedback_count": 1092,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-02T00:23:12.333088+00:00",
+      "_last_seen_at": "2026-05-02T00:23:12.333088+00:00"
     },
     {
       "title": "Pokemon Twilight masquerade elite trainer box IN GERMAN / DEUTSCH",
@@ -174,9 +158,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 0,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 0,
     "retailer_deals_visible": true
   }
 }
