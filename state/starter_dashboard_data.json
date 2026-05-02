@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T21:22:32.190662+00:00",
+  "timestamp": "2026-05-02T22:03:38.665600+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,52 +7,89 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
+  "total_deals": 2,
   "all_deals_count": 4,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 2
+    },
+    "by_product_type": {
+      "booster_box": 2
+    },
+    "by_gap_bucket": {
+      "20_plus": 2
+    },
+    "by_source": {
+      "ebay": 2
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Destined Rivals",
+      "Fusion Strike"
+    ],
+    "product_type": [
+      "booster_box"
+    ],
+    "gap_bucket": [
+      "20_plus"
+    ]
   },
-  "deals": [],
-  "watchlist_deals": [
+  "deals": [
     {
-      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Box - NEW AND FACTORY SEALED",
-      "url": "https://www.ebay.com/itm/327133583158?_skw=pokemon+Destined+Rivals+booster+box&hash=item4c2aae5736:g:BEIAAeSwKE5p9I0R",
+      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
       "franchise": "pokemon",
-      "set": "Destined Rivals",
+      "set": "Fusion Strike",
       "product_type": "booster_box",
-      "price": 299.0,
-      "shipping_cost": 0.0,
-      "total_price": 299.0,
+      "price": 688.01,
+      "shipping_cost": 44.53,
+      "total_price": 688.01,
       "shipping_verified": true,
-      "baseline_price": 505.07,
-      "gapPct": 40.8,
+      "baseline_price": 975.0,
+      "gapPct": 29.43,
       "confidence": "high",
-      "seller_rating": 95.0,
-      "seller_feedback_count": 788,
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1586,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
-      "seller_trust": "MEDIUM",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-02T13:23:51.056528+00:00",
-      "_last_seen_at": "2026-05-02T16:04:26.625949+00:00"
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
     },
+    {
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
+      "url": "https://www.ebay.com/itm/267649038848?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e51203a00:g:cCEAAeSwDeVp6tVc",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 399.99,
+      "shipping_cost": 0.0,
+      "total_price": 399.99,
+      "shipping_verified": true,
+      "baseline_price": 505.07,
+      "gapPct": 20.81,
+      "confidence": "high",
+      "seller_rating": 98.1,
+      "seller_feedback_count": 273,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    }
+  ],
+  "watchlist_deals": [
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
       "url": "https://www.ebay.com/itm/389392094560?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5aa993d560:g:xQYAAeSwjtVpRdO5",
@@ -76,31 +113,6 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-02T18:03:10.550606+00:00",
-      "_last_seen_at": "2026-05-02T20:04:47.366634+00:00"
-    },
-    {
-      "title": "Pokemon Stellar Crown Booster Box - Scarlet & Violet TCG New Sealed ",
-      "url": "https://www.ebay.com/itm/117144994429?_skw=pokemon+Stellar+Crown+booster+box&hash=item1b4662c27d:g:CRAAAeSwI3Zp3~a2",
-      "franchise": "pokemon",
-      "set": "Stellar Crown",
-      "product_type": "booster_box",
-      "price": 270.0,
-      "shipping_cost": 0.0,
-      "total_price": 270.0,
-      "shipping_verified": true,
-      "baseline_price": 289.99,
-      "gapPct": 6.89,
-      "confidence": "medium",
-      "seller_rating": 99.7,
-      "seller_feedback_count": 1094,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-02T13:23:51.056528+00:00",
       "_last_seen_at": "2026-05-02T20:04:47.366634+00:00"
     },
     {
@@ -133,9 +145,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 2,
     "retailer_deals": 2,
-    "total_merged": 0,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
