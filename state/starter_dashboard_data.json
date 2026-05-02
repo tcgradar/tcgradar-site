@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T17:22:51.055807+00:00",
+  "timestamp": "2026-05-02T18:03:10.551891+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 1,
-  "all_deals_count": 3,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 1
@@ -91,6 +91,31 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-02T13:23:51.056528+00:00",
       "_last_seen_at": "2026-05-02T16:04:26.625949+00:00"
+    },
+    {
+      "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
+      "url": "https://www.ebay.com/itm/389392094560?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5aa993d560:g:xQYAAeSwjtVpRdO5",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 94.99,
+      "shipping_cost": 0.0,
+      "total_price": 94.99,
+      "shipping_verified": true,
+      "baseline_price": 104.99,
+      "gapPct": 9.52,
+      "confidence": "medium",
+      "seller_rating": 99.0,
+      "seller_feedback_count": 594,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-02T18:03:10.550606+00:00",
+      "_last_seen_at": "2026-05-02T18:03:10.550606+00:00"
     },
     {
       "title": "Pokemon Stellar Crown Booster Box - Scarlet & Violet TCG New Sealed ",
