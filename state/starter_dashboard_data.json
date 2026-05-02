@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T03:43:08.348340+00:00",
+  "timestamp": "2026-05-02T04:22:54.426180+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 3,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -76,7 +76,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-02T03:02:58.431507+00:00",
-      "_last_seen_at": "2026-05-02T03:04:07.999788+00:00"
+      "_last_seen_at": "2026-05-02T04:22:54.424454+00:00"
     },
     {
       "title": "Pokemon Stellar Crown Booster Box - Scarlet & Violet TCG New Sealed ",
@@ -102,6 +102,31 @@
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-02T00:23:12.333088+00:00",
       "_last_seen_at": "2026-05-02T01:00:01.580427+00:00"
+    },
+    {
+      "title": "Pokemon Fusion Strike Booster Box New/Sealed",
+      "url": "https://www.ebay.com/itm/168299244854?_skw=pokemon+Fusion+Strike+booster+box&hash=item272f6aad36:g:APIAAeSw~kpp2L6C",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 1129.65,
+      "shipping_cost": 88.94,
+      "total_price": 1129.65,
+      "shipping_verified": true,
+      "baseline_price": 975.0,
+      "gapPct": -15.86,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 128,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "1_to_9",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-02T04:00:01.915088+00:00",
+      "_last_seen_at": "2026-05-02T04:00:01.915088+00:00"
     }
   ],
   "empty_watchlist": false,
