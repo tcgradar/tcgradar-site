@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T05:42:43.027338+00:00",
+  "timestamp": "2026-05-02T06:23:26.004304+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,24 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 4,
+  "total_deals": 2,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
+      "etb": 1,
       "booster_box": 1
     },
     "by_gap_bucket": {
+      "20_plus": 1,
       "10_to_19": 1
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,16 +35,41 @@
       "pokemon"
     ],
     "set": [
+      "Celebrations",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon TCG Shining Fates ETB Elite Trainer Box New Sealed",
+      "url": "https://www.ebay.com/itm/327123961326?_skw=pokemon+Celebrations+booster+box&hash=item4c2a1b85ee:g:12MAAeSwv2hp7XuZ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGags2VeHHFXY2v2rfJVf3zWhVlyymbGbUsT4i23vF1Vv38PGk4toc6n78x1HP2v6%2FM40FElwI6r23vGmPdA32SoHEuuZ5kmiqkUDFqQyJ4Y7X2oB4gi0SaY2%2FSSaOBWzm4qLc02CvRaVpSn8nzICLMVQ8ZPfMrZFpKLvXUPXGJbHLdiUIN5J7W01QKeqjpR305AIkc5rhyfmCZcCEFn0ntX%2FrTEMFi%2BwwvLzciTJt7BWyWdS77fwmLS9%2B4Kw6rJzZlzrtFrgtl7ExlQk7hDxYXC3JraQCZ6JxB7gOSXMgo%2F5%2FOjI3dbRb1j21scpyUPngQ%3D",
+      "franchise": "pokemon",
+      "set": "Celebrations",
+      "product_type": "etb",
+      "price": 215.0,
+      "shipping_cost": 0.0,
+      "total_price": 215.0,
+      "shipping_verified": true,
+      "baseline_price": 275.0,
+      "gapPct": 21.82,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1023,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - SMALL TEAR",
       "url": "https://www.ebay.com/itm/178094536045?_skw=pokemon+Destined+Rivals+booster+box&hash=item297742f56d:g:F8MAAeSw129p9If1",
@@ -90,7 +117,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-01T23:43:26.608978+00:00",
-      "_last_seen_at": "2026-05-02T05:42:43.025801+00:00"
+      "_last_seen_at": "2026-05-02T06:23:26.002740+00:00"
     },
     {
       "title": "Pokemon Stellar Crown Booster Box - Scarlet & Violet TCG New Sealed ",
@@ -147,9 +174,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 2,
-    "total_merged": 1,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
