@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T20:03:37.040051+00:00",
+  "timestamp": "2026-05-02T20:43:13.763275+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -115,7 +115,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-02T18:03:10.550606+00:00",
-      "_last_seen_at": "2026-05-02T20:03:37.038525+00:00"
+      "_last_seen_at": "2026-05-02T20:04:47.366634+00:00"
     },
     {
       "title": "Pokemon Stellar Crown Booster Box - Scarlet & Violet TCG New Sealed ",
@@ -140,7 +140,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-02T13:23:51.056528+00:00",
-      "_last_seen_at": "2026-05-02T20:03:37.038525+00:00"
+      "_last_seen_at": "2026-05-02T20:04:47.366634+00:00"
     },
     {
       "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
@@ -165,7 +165,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-02T20:03:37.038525+00:00",
-      "_last_seen_at": "2026-05-02T20:03:37.038525+00:00"
+      "_last_seen_at": "2026-05-02T20:04:47.366634+00:00"
     }
   ],
   "empty_watchlist": false,
