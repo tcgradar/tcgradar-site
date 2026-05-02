@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T01:02:48.975938+00:00",
+  "timestamp": "2026-05-02T01:42:40.984274+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -51,7 +51,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-01T23:43:26.608978+00:00",
-      "_last_seen_at": "2026-05-02T01:02:48.974193+00:00"
+      "_last_seen_at": "2026-05-02T01:03:56.734630+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - SMALL TEAR",
@@ -76,7 +76,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-02T01:02:48.974193+00:00",
-      "_last_seen_at": "2026-05-02T01:02:48.974193+00:00"
+      "_last_seen_at": "2026-05-02T01:42:40.982592+00:00"
     },
     {
       "title": "Pokemon Stellar Crown Booster Box - Scarlet & Violet TCG New Sealed ",
