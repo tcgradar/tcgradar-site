@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T14:42:58.128700+00:00",
+  "timestamp": "2026-05-02T15:22:47.203467+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 4,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -51,7 +51,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-02T13:23:51.056528+00:00",
-      "_last_seen_at": "2026-05-02T14:42:58.127006+00:00"
+      "_last_seen_at": "2026-05-02T15:22:47.202139+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -76,7 +76,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-02T07:43:57.414077+00:00",
-      "_last_seen_at": "2026-05-02T14:42:58.127006+00:00"
+      "_last_seen_at": "2026-05-02T15:00:01.111542+00:00"
     },
     {
       "title": "Pokemon Stellar Crown Booster Box - Scarlet & Violet TCG New Sealed ",
@@ -101,31 +101,6 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-02T13:23:51.056528+00:00",
-      "_last_seen_at": "2026-05-02T14:00:01.377969+00:00"
-    },
-    {
-      "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
-      "url": "https://www.ebay.com/itm/137259567003?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item1ff54ec79b:g:fyIAAeSwm6Zp7tnB",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "booster_box",
-      "price": 299.64,
-      "shipping_cost": 9.64,
-      "total_price": 299.64,
-      "shipping_verified": true,
-      "baseline_price": 311.97,
-      "gapPct": 3.95,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 587,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-02T07:03:17.978680+00:00",
       "_last_seen_at": "2026-05-02T14:00:01.377969+00:00"
     }
   ],
