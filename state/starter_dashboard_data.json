@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T19:23:40.609903+00:00",
+  "timestamp": "2026-05-02T20:03:37.040051+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,25 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
+  "total_deals": 1,
   "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 1,
       "booster_box": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2
+      "20_plus": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -34,40 +33,16 @@
       "pokemon"
     ],
     "set": [
-      "Celebrations",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box",
-      "etb"
+      "booster_box"
     ],
     "gap_bucket": [
       "20_plus"
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Shining Fates ETB Elite Trainer Box New Sealed",
-      "url": "https://www.ebay.com/itm/327123961326?_skw=pokemon+Celebrations+booster+box&hash=item4c2a1b85ee:g:12MAAeSwv2hp7XuZ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGags2VeHHFXY2v2rfJVf3zWhVlyymbGbUsT4i23vF1Vv38PGk4toc6n78x1HP2v6%2FM40FElwI6r23vGmPdA32SoHEuuZ5kmiqkUDFqQyJ4Y7X2oB4gi0SaY2%2FSSaOBWzm7oDrwZq6C3Vn6axneICTsaLpnRQ4cb5pKYsPp728NZgKobEX1bDLeC5INQeLx6YpxZn7AuQUUbznEQsxRraFVN5NFk1C1%2FATF%2BN%2FTuXy3C1JD58PaO%2B53y92s2MgVRjVAz3LUzOewS9wgedDtHSUp5wNZRFvyDEp1tdn23SjWamu%2BnrXNreFyRHDLl5cD5wfY%3D",
-      "franchise": "pokemon",
-      "set": "Celebrations",
-      "product_type": "etb",
-      "price": 215.0,
-      "shipping_cost": 0.0,
-      "total_price": 215.0,
-      "shipping_verified": true,
-      "baseline_price": 275.0,
-      "gapPct": 21.82,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1023,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
       "url": "https://www.ebay.com/itm/267649038848?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e51203a00:g:cCEAAeSwDeVp6tVc",
@@ -140,7 +115,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-02T18:03:10.550606+00:00",
-      "_last_seen_at": "2026-05-02T18:04:27.034126+00:00"
+      "_last_seen_at": "2026-05-02T20:03:37.038525+00:00"
     },
     {
       "title": "Pokemon Stellar Crown Booster Box - Scarlet & Violet TCG New Sealed ",
@@ -165,16 +140,41 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-02T13:23:51.056528+00:00",
-      "_last_seen_at": "2026-05-02T14:00:01.377969+00:00"
+      "_last_seen_at": "2026-05-02T20:03:37.038525+00:00"
+    },
+    {
+      "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
+      "url": "https://www.ebay.com/itm/137259567003?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item1ff54ec79b:g:fyIAAeSwm6Zp7tnB",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "booster_box",
+      "price": 299.64,
+      "shipping_cost": 9.64,
+      "total_price": 299.64,
+      "shipping_verified": true,
+      "baseline_price": 311.97,
+      "gapPct": 3.95,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 587,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-02T20:03:37.038525+00:00",
+      "_last_seen_at": "2026-05-02T20:03:37.038525+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
