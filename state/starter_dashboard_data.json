@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T06:23:26.004304+00:00",
+  "timestamp": "2026-05-02T07:03:17.980208+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,26 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 5,
+  "total_deals": 1,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 1,
       "booster_box": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
       "10_to_19": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -35,41 +33,16 @@
       "pokemon"
     ],
     "set": [
-      "Celebrations",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box",
-      "etb"
+      "booster_box"
     ],
     "gap_bucket": [
-      "10_to_19",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Shining Fates ETB Elite Trainer Box New Sealed",
-      "url": "https://www.ebay.com/itm/327123961326?_skw=pokemon+Celebrations+booster+box&hash=item4c2a1b85ee:g:12MAAeSwv2hp7XuZ&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGags2VeHHFXY2v2rfJVf3zWhVlyymbGbUsT4i23vF1Vv38PGk4toc6n78x1HP2v6%2FM40FElwI6r23vGmPdA32SoHEuuZ5kmiqkUDFqQyJ4Y7X2oB4gi0SaY2%2FSSaOBWzm4qLc02CvRaVpSn8nzICLMVQ8ZPfMrZFpKLvXUPXGJbHLdiUIN5J7W01QKeqjpR305AIkc5rhyfmCZcCEFn0ntX%2FrTEMFi%2BwwvLzciTJt7BWyWdS77fwmLS9%2B4Kw6rJzZlzrtFrgtl7ExlQk7hDxYXC3JraQCZ6JxB7gOSXMgo%2F5%2FOjI3dbRb1j21scpyUPngQ%3D",
-      "franchise": "pokemon",
-      "set": "Celebrations",
-      "product_type": "etb",
-      "price": 215.0,
-      "shipping_cost": 0.0,
-      "total_price": 215.0,
-      "shipping_verified": true,
-      "baseline_price": 275.0,
-      "gapPct": 21.82,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1023,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - SMALL TEAR",
       "url": "https://www.ebay.com/itm/178094536045?_skw=pokemon+Destined+Rivals+booster+box&hash=item297742f56d:g:F8MAAeSw129p9If1",
@@ -117,7 +90,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-01T23:43:26.608978+00:00",
-      "_last_seen_at": "2026-05-02T06:23:26.002740+00:00"
+      "_last_seen_at": "2026-05-02T07:03:17.978680+00:00"
     },
     {
       "title": "Pokemon Stellar Crown Booster Box - Scarlet & Violet TCG New Sealed ",
@@ -142,41 +115,41 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-02T00:23:12.333088+00:00",
-      "_last_seen_at": "2026-05-02T01:00:01.580427+00:00"
+      "_last_seen_at": "2026-05-02T07:03:17.978680+00:00"
     },
     {
-      "title": "Pokemon Fusion Strike Booster Box New/Sealed",
-      "url": "https://www.ebay.com/itm/168299244854?_skw=pokemon+Fusion+Strike+booster+box&hash=item272f6aad36:g:APIAAeSw~kpp2L6C",
+      "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
+      "url": "https://www.ebay.com/itm/137259567003?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item1ff54ec79b:g:fyIAAeSwm6Zp7tnB",
       "franchise": "pokemon",
-      "set": "Fusion Strike",
+      "set": "Twilight Masquerade",
       "product_type": "booster_box",
-      "price": 1129.65,
-      "shipping_cost": 88.94,
-      "total_price": 1129.65,
+      "price": 299.64,
+      "shipping_cost": 9.64,
+      "total_price": 299.64,
       "shipping_verified": true,
-      "baseline_price": 975.0,
-      "gapPct": -15.86,
+      "baseline_price": 311.97,
+      "gapPct": 3.95,
       "confidence": "medium",
       "seller_rating": 100.0,
-      "seller_feedback_count": 128,
+      "seller_feedback_count": 587,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "medium",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-02T04:00:01.915088+00:00",
-      "_last_seen_at": "2026-05-02T04:00:01.915088+00:00"
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-02T07:03:17.978680+00:00",
+      "_last_seen_at": "2026-05-02T07:03:17.978680+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
