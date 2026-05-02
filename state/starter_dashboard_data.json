@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T13:23:51.058046+00:00",
+  "timestamp": "2026-05-02T14:03:08.512875+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -51,7 +51,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-02T13:23:51.056528+00:00",
-      "_last_seen_at": "2026-05-02T13:23:51.056528+00:00"
+      "_last_seen_at": "2026-05-02T14:03:08.511216+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -101,7 +101,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-02T13:23:51.056528+00:00",
-      "_last_seen_at": "2026-05-02T13:23:51.056528+00:00"
+      "_last_seen_at": "2026-05-02T14:00:01.377969+00:00"
     },
     {
       "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
@@ -126,7 +126,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-02T07:03:17.978680+00:00",
-      "_last_seen_at": "2026-05-02T13:23:51.056528+00:00"
+      "_last_seen_at": "2026-05-02T14:00:01.377969+00:00"
     }
   ],
   "empty_watchlist": false,
