@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T22:03:38.665600+00:00",
+  "timestamp": "2026-05-02T22:42:50.898920+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,24 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 4,
+  "total_deals": 1,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 2
+      "booster_box": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2
+      "20_plus": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,8 +33,7 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals",
-      "Fusion Strike"
+      "Destined Rivals"
     ],
     "product_type": [
       "booster_box"
@@ -44,28 +43,6 @@
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 688.01,
-      "shipping_cost": 44.53,
-      "total_price": 688.01,
-      "shipping_verified": true,
-      "baseline_price": 975.0,
-      "gapPct": 29.43,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1586,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
       "url": "https://www.ebay.com/itm/267649038848?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e51203a00:g:cCEAAeSwDeVp6tVc",
@@ -113,7 +90,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-02T18:03:10.550606+00:00",
-      "_last_seen_at": "2026-05-02T20:04:47.366634+00:00"
+      "_last_seen_at": "2026-05-02T22:42:50.897670+00:00"
     },
     {
       "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
@@ -145,9 +122,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
