@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T08:02:53.500719+00:00",
+  "updated_at": "2026-05-03T08:43:42.003482+00:00",
   "source": "best_deals_history",
   "starter_quality_deal": {
     "title": "Battle Styles Booster Box Pokemon TCG Sword & Shield SWSH05 New Factory Sealed",
@@ -16,16 +16,14 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "One Piece op09 Emperors In The New World Booster Box\u2705\ufe0fFACTORY SEALED\u2705\ufe0f",
+    "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
     "franchise": "onepiece",
-    "set": "Emperors in the New World",
+    "set": "Adventure on Kami's Island",
     "product_type": "booster_box",
-    "price": 495.34,
-    "baseline_price": 580.19,
-    "gapPct": 14.62,
+    "price": 189.0,
+    "baseline_price": 225.0,
+    "gapPct": 16.0,
     "confidence": "high",
-    "seller_rating": 100.0,
-    "seller_feedback_count": 148,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
