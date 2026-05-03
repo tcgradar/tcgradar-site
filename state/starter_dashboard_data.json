@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T22:22:46.865262+00:00",
+  "timestamp": "2026-05-03T23:03:13.988535+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,24 +7,25 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 2,
+  "total_deals": 2,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1
+      "etb": 2
     },
     "by_gap_bucket": {
-      "10_to_19": 1
+      "10_to_19": 1,
+      "20_plus": 1
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,13 +34,15 @@
       "pokemon"
     ],
     "set": [
-      "Battle Styles"
+      "Battle Styles",
+      "Shrouded Fable"
     ],
     "product_type": [
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
@@ -64,42 +67,64 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
+      "url": "https://www.ebay.com/itm/127760908517?_skw=pokemon+Shrouded+Fable+booster+box&hash=item1dbf24c0e5:g:QhsAAeSwBfhpviOW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb%2BQkGGISOUjy4CSEpjeE6cbo5XcpepSAAr9EmDG%2For8WRK3w2uil86REUMpjQqvcdmKYUAJmYZ8CQm07jAw6I1mlxfgSmLnHW0LPW2XVhQYH7KmfYQHIL7kfpFq00Yq8YukA9kK%2F8TfH0a6O7LSJS8cxC6iH53cflAK903UHQ9m0Uf1VLBJk2TVcXi3%2Bnoy%2BPBTcZK5cCi5GGjKCPnKtjV7k5mlrEkiXupDAFy%2F4BtEhw%2BwXUbkd%2F6i4wJaIsSI5q44mkmJDgHIRs%2F9bvywNMgQ3AvMZ%2FSi3Eo8wn65CIVs4SlUvQxm5MEKS7plFGee3U%3D",
+      "franchise": "pokemon",
+      "set": "Shrouded Fable",
+      "product_type": "etb",
+      "price": 114.94,
+      "shipping_cost": 26.64,
+      "total_price": 114.94,
+      "shipping_verified": true,
+      "baseline_price": 134.75,
+      "gapPct": 14.7,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 677,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
     }
   ],
   "watchlist_deals": [
     {
-      "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
-      "url": "https://www.ebay.com/itm/389392094560?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5aa993d560:g:xQYAAeSwjtVpRdO5",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 94.99,
+      "title": "Pokemon TCG Shining Fates Elite Trainer Box Brand New/Sealed",
+      "url": "https://www.ebay.com/itm/267649034354?_skw=pokemon+Shining+Fates+booster+box&hash=item3e51202872:g:Zq4AAeSwwilp6tPb",
+      "franchise": "pokemon",
+      "set": "Shining Fates",
+      "product_type": "etb",
+      "price": 120.0,
       "shipping_cost": 0.0,
-      "total_price": 94.99,
-      "shipping_verified": true,
-      "baseline_price": 104.99,
-      "gapPct": 9.52,
-      "confidence": "medium",
-      "seller_rating": 99.0,
-      "seller_feedback_count": 601,
-      "language": "JP",
+      "total_price": 120.0,
+      "shipping_verified": false,
+      "baseline_price": 125.0,
+      "gapPct": 4.0,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 118,
+      "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-03T14:42:44.178817+00:00",
-      "_last_seen_at": "2026-05-03T22:00:01.103750+00:00"
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-03T23:03:13.987405+00:00",
+      "_last_seen_at": "2026-05-03T23:03:13.987405+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 2,
-    "total_merged": 1,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
