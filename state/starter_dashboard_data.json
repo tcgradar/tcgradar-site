@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T06:02:53.197412+00:00",
+  "timestamp": "2026-05-03T06:42:59.171148+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -76,7 +76,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-03T06:02:53.196104+00:00",
-      "_last_seen_at": "2026-05-03T06:02:53.196104+00:00"
+      "_last_seen_at": "2026-05-03T06:42:59.169846+00:00"
     },
     {
       "title": "Pokemon Stellar Crown Booster Box - Scarlet & Violet TCG New Sealed ",
