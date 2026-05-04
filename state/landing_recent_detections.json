@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T03:22:53.023048+00:00",
+  "updated_at": "2026-05-04T04:03:20.421681+00:00",
   "source": "best_deals_history",
   "starter_quality_deal": {
     "title": "One Piece Adventure on Kami's Island Booster Box [OP-15]",
@@ -14,16 +14,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
+    "title": "Battle Styles Booster Box Pokemon TCG Sword & Shield SWSH05 New Factory Sealed",
     "franchise": "pokemon",
-    "set": "Fusion Strike",
+    "set": "Battle Styles",
     "product_type": "booster_box",
-    "price": 688.01,
-    "baseline_price": 975.0,
-    "gapPct": 29.43,
+    "price": 250.0,
+    "baseline_price": 299.49,
+    "gapPct": 16.52,
     "confidence": "high",
     "seller_rating": 100.0,
-    "seller_feedback_count": 1586,
+    "seller_feedback_count": 150,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
