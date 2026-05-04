@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T02:24:03.366172+00:00",
+    "generated_at": "2026-05-04T03:24:04.343891+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
-    "raw_count": 17,
-    "filtered_count": 2,
+    "raw_count": 14,
+    "filtered_count": 1,
     "filter_criteria": {
       "min_gap": 10.0,
       "max_bids": 50,
@@ -96,29 +96,6 @@
   },
   "auctions": [
     {
-      "title": "Pok\u00e9mon TCG Scarlet & Violet Temporal Forces Booster Box Factory Sealed SV05",
-      "current_price": 202.5,
-      "shipping_cost": 17.43,
-      "total_price": 219.93,
-      "baseline": 284.95,
-      "baseline_source": "serpapi",
-      "baseline_key": "pokemon|temporal_forces|booster_box|en|standard",
-      "serpapi_sample_size": 53,
-      "old_baseline": 284.95,
-      "old_gapPct": 22.818038252324964,
-      "gapPct": 28.93,
-      "bids": 3,
-      "time_remaining": 47.93347382583334,
-      "opportunity_type": "ongoing",
-      "url": "https://www.ebay.com/itm/206237397472?_skw=Pokemon+Temporal+Forces+booster+box&hash=item3004b4f1e0:g:55QAAeSw4QFpMdb8",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 52,
-      "deal_quality": "medium"
-    },
-    {
       "title": "NEW SEALED Pok\u00e9mon TCG Scarlet & Violet Destined Rivals Booster Box W Acrylic ",
       "current_price": 340.0,
       "shipping_cost": 16.0,
@@ -131,7 +108,7 @@
       "old_gapPct": 25.387211032632617,
       "gapPct": 28.74,
       "bids": 13,
-      "time_remaining": 42.34500169916667,
+      "time_remaining": 41.34542789583334,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/198321657252?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e2ce455a4:g:5K4AAeSwrURp874y",
       "franchise": "pokemon",
