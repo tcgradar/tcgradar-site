@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T20:43:24.433871+00:00",
+  "timestamp": "2026-05-04T21:22:43.506971+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -90,7 +90,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-04T19:22:48.034271+00:00",
-      "_last_seen_at": "2026-05-04T20:43:24.432552+00:00"
+      "_last_seen_at": "2026-05-04T21:00:01.305976+00:00"
     },
     {
       "title": "Pokemon TCG Shining Fates Elite Trainer Box Brand New/Sealed",
