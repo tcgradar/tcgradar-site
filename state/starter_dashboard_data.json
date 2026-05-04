@@ -1,33 +1,30 @@
 {
-  "timestamp": "2026-05-04T13:00:01.575165+00:00",
+  "timestamp": "2026-05-04T14:03:28.807902+00:00",
   "non_ebay_stats": {
     "detected": 1,
-    "in_output": 1,
-    "in_best_deals": 1,
+    "in_output": 0,
+    "in_best_deals": 0,
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 4,
-  "all_deals_count": 7,
+  "total_deals": 1,
+  "all_deals_count": 1,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 4
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_box": 3,
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2,
-      "10_to_19": 2
+      "20_plus": 1
     },
     "by_source": {
-      "ebay": 3,
-      "gamenerdz": 1
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 4,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -36,41 +33,16 @@
       "pokemon"
     ],
     "set": [
-      "Battle Styles",
-      "Destined Rivals"
+      "Battle Styles"
     ],
     "product_type": [
-      "booster_box",
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19",
       "20_plus"
     ]
   },
   "deals": [
-    {
-      "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - SMALL TEAR",
-      "url": "https://www.ebay.com/itm/178094536045?_skw=pokemon+Destined+Rivals+booster+box&hash=item297742f56d:g:F8MAAeSw129p9If1",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 464.02,
-      "shipping_cost": 42.95,
-      "total_price": 464.02,
-      "shipping_verified": true,
-      "baseline_price": 590.0,
-      "gapPct": 21.35,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 122,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
       "url": "https://www.ebay.com/itm/157619204701?_skw=pokemon+Battle+Styles+booster+box&hash=item24b2d6325d:g:stUAAeSwJr1payKG",
@@ -81,8 +53,8 @@
       "shipping_cost": 0.0,
       "total_price": 100.0,
       "shipping_verified": false,
-      "baseline_price": 125.0,
-      "gapPct": 20.0,
+      "baseline_price": 259.98,
+      "gapPct": 61.54,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 126,
@@ -92,134 +64,39 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "20_plus"
-    },
+    }
+  ],
+  "watchlist_deals": [],
+  "empty_watchlist": true,
+  "fallback_deals": [
     {
-      "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
-      "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
+      "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
+      "url": "https://www.ebay.com/itm/157619204701?_skw=pokemon+Battle+Styles+booster+box&hash=item24b2d6325d:g:stUAAeSwJr1payKG",
       "franchise": "pokemon",
       "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 269.97,
-      "baseline_price": 312.5,
-      "gapPct": 13.61,
-      "seller_trust": "HIGH",
-      "source": "gamenerdz",
-      "availability": "in_stock",
-      "is_preorder": false,
-      "language": "EN",
-      "shipping_cost": 0,
-      "confidence": "high",
-      "non_ebay": true,
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Battle Styles Booster Box Factory Sealed Sword & Shield Pokemon",
-      "url": "https://www.ebay.com/itm/227325727118?_skw=pokemon+Battle+Styles+booster+box&hash=item34edab518e:g:sVkAAeSwZPJp9U7K",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 265.0,
+      "product_type": "etb",
+      "price": 100.0,
       "shipping_cost": 0.0,
-      "total_price": 265.0,
-      "shipping_verified": true,
-      "baseline_price": 299.99,
-      "gapPct": 11.66,
+      "total_price": 100.0,
+      "shipping_verified": false,
+      "baseline_price": 259.98,
+      "gapPct": 61.54,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 532,
+      "seller_feedback_count": 126,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "20_plus"
     }
   ],
-  "watchlist_deals": [
-    {
-      "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VROm5NdKLVPq%2FlxUEgsk4O1iVnw%2FY62xrfF934llSE1YjjeH1--SLlQlC1Byg7ise%2FwmMrvtW9r3JHsRAyfj8ccPTuT4W9DM3ogWN1IZ%2B0FXPJt5QWJG%2FAsVu7EXLCSm5VeUZWYxLAyzB6RElHDuqausytoFG8SSMiIJPwOWCIPo%2B5qIA1LxEGWBZDnsZsdNExgQEjb%2BAyqVd9Y%2BAFQbMn",
-      "franchise": "onepiece",
-      "set": "Adventure on Kami's Island",
-      "product_type": "booster_box",
-      "price": 134.95,
-      "shipping_cost": 0.0,
-      "total_price": 134.95,
-      "shipping_verified": true,
-      "baseline_price": 239.26,
-      "gapPct": 43.6,
-      "confidence": "medium",
-      "seller_rating": 98.9,
-      "seller_feedback_count": 456,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-04T13:00:01.574564+00:00",
-      "_last_seen_at": "2026-05-04T13:00:01.574564+00:00"
-    },
-    {
-      "title": "One Piece TCG OP-15 Adventure On Kami’s Island Booster Box Sealed English",
-      "url": "https://www.ebay.com/itm/336566957123?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item4e5cf43443:g:rt4AAeSwXSNp9~qx",
-      "franchise": "onepiece",
-      "set": "Adventure on Kami's Island",
-      "product_type": "booster_box",
-      "price": 200.0,
-      "shipping_cost": 0.0,
-      "total_price": 200.0,
-      "shipping_verified": false,
-      "baseline_price": 247.5,
-      "gapPct": 19.19,
-      "confidence": "medium",
-      "seller_rating": 97.9,
-      "seller_feedback_count": 125,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "MEDIUM",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-04T12:00:01.774504+00:00",
-      "_last_seen_at": "2026-05-04T12:00:01.774504+00:00"
-    },
-    {
-      "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
-      "url": "https://www.ebay.com/itm/389392094560?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5aa993d560:g:xQYAAeSwjtVpRdO5",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 94.99,
-      "shipping_cost": 0.0,
-      "total_price": 94.99,
-      "shipping_verified": true,
-      "baseline_price": 104.99,
-      "gapPct": 9.52,
-      "confidence": "medium",
-      "seller_rating": 99.0,
-      "seller_feedback_count": 603,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-04T05:23:24.630401+00:00",
-      "_last_seen_at": "2026-05-04T06:03:38.452452+00:00"
-    }
-  ],
-  "empty_watchlist": false,
-  "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 3,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 4,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
