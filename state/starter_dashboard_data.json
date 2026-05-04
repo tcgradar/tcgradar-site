@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T04:43:23.522007+00:00",
+  "timestamp": "2026-05-04T05:23:24.631773+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,18 +8,16 @@
   },
   "tier": "starter",
   "total_deals": 2,
-  "all_deals_count": 3,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1,
-      "booster_box": 1
+      "etb": 2
     },
     "by_gap_bucket": {
-      "10_to_19": 1,
-      "20_plus": 1
+      "20_plus": 2
     },
     "by_source": {
       "ebay": 2
@@ -36,14 +34,12 @@
     ],
     "set": [
       "Battle Styles",
-      "Fusion Strike"
+      "Shrouded Fable"
     ],
     "product_type": [
-      "booster_box",
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19",
       "20_plus"
     ]
   },
@@ -68,23 +64,23 @@
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "20_plus"
     },
     {
-      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
+      "url": "https://www.ebay.com/itm/127760908517?_skw=pokemon+Shrouded+Fable+booster+box&hash=item1dbf24c0e5:g:QhsAAeSwBfhpviOW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb%2BQkGGISOUjy4CSEpjeE6cbo5XcpepSAAr9EmDG%2For8WRK3w2uil86REUMpjQqvcdmKYUAJmYZ8CQm07jAw6I1mlxfgSmLnHW0LPW2XVhQYH7KmfYQHIL7kfpFq00Yq8bPwqDxpZAibC8SuyUcz%2F5gbmyYqgHcHbpbcG90h6D%2BsrDQjffaOZy3AL7hyItxcUutUf5qq%2BUnnxK8K2h%2FE%2BEpM11XjbHaDFE6UrcI6Lgk4G7VsEnwIpD2egA4fmah9a8v9ncjfr0CoQ3geM4%2FER8LFnN58gzIb32pUAYHkcznOMtGMZSBknCPiKCko7cl5kE%3D",
       "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 688.01,
-      "shipping_cost": 44.53,
-      "total_price": 688.01,
+      "set": "Shrouded Fable",
+      "product_type": "etb",
+      "price": 114.94,
+      "shipping_cost": 26.64,
+      "total_price": 114.94,
       "shipping_verified": true,
-      "baseline_price": 975.0,
-      "gapPct": 29.43,
+      "baseline_price": 134.75,
+      "gapPct": 14.7,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 1589,
+      "seller_feedback_count": 677,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -94,6 +90,31 @@
     }
   ],
   "watchlist_deals": [
+    {
+      "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
+      "url": "https://www.ebay.com/itm/389392094560?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5aa993d560:g:xQYAAeSwjtVpRdO5",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 94.99,
+      "shipping_cost": 0.0,
+      "total_price": 94.99,
+      "shipping_verified": true,
+      "baseline_price": 104.99,
+      "gapPct": 9.52,
+      "confidence": "medium",
+      "seller_rating": 99.0,
+      "seller_feedback_count": 603,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-04T05:23:24.630401+00:00",
+      "_last_seen_at": "2026-05-04T05:23:24.630401+00:00"
+    },
     {
       "title": "Pokemon TCG Shining Fates Elite Trainer Box Brand New/Sealed",
       "url": "https://www.ebay.com/itm/267649034354?_skw=pokemon+Shining+Fates+booster+box&hash=item3e51202872:g:Zq4AAeSwwilp6tPb",
@@ -117,7 +138,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-03T23:03:13.987405+00:00",
-      "_last_seen_at": "2026-05-03T23:04:22.019087+00:00"
+      "_last_seen_at": "2026-05-04T05:23:24.630401+00:00"
     }
   ],
   "empty_watchlist": false,
