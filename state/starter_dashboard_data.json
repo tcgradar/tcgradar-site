@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T11:43:27.834085+00:00",
+  "timestamp": "2026-05-04T12:42:53.564915+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 1,
-  "all_deals_count": 3,
+  "all_deals_count": 2,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 1
@@ -33,7 +33,7 @@
       "pokemon"
     ],
     "set": [
-      "Shrouded Fable"
+      "Battle Styles"
     ],
     "product_type": [
       "etb"
@@ -44,20 +44,20 @@
   },
   "deals": [
     {
-      "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
-      "url": "https://www.ebay.com/itm/127760908517?_skw=pokemon+Shrouded+Fable+booster+box&hash=item1dbf24c0e5:g:QhsAAeSwBfhpviOW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb%2BQkGGISOUjy4CSEpjeE6cbo5XcpepSAAr9EmDG%2For8WRK3w2uil86REUMpjQqvcdmKYUAJmYZ8CQm07jAw6I1mlxfgSmLnHW0LPW2XVhQYH7KmfYQHIL7kfpFq00Yq8Zl3U8Rnl0oM7e0QRZfD9Ja0wZCi5BztL7DTOLBamiGkZLb0B7OERwZOqMgGsJaZ3n2VOlIxDhD2UH1GY3qfRFdnUKSbGdFR5Jea5CxojbZvC6oNo%2FMjBYtShdO2ERM8DG5mR86WKHGvj3qNrziMDFL6LOhUgsj394AsNCWKWfO6pjJ5fSLAJQkfg9GrOzo6WE%3D",
+      "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
+      "url": "https://www.ebay.com/itm/157619204701?_skw=pokemon+Battle+Styles+booster+box&hash=item24b2d6325d:g:stUAAeSwJr1payKG",
       "franchise": "pokemon",
-      "set": "Shrouded Fable",
+      "set": "Battle Styles",
       "product_type": "etb",
-      "price": 114.94,
-      "shipping_cost": 26.64,
-      "total_price": 114.94,
-      "shipping_verified": true,
-      "baseline_price": 134.75,
-      "gapPct": 14.7,
+      "price": 100.0,
+      "shipping_cost": 0.0,
+      "total_price": 100.0,
+      "shipping_verified": false,
+      "baseline_price": 259.98,
+      "gapPct": 61.54,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 677,
+      "seller_feedback_count": 126,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -91,31 +91,6 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-04T05:23:24.630401+00:00",
       "_last_seen_at": "2026-05-04T06:03:38.452452+00:00"
-    },
-    {
-      "title": "Pokemon TCG Shining Fates Elite Trainer Box Brand New/Sealed",
-      "url": "https://www.ebay.com/itm/267649034354?_skw=pokemon+Shining+Fates+booster+box&hash=item3e51202872:g:Zq4AAeSwwilp6tPb",
-      "franchise": "pokemon",
-      "set": "Shining Fates",
-      "product_type": "etb",
-      "price": 120.0,
-      "shipping_cost": 0.0,
-      "total_price": 120.0,
-      "shipping_verified": false,
-      "baseline_price": 125.0,
-      "gapPct": 4.0,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 118,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-04T06:03:38.452452+00:00",
-      "_last_seen_at": "2026-05-04T11:43:27.832763+00:00"
     }
   ],
   "empty_watchlist": false,
