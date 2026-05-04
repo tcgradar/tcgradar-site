@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T17:23:47.997276+00:00",
+  "timestamp": "2026-05-04T18:03:26.948724+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,27 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
+  "total_deals": 2,
   "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 3
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_bundle": 1,
-      "etb": 1,
-      "booster_box": 1
+      "etb": 2
     },
     "by_gap_bucket": {
-      "10_to_19": 1,
       "20_plus": 2
     },
     "by_source": {
-      "ebay": 3
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -37,43 +34,17 @@
     ],
     "set": [
       "Battle Styles",
-      "Destined Rivals",
-      "Fusion Strike"
+      "Shrouded Fable"
     ],
     "product_type": [
-      "booster_box",
-      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19",
       "20_plus"
     ]
   },
   "deals": [
     {
-      "title": "Pokemon Destined Rivals Booster Bundle Factory Sealed English",
-      "url": "https://www.ebay.com/itm/267615009156?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e4f18f984:g:F0oAAeSw75ppvaEq",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 61.0,
-      "shipping_cost": 0.0,
-      "total_price": 61.0,
-      "shipping_verified": false,
-      "baseline_price": 399.99,
-      "gapPct": 84.75,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 211,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
       "url": "https://www.ebay.com/itm/157619204701?_skw=pokemon+Battle+Styles+booster+box&hash=item24b2d6325d:g:stUAAeSwJr1payKG",
       "franchise": "pokemon",
@@ -96,90 +67,20 @@
       "gap_bucket": "20_plus"
     },
     {
-      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
+      "url": "https://www.ebay.com/itm/127760908517?_skw=pokemon+Shrouded+Fable+booster+box&hash=item1dbf24c0e5:g:QhsAAeSwBfhpviOW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb%2BQkGGISOUjy4CSEpjeE6cbo5XcpepSAAr9EmDG%2For8WRK3w2uil86REUMpjQqvcdmKYUAJmYZ8CQm07jAw6I1mlxfgSmLnHW0LPW2XVhQYH7KmfYQHIL7kfpFq00Yq8bPXh1vz1xZNhqpGxvDyW3zYRgcjaqwlmCIRN6a2lEyusO%2BI2HPrXdkRj%2FCwXH5%2FFP5NBb1iPGG0vhTfNW%2BLjlo0D%2BvihPnjh0GeLXg9NqP4L51%2FVzvpnLopTtnV2xQ39IP%2FRY0bA4riUyK0SYEBkzeEm4vwg5%2BRK0dCRgbrEwbfBo0vyheOnMwgsWP%2FrP5rtY%3D",
       "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 688.01,
-      "shipping_cost": 44.53,
-      "total_price": 688.01,
-      "shipping_verified": true,
-      "baseline_price": 975.0,
-      "gapPct": 29.43,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1596,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    }
-  ],
-  "watchlist_deals": [],
-  "empty_watchlist": true,
-  "fallback_deals": [
-    {
-      "title": "Pokemon Destined Rivals Booster Bundle Factory Sealed English",
-      "url": "https://www.ebay.com/itm/267615009156?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e4f18f984:g:F0oAAeSw75ppvaEq",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 61.0,
-      "shipping_cost": 0.0,
-      "total_price": 61.0,
-      "shipping_verified": false,
-      "baseline_price": 399.99,
-      "gapPct": 84.75,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 211,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
-      "url": "https://www.ebay.com/itm/157619204701?_skw=pokemon+Battle+Styles+booster+box&hash=item24b2d6325d:g:stUAAeSwJr1payKG",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
+      "set": "Shrouded Fable",
       "product_type": "etb",
-      "price": 100.0,
-      "shipping_cost": 0.0,
-      "total_price": 100.0,
-      "shipping_verified": false,
-      "baseline_price": 259.98,
-      "gapPct": 61.54,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 126,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 688.01,
-      "shipping_cost": 44.53,
-      "total_price": 688.01,
+      "price": 114.94,
+      "shipping_cost": 26.64,
+      "total_price": 114.94,
       "shipping_verified": true,
-      "baseline_price": 975.0,
-      "gapPct": 29.43,
+      "baseline_price": 134.75,
+      "gapPct": 14.7,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 1596,
+      "seller_feedback_count": 677,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -188,11 +89,40 @@
       "gap_bucket": "20_plus"
     }
   ],
+  "watchlist_deals": [
+    {
+      "title": "Pokemon TCG Shining Fates Elite Trainer Box Brand New/Sealed",
+      "url": "https://www.ebay.com/itm/267649034354?_skw=pokemon+Shining+Fates+booster+box&hash=item3e51202872:g:Zq4AAeSwwilp6tPb",
+      "franchise": "pokemon",
+      "set": "Shining Fates",
+      "product_type": "etb",
+      "price": 120.0,
+      "shipping_cost": 0.0,
+      "total_price": 120.0,
+      "shipping_verified": false,
+      "baseline_price": 125.0,
+      "gapPct": 4.0,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 118,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-04T18:03:26.947415+00:00",
+      "_last_seen_at": "2026-05-04T18:03:26.947415+00:00"
+    }
+  ],
+  "empty_watchlist": false,
+  "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 3,
+    "ebay_deals": 2,
     "retailer_deals": 2,
-    "total_merged": 3,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
