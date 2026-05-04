@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T07:42:58.196343+00:00",
+  "timestamp": "2026-05-04T08:22:49.240848+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -17,7 +17,7 @@
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1
+      "10_to_19": 1
     },
     "by_source": {
       "ebay": 1
@@ -39,7 +39,7 @@
       "etb"
     ],
     "gap_bucket": [
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
@@ -63,7 +63,7 @@
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "20_plus"
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
