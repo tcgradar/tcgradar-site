@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T00:22:45.654461+00:00",
+  "timestamp": "2026-05-04T01:02:48.485542+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,24 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 3,
+  "total_deals": 1,
+  "all_deals_count": 2,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 2
+      "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 2
+      "10_to_19": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,8 +33,7 @@
       "pokemon"
     ],
     "set": [
-      "Battle Styles",
-      "Destined Rivals"
+      "Battle Styles"
     ],
     "product_type": [
       "etb"
@@ -46,41 +45,19 @@
   "deals": [
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
-      "url": "https://www.ebay.com/itm/236796430880?_skw=pokemon+Battle+Styles+booster+box&hash=item37222aca20:g:TlkAAeSw8oNp99GZ",
+      "url": "https://www.ebay.com/itm/157619204701?_skw=pokemon+Battle+Styles+booster+box&hash=item24b2d6325d:g:stUAAeSwJr1payKG",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "etb",
-      "price": 105.0,
+      "price": 100.0,
       "shipping_cost": 0.0,
-      "total_price": 105.0,
-      "shipping_verified": true,
+      "total_price": 100.0,
+      "shipping_verified": false,
       "baseline_price": 259.98,
-      "gapPct": 59.61,
+      "gapPct": 61.54,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 1662,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon Scarlet & Violet Destined Rivals Elite Trainer Box w/ Plastic Case",
-      "url": "https://www.ebay.com/itm/327133006142?_skw=pokemon+Destined+Rivals+booster+box&hash=item4c2aa5893e:g:nXoAAeSwyXBp7EAm",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "etb",
-      "price": 202.0,
-      "shipping_cost": 0.0,
-      "total_price": 202.0,
-      "shipping_verified": true,
-      "baseline_price": 399.99,
-      "gapPct": 49.5,
-      "confidence": "high",
-      "seller_rating": 99.6,
-      "seller_feedback_count": 2259,
+      "seller_feedback_count": 126,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -120,9 +97,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
