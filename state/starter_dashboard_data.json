@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T19:22:48.035809+00:00",
+  "timestamp": "2026-05-04T20:04:42.262615+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,26 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 4,
+  "total_deals": 1,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "booster_bundle": 1,
       "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 1,
-      "20_plus": 1
+      "10_to_19": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -35,41 +33,16 @@
       "pokemon"
     ],
     "set": [
-      "Battle Styles",
-      "Destined Rivals"
+      "Battle Styles"
     ],
     "product_type": [
-      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
-    {
-      "title": "Pokemon Destined Rivals Booster Bundle Factory Sealed English",
-      "url": "https://www.ebay.com/itm/267615009156?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e4f18f984:g:F0oAAeSw75ppvaEq",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 61.0,
-      "shipping_cost": 0.0,
-      "total_price": 61.0,
-      "shipping_verified": false,
-      "baseline_price": 399.99,
-      "gapPct": 84.75,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 211,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
       "url": "https://www.ebay.com/itm/157619204701?_skw=pokemon+Battle+Styles+booster+box&hash=item24b2d6325d:g:stUAAeSwJr1payKG",
@@ -90,7 +63,7 @@
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "20_plus"
+      "gap_bucket": "10_to_19"
     }
   ],
   "watchlist_deals": [
@@ -117,7 +90,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-04T19:22:48.034271+00:00",
-      "_last_seen_at": "2026-05-04T19:22:48.034271+00:00"
+      "_last_seen_at": "2026-05-04T20:00:01.768315+00:00"
     },
     {
       "title": "Pokemon TCG Shining Fates Elite Trainer Box Brand New/Sealed",
@@ -149,9 +122,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
