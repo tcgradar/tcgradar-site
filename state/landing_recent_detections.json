@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T09:42:50.441128+00:00",
+  "updated_at": "2026-05-04T10:23:30.548692+00:00",
   "source": "best_deals_history",
   "starter_quality_deal": {
     "title": "One Piece op09 Emperors In The New World Booster Box\u2705\ufe0fFACTORY SEALED\u2705\ufe0f",
@@ -16,16 +16,16 @@
     "seller_trust": "HIGH"
   },
   "best_opportunity_deal": {
-    "title": "Battle Styles Booster Box Pokemon TCG Sword & Shield SWSH05 New Factory Sealed",
+    "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
     "franchise": "pokemon",
-    "set": "Battle Styles",
+    "set": "Fusion Strike",
     "product_type": "booster_box",
-    "price": 250.0,
-    "baseline_price": 299.49,
-    "gapPct": 16.52,
+    "price": 688.01,
+    "baseline_price": 975.0,
+    "gapPct": 29.43,
     "confidence": "high",
     "seller_rating": 100.0,
-    "seller_feedback_count": 150,
+    "seller_feedback_count": 1586,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
