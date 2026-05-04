@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T18:03:26.948724+00:00",
+  "timestamp": "2026-05-04T18:43:04.495612+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -14,10 +14,12 @@
       "pokemon": 2
     },
     "by_product_type": {
-      "etb": 2
+      "booster_bundle": 1,
+      "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2
+      "10_to_19": 1,
+      "20_plus": 1
     },
     "by_source": {
       "ebay": 2
@@ -34,16 +36,40 @@
     ],
     "set": [
       "Battle Styles",
-      "Shrouded Fable"
+      "Destined Rivals"
     ],
     "product_type": [
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
+      "10_to_19",
       "20_plus"
     ]
   },
   "deals": [
+    {
+      "title": "Pokemon Destined Rivals Booster Bundle Factory Sealed English",
+      "url": "https://www.ebay.com/itm/267615009156?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e4f18f984:g:F0oAAeSw75ppvaEq",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 61.0,
+      "shipping_cost": 0.0,
+      "total_price": 61.0,
+      "shipping_verified": false,
+      "baseline_price": 399.99,
+      "gapPct": 84.75,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 211,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
       "url": "https://www.ebay.com/itm/157619204701?_skw=pokemon+Battle+Styles+booster+box&hash=item24b2d6325d:g:stUAAeSwJr1payKG",
@@ -59,28 +85,6 @@
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 126,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
-      "url": "https://www.ebay.com/itm/127760908517?_skw=pokemon+Shrouded+Fable+booster+box&hash=item1dbf24c0e5:g:QhsAAeSwBfhpviOW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb%2BQkGGISOUjy4CSEpjeE6cbo5XcpepSAAr9EmDG%2For8WRK3w2uil86REUMpjQqvcdmKYUAJmYZ8CQm07jAw6I1mlxfgSmLnHW0LPW2XVhQYH7KmfYQHIL7kfpFq00Yq8bPXh1vz1xZNhqpGxvDyW3zYRgcjaqwlmCIRN6a2lEyusO%2BI2HPrXdkRj%2FCwXH5%2FFP5NBb1iPGG0vhTfNW%2BLjlo0D%2BvihPnjh0GeLXg9NqP4L51%2FVzvpnLopTtnV2xQ39IP%2FRY0bA4riUyK0SYEBkzeEm4vwg5%2BRK0dCRgbrEwbfBo0vyheOnMwgsWP%2FrP5rtY%3D",
-      "franchise": "pokemon",
-      "set": "Shrouded Fable",
-      "product_type": "etb",
-      "price": 114.94,
-      "shipping_cost": 26.64,
-      "total_price": 114.94,
-      "shipping_verified": true,
-      "baseline_price": 134.75,
-      "gapPct": 14.7,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 677,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -113,7 +117,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-04T18:03:26.947415+00:00",
-      "_last_seen_at": "2026-05-04T18:03:26.947415+00:00"
+      "_last_seen_at": "2026-05-04T18:04:48.957771+00:00"
     }
   ],
   "empty_watchlist": false,
