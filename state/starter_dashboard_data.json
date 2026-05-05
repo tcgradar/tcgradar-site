@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T20:56:13.084506+00:00",
+  "timestamp": "2026-05-05T21:11:36.043241+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -90,7 +90,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-05T14:00:01.829939+00:00",
-      "_last_seen_at": "2026-05-05T20:56:13.083584+00:00"
+      "_last_seen_at": "2026-05-05T21:11:36.042278+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - SMALL TEAR",
@@ -112,10 +112,10 @@
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "20_plus",
+      "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-05T20:56:13.083584+00:00",
-      "_last_seen_at": "2026-05-05T20:56:13.083584+00:00"
+      "_first_seen_at": "2026-05-05T21:11:36.042278+00:00",
+      "_last_seen_at": "2026-05-05T21:11:36.042278+00:00"
     }
   ],
   "empty_watchlist": false,
