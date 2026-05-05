@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T01:03:53.231811+00:00",
+  "timestamp": "2026-05-05T01:42:43.043430+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,24 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 5,
+  "total_deals": 1,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 2
+      "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2
+      "20_plus": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,8 +33,7 @@
       "pokemon"
     ],
     "set": [
-      "Battle Styles",
-      "Shrouded Fable"
+      "Battle Styles"
     ],
     "product_type": [
       "etb"
@@ -59,28 +58,6 @@
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 434,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
-      "url": "https://www.ebay.com/itm/127760908517?_skw=pokemon+Shrouded+Fable+booster+box&hash=item1dbf24c0e5:g:QhsAAeSwBfhpviOW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb%2BQkGGISOUjy4CSEpjeE6cbo5XcpepSAAr9EmDG%2For8WRK3w2uil86REUMpjQqvcdmKYUAJmYZ8CQm07jAw6I1mlxfgSmLnHW0LPW2XVhQYH7KmfYQHIL7kfpFq00Yq8YX1tp0e5xRR7ssbuD42adBkoShQugcMcmTEbSNS3m7UcIYEIHjAalKykTWDN9%2BMia37pzTq0j1tisMt3mETLyA7Li0EscD0D0ph4Y8jyswH5UYds47soxHLhJ3me9r8n5iG34IsiRhhNopYiGwHf8vOjBJN%2B8EN2Gl7NzynAt28wmay8oI%2FoSyXNbktMkBe9s%3D",
-      "franchise": "pokemon",
-      "set": "Shrouded Fable",
-      "product_type": "etb",
-      "price": 114.94,
-      "shipping_cost": 26.64,
-      "total_price": 114.94,
-      "shipping_verified": true,
-      "baseline_price": 134.75,
-      "gapPct": 14.7,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 677,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -113,7 +90,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-04T22:00:01.130211+00:00",
-      "_last_seen_at": "2026-05-05T01:03:53.230095+00:00"
+      "_last_seen_at": "2026-05-05T01:42:43.041832+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -138,7 +115,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-04T19:22:48.034271+00:00",
-      "_last_seen_at": "2026-05-05T01:03:53.230095+00:00"
+      "_last_seen_at": "2026-05-05T01:05:03.425824+00:00"
     },
     {
       "title": "Pokemon TCG Shining Fates Elite Trainer Box Brand New/Sealed",
@@ -163,16 +140,16 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-04T18:03:26.947415+00:00",
-      "_last_seen_at": "2026-05-05T01:03:53.230095+00:00"
+      "_last_seen_at": "2026-05-05T01:05:03.425824+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
