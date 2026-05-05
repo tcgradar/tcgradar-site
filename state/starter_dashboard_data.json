@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T15:48:24.147177+00:00",
+  "timestamp": "2026-05-05T16:08:17.614019+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -51,7 +51,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-05T14:00:01.829939+00:00",
-      "_last_seen_at": "2026-05-05T15:48:24.146031+00:00"
+      "_last_seen_at": "2026-05-05T16:08:17.612929+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - SMALL TEAR",
@@ -75,8 +75,8 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-05T15:11:03.861564+00:00",
-      "_last_seen_at": "2026-05-05T15:48:24.146031+00:00"
+      "_first_seen_at": "2026-05-05T16:08:17.612929+00:00",
+      "_last_seen_at": "2026-05-05T16:08:17.612929+00:00"
     },
     {
       "title": "Pokemon TCG Sword & Shield Battle Styles Booster Box English New Sealed",
@@ -101,7 +101,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-05T13:00:01.411252+00:00",
-      "_last_seen_at": "2026-05-05T15:00:01.307520+00:00"
+      "_last_seen_at": "2026-05-05T16:00:01.306739+00:00"
     }
   ],
   "empty_watchlist": false,
