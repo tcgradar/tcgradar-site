@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T05:47:53.448087+00:00",
+  "timestamp": "2026-05-05T07:27:20.047152+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -30,7 +30,7 @@
   "watchlist_deals": [
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VTYBv2M0b7lXAZlMF1TevWRJhIxGq5NdnLeCSslYsw%2FQCOep4vQrArZ6HSoGsk1RfTyhicy9qo59W43OGk0mh3McNqQALPg%2Fx94i8Dh1GaC955mB6koloVrtu2muBIy9%2ByPoXIty%2BNSra6S9hQJu4j0AhQU6fDtDkg3AaNtlQeAjzGZRTkNi0gKH8IaU3YpJaMB48r9wyNu4PYsN9W9MM7",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3Wxo4OcRwi%2FmZuJytz8zLSyrpNgPPxz11tfS5xme%2B76Wy2kPqADJw9GMUeLv2b4xi0g0RVj3CM3N9kKkBHSo2elkXz47dmiMZ%2F3%2BxPV%2F0Hvr1qUMBoNfDV2BlnhcwZLlCVL80zXRJoV9f2TxIUBbWIzam%2BAJ4rVSVmwE0h%2FBMyvij5P24eO%2F951izdneLbTtV7JVnkUqb5t9VyouH7mfQDm",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -42,7 +42,7 @@
       "gapPct": 41.32,
       "confidence": "medium",
       "seller_rating": 98.9,
-      "seller_feedback_count": 458,
+      "seller_feedback_count": 460,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -50,8 +50,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-04T22:00:01.130211+00:00",
-      "_last_seen_at": "2026-05-05T05:47:53.446715+00:00"
+      "_first_seen_at": "2026-05-05T06:00:01.784058+00:00",
+      "_last_seen_at": "2026-05-05T07:27:20.045805+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - SMALL TEAR",
@@ -75,8 +75,8 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-05T05:06:51.798221+00:00",
-      "_last_seen_at": "2026-05-05T05:47:53.446715+00:00"
+      "_first_seen_at": "2026-05-05T07:27:20.045805+00:00",
+      "_last_seen_at": "2026-05-05T07:27:20.045805+00:00"
     },
     {
       "title": "Pokemon TCG Sword & Shield Battle Styles Booster Box English New Sealed",
@@ -101,7 +101,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-05T05:00:01.288160+00:00",
-      "_last_seen_at": "2026-05-05T05:00:01.288160+00:00"
+      "_last_seen_at": "2026-05-05T07:00:01.945951+00:00"
     }
   ],
   "empty_watchlist": false,
