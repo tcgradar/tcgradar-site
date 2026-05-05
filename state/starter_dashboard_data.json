@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T00:23:25.697702+00:00",
+  "timestamp": "2026-05-05T01:03:53.231811+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -14,8 +14,7 @@
       "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1,
-      "booster_box": 1
+      "etb": 2
     },
     "by_gap_bucket": {
       "20_plus": 2
@@ -35,10 +34,9 @@
     ],
     "set": [
       "Battle Styles",
-      "Fusion Strike"
+      "Shrouded Fable"
     ],
     "product_type": [
-      "booster_box",
       "etb"
     ],
     "gap_bucket": [
@@ -69,20 +67,20 @@
       "gap_bucket": "20_plus"
     },
     {
-      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
+      "url": "https://www.ebay.com/itm/127760908517?_skw=pokemon+Shrouded+Fable+booster+box&hash=item1dbf24c0e5:g:QhsAAeSwBfhpviOW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb%2BQkGGISOUjy4CSEpjeE6cbo5XcpepSAAr9EmDG%2For8WRK3w2uil86REUMpjQqvcdmKYUAJmYZ8CQm07jAw6I1mlxfgSmLnHW0LPW2XVhQYH7KmfYQHIL7kfpFq00Yq8YX1tp0e5xRR7ssbuD42adBkoShQugcMcmTEbSNS3m7UcIYEIHjAalKykTWDN9%2BMia37pzTq0j1tisMt3mETLyA7Li0EscD0D0ph4Y8jyswH5UYds47soxHLhJ3me9r8n5iG34IsiRhhNopYiGwHf8vOjBJN%2B8EN2Gl7NzynAt28wmay8oI%2FoSyXNbktMkBe9s%3D",
       "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 688.01,
-      "shipping_cost": 44.53,
-      "total_price": 688.01,
+      "set": "Shrouded Fable",
+      "product_type": "etb",
+      "price": 114.94,
+      "shipping_cost": 26.64,
+      "total_price": 114.94,
       "shipping_verified": true,
-      "baseline_price": 975.0,
-      "gapPct": 29.43,
+      "baseline_price": 134.75,
+      "gapPct": 14.7,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 1597,
+      "seller_feedback_count": 677,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -115,7 +113,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-04T22:00:01.130211+00:00",
-      "_last_seen_at": "2026-05-05T00:23:25.696300+00:00"
+      "_last_seen_at": "2026-05-05T01:03:53.230095+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -140,7 +138,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-04T19:22:48.034271+00:00",
-      "_last_seen_at": "2026-05-04T21:00:01.305976+00:00"
+      "_last_seen_at": "2026-05-05T01:03:53.230095+00:00"
     },
     {
       "title": "Pokemon TCG Shining Fates Elite Trainer Box Brand New/Sealed",
@@ -165,7 +163,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-04T18:03:26.947415+00:00",
-      "_last_seen_at": "2026-05-04T18:04:48.957771+00:00"
+      "_last_seen_at": "2026-05-05T01:03:53.230095+00:00"
     }
   ],
   "empty_watchlist": false,
