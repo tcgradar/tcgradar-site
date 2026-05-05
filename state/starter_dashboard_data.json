@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T23:23:25.961671+00:00",
+  "timestamp": "2026-05-05T00:23:25.697702+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,24 +7,25 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 4,
+  "total_deals": 2,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1
+      "etb": 1,
+      "booster_box": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1
+      "20_plus": 2
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,9 +34,11 @@
       "pokemon"
     ],
     "set": [
-      "Battle Styles"
+      "Battle Styles",
+      "Fusion Strike"
     ],
     "product_type": [
+      "booster_box",
       "etb"
     ],
     "gap_bucket": [
@@ -58,6 +61,28 @@
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 434,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 688.01,
+      "shipping_cost": 44.53,
+      "total_price": 688.01,
+      "shipping_verified": true,
+      "baseline_price": 975.0,
+      "gapPct": 29.43,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1597,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -90,7 +115,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-04T22:00:01.130211+00:00",
-      "_last_seen_at": "2026-05-04T23:23:25.960307+00:00"
+      "_last_seen_at": "2026-05-05T00:23:25.696300+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -147,9 +172,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 2,
-    "total_merged": 1,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
