@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T11:56:54.850725+00:00",
+    "generated_at": "2026-05-06T16:43:58.926621+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 18,
-    "filtered_count": 2,
+    "filtered_count": 1,
     "filter_criteria": {
       "min_gap": 10.0,
       "max_bids": 50,
@@ -108,7 +108,7 @@
       "old_gapPct": 54.417035189570974,
       "gapPct": 56.51,
       "bids": 18,
-      "time_remaining": 37.17011693416667,
+      "time_remaining": 32.37764393527778,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/198291966708?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e2b1f4af4:g:mm4AAeSwNw1p48GG",
       "franchise": "pokemon",
@@ -117,29 +117,6 @@
       "seller_trust": "HIGH",
       "opportunity_score": 75,
       "deal_quality": "high"
-    },
-    {
-      "title": "Pok\u00e9mon TCG Scarlet Violet Destined Rivals Booster Box Factory Sealed SV10",
-      "current_price": 335.0,
-      "shipping_cost": 17.43,
-      "total_price": 352.43,
-      "baseline": 477.13,
-      "baseline_source": "serpapi",
-      "baseline_key": "pokemon|destined_rivals|booster_box|en|standard",
-      "serpapi_sample_size": 31,
-      "old_baseline": 477.13,
-      "old_gapPct": 26.135434787164925,
-      "gapPct": 29.79,
-      "bids": 29,
-      "time_remaining": 38.38678358722222,
-      "opportunity_type": "ongoing",
-      "url": "https://www.ebay.com/itm/198321540865?_skw=Pokemon+Destined+Rivals+booster+box&hash=item2e2ce28f01:g:2vkAAeSwcqNpDOqv",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 41,
-      "deal_quality": "medium"
     }
   ]
 }
