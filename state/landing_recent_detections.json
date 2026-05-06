@@ -1,17 +1,15 @@
 {
-  "updated_at": "2026-05-06T08:08:19.303576+00:00",
+  "updated_at": "2026-05-06T08:49:35.239468+00:00",
   "source": "best_deals_history",
   "starter_quality_deal": {
-    "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
+    "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
     "franchise": "pokemon",
-    "set": "Fusion Strike",
+    "set": "Battle Styles",
     "product_type": "booster_box",
-    "price": 688.01,
-    "baseline_price": 975.0,
-    "gapPct": 29.43,
+    "price": 269.97,
+    "baseline_price": 312.5,
+    "gapPct": 13.61,
     "confidence": "high",
-    "seller_rating": 100.0,
-    "seller_feedback_count": 1586,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   },
