@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T15:02:51.467150+00:00",
+  "timestamp": "2026-05-06T16:03:20.377463+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,30 +7,69 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
-  "all_deals_count": 1,
+  "total_deals": 1,
+  "all_deals_count": 2,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 1
+    },
+    "by_product_type": {
+      "booster_box": 1
+    },
+    "by_gap_bucket": {
+      "20_plus": 1
+    },
+    "by_source": {
+      "ebay": 1
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Fusion Strike"
+    ],
+    "product_type": [
+      "booster_box"
+    ],
+    "gap_bucket": [
+      "20_plus"
+    ]
   },
-  "deals": [],
+  "deals": [
+    {
+      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 686.37,
+      "shipping_cost": 44.42,
+      "total_price": 686.37,
+      "shipping_verified": true,
+      "baseline_price": 975.0,
+      "gapPct": 29.6,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1605,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    }
+  ],
   "watchlist_deals": [
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3U5mLiwUuKRHCf%2BHENG2VoBWmfGuQDeY4uAQ%2Fpbq%2FKjJSpjajOpmgoDfhUxk44stLFlnUzUF1n3BmBf19IUaZZB5K2s%2FqmL21vHxuWTHo0vU1fXlXZ%2F0B62XIIL50%2F%2Bk8Fxw75ha0SHmT4UN9me7fPdlrUEcBK0UGk8KXNgAkSLQWFpZUSEXtGfKaI5tqoIbdd4li0RJZIC2OGvG7miP1%2FX",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3Xy0bSpqNqajostiCOoVhXMZPqGKWfAuv1tzEwzsvd%2FxS1PPUWFCoquQZcaEu%2FnTCkBOJizmtqf7KtggdUJ8oxjZEcCi6qOdwnrDnaHrVSxDQfFpvGTxnILsgKqRq8i%2BeqXEfVusz9ejPedqcr2hJHkLZkJ2VtMsnEcMiXmeo00KJC1ODlw9qWx%2BzRm0kr0RgnEQwY%2FX2yddCsZgSV8%2BIeh",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -42,7 +81,7 @@
       "gapPct": 41.32,
       "confidence": "medium",
       "seller_rating": 98.9,
-      "seller_feedback_count": 466,
+      "seller_feedback_count": 469,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -50,17 +89,17 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-06T07:24:54.498038+00:00",
-      "_last_seen_at": "2026-05-06T15:02:51.466400+00:00"
+      "_first_seen_at": "2026-05-06T16:00:01.688340+00:00",
+      "_last_seen_at": "2026-05-06T16:03:20.376714+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 0,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
