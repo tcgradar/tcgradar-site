@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T20:06:06.723778+00:00",
+  "timestamp": "2026-05-06T20:48:29.716542+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 1,
-  "all_deals_count": 3,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 1
@@ -17,7 +17,7 @@
       "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 1
+      "20_plus": 1
     },
     "by_source": {
       "ebay": 1
@@ -39,31 +39,31 @@
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "20_plus"
     ]
   },
   "deals": [
     {
-      "title": "POKEMON TCG: Scarlet & Violet Destined Rivals Elite Trainer Box Sealed/Scuffed",
-      "url": "https://www.ebay.com/itm/236774225942?_skw=pokemon+Destined+Rivals+booster+box&hash=item3720d7f816:g:Q18AAeSwzmBp6ieX",
+      "title": "Pokemon Destined Rivals Elite Trainer Box ETB Sealed",
+      "url": "https://www.ebay.com/itm/267661903499?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e51e4868b:g:~JsAAeSwZqJp-6Ga",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "etb",
-      "price": 214.99,
+      "price": 200.0,
       "shipping_cost": 0.0,
-      "total_price": 214.99,
+      "total_price": 200.0,
       "shipping_verified": false,
       "baseline_price": 399.99,
-      "gapPct": 46.25,
+      "gapPct": 50.0,
       "confidence": "high",
-      "seller_rating": 99.7,
-      "seller_feedback_count": 718931,
+      "seller_rating": 100.0,
+      "seller_feedback_count": 110,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "10_to_19"
+      "gap_bucket": "20_plus"
     }
   ],
   "watchlist_deals": [
@@ -90,7 +90,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-06T16:00:01.688340+00:00",
-      "_last_seen_at": "2026-05-06T20:06:06.722821+00:00"
+      "_last_seen_at": "2026-05-06T20:48:29.715434+00:00"
+    },
+    {
+      "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
+      "url": "https://www.ebay.com/itm/389392094560?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5aa993d560:g:xQYAAeSwjtVpRdO5",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 94.99,
+      "shipping_cost": 0.0,
+      "total_price": 94.99,
+      "shipping_verified": true,
+      "baseline_price": 104.99,
+      "gapPct": 9.52,
+      "confidence": "medium",
+      "seller_rating": 99.2,
+      "seller_feedback_count": 626,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-06T20:48:29.715434+00:00",
+      "_last_seen_at": "2026-05-06T20:48:29.715434+00:00"
     },
     {
       "title": "Pokemon TCG Shining Fates Elite Trainer Box Brand New/Sealed",
