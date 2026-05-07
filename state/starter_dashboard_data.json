@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T15:26:50.999753+00:00",
+  "timestamp": "2026-05-07T16:05:45.546877+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -90,7 +90,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-07T09:00:02.016036+00:00",
-      "_last_seen_at": "2026-05-07T15:26:50.998739+00:00"
+      "_last_seen_at": "2026-05-07T16:05:45.545877+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -115,7 +115,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-07T09:51:03.375296+00:00",
-      "_last_seen_at": "2026-05-07T15:26:50.998739+00:00"
+      "_last_seen_at": "2026-05-07T16:05:45.545877+00:00"
     }
   ],
   "empty_watchlist": false,
