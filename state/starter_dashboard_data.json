@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T13:03:16.292865+00:00",
+  "timestamp": "2026-05-07T14:02:48.600004+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,24 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 4,
+  "total_deals": 1,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 2
+      "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 2
+      "10_to_19": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,8 +33,7 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals",
-      "Temporal Forces"
+      "Destined Rivals"
     ],
     "product_type": [
       "etb"
@@ -45,42 +44,20 @@
   },
   "deals": [
     {
-      "title": "Pokemon Temporal Forces Elite Trainer Box Iron Leaves Factory Sealed",
-      "url": "https://www.ebay.com/itm/188233539673?_skw=pokemon+Temporal+Forces+booster+box&hash=item2bd397e059:g:61oAAeSw-2BpzTZq",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "etb",
-      "price": 120.0,
-      "shipping_cost": 0.0,
-      "total_price": 120.0,
-      "shipping_verified": false,
-      "baseline_price": 275.0,
-      "gapPct": 56.36,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 198,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "POKEMON TCG: Scarlet & Violet Destined Rivals Elite Trainer Box Sealed/Scuffed",
-      "url": "https://www.ebay.com/itm/236774225942?_skw=pokemon+Destined+Rivals+booster+box&hash=item3720d7f816:g:Q18AAeSwzmBp6ieX",
+      "title": "Pokemon Destined Rivals Elite Trainer Box ETB Sealed",
+      "url": "https://www.ebay.com/itm/267661903499?_skw=pokemon+Destined+Rivals+booster+box&hash=item3e51e4868b:g:vBoAAeSwnflp-6p8",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "etb",
-      "price": 214.99,
+      "price": 200.0,
       "shipping_cost": 0.0,
-      "total_price": 214.99,
+      "total_price": 200.0,
       "shipping_verified": false,
       "baseline_price": 399.99,
-      "gapPct": 46.25,
+      "gapPct": 50.0,
       "confidence": "high",
-      "seller_rating": 99.7,
-      "seller_feedback_count": 718992,
+      "seller_rating": 100.0,
+      "seller_feedback_count": 110,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -113,7 +90,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-07T09:00:02.016036+00:00",
-      "_last_seen_at": "2026-05-07T13:03:16.291877+00:00"
+      "_last_seen_at": "2026-05-07T14:02:48.599019+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -145,9 +122,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
