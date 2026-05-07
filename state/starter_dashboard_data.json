@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T16:05:45.546877+00:00",
+  "timestamp": "2026-05-07T17:49:29.338411+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -69,7 +69,7 @@
   "watchlist_deals": [
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3UeXLQ3W7OCKcsUscSELKfGTsyPpInkOqxIgfF72LT%2FQLxTlv90%2BRswcY23O8TXGmf2EnqmcWqU%2FMqyrvKHep%2BqJxRaDI0O7eaov39ESsfi%2BlBzP4YZepqmZH9o5LKaUZFT46OAe%2FoHcf1x9N6qWbsjIy4X7VwArJAum93e0ZpIXQDltMP2DevBwBWfjbBpXORMu3QHaz1siaeoSptx%2BLc5",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3WuiMFIAPuKhxSRZitUwO8y%2F2ql%2BL9oezLdOeJqqu29VtIoqVkH--%2F3zl1DVuhuX5eJWjVlVqLSCuxxQbb%2BYhBXZxA2zOpHl5zEhNcdNRgvhmf6JTZniycdPzzYQDdXH4ogjJzUxOlkautGfKvx0oFmNhiBA43XeIAl96INnvLACvZfNHMer8BvmBnxaK%2BtE1mGGs36pvlpNL%2B9xKVFSLa9",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -81,7 +81,7 @@
       "gapPct": 41.32,
       "confidence": "medium",
       "seller_rating": 98.9,
-      "seller_feedback_count": 472,
+      "seller_feedback_count": 473,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -89,8 +89,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-07T09:00:02.016036+00:00",
-      "_last_seen_at": "2026-05-07T16:05:45.545877+00:00"
+      "_first_seen_at": "2026-05-07T17:49:29.337455+00:00",
+      "_last_seen_at": "2026-05-07T17:49:29.337455+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -115,7 +115,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-07T09:51:03.375296+00:00",
-      "_last_seen_at": "2026-05-07T16:05:45.545877+00:00"
+      "_last_seen_at": "2026-05-07T17:49:29.337455+00:00"
     }
   ],
   "empty_watchlist": false,
