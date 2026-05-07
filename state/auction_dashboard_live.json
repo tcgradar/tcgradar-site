@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-07T05:24:35.356471+00:00",
+    "generated_at": "2026-05-07T06:08:58.389706+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 18,
@@ -108,7 +108,7 @@
       "old_gapPct": 53.321818181818195,
       "gapPct": 56.66,
       "bids": 12,
-      "time_remaining": 66.74219167027778,
+      "time_remaining": 66.0037239213889,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/206245504487?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item300530a5e7:g:5BkAAeSwQMdp9SM7",
       "franchise": "onepiece",
@@ -131,7 +131,7 @@
       "old_gapPct": 43.919062080655415,
       "gapPct": 50.4,
       "bids": 14,
-      "time_remaining": 66.66323855361111,
+      "time_remaining": 65.92618340083334,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/206245504493?_skw=One+Piece+Wings+of+the+Captain+booster+box&hash=item300530a5ed:g:S-8AAeSw4u1p9SNx",
       "franchise": "onepiece",
