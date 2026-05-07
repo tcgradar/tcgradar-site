@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T06:46:34.265014+00:00",
+  "timestamp": "2026-05-07T07:28:20.224634+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -90,7 +90,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-07T01:00:01.834879+00:00",
-      "_last_seen_at": "2026-05-07T06:46:34.264329+00:00"
+      "_last_seen_at": "2026-05-07T07:28:20.223885+00:00"
     }
   ],
   "empty_watchlist": false,
