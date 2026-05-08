@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-08T20:42:59.511433+00:00",
-  "source": "best_deals_history",
+  "updated_at": "2026-05-08T21:23:26.525679+00:00",
+  "source": "active_deals",
   "starter_quality_deal": {
     "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
     "franchise": "pokemon",
@@ -22,8 +22,8 @@
     "set": "Fusion Strike",
     "product_type": "booster_box",
     "confidence": "high",
-    "baseline_price": 1149.99,
-    "gapPct": 40.15,
+    "baseline_price": 1135.33,
+    "gapPct": 39.37,
     "deal_quality": "HIGH",
     "seller_trust": "HIGH"
   }
