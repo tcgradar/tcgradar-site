@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T22:03:05.836121+00:00",
+  "timestamp": "2026-05-08T22:43:35.899103+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -90,7 +90,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T20:03:02.999535+00:00",
-      "_last_seen_at": "2026-05-08T22:03:05.834516+00:00"
+      "_last_seen_at": "2026-05-08T22:43:35.897456+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Elite Trainer Box ETB - NEW/SEALED - SHIPS FAST",
@@ -140,11 +140,11 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T18:00:01.388157+00:00",
-      "_last_seen_at": "2026-05-08T22:03:05.834516+00:00"
+      "_last_seen_at": "2026-05-08T22:43:35.897456+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
-      "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGbyZysOVWck%2FdJspkS5BUJNm7Yp83Nl%2FzvV4PatMUZ2cxpF%2BbEDcX1YbCAj1KSPFpmUB8%2B1lyEPFTOm3ON6JluDo0StIc6jqDxJMVKPX6cYr3Rd8lY%2BxondcCQKRDkV01KBlB8tfgvllmPKnPbDewsKSvVOrogshX%2BjoPepVc41%2BmHAjbc%2FKUumFoH81S4f6kFaRUXSd7e4rXz2PTUlukvW",
+      "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGajAPZ527roXZy0siIkmxTuyO%2B6rSXctIzjEDCAgb%2FXE72lKbeeRNRL5t3zYLDtzqapimgslFwDT9yoLE3Ydf4RkwfatU8dIUu%2BPdqj6X5Bh8u2m4UanxCeoCo%2FciKmlBRSLBLDmNQPhxxz0ZGvmw3TZKmJB%2F1LjUM5TRtUAnmbSILEFTG9SfJxIqL1shqeDrcT3DCz7HJZ7ZF8t69f7EHp",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
@@ -156,7 +156,7 @@
       "gapPct": 33.34,
       "confidence": "medium",
       "seller_rating": 98.2,
-      "seller_feedback_count": 100,
+      "seller_feedback_count": 101,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -164,8 +164,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-08T14:43:21.501932+00:00",
-      "_last_seen_at": "2026-05-08T22:03:05.834516+00:00"
+      "_first_seen_at": "2026-05-08T22:43:35.897456+00:00",
+      "_last_seen_at": "2026-05-08T22:43:35.897456+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) Sealed",
@@ -190,7 +190,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-08T22:03:05.834516+00:00",
-      "_last_seen_at": "2026-05-08T22:03:05.834516+00:00"
+      "_last_seen_at": "2026-05-08T22:43:35.897456+00:00"
     }
   ],
   "empty_watchlist": false,
