@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T15:22:58.927643+00:00",
+  "timestamp": "2026-05-08T16:03:30.314601+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,26 +7,65 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
+  "total_deals": 1,
   "all_deals_count": 6,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 1
+    },
+    "by_product_type": {
+      "etb": 1
+    },
+    "by_gap_bucket": {
+      "10_to_19": 1
+    },
+    "by_source": {
+      "ebay": 1
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Temporal Forces"
+    ],
+    "product_type": [
+      "etb"
+    ],
+    "gap_bucket": [
+      "10_to_19"
+    ]
   },
-  "deals": [],
+  "deals": [
+    {
+      "title": "Pokemon Temporal Forces Elite Trainer Box Iron Leaves Factory Sealed",
+      "url": "https://www.ebay.com/itm/188233539673?_skw=pokemon+Temporal+Forces+booster+box&hash=item2bd397e059:g:61oAAeSw-2BpzTZq",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "etb",
+      "price": 120.0,
+      "shipping_cost": 0.0,
+      "total_price": 120.0,
+      "shipping_verified": false,
+      "baseline_price": 275.0,
+      "gapPct": 56.36,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 199,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    }
+  ],
   "watchlist_deals": [
     {
       "title": "One Piece OP-07 500 Years Future in the Booster Box Japanese Sealed",
@@ -101,7 +140,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T10:00:01.361955+00:00",
-      "_last_seen_at": "2026-05-08T15:22:58.925766+00:00"
+      "_last_seen_at": "2026-05-08T16:03:30.312629+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -126,7 +165,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T14:43:21.501932+00:00",
-      "_last_seen_at": "2026-05-08T15:22:58.925766+00:00"
+      "_last_seen_at": "2026-05-08T16:03:30.312629+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box Brand New Sealed ✅",
@@ -151,41 +190,16 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-08T11:43:12.795329+00:00",
-      "_last_seen_at": "2026-05-08T15:00:01.368464+00:00"
-    },
-    {
-      "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) Sealed",
-      "url": "https://www.ebay.com/itm/406908859552?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ebda874a0:g:k5QAAeSwUdhp-2D6",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 462.51,
-      "shipping_cost": 46.37,
-      "total_price": 462.51,
-      "shipping_verified": true,
-      "baseline_price": 477.13,
-      "gapPct": 3.06,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 251,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-08T15:22:58.925766+00:00",
-      "_last_seen_at": "2026-05-08T15:22:58.925766+00:00"
+      "_last_seen_at": "2026-05-08T16:03:30.312629+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 0,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
