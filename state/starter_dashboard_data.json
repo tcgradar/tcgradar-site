@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T16:42:56.323101+00:00",
+  "timestamp": "2026-05-08T17:23:27.052860+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 5,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -59,12 +59,12 @@
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "etb",
-      "price": 199.99,
+      "price": 192.0,
       "shipping_cost": 0.0,
-      "total_price": 199.99,
+      "total_price": 192.0,
       "shipping_verified": false,
       "baseline_price": 399.99,
-      "gapPct": 50.0,
+      "gapPct": 52.0,
       "confidence": "high",
       "seller_rating": 97.7,
       "seller_feedback_count": 618,
@@ -75,8 +75,8 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-08T08:43:20.655728+00:00",
-      "_last_seen_at": "2026-05-08T16:42:56.321396+00:00"
+      "_first_seen_at": "2026-05-08T16:44:09.453400+00:00",
+      "_last_seen_at": "2026-05-08T17:00:01.072867+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -101,7 +101,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T10:00:01.361955+00:00",
-      "_last_seen_at": "2026-05-08T16:42:56.321396+00:00"
+      "_last_seen_at": "2026-05-08T17:23:27.050403+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -126,7 +126,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T14:43:21.501932+00:00",
-      "_last_seen_at": "2026-05-08T16:42:56.321396+00:00"
+      "_last_seen_at": "2026-05-08T17:23:27.050403+00:00"
+    },
+    {
+      "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
+      "url": "https://www.ebay.com/itm/127760908517?_skw=pokemon+Shrouded+Fable+booster+box&hash=item1dbf24c0e5:g:QhsAAeSwBfhpviOW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb%2BQkGGISOUjy4CSEpjeE6cbo5XcpepSAAr9EmDG%2For8WRK3w2uil86REUMpjQqvcdmKYUAJmYZ8CQm07jAw6I1mlxfgSmLnHW0LPW2XVhQYH7KmfYQHIL7kfpFq00Yq8aDyNJ28YmakEu43UWZwtYq6%2BPSLh852MCLiNJQ6nISISGhleQZeR2hBfWcnRacRQod6Qz7m9EDCn4ZvassFvx0niSpvnXsK7pMFtSp4L0xMHXw7wUOpsoqIZuaIbmsp1P6dICn369a0j6ZRcAkCX0%2FR8y0lctyA1%2BwijFrokISs8bO%2FpeGnveXAF3tyPbJJhw%3D",
+      "franchise": "pokemon",
+      "set": "Shrouded Fable",
+      "product_type": "etb",
+      "price": 125.61000000000001,
+      "shipping_cost": 26.82,
+      "total_price": 125.61000000000001,
+      "shipping_verified": true,
+      "baseline_price": 134.75,
+      "gapPct": 6.78,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 678,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-08T17:23:27.050403+00:00",
+      "_last_seen_at": "2026-05-08T17:23:27.050403+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box Brand New Sealed ✅",
@@ -151,7 +176,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-08T11:43:12.795329+00:00",
-      "_last_seen_at": "2026-05-08T16:42:56.321396+00:00"
+      "_last_seen_at": "2026-05-08T17:23:27.050403+00:00"
+    },
+    {
+      "title": "Pokemon TCG Shining Fates Elite Trainer Box ETB Sealed",
+      "url": "https://www.ebay.com/itm/178084475059?_skw=pokemon+Shining+Fates+booster+box&hash=item2976a970b3:g:OuYAAeSwLQ1p799N",
+      "franchise": "pokemon",
+      "set": "Shining Fates",
+      "product_type": "etb",
+      "price": 120.0,
+      "shipping_cost": 0.0,
+      "total_price": 120.0,
+      "shipping_verified": false,
+      "baseline_price": 125.0,
+      "gapPct": 4.0,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 313,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-08T17:23:27.050403+00:00",
+      "_last_seen_at": "2026-05-08T17:23:27.050403+00:00"
     }
   ],
   "empty_watchlist": false,
