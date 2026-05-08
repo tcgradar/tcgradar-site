@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T20:03:03.001343+00:00",
+  "timestamp": "2026-05-08T20:42:59.458572+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -51,7 +51,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T20:03:02.999535+00:00",
-      "_last_seen_at": "2026-05-08T20:03:02.999535+00:00"
+      "_last_seen_at": "2026-05-08T20:04:14.749231+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Elite Trainer Box ETB - NEW/SEALED - SHIPS FAST",
@@ -76,7 +76,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T16:44:09.453400+00:00",
-      "_last_seen_at": "2026-05-08T20:03:02.999535+00:00"
+      "_last_seen_at": "2026-05-08T20:42:59.456828+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -101,7 +101,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T18:00:01.388157+00:00",
-      "_last_seen_at": "2026-05-08T20:03:02.999535+00:00"
+      "_last_seen_at": "2026-05-08T20:42:59.456828+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -126,7 +126,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T14:43:21.501932+00:00",
-      "_last_seen_at": "2026-05-08T20:03:02.999535+00:00"
+      "_last_seen_at": "2026-05-08T20:42:59.456828+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) Sealed",
@@ -151,7 +151,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-08T20:03:02.999535+00:00",
-      "_last_seen_at": "2026-05-08T20:03:02.999535+00:00"
+      "_last_seen_at": "2026-05-08T20:42:59.456828+00:00"
     }
   ],
   "empty_watchlist": false,
