@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T06:22:53.573850+00:00",
+  "timestamp": "2026-05-08T08:43:20.656934+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,24 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 3,
+  "total_deals": 2,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1
+      "etb": 1,
+      "booster_box": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 1
+      "10_to_19": 1,
+      "20_plus": 1
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,19 +35,68 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals"
+      "Darkness Ablaze",
+      "Fusion Strike"
     ],
     "product_type": [
+      "booster_box",
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
     {
-      "title": "POKEMON TCG: Scarlet & Violet Destined Rivals Elite Trainer Box Sealed",
-      "url": "https://www.ebay.com/itm/397923291279?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ca613908f:g:7AEAAeSwYudp-8Is",
+      "title": "Pokemon TCG Sword & Shield  Darkness Ablaze Elite Trainer Box with Protector",
+      "url": "https://www.ebay.com/itm/147297646914?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item224b9fb942:g:Cv4AAeSwhjZp-5H6",
+      "franchise": "pokemon",
+      "set": "Darkness Ablaze",
+      "product_type": "etb",
+      "price": 99.99,
+      "shipping_cost": 0.0,
+      "total_price": 99.99,
+      "shipping_verified": true,
+      "baseline_price": 300.0,
+      "gapPct": 66.67,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 261,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 688.31,
+      "shipping_cost": 44.55,
+      "total_price": 688.31,
+      "shipping_verified": true,
+      "baseline_price": 975.0,
+      "gapPct": 29.4,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1611,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    }
+  ],
+  "watchlist_deals": [
+    {
+      "title": "Pokemon TCG Destined Rivals Elite Trainer Box ETB - NEW/SEALED - SHIPS FAST",
+      "url": "https://www.ebay.com/itm/157893872147?_skw=pokemon+Destined+Rivals+booster+box&hash=item24c3354a13:g:irkAAeSw9cNp~Vdh",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "etb",
@@ -56,17 +107,18 @@
       "baseline_price": 399.99,
       "gapPct": 50.0,
       "confidence": "high",
-      "seller_rating": 99.5,
-      "seller_feedback_count": 204,
+      "seller_rating": 97.7,
+      "seller_feedback_count": 618,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    }
-  ],
-  "watchlist_deals": [
+      "seller_trust": "MEDIUM",
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-08T08:43:20.655728+00:00",
+      "_last_seen_at": "2026-05-08T08:43:20.655728+00:00"
+    },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
       "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VSu%2F9f%2FDxtfkyi0wy%2Fi9ZBJmrhGPclWrClJ3TF2V8d2u9dV%2F%2BExiTUUo%2Bpl%2BUtRyvUhpDLSrndKLPzCxZbxe9c9TOIoYY8Uj5jX44cKoBBD6n7yLOQmqPsylNEce7vWhtAZ641IBavwNh2OAl6nZIBeN7lebgO7vAsf5uyWYMvY05WVLufkd%2FOYt%2BfnMYb1GcWfXH6328S8a9LBIou%2Fy9i",
@@ -90,7 +142,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T02:00:01.232528+00:00",
-      "_last_seen_at": "2026-05-08T06:22:53.572967+00:00"
+      "_last_seen_at": "2026-05-08T08:43:20.655728+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -115,16 +167,16 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T06:22:53.572967+00:00",
-      "_last_seen_at": "2026-05-08T06:22:53.572967+00:00"
+      "_last_seen_at": "2026-05-08T08:43:20.655728+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 2,
-    "total_merged": 1,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
