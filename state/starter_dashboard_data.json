@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T00:34:09.500982+00:00",
+  "timestamp": "2026-05-08T02:46:54.447153+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 3,
-  "all_deals_count": 5,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 3
@@ -119,7 +119,7 @@
   "watchlist_deals": [
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3WuiMFIAPuKhxSRZitUwO8y%2F2ql%2BL9oezLdOeJqqu29VtIoqVkH--%2F3zl1DVuhuX5eJWjVlVqLSCuxxQbb%2BYhBXZxA2zOpHl5zEhNcdNRgvhmf6JTZniycdPzzYQDdXH4ogjJzUxOlkautGfKvx0oFmNhiBA43XeIAl96INnvLACvZfNHMer8BvmBnxaK%2BtE1mGGs36pvlpNL%2B9xKVFSLa9",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VSu%2F9f%2FDxtfkyi0wy%2Fi9ZBJmrhGPclWrClJ3TF2V8d2u9dV%2F%2BExiTUUo%2Bpl%2BUtRyvUhpDLSrndKLPzCxZbxe9c9TOIoYY8Uj5jX44cKoBBD6n7yLOQmqPsylNEce7vWhtAZ641IBavwNh2OAl6nZIBeN7lebgO7vAsf5uyWYMvY05WVLufkd%2FOYt%2BfnMYb1GcWfXH6328S8a9LBIou%2Fy9i",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -139,33 +139,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-07T17:49:29.337455+00:00",
-      "_last_seen_at": "2026-05-08T00:34:09.500011+00:00"
-    },
-    {
-      "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
-      "url": "https://www.ebay.com/itm/389392094560?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5aa993d560:g:xQYAAeSwjtVpRdO5",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 94.99,
-      "shipping_cost": 0.0,
-      "total_price": 94.99,
-      "shipping_verified": true,
-      "baseline_price": 104.99,
-      "gapPct": 9.52,
-      "confidence": "medium",
-      "seller_rating": 99.2,
-      "seller_feedback_count": 631,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-07T17:54:29.527239+00:00",
-      "_last_seen_at": "2026-05-07T18:32:13.337870+00:00"
+      "_first_seen_at": "2026-05-08T02:00:01.232528+00:00",
+      "_last_seen_at": "2026-05-08T02:46:54.446400+00:00"
     }
   ],
   "empty_watchlist": false,
