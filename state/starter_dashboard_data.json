@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T17:23:27.052860+00:00",
+  "timestamp": "2026-05-08T18:02:44.163445+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 7,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -80,7 +80,7 @@
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3X0V9AA29JMbK6xZEwfULIXNTx3DfZoBQrxuPMxHl7pEqnaAZO1Z8NeteUG0vb1xT9YmLpJrwrlPtni9AgAqG03r0aKk2DxHFQHBAsiGaY8jAleAuTLqSK8cKaRvw4fBwGzpF4e1oSS%2F4cyecRbdm%2B8URpZvA%2Bx%2BoF965wvVLnEmQbnM9AdGvcCiPEJEdM9LK2nuyxfXxijMi%2FRsduYI%2Bwp",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3V4V%2FfD6iVDPqbTb2LCAwwUAB%2F%2BewOhP%2BcJNNenVRMs4MDeMKre8Ym5FezIv8eJKsmcIvq6tiN%2FRKaext%2Fl0vhmmvjoGjFHzN0Kb0ptqtZHbTBOTkx8ENR1e%2BbCe4wV9%2B5zMlGD4yaaQ4MojeVgDkx3c%2FCjaEIGIw0Nuo4w7k57fFjUOETuQolCm%2FXSuKnWlS3RUyKN9C%2FEna9CBp%2FJRRJw",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -92,7 +92,7 @@
       "gapPct": 41.32,
       "confidence": "medium",
       "seller_rating": 99.0,
-      "seller_feedback_count": 474,
+      "seller_feedback_count": 475,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -100,8 +100,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-08T10:00:01.361955+00:00",
-      "_last_seen_at": "2026-05-08T17:23:27.050403+00:00"
+      "_first_seen_at": "2026-05-08T18:00:01.388157+00:00",
+      "_last_seen_at": "2026-05-08T18:02:44.161545+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -126,32 +126,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T14:43:21.501932+00:00",
-      "_last_seen_at": "2026-05-08T17:23:27.050403+00:00"
-    },
-    {
-      "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
-      "url": "https://www.ebay.com/itm/127760908517?_skw=pokemon+Shrouded+Fable+booster+box&hash=item1dbf24c0e5:g:QhsAAeSwBfhpviOW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb%2BQkGGISOUjy4CSEpjeE6cbo5XcpepSAAr9EmDG%2For8WRK3w2uil86REUMpjQqvcdmKYUAJmYZ8CQm07jAw6I1mlxfgSmLnHW0LPW2XVhQYH7KmfYQHIL7kfpFq00Yq8aDyNJ28YmakEu43UWZwtYq6%2BPSLh852MCLiNJQ6nISISGhleQZeR2hBfWcnRacRQod6Qz7m9EDCn4ZvassFvx0niSpvnXsK7pMFtSp4L0xMHXw7wUOpsoqIZuaIbmsp1P6dICn369a0j6ZRcAkCX0%2FR8y0lctyA1%2BwijFrokISs8bO%2FpeGnveXAF3tyPbJJhw%3D",
-      "franchise": "pokemon",
-      "set": "Shrouded Fable",
-      "product_type": "etb",
-      "price": 125.61000000000001,
-      "shipping_cost": 26.82,
-      "total_price": 125.61000000000001,
-      "shipping_verified": true,
-      "baseline_price": 134.75,
-      "gapPct": 6.78,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 678,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-08T17:23:27.050403+00:00",
-      "_last_seen_at": "2026-05-08T17:23:27.050403+00:00"
+      "_last_seen_at": "2026-05-08T18:02:44.161545+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box Brand New Sealed ✅",
@@ -176,32 +151,32 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-08T11:43:12.795329+00:00",
-      "_last_seen_at": "2026-05-08T17:23:27.050403+00:00"
+      "_last_seen_at": "2026-05-08T18:00:01.388157+00:00"
     },
     {
-      "title": "Pokemon TCG Shining Fates Elite Trainer Box ETB Sealed",
-      "url": "https://www.ebay.com/itm/178084475059?_skw=pokemon+Shining+Fates+booster+box&hash=item2976a970b3:g:OuYAAeSwLQ1p799N",
+      "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) Sealed",
+      "url": "https://www.ebay.com/itm/406908859552?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ebda874a0:g:k5QAAeSwUdhp-2D6",
       "franchise": "pokemon",
-      "set": "Shining Fates",
-      "product_type": "etb",
-      "price": 120.0,
-      "shipping_cost": 0.0,
-      "total_price": 120.0,
-      "shipping_verified": false,
-      "baseline_price": 125.0,
-      "gapPct": 4.0,
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 462.51,
+      "shipping_cost": 46.37,
+      "total_price": 462.51,
+      "shipping_verified": true,
+      "baseline_price": 477.13,
+      "gapPct": 3.06,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 313,
+      "seller_feedback_count": 251,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "10_to_19",
+      "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-08T17:23:27.050403+00:00",
-      "_last_seen_at": "2026-05-08T17:23:27.050403+00:00"
+      "_first_seen_at": "2026-05-08T18:02:44.161545+00:00",
+      "_last_seen_at": "2026-05-08T18:02:44.161545+00:00"
     }
   ],
   "empty_watchlist": false,
