@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T13:42:36.667152+00:00",
+  "timestamp": "2026-05-09T14:22:43.374854+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -90,7 +90,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-09T13:42:36.665981+00:00",
-      "_last_seen_at": "2026-05-09T13:42:36.665981+00:00"
+      "_last_seen_at": "2026-05-09T14:00:01.298816+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
@@ -115,7 +115,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-09T10:22:25.862525+00:00",
-      "_last_seen_at": "2026-05-09T13:42:36.665981+00:00"
+      "_last_seen_at": "2026-05-09T14:22:43.373649+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
