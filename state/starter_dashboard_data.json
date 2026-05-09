@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T08:22:43.287789+00:00",
+  "timestamp": "2026-05-09T09:03:03.833153+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -57,7 +57,7 @@
       "gapPct": 52.5,
       "confidence": "high",
       "seller_rating": 99.5,
-      "seller_feedback_count": 208,
+      "seller_feedback_count": 209,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -90,7 +90,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-09T02:00:01.528903+00:00",
-      "_last_seen_at": "2026-05-09T08:22:43.286788+00:00"
+      "_last_seen_at": "2026-05-09T09:03:03.832150+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -115,7 +115,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-09T07:00:01.713316+00:00",
-      "_last_seen_at": "2026-05-09T08:22:43.286788+00:00"
+      "_last_seen_at": "2026-05-09T09:03:03.832150+00:00"
     }
   ],
   "empty_watchlist": false,
