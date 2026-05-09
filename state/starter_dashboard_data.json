@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T20:22:49.887456+00:00",
+  "timestamp": "2026-05-09T21:02:55.352069+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -80,7 +80,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-09T15:42:56.964104+00:00",
-      "_last_seen_at": "2026-05-09T20:22:49.886045+00:00",
+      "_last_seen_at": "2026-05-09T21:02:55.350663+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
