@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T03:22:45.883440+00:00",
+  "timestamp": "2026-05-09T04:23:19.155206+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,24 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
+  "total_deals": 2,
   "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1
+      "etb": 1,
+      "booster_box": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 1
+      "10_to_19": 1,
+      "20_plus": 1
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,13 +35,16 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals"
+      "Destined Rivals",
+      "Fusion Strike"
     ],
     "product_type": [
+      "booster_box",
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
@@ -64,34 +69,31 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
-    }
-  ],
-  "watchlist_deals": [
+    },
     {
-      "title": "One Piece OP-07 500 Years Future in the Booster Box Japanese Sealed",
-      "url": "https://www.ebay.com/itm/137199397160?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item1ff1b8a928:g:EMAAAeSwx2dp0otK",
-      "franchise": "onepiece",
-      "set": "500 Years in the Future",
+      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
       "product_type": "booster_box",
-      "price": 69.76,
-      "shipping_cost": 0.0,
-      "total_price": 69.76,
+      "price": 688.31,
+      "shipping_cost": 44.55,
+      "total_price": 688.31,
       "shipping_verified": true,
-      "baseline_price": 266.76,
-      "gapPct": 73.85,
-      "confidence": "medium",
-      "seller_rating": 99.2,
-      "seller_feedback_count": 351,
-      "language": "JP",
+      "baseline_price": 975.0,
+      "gapPct": 29.4,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1611,
+      "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-08T20:03:02.999535+00:00",
-      "_last_seen_at": "2026-05-08T23:00:01.837801+00:00"
-    },
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    }
+  ],
+  "watchlist_deals": [
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
       "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3UWaED8FjglZyXrGwp8tTzCPEdx--m4t1%2FyBAy6VhpdlImh9%2F9sc9xOrG2SwlC6sC0%2BrWx9lUggw2DurGBabA6gAfpjleIf83awhC9KgRhSUysvRHGCzd0lwMGQjl8D5v7EeWqtgUojyx0dZ7zgrBX0ZaNAFGQcvOqXyHJKfVqRvdxAOGXJnRUceF%2BGU5XA%2Ffwolx2vNAlGOo5R4iD5sa7Z",
@@ -115,7 +117,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-09T02:00:01.528903+00:00",
-      "_last_seen_at": "2026-05-09T03:22:45.881971+00:00"
+      "_last_seen_at": "2026-05-09T04:23:19.154013+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -140,7 +142,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T22:43:35.897456+00:00",
-      "_last_seen_at": "2026-05-09T03:22:45.881971+00:00"
+      "_last_seen_at": "2026-05-09T04:00:01.390706+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) Sealed",
@@ -164,17 +166,17 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-09T03:22:45.881971+00:00",
-      "_last_seen_at": "2026-05-09T03:22:45.881971+00:00"
+      "_first_seen_at": "2026-05-09T04:23:19.154013+00:00",
+      "_last_seen_at": "2026-05-09T04:23:19.154013+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 2,
-    "total_merged": 1,
+    "total_merged": 2,
     "retailer_deals_visible": true
   }
 }
