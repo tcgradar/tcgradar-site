@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T04:23:19.155206+00:00",
+  "timestamp": "2026-05-09T05:03:22.670498+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,26 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 5,
+  "total_deals": 1,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 1,
-      "booster_box": 1
+      "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 1,
-      "20_plus": 1
+      "10_to_19": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -35,16 +33,13 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals",
-      "Fusion Strike"
+      "Destined Rivals"
     ],
     "product_type": [
-      "booster_box",
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
@@ -69,28 +64,6 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 688.31,
-      "shipping_cost": 44.55,
-      "total_price": 688.31,
-      "shipping_verified": true,
-      "baseline_price": 975.0,
-      "gapPct": 29.4,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1611,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
     }
   ],
   "watchlist_deals": [
@@ -117,7 +90,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-09T02:00:01.528903+00:00",
-      "_last_seen_at": "2026-05-09T04:23:19.154013+00:00"
+      "_last_seen_at": "2026-05-09T05:03:22.669470+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -142,41 +115,16 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-08T22:43:35.897456+00:00",
-      "_last_seen_at": "2026-05-09T04:00:01.390706+00:00"
-    },
-    {
-      "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) Sealed",
-      "url": "https://www.ebay.com/itm/406908859552?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ebda874a0:g:k5QAAeSwUdhp-2D6",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 462.51,
-      "shipping_cost": 46.37,
-      "total_price": 462.51,
-      "shipping_verified": true,
-      "baseline_price": 477.13,
-      "gapPct": 3.06,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 251,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-09T04:23:19.154013+00:00",
-      "_last_seen_at": "2026-05-09T04:23:19.154013+00:00"
+      "_last_seen_at": "2026-05-09T05:03:22.669470+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
