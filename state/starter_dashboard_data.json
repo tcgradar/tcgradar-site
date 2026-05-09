@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T17:43:14.663204+00:00",
+  "timestamp": "2026-05-09T18:22:28.545650+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,65 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 4,
+  "total_deals": 0,
+  "all_deals_count": 3,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "10_to_19": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Temporal Forces"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "10_to_19"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon Scarlet & Violet Temporal Forces Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/327136847286?_skw=pokemon+Temporal+Forces+booster+box&hash=item4c2ae025b6:g:HJ4AAeSwZeRp9rxw",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "etb",
-      "price": 120.25,
-      "shipping_cost": 10.25,
-      "total_price": 120.25,
-      "shipping_verified": true,
-      "baseline_price": 275.0,
-      "gapPct": 56.27,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 578,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "One Piece OP-07 500 Years Future in the Booster Box Japanese Sealed",
@@ -90,11 +51,11 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-09T13:42:36.665981+00:00",
-      "_last_seen_at": "2026-05-09T17:43:14.661949+00:00"
+      "_last_seen_at": "2026-05-09T18:00:01.952244+00:00"
     },
     {
       "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3WnIx0y19K77tzK6Bp4jbWU3WhdnnJ6K30p54bLSqHyDp6zpU%2BghXdLJL9q6DYX94ApJhMhKOpAmPV%2BJFx%2BKT%2FCRhTd4iOudGAUME72ltD15uXY1zxHxqVjasdczT6xg7SwpZU0zxEwhVWISLvN0jBYbh%2FXQmiViQ1aJDSNfMgmtoHHi4DE9P8GhrQ7jDsyCW40SlKx8wR4BGxZ7%2Ftjku0s",
+      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3VyBqhSKpkjR04bBNbEYj0lle4NmW0dQ90eb18drRytRLLfGr%2BAfKw2TnsdiC1qRO7nCfYpCGSQr0zdUlWnQFu1Gd%2F3%2FEBcNyHJ5%2F9wEHCCAzyK8JZEYcpvAIf7lmo93%2F4%2Bd60dRdrRoLKoQP9wWaJF9OU%2FMELIQq%2FuFOYTMW9XMxkzMqiFzDcMrMLVqt3ckAcLKx%2BeM9aZXxmFQ2JzCrUe",
       "franchise": "onepiece",
       "set": "Adventure on Kami's Island",
       "product_type": "booster_box",
@@ -106,7 +67,7 @@
       "gapPct": 41.32,
       "confidence": "medium",
       "seller_rating": 99.0,
-      "seller_feedback_count": 475,
+      "seller_feedback_count": 476,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -114,8 +75,8 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-09T10:22:25.862525+00:00",
-      "_last_seen_at": "2026-05-09T17:43:14.661949+00:00"
+      "_first_seen_at": "2026-05-09T18:22:28.544518+00:00",
+      "_last_seen_at": "2026-05-09T18:22:28.544518+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -147,9 +108,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 2,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": true
   }
 }
