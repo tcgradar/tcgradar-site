@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T21:22:43.674055+00:00",
+  "timestamp": "2026-05-10T22:02:39.850946+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -53,13 +53,13 @@
       "shipping_cost": 0.0,
       "total_price": 184.99,
       "shipping_verified": false,
-      "baseline_price": 208.5,
+      "baseline_price": 207.0,
       "baseline_raw_count": 22,
       "baseline_pre_filter_count": 18,
-      "baseline_final_count": 12,
+      "baseline_final_count": 11,
       "baseline_raw_min": 184.99,
       "baseline_raw_max": 839.99,
-      "gapPct": 11.28,
+      "gapPct": 10.63,
       "confidence": "high",
       "seller_rating": 99.5,
       "seller_feedback_count": 210,
@@ -70,8 +70,8 @@
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 208.5,
-      "effective_baseline": 208.5,
+      "active_scan_baseline": 207.0,
+      "effective_baseline": 207.0,
       "baseline_cap_applied": true
     }
   ],
