@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T18:43:03.016165+00:00",
+  "timestamp": "2026-05-10T19:22:52.322678+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,75 +7,61 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
+  "total_deals": 0,
   "all_deals_count": 3,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "booster_box": 1
-    },
-    "by_gap_bucket": {
-      "20_plus": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Fusion Strike"
-    ],
-    "product_type": [
-      "booster_box"
-    ],
-    "gap_bucket": [
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
+  "deals": [],
+  "watchlist_deals": [
     {
-      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
+      "title": "One Piece TCG: 500 Years In The Future Booster Box OP-07 Japan Sealed",
+      "url": "https://www.ebay.com/itm/317790666442?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item49fdccbeca:g:vgIAAeSwAx1pclt5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb2VQz66rLQ7A5ZqWijZKLEyJNqlt7niw%2FWPWE1bi6FfRIv39L9f80%2FskNh%2FymvmRQio1Bu0HAcUeNoSOKgCXVInj8EObL9%2FOvVnH4c03EcePPdu%2B9ViAMiTXQ4SBqRo%2BIRl1J2jr%2Bzm69HbM5ZpD%2BCx0DGiZZMhfTaefl%2B%2BYZ9GeNVjPDLz0PRQEu91tzfydS%2Bn%2BitgsqzcsMIOt2Zt%2FeSqrTmTAOC00m68qZoa3DLchfITlx8nIqNsgYvu0wAHoctTb3%2BVfGMoSn6vclzJkO1kcz0dxGP6yWP--4tr6YULEKLQ%2B4EkOXRsag7m6y3qEjuPIjrQBPaX0Hqq20o%2FXzT",
+      "franchise": "onepiece",
+      "set": "500 Years in the Future",
       "product_type": "booster_box",
-      "price": 691.89,
-      "shipping_cost": 44.78,
-      "total_price": 691.89,
+      "price": 69.99,
+      "shipping_cost": 0.0,
+      "total_price": 69.99,
       "shipping_verified": true,
-      "baseline_price": 975.0,
-      "baseline_raw_count": 37,
-      "baseline_pre_filter_count": 33,
-      "baseline_final_count": 23,
-      "baseline_raw_min": 647.11,
-      "baseline_raw_max": 25000.0,
-      "gapPct": 29.04,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1611,
-      "language": "EN",
+      "baseline_price": 79.96,
+      "baseline_raw_count": 63,
+      "baseline_pre_filter_count": 50,
+      "baseline_final_count": 12,
+      "baseline_raw_min": 69.77,
+      "baseline_raw_max": 1599.99,
+      "gapPct": 12.47,
+      "confidence": "medium",
+      "seller_rating": 99.3,
+      "seller_feedback_count": 454,
+      "language": "JP",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 975.0,
-      "active_scan_baseline": 1200.0,
-      "effective_baseline": 975.0,
-      "baseline_cap_applied": false
-    }
-  ],
-  "watchlist_deals": [
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 266.76,
+      "active_scan_baseline": 79.96,
+      "effective_baseline": 79.96,
+      "baseline_cap_applied": true,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-10T19:22:52.321513+00:00",
+      "_last_seen_at": "2026-05-10T19:22:52.321513+00:00"
+    },
     {
       "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
       "url": "https://www.ebay.com/itm/127760908517?_skw=pokemon+Shrouded+Fable+booster+box&hash=item1dbf24c0e5:g:QhsAAeSwBfhpviOW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb%2BQkGGISOUjy4CSEpjeE6cbo5XcpepSAAr9EmDG%2For8WRK3w2uil86REUMpjQqvcdmKYUAJmYZ8CQm07jAw6I1mlxfgSmLnHW0LPW2XVhQYH7KmfYQHIL7kfpFq00Yq8Z6yufDnb7FSbDvWedXCq2GQFwXrCg%2BvY6%2FZJfz83RoU9SlnX7hHhKfsR2%2BJo6JrDFpqRD%2BL1w1zzvCPHWmVcSkw73oaN4SZiufbNv9GCDXAyBvRbnoP78VA9YbL46UqWI4dZQAZbMjVUf7iOJecc842vqVWO9Sxpa%2B%2FASFmfWWmyIRQv1w4LnSH6OE2k9H%2FJQ%3D",
@@ -139,9 +125,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 2,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": true
   }
 }
