@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T09:03:51.334190+00:00",
+  "timestamp": "2026-05-10T10:22:43.980907+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 1,
+  "all_deals_count": 2,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -28,6 +28,35 @@
   },
   "deals": [],
   "watchlist_deals": [
+    {
+      "title": "One Piece OP-07 500 Years Future in the Booster Box Japanese Sealed",
+      "url": "https://www.ebay.com/itm/137199397160?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item1ff1b8a928:g:EMAAAeSwx2dp0otK",
+      "franchise": "onepiece",
+      "set": "500 Years in the Future",
+      "product_type": "booster_box",
+      "price": 69.76,
+      "shipping_cost": 0.0,
+      "total_price": 69.76,
+      "shipping_verified": true,
+      "baseline_price": 266.76,
+      "gapPct": 73.85,
+      "confidence": "medium",
+      "seller_rating": 99.2,
+      "seller_feedback_count": 352,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 266.76,
+      "active_scan_baseline": 266.76,
+      "effective_baseline": 266.76,
+      "baseline_cap_applied": false,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-10T10:22:43.979669+00:00",
+      "_last_seen_at": "2026-05-10T10:22:43.979669+00:00"
+    },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
       "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGZURhxPApCGjBhCZfDjDwVPga7HgpNEutF8Kt49YDgzPFfeLBXtBKC5ldoCz1hkp7tOrHGW6f9DVM8EqIBW0HYgLNnKI--TBjZHaPRaOaky%2BGqcU8L2ONkY6ncOgqpOUP5Oxkxw3KGcPfKJxRzCmQTQxEZ93wnOmbUxBAyIiCXxIkY7zOKaSEOfDnxCJZDH5gFK2gXUyMDkVIfdxx%2FogIYP",
@@ -55,7 +84,7 @@
       "baseline_cap_applied": false,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-10T09:02:46.128652+00:00",
-      "_last_seen_at": "2026-05-10T09:03:51.333270+00:00"
+      "_last_seen_at": "2026-05-10T10:22:43.979669+00:00"
     }
   ],
   "empty_watchlist": false,
