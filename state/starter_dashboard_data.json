@@ -1,119 +1,32 @@
 {
-  "timestamp": "2026-05-10T03:00:01.538229+00:00",
+  "timestamp": "2026-05-10T04:02:47.377075+00:00",
   "non_ebay_stats": {
     "detected": 1,
-    "in_output": 1,
-    "in_best_deals": 1,
+    "in_output": 0,
+    "in_best_deals": 0,
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 8,
+  "total_deals": 0,
+  "all_deals_count": 2,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 3
-    },
-    "by_product_type": {
-      "etb": 1,
-      "booster_box": 2
-    },
-    "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 2
-    },
-    "by_source": {
-      "ebay": 2,
-      "gamenerdz": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Battle Styles",
-      "Destined Rivals"
-    ],
-    "product_type": [
-      "booster_box",
-      "etb"
-    ],
-    "gap_bucket": [
-      "10_to_19",
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
-      "url": "https://www.ebay.com/itm/157619204701?_skw=pokemon+Battle+Styles+booster+box&hash=item24b2d6325d:g:stUAAeSwJr1payKG",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 100.0,
-      "shipping_cost": 0.0,
-      "total_price": 100.0,
-      "shipping_verified": false,
-      "baseline_price": 127.0,
-      "gapPct": 21.26,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 126,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
-      "url": "https://www.ebay.com/itm/298278524391?_skw=pokemon+Destined+Rivals+booster+box&hash=item4572c915e7:g:lGsAAeSwnxZp9Gkd",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 479.16,
-      "shipping_cost": 47.11,
-      "total_price": 479.16,
-      "shipping_verified": true,
-      "baseline_price": 594.44,
-      "gapPct": 19.39,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 315,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Pokemon: Sword & Shield - Battle Styles Booster Box",
-      "url": "https://www.gamenerdz.com/pokemon-sword-shield-battle-styles-booster-box",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 269.97,
-      "baseline_price": 312.5,
-      "gapPct": 13.61,
-      "seller_trust": "HIGH",
-      "source": "gamenerdz",
-      "availability": "in_stock",
-      "is_preorder": false,
-      "language": "EN",
-      "shipping_cost": 0,
-      "confidence": "high",
-      "non_ebay": true,
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "One Piece OP-07 500 Years Future in the Booster Box Japanese Sealed",
@@ -155,7 +68,7 @@
       "total_price": 69.99,
       "shipping_verified": false,
       "baseline_price": 104.99,
-      "gapPct": 47.98,
+      "gapPct": 33.34,
       "confidence": "medium",
       "seller_rating": 96.8,
       "seller_feedback_count": 105,
@@ -171,91 +84,16 @@
       "baseline_cap_applied": false,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-09T23:43:08.562967+00:00",
-      "_last_seen_at": "2026-05-10T03:00:01.537366+00:00"
-    },
-    {
-      "title": "ONE PIECE OP15 Adventure on KAMI’s Island Booster Box JAPANESE Sealed TCG",
-      "url": "https://www.ebay.com/itm/287167294659?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item42dc812cc3:g:bv4AAeSwWflpoPBx&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGamODoauNWXU0D4MIdL5y0X7aXQmPYnnsvor%2FlkIYNad4c%2BRDcwFU1kE63O6eeJ0Yar5F6r%2BUk2TvxgEpPiTRefLQr5CdKCv7qgIHxGvbuLN%2Bf9KzCKqB7M%2BG9fWkc%2FA3WMTwbeKq1hacPBLmfhpN2SYZ6xw46CmX%2BrJlNa%2F5S%2FXfCBZWrpQyT4Rv1EHEU1eLJWNxHBBwot%2BeM3f3mVeeCR02XvDFEkhz0Ff3Jh0Lvk%2FNFYWrFoZnYWpoRMX0ioI4%2Bsx4HfwaQ1EW7vE%2BNMmc3oGwpUqxIY95zqb4E2DMdhiyjaCBJ3JDecIs%2BoW1fy4EGIUXEXaHXJgBe52eKYiEvy",
-      "franchise": "onepiece",
-      "set": "Adventure on Kami's Island",
-      "product_type": "booster_box",
-      "price": 134.95,
-      "shipping_cost": 0.0,
-      "total_price": 134.95,
-      "shipping_verified": true,
-      "baseline_price": 225.0,
-      "gapPct": 40.02,
-      "confidence": "medium",
-      "seller_rating": 99.0,
-      "seller_feedback_count": 476,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-10T03:00:01.537366+00:00",
-      "_last_seen_at": "2026-05-10T03:00:01.537366+00:00"
-    },
-    {
-      "title": "151 Japanese Booster Box SV2a Scarlet Violet Pokemon TCG *SEALED/NEW*",
-      "url": "https://www.ebay.com/itm/206183023311?_skw=pokemon+151+booster+box&hash=item30017742cf:g:hocAAeSwin9pzWLh",
-      "franchise": "pokemon",
-      "set": "151",
-      "product_type": "booster_box",
-      "price": 272.31,
-      "shipping_cost": 5.99,
-      "total_price": 272.31,
-      "shipping_verified": true,
-      "baseline_price": 379.98,
-      "gapPct": 28.34,
-      "confidence": "medium",
-      "seller_rating": 98.4,
-      "seller_feedback_count": 236,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-10T01:00:01.943378+00:00",
-      "_last_seen_at": "2026-05-10T01:00:01.943378+00:00"
-    },
-    {
-      "title": "Pokemon TCG Sword & Shield Battle Styles Booster Box SEALED NEW",
-      "url": "https://www.ebay.com/itm/389953682447?_skw=pokemon+Battle+Styles+booster+box&hash=item5acb0cfc0f:g:-WoAAeSwzJ1p8kGE",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "booster_box",
-      "price": 269.99,
-      "shipping_cost": 0.0,
-      "total_price": 269.99,
-      "shipping_verified": false,
-      "baseline_price": 300.0,
-      "gapPct": 10.0,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 228,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-10T03:00:01.537366+00:00",
-      "_last_seen_at": "2026-05-10T03:00:01.537366+00:00"
+      "_last_seen_at": "2026-05-10T04:00:01.463972+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 0,
     "retailer_deals": 2,
-    "total_merged": 3,
+    "total_merged": 0,
     "retailer_deals_visible": true
   }
 }
