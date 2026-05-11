@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T18:02:31.892542+00:00",
+  "timestamp": "2026-05-11T18:42:25.955368+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -53,13 +53,13 @@
       "shipping_cost": 0.0,
       "total_price": 184.99,
       "shipping_verified": false,
-      "baseline_price": 209.99,
-      "baseline_raw_count": 23,
-      "baseline_pre_filter_count": 21,
-      "baseline_final_count": 13,
+      "baseline_price": 208.5,
+      "baseline_raw_count": 22,
+      "baseline_pre_filter_count": 20,
+      "baseline_final_count": 14,
       "baseline_raw_min": 184.99,
       "baseline_raw_max": 839.99,
-      "gapPct": 11.91,
+      "gapPct": 11.28,
       "confidence": "high",
       "seller_rating": 99.9,
       "seller_feedback_count": 1000,
@@ -70,11 +70,11 @@
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 209.99,
-      "effective_baseline": 209.99,
+      "active_scan_baseline": 208.5,
+      "effective_baseline": 208.5,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 47.5
+      "baseline_drift_pct": 47.87
     }
   ],
   "watchlist_deals": [
@@ -148,7 +148,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-11T18:02:31.891100+00:00",
-      "_last_seen_at": "2026-05-11T18:02:31.891100+00:00"
+      "_last_seen_at": "2026-05-11T18:42:25.953911+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
