@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T02:04:29.775100+00:00",
+  "timestamp": "2026-05-11T03:22:56.292475+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,24 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 3,
+  "total_deals": 1,
+  "all_deals_count": 2,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 2
+      "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 2
+      "10_to_19": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,8 +33,7 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals",
-      "Temporal Forces"
+      "Destined Rivals"
     ],
     "product_type": [
       "etb"
@@ -54,13 +53,13 @@
       "shipping_cost": 0.0,
       "total_price": 184.99,
       "shipping_verified": false,
-      "baseline_price": 230.0,
-      "baseline_raw_count": 21,
-      "baseline_pre_filter_count": 18,
-      "baseline_final_count": 8,
+      "baseline_price": 209.99,
+      "baseline_raw_count": 22,
+      "baseline_pre_filter_count": 19,
+      "baseline_final_count": 11,
       "baseline_raw_min": 184.99,
       "baseline_raw_max": 839.99,
-      "gapPct": 19.57,
+      "gapPct": 11.91,
       "confidence": "high",
       "seller_rating": 99.5,
       "seller_feedback_count": 211,
@@ -71,85 +70,54 @@
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 230.0,
-      "effective_baseline": 230.0,
-      "baseline_cap_applied": true
-    },
-    {
-      "title": "Pokemon Scarlet & Violet Temporal Forces Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/327136847286?_skw=pokemon+Temporal+Forces+booster+box&hash=item4c2ae025b6:g:HJ4AAeSwZeRp9rxw",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "etb",
-      "price": 120.25,
-      "shipping_cost": 10.25,
-      "total_price": 120.25,
-      "shipping_verified": true,
-      "baseline_price": 139.99,
-      "baseline_raw_count": 20,
-      "baseline_pre_filter_count": 18,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 110.0,
-      "baseline_raw_max": 1500.0,
-      "gapPct": 14.1,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 578,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 275.0,
-      "active_scan_baseline": 139.99,
-      "effective_baseline": 139.99,
+      "active_scan_baseline": 209.99,
+      "effective_baseline": 209.99,
       "baseline_cap_applied": true
     }
   ],
   "watchlist_deals": [
     {
-      "title": "One Piece TCG: 500 Years In The Future Booster Box OP-07 Japan Sealed",
-      "url": "https://www.ebay.com/itm/317790666442?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item49fdccbeca:g:vgIAAeSwAx1pclt5&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGb2VQz66rLQ7A5ZqWijZKLEyJNqlt7niw%2FWPWE1bi6FfRIv39L9f80%2FskNh%2FymvmRQio1Bu0HAcUeNoSOKgCXVInj8EObL9%2FOvVnH4c03EcePPdu%2B9ViAMiTXQ4SBqRo%2BIRl1J2jr%2Bzm69HbM5ZpD%2BCx0DGiZZMhfTaefl%2B%2BYZ9GeNVjPDLz0PRQEu91tzfydS%2Bn%2BitgsqzcsMIOt2Zt%2FeSqrTmTAOC00m68qZoa3DLchfITlx8nIqNsgYvu0wAHoctTb3%2BVfGMoSn6vclzJkO1kcz0dxGP6yWP--4tr6YULEKLQ%2B4EkOXRsag7m6y3qEjuPIjrQBPaX0Hqq20o%2FXzT",
+      "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
+      "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGaV57xd7GTaaM7loZGjlJDwHcdLUfyjLX6DN9sqxOFGI%2FJreoGcrp5rJmVlWYjdKTg%2BdSa%2Fjx7TZ5daeqKNMtLXrVS8wIgaJj1NmokhqfGxE9E%2F7EcPXRqU7c%2BOzgha9vjnhlc7PCt0p9UN6c6qZJDq%2BpEneXvTGrLhaWzw9ufNpNkRzExXxezKYtLdwriiNylipkkRmDIf4rf6Ycc4LS7G",
       "franchise": "onepiece",
-      "set": "500 Years in the Future",
+      "set": "Emperors in the New World",
       "product_type": "booster_box",
       "price": 69.99,
       "shipping_cost": 0.0,
       "total_price": 69.99,
-      "shipping_verified": true,
-      "baseline_price": 79.96,
-      "baseline_raw_count": 63,
-      "baseline_pre_filter_count": 50,
-      "baseline_final_count": 12,
-      "baseline_raw_min": 69.77,
-      "baseline_raw_max": 1599.99,
-      "gapPct": 12.47,
+      "shipping_verified": false,
+      "baseline_price": 104.99,
+      "baseline_raw_count": 104,
+      "baseline_pre_filter_count": 77,
+      "baseline_final_count": 8,
+      "baseline_raw_min": 69.99,
+      "baseline_raw_max": 9999.99,
+      "gapPct": 33.34,
       "confidence": "medium",
-      "seller_rating": 99.3,
-      "seller_feedback_count": 454,
+      "seller_rating": 96.8,
+      "seller_feedback_count": 105,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
-      "seller_trust": "HIGH",
+      "seller_trust": "MEDIUM",
       "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 266.76,
-      "active_scan_baseline": 79.96,
-      "effective_baseline": 79.96,
-      "baseline_cap_applied": true,
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 104.99,
+      "active_scan_baseline": 104.99,
+      "effective_baseline": 104.99,
+      "baseline_cap_applied": false,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-10T19:22:52.321513+00:00",
-      "_last_seen_at": "2026-05-10T20:01:00.259402+00:00"
+      "_first_seen_at": "2026-05-11T03:22:56.291328+00:00",
+      "_last_seen_at": "2026-05-11T03:22:56.291328+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
