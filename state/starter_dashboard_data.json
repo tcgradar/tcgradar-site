@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T13:23:09.057433+00:00",
+  "timestamp": "2026-05-11T14:03:22.298245+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -14,7 +14,7 @@
       "pokemon": 1
     },
     "by_product_type": {
-      "booster_bundle": 1
+      "etb": 1
     },
     "by_gap_bucket": {
       "20_plus": 1
@@ -33,10 +33,10 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals"
+      "Temporal Forces"
     ],
     "product_type": [
-      "booster_bundle"
+      "etb"
     ],
     "gap_bucket": [
       "20_plus"
@@ -44,37 +44,37 @@
   },
   "deals": [
     {
-      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
-      "url": "https://www.ebay.com/itm/397930166939?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ca67c7a9b:g:lEAAAeSwOhNp~7II&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGad3kW2l1pYBs4y%2FNnmz9AsRk99NWn0%2FQcpYsEHNY2IlinHUppnWBEmhbqxZCvUwyf236g68pfeno73sebl5yYo4fOUwqujhOP6xgu4buTesZuJ7cY7av79bmsYJPWES5rDYqMGVGUyqlag4T4vaUQ%2B%2FcmOYNEsq0ouzAAnm0NdTjt1XAkzY2nGFfOicKiGtX4619ocL6M8ucFZ9ZUW8V6CO8hvcvhC%2BmNVvB0LEBekz1USfzoR07ukD4A6kAi1gwzvB722Atbu81s75YiAUvJ37KgdfyHTBNYh2CQscnJ4BBnv5sDkg%2Fmwl3lsuvfpM%2FM%3D",
+      "title": "Pokemon TCG Scarlet & Violet-Temporal Forces, ETB, Elite Trainer Box-Iron Leaves",
+      "url": "https://www.ebay.com/itm/306193237113?_skw=pokemon+Temporal+Forces+booster+box&hash=item474a8a0479:g:LO4AAeSwOBhn3bET",
       "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 45.99,
-      "shipping_cost": 0.0,
-      "total_price": 45.99,
+      "set": "Temporal Forces",
+      "product_type": "etb",
+      "price": 100.0,
+      "shipping_cost": 10.0,
+      "total_price": 100.0,
       "shipping_verified": true,
-      "baseline_price": 74.91,
-      "baseline_raw_count": 21,
-      "baseline_pre_filter_count": 18,
-      "baseline_final_count": 10,
-      "baseline_raw_min": 45.99,
-      "baseline_raw_max": 2199.99,
-      "gapPct": 38.61,
+      "baseline_price": 141.99,
+      "baseline_raw_count": 23,
+      "baseline_pre_filter_count": 20,
+      "baseline_final_count": 14,
+      "baseline_raw_min": 90.0,
+      "baseline_raw_max": 1500.0,
+      "gapPct": 29.57,
       "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 113,
+      "seller_rating": 99.7,
+      "seller_feedback_count": 704,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "20_plus",
-      "serpapi_baseline": 399.99,
-      "active_scan_baseline": 74.91,
-      "effective_baseline": 74.91,
+      "serpapi_baseline": 275.0,
+      "active_scan_baseline": 141.99,
+      "effective_baseline": 141.99,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 81.27
+      "baseline_drift_pct": 48.37
     }
   ],
   "watchlist_deals": [
@@ -112,7 +112,7 @@
       "baseline_drift_pct": 2032.89,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-11T13:23:09.056056+00:00",
-      "_last_seen_at": "2026-05-11T13:23:09.056056+00:00"
+      "_last_seen_at": "2026-05-11T14:00:01.947698+00:00"
     },
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
@@ -147,8 +147,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-11T13:23:09.056056+00:00",
-      "_last_seen_at": "2026-05-11T13:23:09.056056+00:00"
+      "_first_seen_at": "2026-05-11T14:03:22.296847+00:00",
+      "_last_seen_at": "2026-05-11T14:03:22.296847+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
