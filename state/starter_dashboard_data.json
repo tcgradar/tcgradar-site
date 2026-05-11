@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T08:43:07.717831+00:00",
+  "timestamp": "2026-05-11T09:22:45.872475+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,74 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 3,
+  "total_deals": 0,
+  "all_deals_count": 2,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "20_plus": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Shrouded Fable"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon TCG: Shrouded Fable Elite Trainer Box (ETB) Factory Sealed💥",
-      "url": "https://www.ebay.com/itm/318281339829?_skw=pokemon+Shrouded+Fable+booster+box&hash=item4a1b0bd3b5:g:syQAAeSwYudqANRn",
-      "franchise": "pokemon",
-      "set": "Shrouded Fable",
-      "product_type": "etb",
-      "price": 90.0,
-      "shipping_cost": 0.0,
-      "total_price": 90.0,
-      "shipping_verified": false,
-      "baseline_price": 134.75,
-      "baseline_raw_count": 42,
-      "baseline_pre_filter_count": 38,
-      "baseline_final_count": 15,
-      "baseline_raw_min": 20.0,
-      "baseline_raw_max": 2499.99,
-      "gapPct": 33.21,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 141,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 134.75,
-      "active_scan_baseline": 143.26,
-      "effective_baseline": 134.75,
-      "baseline_cap_applied": false
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -108,50 +60,50 @@
       "baseline_cap_applied": false,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-11T03:22:56.291328+00:00",
-      "_last_seen_at": "2026-05-11T08:43:07.716406+00:00"
+      "_last_seen_at": "2026-05-11T09:00:01.297488+00:00"
     },
     {
-      "title": "Pokemon TCG Shining Fates Elite Trainer Box Brand New/Sealed",
-      "url": "https://www.ebay.com/itm/267649034354?_skw=pokemon+Shining+Fates+booster+box&hash=item3e51202872:g:Zq4AAeSwwilp6tPb",
-      "franchise": "pokemon",
-      "set": "Shining Fates",
-      "product_type": "etb",
-      "price": 120.0,
+      "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
+      "url": "https://www.ebay.com/itm/389392094560?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item5aa993d560:g:xQYAAeSwjtVpRdO5",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 94.99,
       "shipping_cost": 0.0,
-      "total_price": 120.0,
-      "shipping_verified": false,
-      "baseline_price": 125.0,
-      "baseline_raw_count": 41,
-      "baseline_pre_filter_count": 37,
-      "baseline_final_count": 28,
-      "baseline_raw_min": 119.99,
-      "baseline_raw_max": 1799.99,
-      "gapPct": 4.0,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 120,
-      "language": "EN",
+      "total_price": 94.99,
+      "shipping_verified": true,
+      "baseline_price": 104.99,
+      "baseline_raw_count": 102,
+      "baseline_pre_filter_count": 77,
+      "baseline_final_count": 8,
+      "baseline_raw_min": 79.99,
+      "baseline_raw_max": 9999.99,
+      "gapPct": 9.52,
+      "confidence": "medium",
+      "seller_rating": 99.1,
+      "seller_feedback_count": 658,
+      "language": "JP",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "high",
+      "deal_quality": "medium",
       "gap_bucket": "1_to_9",
-      "serpapi_baseline": 125.0,
-      "active_scan_baseline": 125.0,
-      "effective_baseline": 125.0,
+      "serpapi_baseline": 104.99,
+      "active_scan_baseline": 104.99,
+      "effective_baseline": 104.99,
       "baseline_cap_applied": false,
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-11T08:43:07.716406+00:00",
-      "_last_seen_at": "2026-05-11T08:43:07.716406+00:00"
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-11T09:22:45.871131+00:00",
+      "_last_seen_at": "2026-05-11T09:22:45.871131+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 2,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": true
   }
 }
