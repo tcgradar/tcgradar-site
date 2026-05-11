@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T10:42:51.242938+00:00",
+  "timestamp": "2026-05-11T11:22:42.031598+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -45,7 +45,7 @@
   "deals": [
     {
       "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
-      "url": "https://www.ebay.com/itm/397930166939?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ca67c7a9b:g:lEAAAeSwOhNp~7II&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGad3kW2l1pYBs4y%2FNnmz9AsRk99NWn0%2FQcpYsEHNY2IlinHUppnWBEmhbqxZCvUwyf236g68pfeno73sebl5yYo4fOUwqujhOP6xgu4buTesZuJ7cY7av79bmsYJPWES5q9mPX4nL5790wFMHJAL1kVIXGEddvs0NDeg6Kjo9GGWb15xAHePsHqWvI6CrjttoGwUxVXA7VnVUke%2F4AyhpfE4iFMC7W%2Fnf0SyxPaA4Ivp9xvd6ub7saf8%2F4rSn9vlpL%2B8SLvxAINrKA4gZ68IQj1fRgJccUuOtdV1kpeoOkGy8JpGOlTQOn%2F%2BRc7YlfVYCs%3D",
+      "url": "https://www.ebay.com/itm/397930166939?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ca67c7a9b:g:lEAAAeSwOhNp~7II&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGad3kW2l1pYBs4y%2FNnmz9AsRk99NWn0%2FQcpYsEHNY2IlinHUppnWBEmhbqxZCvUwyf236g68pfeno73sebl5yYo4fOUwqujhOP6xgu4buTesZuJ7cY7av79bmsYJPWES5pKvZgTtk3rvo0fJ37NvwUCvI57BHlcDmyAvv1Jhtqn5XZQsTIWGIvFNvjDHhLTWn%2FF%2FsFthrFnuz7%2F2l46kU4wvxVQdq707Fo0Ka88--hlDT2q8XSCeCVYHWkavQKoWnv0qZ8TIOov2iJ27Y0IxLIsZCgca1L1YJORpJaovbYNXg7Ia7SLipKUFhr4mMMPkwg%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_bundle",
@@ -53,13 +53,13 @@
       "shipping_cost": 0.0,
       "total_price": 45.99,
       "shipping_verified": true,
-      "baseline_price": 74.88,
-      "baseline_raw_count": 18,
-      "baseline_pre_filter_count": 17,
-      "baseline_final_count": 9,
+      "baseline_price": 74.91,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 18,
+      "baseline_final_count": 10,
       "baseline_raw_min": 45.99,
       "baseline_raw_max": 2199.99,
-      "gapPct": 38.58,
+      "gapPct": 38.61,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 113,
@@ -70,8 +70,8 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 74.88,
-      "effective_baseline": 74.88,
+      "active_scan_baseline": 74.91,
+      "effective_baseline": 74.91,
       "baseline_cap_applied": true
     }
   ],
@@ -142,7 +142,7 @@
       "baseline_cap_applied": false,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-11T09:22:45.871131+00:00",
-      "_last_seen_at": "2026-05-11T10:42:51.241557+00:00"
+      "_last_seen_at": "2026-05-11T11:00:01.582142+00:00"
     }
   ],
   "empty_watchlist": false,
