@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T10:02:56.390472+00:00",
+  "timestamp": "2026-05-11T10:42:51.242938+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,26 +7,74 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
-  "all_deals_count": 2,
+  "total_deals": 1,
+  "all_deals_count": 3,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 1
+    },
+    "by_product_type": {
+      "booster_bundle": 1
+    },
+    "by_gap_bucket": {
+      "20_plus": 1
+    },
+    "by_source": {
+      "ebay": 1
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Destined Rivals"
+    ],
+    "product_type": [
+      "booster_bundle"
+    ],
+    "gap_bucket": [
+      "20_plus"
+    ]
   },
-  "deals": [],
+  "deals": [
+    {
+      "title": "Pokemon Scarlet & Violet Destined Rivals Booster Bundle Box Sealed",
+      "url": "https://www.ebay.com/itm/397930166939?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ca67c7a9b:g:lEAAAeSwOhNp~7II&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGad3kW2l1pYBs4y%2FNnmz9AsRk99NWn0%2FQcpYsEHNY2IlinHUppnWBEmhbqxZCvUwyf236g68pfeno73sebl5yYo4fOUwqujhOP6xgu4buTesZuJ7cY7av79bmsYJPWES5q9mPX4nL5790wFMHJAL1kVIXGEddvs0NDeg6Kjo9GGWb15xAHePsHqWvI6CrjttoGwUxVXA7VnVUke%2F4AyhpfE4iFMC7W%2Fnf0SyxPaA4Ivp9xvd6ub7saf8%2F4rSn9vlpL%2B8SLvxAINrKA4gZ68IQj1fRgJccUuOtdV1kpeoOkGy8JpGOlTQOn%2F%2BRc7YlfVYCs%3D",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_bundle",
+      "price": 45.99,
+      "shipping_cost": 0.0,
+      "total_price": 45.99,
+      "shipping_verified": true,
+      "baseline_price": 74.88,
+      "baseline_raw_count": 18,
+      "baseline_pre_filter_count": 17,
+      "baseline_final_count": 9,
+      "baseline_raw_min": 45.99,
+      "baseline_raw_max": 2199.99,
+      "gapPct": 38.58,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 113,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 399.99,
+      "active_scan_baseline": 74.88,
+      "effective_baseline": 74.88,
+      "baseline_cap_applied": true
+    }
+  ],
   "watchlist_deals": [
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -94,16 +142,16 @@
       "baseline_cap_applied": false,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-11T09:22:45.871131+00:00",
-      "_last_seen_at": "2026-05-11T10:02:56.389095+00:00"
+      "_last_seen_at": "2026-05-11T10:42:51.241557+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 1,
     "retailer_deals": 2,
-    "total_merged": 0,
+    "total_merged": 1,
     "retailer_deals_visible": true
   }
 }
