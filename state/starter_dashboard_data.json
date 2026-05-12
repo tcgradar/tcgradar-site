@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T02:48:07.978589+00:00",
+  "timestamp": "2026-05-12T03:08:07.951422+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -112,7 +112,7 @@
       "baseline_drift_pct": 30.07,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-11T20:43:22.831794+00:00",
-      "_last_seen_at": "2026-05-12T02:48:07.976915+00:00"
+      "_last_seen_at": "2026-05-12T03:08:07.949894+00:00"
     },
     {
       "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
@@ -147,8 +147,8 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-12T02:48:07.976915+00:00",
-      "_last_seen_at": "2026-05-12T02:48:07.976915+00:00"
+      "_first_seen_at": "2026-05-12T03:08:07.949894+00:00",
+      "_last_seen_at": "2026-05-12T03:08:07.949894+00:00"
     },
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
@@ -183,8 +183,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-12T02:07:38.939625+00:00",
-      "_last_seen_at": "2026-05-12T02:48:07.976915+00:00"
+      "_first_seen_at": "2026-05-12T03:08:07.949894+00:00",
+      "_last_seen_at": "2026-05-12T03:08:07.949894+00:00"
     }
   ],
   "empty_watchlist": false,
