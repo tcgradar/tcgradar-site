@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T22:02:50.488613+00:00",
+  "timestamp": "2026-05-12T23:02:42.414229+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -54,7 +54,7 @@
       "total_price": 399.99,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 40,
+      "baseline_raw_count": 39,
       "baseline_pre_filter_count": 34,
       "baseline_final_count": 20,
       "baseline_raw_min": 189.6,
@@ -179,7 +179,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-12T21:23:51.342052+00:00",
-      "_last_seen_at": "2026-05-12T22:02:50.486869+00:00"
+      "_last_seen_at": "2026-05-12T23:02:42.412500+00:00"
     },
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
@@ -214,8 +214,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-12T22:02:50.486869+00:00",
-      "_last_seen_at": "2026-05-12T22:02:50.486869+00:00"
+      "_first_seen_at": "2026-05-12T23:02:42.412500+00:00",
+      "_last_seen_at": "2026-05-12T23:02:42.412500+00:00"
     }
   ],
   "empty_watchlist": false,
