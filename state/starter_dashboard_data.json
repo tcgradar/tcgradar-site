@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T03:45:04.658913+00:00",
+  "timestamp": "2026-05-12T04:02:40.524008+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -7,76 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 4,
+  "total_deals": 0,
+  "all_deals_count": 3,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "booster_bundle": 1
-    },
-    "by_gap_bucket": {
-      "10_to_19": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Destined Rivals"
-    ],
-    "product_type": [
-      "booster_bundle"
-    ],
-    "gap_bucket": [
-      "10_to_19"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "POKEMON TCG Destined Rivals Booster Bundle Box",
-      "url": "https://www.ebay.com/itm/298309260338?_skw=pokemon+Destined+Rivals+booster+box&hash=item45749e1432:g:1EAAAeSwqZVqAkOA",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_bundle",
-      "price": 64.88,
-      "shipping_cost": 0.0,
-      "total_price": 64.88,
-      "shipping_verified": false,
-      "baseline_price": 74.95,
-      "baseline_raw_count": 23,
-      "baseline_pre_filter_count": 21,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 64.88,
-      "baseline_raw_max": 2199.99,
-      "gapPct": 13.44,
-      "confidence": "high",
-      "seller_rating": 99.6,
-      "seller_feedback_count": 611,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 399.99,
-      "active_scan_baseline": 74.95,
-      "effective_baseline": 74.95,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 81.26
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -112,11 +62,11 @@
       "baseline_drift_pct": 30.07,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-11T20:43:22.831794+00:00",
-      "_last_seen_at": "2026-05-12T03:45:04.657272+00:00"
+      "_last_seen_at": "2026-05-12T04:02:40.522473+00:00"
     },
     {
       "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
-      "url": "https://www.ebay.com/itm/257392846206?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bedcf257e:g:j90AAeSwpDhpqh57&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZHleiPd4%2Bk3sDRyqAESoKTjnRLiABK5AJMqTsgnxTgQWZ9kEoZk0Pnn%2BXFV9At0PUAY9JA16sso1TXmTui4Se6qc5qkR8FKCmYoFUx8aJckXbnHGdjPD%2FbCNWhRlSskrSk97gEwjRqgot6ntJfvEmurRG2fgK7JEj33EzTI9bGyV7MF6kTsIMYZl9k3Klai81n3mTrliJvhPQ%2FOkFxAbyJGQeDMeVs%2FVUWJFQJCPpM6Qave25rpfrPdC7yilmVo79Iu81GRRidVIkOmSinZBmI2hGh4JBX8KR2JKAaSxkr7uX%2F8ut44rv9oGYPzfd51hw%3D",
+      "url": "https://www.ebay.com/itm/257392846206?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bedcf257e:g:j90AAeSwpDhpqh57&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZHleiPd4%2Bk3sDRyqAESoKTjnRLiABK5AJMqTsgnxTgQWZ9kEoZk0Pnn%2BXFV9At0PUAY9JA16sso1TXmTui4Se6qc5qkR8FKCmYoFUx8aJckXbnHGdjPD%2FbCNWhRlSskrQkmmZyfktyCiQqEgRV2Ia%2BRqY8W2i75FCJee46%2Fp1D%2BxM%2Bh7vQYJsYMDbINoUpLBO4dcYqiHRwCVOoXsVcs0DlA63Wzpa%2FJIQJQ9A3zArLQYje%2FWUqDr93JR0lpL6zcuya8gOUt%2FYtRljpaS4nK%2FYef%2BSFiFicZXSB9DdtEWO5VV3HWfAZ31ZnmqgtNFcerlw%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -125,15 +75,15 @@
       "total_price": 259.98,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 41,
-      "baseline_pre_filter_count": 34,
-      "baseline_final_count": 20,
-      "baseline_raw_min": 140.09,
+      "baseline_raw_count": 37,
+      "baseline_pre_filter_count": 30,
+      "baseline_final_count": 18,
+      "baseline_raw_min": 189.79,
       "baseline_raw_max": 3669.99,
       "gapPct": 45.51,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 3424,
+      "seller_feedback_count": 3425,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -147,8 +97,8 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-12T03:45:04.657272+00:00",
-      "_last_seen_at": "2026-05-12T03:45:04.657272+00:00"
+      "_first_seen_at": "2026-05-12T04:02:40.522473+00:00",
+      "_last_seen_at": "2026-05-12T04:02:40.522473+00:00"
     },
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
@@ -161,8 +111,8 @@
       "total_price": 100.0,
       "shipping_verified": false,
       "baseline_price": 125.0,
-      "baseline_raw_count": 20,
-      "baseline_pre_filter_count": 19,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 18,
       "baseline_final_count": 10,
       "baseline_raw_min": 100.0,
       "baseline_raw_max": 999.98,
@@ -183,17 +133,17 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-12T03:08:07.949894+00:00",
-      "_last_seen_at": "2026-05-12T03:45:04.657272+00:00"
+      "_first_seen_at": "2026-05-12T04:02:40.522473+00:00",
+      "_last_seen_at": "2026-05-12T04:02:40.522473+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 2,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": true
   }
 }
