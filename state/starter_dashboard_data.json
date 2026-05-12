@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-05-12T14:45:35.657747+00:00",
+  "timestamp": "2026-05-12T15:02:42.993997+00:00",
   "non_ebay_stats": {
-    "detected": 1,
+    "detected": 0,
     "in_output": 0,
     "in_best_deals": 0,
     "in_watchlist": 0
@@ -30,7 +30,7 @@
   "watchlist_deals": [
     {
       "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
-      "url": "https://www.ebay.com/itm/257392846206?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bedcf257e:g:j90AAeSwpDhpqh57&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZHleiPd4%2Bk3sDRyqAESoKTjnRLiABK5AJMqTsgnxTgQWZ9kEoZk0Pnn%2BXFV9At0PUAY9JA16sso1TXmTui4Se6qc5qkR8FKCmYoFUx8aJckXbnHGdjPD%2FbCNWhRlSskrQkmmZyfktyCiQqEgRV2Ia%2BRqY8W2i75FCJee46%2Fp1D%2BxM%2Bh7vQYJsYMDbINoUpLBO4dcYqiHRwCVOoXsVcs0DlA63Wzpa%2FJIQJQ9A3zArLQYje%2FWUqDr93JR0lpL6zcuya8gOUt%2FYtRljpaS4nK%2FYef%2BSFiFicZXSB9DdtEWO5VV3HWfAZ31ZnmqgtNFcerlw%3D",
+      "url": "https://www.ebay.com/itm/257392846206?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bedcf257e:g:j90AAeSwpDhpqh57&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZHleiPd4%2Bk3sDRyqAESoKTjnRLiABK5AJMqTsgnxTgQWZ9kEoZk0Pnn%2BXFV9At0PUAY9JA16sso1TXmTui4Se6qc5qkR8FKCmYoFUx8aJckXbnHGdjPD%2FbCNWhRlSskrRb%2BwaKc6henPqiNxPFvSTfncy7jP5hqY6SGNdMVlBxLMy0dn8pXHhFLO8Wgn1xUQaH5yq4oV8ewpntLKC%2B8l6sQCiylAgKoonz5Fhcw02r4G8o6Sq5R4bjjKG0V3tZvo9Io7g35LLVZBn4SFrRUkjWQ3zldWgRM1U%2FsQNSjulJofgmgv%2BvdpYq9abYJzL11SI%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -39,15 +39,15 @@
       "total_price": 259.98,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 37,
-      "baseline_pre_filter_count": 30,
-      "baseline_final_count": 18,
-      "baseline_raw_min": 189.79,
+      "baseline_raw_count": 38,
+      "baseline_pre_filter_count": 31,
+      "baseline_final_count": 19,
+      "baseline_raw_min": 189.6,
       "baseline_raw_max": 3669.99,
       "gapPct": 45.51,
       "confidence": "low",
       "seller_rating": 100.0,
-      "seller_feedback_count": 3425,
+      "seller_feedback_count": 3426,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -61,8 +61,8 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-12T14:45:35.656466+00:00",
-      "_last_seen_at": "2026-05-12T14:45:35.656466+00:00"
+      "_first_seen_at": "2026-05-12T15:02:42.992507+00:00",
+      "_last_seen_at": "2026-05-12T15:02:42.992507+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -87,7 +87,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-12T13:00:01.988889+00:00",
-      "_last_seen_at": "2026-05-12T14:45:35.656466+00:00",
+      "_last_seen_at": "2026-05-12T15:02:42.992507+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
@@ -128,8 +128,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-12T14:07:11.039201+00:00",
-      "_last_seen_at": "2026-05-12T14:45:35.656466+00:00"
+      "_first_seen_at": "2026-05-12T15:02:42.992507+00:00",
+      "_last_seen_at": "2026-05-12T15:02:42.992507+00:00"
     }
   ],
   "empty_watchlist": false,
@@ -137,8 +137,8 @@
   "_single_writer_info": {
     "version": "v2.0",
     "ebay_deals": 0,
-    "retailer_deals": 2,
+    "retailer_deals": 0,
     "total_merged": 0,
-    "retailer_deals_visible": true
+    "retailer_deals_visible": false
   }
 }
