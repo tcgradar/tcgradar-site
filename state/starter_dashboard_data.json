@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T20:02:49.106586+00:00",
+  "timestamp": "2026-05-12T20:43:26.881148+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,24 +7,25 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 4,
+  "total_deals": 2,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 1
+      "booster_box": 1,
+      "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 1
+      "10_to_19": 2
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,10 +34,12 @@
       "pokemon"
     ],
     "set": [
+      "Darkness Ablaze",
       "Destined Rivals"
     ],
     "product_type": [
-      "booster_box"
+      "booster_box",
+      "etb"
     ],
     "gap_bucket": [
       "10_to_19"
@@ -54,7 +57,7 @@
       "total_price": 399.99,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 36,
+      "baseline_raw_count": 37,
       "baseline_pre_filter_count": 32,
       "baseline_final_count": 18,
       "baseline_raw_min": 189.6,
@@ -75,6 +78,39 @@
       "baseline_cap_applied": false,
       "baseline_stale": false,
       "baseline_drift_pct": 25.53
+    },
+    {
+      "title": "POKEMON FACTORY SEALED SWORD & SHIELD DARKNESS ABLAZE ELITE TRAINER BOX",
+      "url": "https://www.ebay.com/itm/406920478680?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item5ebe59bfd8:g:Kk0AAeSwU9BqAn2A",
+      "franchise": "pokemon",
+      "set": "Darkness Ablaze",
+      "product_type": "etb",
+      "price": 109.99,
+      "shipping_cost": 0.0,
+      "total_price": 109.99,
+      "shipping_verified": true,
+      "baseline_price": 127.5,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 17,
+      "baseline_final_count": 8,
+      "baseline_raw_min": 109.99,
+      "baseline_raw_max": 1329.99,
+      "gapPct": 13.73,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 10741,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 300.0,
+      "active_scan_baseline": 127.5,
+      "effective_baseline": 127.5,
+      "baseline_cap_applied": true,
+      "baseline_stale": false,
+      "baseline_drift_pct": 57.5
     }
   ],
   "watchlist_deals": [
@@ -110,6 +146,42 @@
       "baseline_drift_pct": 0.0
     },
     {
+      "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
+      "url": "https://www.ebay.com/itm/406823197415?_skw=pokemon+Evolving+Skies+booster+box&hash=item5eb88d5ae7:g:2m0AAeSwoNZpznEb",
+      "franchise": "pokemon",
+      "set": "Evolving Skies",
+      "product_type": "booster_box",
+      "price": 1599.99,
+      "shipping_cost": 0.0,
+      "total_price": 1599.99,
+      "shipping_verified": true,
+      "baseline_price": 2799.99,
+      "baseline_raw_count": 35,
+      "baseline_pre_filter_count": 27,
+      "baseline_final_count": 13,
+      "baseline_raw_min": 78.88,
+      "baseline_raw_max": 30000.0,
+      "gapPct": 42.86,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 164,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 135.38,
+      "active_scan_baseline": 2799.99,
+      "effective_baseline": 2799.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 1968.24,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-12T20:43:26.879363+00:00",
+      "_last_seen_at": "2026-05-12T20:43:26.879363+00:00"
+    },
+    {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
       "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGa%2BzZlXR5qj2d%2Fr5bzMCJvcchB6kjGoB%2B2HNF2L9dgibkQMXjBf2Vbpphse5i0E6FFH6cFge393a1wNgd4QhDAwaD8B6if2LJElof8Udn7yq6iFFvNVyQWRoKlwhH68FgVFb6YSQTKPQHY9nkBRm9I9FiSgB0Gv9Tv37%2FvFD1OYY0tZfI8YdkSRW23az0E%2BIw7FQUsTtz0AjPzgZYtc2MJE",
       "franchise": "onepiece",
@@ -132,7 +204,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-12T13:00:01.988889+00:00",
-      "_last_seen_at": "2026-05-12T20:02:49.105081+00:00",
+      "_last_seen_at": "2026-05-12T20:43:26.879363+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
@@ -174,16 +246,16 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-12T20:02:49.105081+00:00",
-      "_last_seen_at": "2026-05-12T20:02:49.105081+00:00"
+      "_last_seen_at": "2026-05-12T20:43:26.879363+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 2,
     "retailer_deals_visible": false
   }
 }
