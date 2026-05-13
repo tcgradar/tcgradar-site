@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T03:43:01.511406+00:00",
+  "timestamp": "2026-05-13T04:22:52.275768+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -129,7 +129,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-12T21:23:51.342052+00:00",
-      "_last_seen_at": "2026-05-13T03:43:01.509362+00:00"
+      "_last_seen_at": "2026-05-13T04:22:52.273805+00:00"
     },
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
@@ -142,8 +142,8 @@
       "total_price": 100.0,
       "shipping_verified": false,
       "baseline_price": 125.0,
-      "baseline_raw_count": 20,
-      "baseline_pre_filter_count": 19,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 18,
       "baseline_final_count": 10,
       "baseline_raw_min": 100.0,
       "baseline_raw_max": 999.98,
@@ -164,8 +164,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-13T03:03:10.813391+00:00",
-      "_last_seen_at": "2026-05-13T03:43:01.509362+00:00"
+      "_first_seen_at": "2026-05-13T04:22:52.273805+00:00",
+      "_last_seen_at": "2026-05-13T04:22:52.273805+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
@@ -178,9 +178,9 @@
       "total_price": 457.70000000000005,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 38,
-      "baseline_pre_filter_count": 33,
-      "baseline_final_count": 20,
+      "baseline_raw_count": 31,
+      "baseline_pre_filter_count": 26,
+      "baseline_final_count": 16,
       "baseline_raw_min": 189.6,
       "baseline_raw_max": 3669.99,
       "gapPct": 4.07,
@@ -200,8 +200,8 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-13T03:03:10.813391+00:00",
-      "_last_seen_at": "2026-05-13T03:43:01.509362+00:00"
+      "_first_seen_at": "2026-05-13T04:22:52.273805+00:00",
+      "_last_seen_at": "2026-05-13T04:22:52.273805+00:00"
     }
   ],
   "empty_watchlist": false,
