@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T00:22:36.512106+00:00",
+  "timestamp": "2026-05-13T01:02:49.518081+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,26 +7,76 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
-  "all_deals_count": 4,
+  "total_deals": 1,
+  "all_deals_count": 5,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 1
+    },
+    "by_product_type": {
+      "booster_box": 1
+    },
+    "by_gap_bucket": {
+      "10_to_19": 1
+    },
+    "by_source": {
+      "ebay": 1
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Destined Rivals"
+    ],
+    "product_type": [
+      "booster_box"
+    ],
+    "gap_bucket": [
+      "10_to_19"
+    ]
   },
-  "deals": [],
+  "deals": [
+    {
+      "title": "Pokemon TCG: S&V Destined Rivals Factory Sealed Booster Box",
+      "url": "https://www.ebay.com/itm/277914002536?_skw=pokemon+Destined+Rivals+booster+box&hash=item40b4f72468:g:wboAAeSwI-lp5vGf",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 399.99,
+      "shipping_cost": 0.0,
+      "total_price": 399.99,
+      "shipping_verified": true,
+      "baseline_price": 477.13,
+      "baseline_raw_count": 38,
+      "baseline_pre_filter_count": 33,
+      "baseline_final_count": 20,
+      "baseline_raw_min": 189.6,
+      "baseline_raw_max": 3669.99,
+      "gapPct": 16.17,
+      "confidence": "high",
+      "seller_rating": 99.0,
+      "seller_feedback_count": 311,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 477.13,
+      "active_scan_baseline": 599.5,
+      "effective_baseline": 477.13,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 25.65
+    }
+  ],
   "watchlist_deals": [
     {
       "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
@@ -39,11 +89,6 @@
       "total_price": 259.98,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 40,
-      "baseline_pre_filter_count": 35,
-      "baseline_final_count": 18,
-      "baseline_raw_min": 140.09,
-      "baseline_raw_max": 3669.99,
       "gapPct": 45.51,
       "confidence": "low",
       "seller_rating": 100.0,
@@ -54,15 +99,15 @@
       "seller_trust": "HIGH",
       "deal_quality": "low",
       "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-13T01:00:01.112231+00:00",
+      "_last_seen_at": "2026-05-13T01:00:01.112231+00:00",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 477.13,
+      "active_scan_baseline": 509.88,
       "effective_baseline": 477.13,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 0.0,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-13T00:22:36.510366+00:00",
-      "_last_seen_at": "2026-05-13T00:22:36.510366+00:00"
+      "baseline_drift_pct": 0.0
     },
     {
       "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
@@ -134,7 +179,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-12T21:23:51.342052+00:00",
-      "_last_seen_at": "2026-05-13T00:00:01.526073+00:00"
+      "_last_seen_at": "2026-05-13T01:02:49.516340+00:00"
     },
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
@@ -169,17 +214,17 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-13T00:22:36.510366+00:00",
-      "_last_seen_at": "2026-05-13T00:22:36.510366+00:00"
+      "_first_seen_at": "2026-05-13T01:02:49.516340+00:00",
+      "_last_seen_at": "2026-05-13T01:02:49.516340+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 1,
     "retailer_deals": 0,
-    "total_merged": 0,
+    "total_merged": 1,
     "retailer_deals_visible": false
   }
 }
