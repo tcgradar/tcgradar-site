@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T17:42:54.984321+00:00",
+  "timestamp": "2026-05-13T18:22:51.901018+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 4,
+  "all_deals_count": 3,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -28,42 +28,6 @@
   },
   "deals": [],
   "watchlist_deals": [
-    {
-      "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
-      "url": "https://www.ebay.com/itm/406823197415?_skw=pokemon+Evolving+Skies+booster+box&hash=item5eb88d5ae7:g:2m0AAeSwoNZpznEb",
-      "franchise": "pokemon",
-      "set": "Evolving Skies",
-      "product_type": "booster_box",
-      "price": 1599.99,
-      "shipping_cost": 0.0,
-      "total_price": 1599.99,
-      "shipping_verified": true,
-      "baseline_price": 2799.99,
-      "baseline_raw_count": 38,
-      "baseline_pre_filter_count": 28,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 78.88,
-      "baseline_raw_max": 30000.0,
-      "gapPct": 42.86,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 165,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 135.38,
-      "active_scan_baseline": 2799.99,
-      "effective_baseline": 2799.99,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 1968.24,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-13T09:43:17.839496+00:00",
-      "_last_seen_at": "2026-05-13T17:00:01.351191+00:00"
-    },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
       "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGYs%2BktDTz%2F%2B7O1%2BTmiLD35MlJiq6S2aZj7n7gky%2BWpate6N102h98PAWwxBVkrA5k%2BfSZZUUySI65ZtckGha69nnON2AdHARLnKG6O%2FHAWZcAl1hXpx9zx8ot1AeaHXO2cRGhk59iHo2eBTaFOcdQ1OLMviCIq2DZqszUGRlZ1crPFiz7xvMb9%2BqFxH0bnufGA9Afxd8sBU0630G2QKQOeF",
@@ -98,7 +62,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-13T13:43:21.545143+00:00",
-      "_last_seen_at": "2026-05-13T17:42:54.982572+00:00"
+      "_last_seen_at": "2026-05-13T18:00:01.647244+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -133,8 +97,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-13T17:02:42.355844+00:00",
-      "_last_seen_at": "2026-05-13T17:42:54.982572+00:00"
+      "_first_seen_at": "2026-05-13T18:22:51.899429+00:00",
+      "_last_seen_at": "2026-05-13T18:22:51.899429+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
@@ -169,8 +133,8 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-13T17:02:42.355844+00:00",
-      "_last_seen_at": "2026-05-13T17:42:54.982572+00:00"
+      "_first_seen_at": "2026-05-13T18:22:51.899429+00:00",
+      "_last_seen_at": "2026-05-13T18:22:51.899429+00:00"
     }
   ],
   "empty_watchlist": false,
