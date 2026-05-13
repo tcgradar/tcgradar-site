@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T22:22:39.014020+00:00",
+  "timestamp": "2026-05-13T23:03:09.263269+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,27 +7,113 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
-  "all_deals_count": 3,
+  "total_deals": 1,
+  "all_deals_count": 5,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 1
+    },
+    "by_product_type": {
+      "etb": 1
+    },
+    "by_gap_bucket": {
+      "10_to_19": 1
+    },
+    "by_source": {
+      "ebay": 1
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Darkness Ablaze"
+    ],
+    "product_type": [
+      "etb"
+    ],
+    "gap_bucket": [
+      "10_to_19"
+    ]
   },
-  "deals": [],
+  "deals": [
+    {
+      "title": "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box",
+      "url": "https://www.ebay.com/itm/286883526513?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item42cb973771:g:SKUAAeSwwt5o8tv9",
+      "franchise": "pokemon",
+      "set": "Darkness Ablaze",
+      "product_type": "etb",
+      "price": 104.99,
+      "shipping_cost": 0.0,
+      "total_price": 104.99,
+      "shipping_verified": false,
+      "baseline_price": 125.0,
+      "baseline_raw_count": 18,
+      "baseline_pre_filter_count": 16,
+      "baseline_final_count": 9,
+      "baseline_raw_min": 104.99,
+      "baseline_raw_max": 1329.99,
+      "gapPct": 16.01,
+      "confidence": "high",
+      "seller_rating": 99.4,
+      "seller_feedback_count": 225,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 300.0,
+      "active_scan_baseline": 125.0,
+      "effective_baseline": 125.0,
+      "baseline_cap_applied": true,
+      "baseline_stale": false,
+      "baseline_drift_pct": 58.33
+    }
+  ],
   "watchlist_deals": [
+    {
+      "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
+      "url": "https://www.ebay.com/itm/406823197415?_skw=pokemon+Evolving+Skies+booster+box&hash=item5eb88d5ae7:g:2m0AAeSwoNZpznEb",
+      "franchise": "pokemon",
+      "set": "Evolving Skies",
+      "product_type": "booster_box",
+      "price": 1599.99,
+      "shipping_cost": 0.0,
+      "total_price": 1599.99,
+      "shipping_verified": true,
+      "baseline_price": 2839.99,
+      "baseline_raw_count": 33,
+      "baseline_pre_filter_count": 26,
+      "baseline_final_count": 12,
+      "baseline_raw_min": 78.88,
+      "baseline_raw_max": 30000.0,
+      "gapPct": 43.66,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 165,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 135.38,
+      "active_scan_baseline": 2839.99,
+      "effective_baseline": 2839.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 1997.79,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-13T23:03:09.261588+00:00",
+      "_last_seen_at": "2026-05-13T23:03:09.261588+00:00"
+    },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
       "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGb5jwJWJNHXgA7Pnaxj0t%2BUsbFizLlPXU1C35eOVkdmplnKBqJxdAWshtF6syF0viilAvxLVUtSnMg0WVN85y7OEUD57G%2FyfXvigP917oEEWTH%2BpIVVksz63hVdfJKzX2fN848u162GGFocfnUT67a7yNVrZ4MEjgkR0bbLQ6I7VyRH7B6mnryplma5aG2k%2FdSPYMa2Tb5D4UIgnE43D0rr",
@@ -62,7 +148,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-13T21:43:59.725686+00:00",
-      "_last_seen_at": "2026-05-13T22:22:39.012572+00:00"
+      "_last_seen_at": "2026-05-13T23:00:01.482258+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -97,8 +183,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-13T22:22:39.012572+00:00",
-      "_last_seen_at": "2026-05-13T22:22:39.012572+00:00"
+      "_first_seen_at": "2026-05-13T23:03:09.261588+00:00",
+      "_last_seen_at": "2026-05-13T23:03:09.261588+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
@@ -111,7 +197,7 @@
       "total_price": 455.35,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 38,
+      "baseline_raw_count": 39,
       "baseline_pre_filter_count": 29,
       "baseline_final_count": 18,
       "baseline_raw_min": 189.79,
@@ -133,17 +219,17 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-13T22:22:39.012572+00:00",
-      "_last_seen_at": "2026-05-13T22:22:39.012572+00:00"
+      "_first_seen_at": "2026-05-13T23:03:09.261588+00:00",
+      "_last_seen_at": "2026-05-13T23:03:09.261588+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 1,
     "retailer_deals": 0,
-    "total_merged": 0,
+    "total_merged": 1,
     "retailer_deals_visible": false
   }
 }
