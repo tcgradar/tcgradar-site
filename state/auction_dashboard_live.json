@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-13T12:24:28.656067+00:00",
+    "generated_at": "2026-05-13T13:44:29.384122+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 22,
@@ -108,7 +108,7 @@
       "old_gapPct": 31.818181818181817,
       "gapPct": 35.45,
       "bids": 17,
-      "time_remaining": 38.42851416972223,
+      "time_remaining": 37.09444170555556,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/366394901889?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item554ed68581:g:NOEAAeSwu-dp~PkG",
       "franchise": "onepiece",
@@ -131,7 +131,7 @@
       "old_gapPct": 19.93915132105684,
       "gapPct": 19.94,
       "bids": 1,
-      "time_remaining": 56.407081052222225,
+      "time_remaining": 55.072127189166665,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/298306066033?_skw=Pokemon+Twilight+Masquerade+booster+box&hash=item45746d5671:g:NOQAAeSwOA1qAO6i",
       "franchise": "pokemon",
