@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T08:22:43.777656+00:00",
+  "timestamp": "2026-05-13T09:02:46.353700+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -93,7 +93,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-13T05:43:02.345340+00:00",
-      "_last_seen_at": "2026-05-13T08:22:43.775941+00:00"
+      "_last_seen_at": "2026-05-13T09:02:46.351973+00:00"
     },
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
@@ -128,8 +128,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-13T08:22:43.775941+00:00",
-      "_last_seen_at": "2026-05-13T08:22:43.775941+00:00"
+      "_first_seen_at": "2026-05-13T09:02:46.351973+00:00",
+      "_last_seen_at": "2026-05-13T09:02:46.351973+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
@@ -142,9 +142,9 @@
       "total_price": 455.35,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 35,
-      "baseline_pre_filter_count": 28,
-      "baseline_final_count": 17,
+      "baseline_raw_count": 36,
+      "baseline_pre_filter_count": 30,
+      "baseline_final_count": 19,
       "baseline_raw_min": 140.09,
       "baseline_raw_max": 3669.99,
       "gapPct": 4.56,
@@ -164,8 +164,8 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-13T08:22:43.775941+00:00",
-      "_last_seen_at": "2026-05-13T08:22:43.775941+00:00"
+      "_first_seen_at": "2026-05-13T09:02:46.351973+00:00",
+      "_last_seen_at": "2026-05-13T09:02:46.351973+00:00"
     }
   ],
   "empty_watchlist": false,
