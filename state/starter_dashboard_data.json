@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T23:03:09.263269+00:00",
+  "timestamp": "2026-05-13T23:42:39.473739+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -33,7 +33,7 @@
       "pokemon"
     ],
     "set": [
-      "Darkness Ablaze"
+      "Destined Rivals"
     ],
     "product_type": [
       "etb"
@@ -44,37 +44,37 @@
   },
   "deals": [
     {
-      "title": "Pokemon TCG: Sword & Shield 3 Darkness Ablaze Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/286883526513?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item42cb973771:g:SKUAAeSwwt5o8tv9",
+      "title": "Pokemon Destined Rivals Elite Trainer Box ETB Sealed ",
+      "url": "https://www.ebay.com/itm/358552937593?_skw=pokemon+Destined+Rivals+booster+box&hash=item537b6ba479:g:h2cAAeSw8iBqBOBd",
       "franchise": "pokemon",
-      "set": "Darkness Ablaze",
+      "set": "Destined Rivals",
       "product_type": "etb",
-      "price": 104.99,
+      "price": 184.99,
       "shipping_cost": 0.0,
-      "total_price": 104.99,
+      "total_price": 184.99,
       "shipping_verified": false,
-      "baseline_price": 125.0,
-      "baseline_raw_count": 18,
+      "baseline_price": 212.49,
+      "baseline_raw_count": 25,
       "baseline_pre_filter_count": 16,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 104.99,
-      "baseline_raw_max": 1329.99,
-      "gapPct": 16.01,
+      "baseline_final_count": 8,
+      "baseline_raw_min": 184.99,
+      "baseline_raw_max": 839.99,
+      "gapPct": 12.94,
       "confidence": "high",
-      "seller_rating": 99.4,
-      "seller_feedback_count": 225,
+      "seller_rating": 100.0,
+      "seller_feedback_count": 658,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
-      "serpapi_baseline": 300.0,
-      "active_scan_baseline": 125.0,
-      "effective_baseline": 125.0,
+      "serpapi_baseline": 399.99,
+      "active_scan_baseline": 212.49,
+      "effective_baseline": 212.49,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 58.33
+      "baseline_drift_pct": 46.88
     }
   ],
   "watchlist_deals": [
@@ -112,7 +112,7 @@
       "baseline_drift_pct": 1997.79,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-13T23:03:09.261588+00:00",
-      "_last_seen_at": "2026-05-13T23:03:09.261588+00:00"
+      "_last_seen_at": "2026-05-13T23:04:18.117720+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -148,7 +148,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-13T21:43:59.725686+00:00",
-      "_last_seen_at": "2026-05-13T23:00:01.482258+00:00"
+      "_last_seen_at": "2026-05-13T23:42:39.471864+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -184,7 +184,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-13T23:03:09.261588+00:00",
-      "_last_seen_at": "2026-05-13T23:03:09.261588+00:00"
+      "_last_seen_at": "2026-05-13T23:42:39.471864+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
@@ -220,7 +220,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-13T23:03:09.261588+00:00",
-      "_last_seen_at": "2026-05-13T23:03:09.261588+00:00"
+      "_last_seen_at": "2026-05-13T23:42:39.471864+00:00"
     }
   ],
   "empty_watchlist": false,
