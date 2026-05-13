@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T05:02:44.686888+00:00",
+  "timestamp": "2026-05-13T05:43:02.347156+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,30 +7,80 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
-  "all_deals_count": 4,
+  "total_deals": 1,
+  "all_deals_count": 5,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 1
+    },
+    "by_product_type": {
+      "etb": 1
+    },
+    "by_gap_bucket": {
+      "10_to_19": 1
+    },
+    "by_source": {
+      "ebay": 1
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Temporal Forces"
+    ],
+    "product_type": [
+      "etb"
+    ],
+    "gap_bucket": [
+      "10_to_19"
+    ]
   },
-  "deals": [],
+  "deals": [
+    {
+      "title": "Pokemon Temporal Forces Elite Trainer Box Iron Leaves Factory Sealed",
+      "url": "https://www.ebay.com/itm/188233539673?_skw=pokemon+Temporal+Forces+booster+box&hash=item2bd397e059:g:61oAAeSw-2BpzTZq",
+      "franchise": "pokemon",
+      "set": "Temporal Forces",
+      "product_type": "etb",
+      "price": 120.0,
+      "shipping_cost": 0.0,
+      "total_price": 120.0,
+      "shipping_verified": false,
+      "baseline_price": 137.5,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 17,
+      "baseline_final_count": 14,
+      "baseline_raw_min": 120.0,
+      "baseline_raw_max": 1500.0,
+      "gapPct": 12.73,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 200,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 275.0,
+      "active_scan_baseline": 137.5,
+      "effective_baseline": 137.5,
+      "baseline_cap_applied": true,
+      "baseline_stale": false,
+      "baseline_drift_pct": 50.0
+    }
+  ],
   "watchlist_deals": [
     {
       "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
-      "url": "https://www.ebay.com/itm/257392846206?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bedcf257e:g:j90AAeSwpDhpqh57&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZHleiPd4%2Bk3sDRyqAESoKTjnRLiABK5AJMqTsgnxTgQWZ9kEoZk0Pnn%2BXFV9At0PUAY9JA16sso1TXmTui4Se6qc5qkR8FKCmYoFUx8aJckXbnHGdjPD%2FbCNWhRlSskrSfLdCTCD%2FeO7%2FET%2Bf3WPUbu1l0u950mAoktTfRlULnmGQYcGPFDIPawoTP7C%2BcFu6fHT2kFoDZv4ecq1m3esbyu8lL5v47oBy1lnGmj2IqjlYOZ6JlSyeS5NRri%2BpjyAyg1qBlB4WLOsMJ7iM23wiaLLQh%2FlpdWTgNM%2BVC8dcru5q7%2BoacfBYwnbiFd7%2ByqCQ%3D",
+      "url": "https://www.ebay.com/itm/257392846206?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bedcf257e:g:j90AAeSwpDhpqh57&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZHleiPd4%2Bk3sDRyqAESoKTjnRLiABK5AJMqTsgnxTgQWZ9kEoZk0Pnn%2BXFV9At0PUAY9JA16sso1TXmTui4Se6qc5qkR8FKCmYoFUx8aJckXbnHGdjPD%2FbCNWhRlSskrQqCUyscWnA%2F1U1eA7IxfNapmNzXVFcxEaSWBk41aQ2hu8%2BfVqTMpajuSjRAGpmb5gBfPCVEDSzvkB%2FSG8GLOs0hqDSfcHztiUv9L5VnRS5KtbFDx566iDjCoatJ6CjPBbW1nWuIQoTKAW4yWsjOGiykrYD2smCa2KXyeDFO7tOjlx73j8%2F%2BC9man3GrEx4yYo%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -39,6 +89,11 @@
       "total_price": 259.98,
       "shipping_verified": true,
       "baseline_price": 477.13,
+      "baseline_raw_count": 37,
+      "baseline_pre_filter_count": 31,
+      "baseline_final_count": 17,
+      "baseline_raw_min": 140.09,
+      "baseline_raw_max": 3669.99,
       "gapPct": 45.51,
       "confidence": "low",
       "seller_rating": 100.0,
@@ -49,19 +104,19 @@
       "seller_trust": "HIGH",
       "deal_quality": "low",
       "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-13T01:00:01.112231+00:00",
-      "_last_seen_at": "2026-05-13T01:00:01.112231+00:00",
       "serpapi_baseline": 477.13,
       "active_scan_baseline": 477.13,
       "effective_baseline": 477.13,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 0.0
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-13T05:43:02.345340+00:00",
+      "_last_seen_at": "2026-05-13T05:43:02.345340+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
-      "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGanDnkVrOapuI9ggr5W5UOIkLn%2FvR9vfcBGL8tTk%2B2x%2FXgVpbBb6sAZyimo8FGU%2BDMxrGy75klxjuaNXsGlgV9z9y3h%2BUUyXEPpLSVVPjH3w%2FI5y%2B7kBnW0vImjLRb1CYvQnEozphdONOIDp6FP0fOa1dmPAF1XWfVSOAHyLfUQ1Uxx6tJxD4IEGRs6uMjiPgVDRfcqNFSKse4MPPpAgdu2",
+      "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGZOu6aLf6%2FEKvx00oY6vXHzKVNoHXo6IQKbcC5R8HPiz4yesYwTpd%2FeGjuJyKpiq4J4lCwzleSQIia4uGDB%2B2rZakhAXGLUV7eleFltS8VVlX%2FuBctf0Z9KB5XdLXIUvItXI3BsAhIG62eiuDorC6uBW1XmzCOEP%2B5%2FEISMQdt6RzoWpn6LD5h%2BQljlUJsY8ias6zD%2F0UxsiqcKdRJMA8QG",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
@@ -70,15 +125,15 @@
       "total_price": 69.99,
       "shipping_verified": false,
       "baseline_price": 104.99,
-      "baseline_raw_count": 92,
-      "baseline_pre_filter_count": 75,
+      "baseline_raw_count": 89,
+      "baseline_pre_filter_count": 73,
       "baseline_final_count": 9,
       "baseline_raw_min": 69.99,
       "baseline_raw_max": 9999.99,
       "gapPct": 33.34,
       "confidence": "medium",
-      "seller_rating": 96.9,
-      "seller_feedback_count": 108,
+      "seller_rating": 97.1,
+      "seller_feedback_count": 112,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
@@ -92,8 +147,8 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-12T21:23:51.342052+00:00",
-      "_last_seen_at": "2026-05-13T05:02:44.685182+00:00"
+      "_first_seen_at": "2026-05-13T05:43:02.345340+00:00",
+      "_last_seen_at": "2026-05-13T05:43:02.345340+00:00"
     },
     {
       "title": "Pokemon TCG Sword & Shield - Battle Styles - Elite Trainer Box (ETB) BLUE",
@@ -129,7 +184,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-13T05:02:44.685182+00:00",
-      "_last_seen_at": "2026-05-13T05:02:44.685182+00:00"
+      "_last_seen_at": "2026-05-13T05:43:02.345340+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
@@ -165,16 +220,16 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-13T05:02:44.685182+00:00",
-      "_last_seen_at": "2026-05-13T05:02:44.685182+00:00"
+      "_last_seen_at": "2026-05-13T05:03:50.309718+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 1,
     "retailer_deals": 0,
-    "total_merged": 0,
+    "total_merged": 1,
     "retailer_deals_visible": false
   }
 }
