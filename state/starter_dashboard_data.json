@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T05:23:16.075503+00:00",
+  "timestamp": "2026-05-14T06:02:54.740100+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,25 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 7,
+  "total_deals": 1,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 2
+      "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 1
+      "20_plus": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -34,14 +33,12 @@
       "pokemon"
     ],
     "set": [
-      "Darkness Ablaze",
       "Destined Rivals"
     ],
     "product_type": [
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19",
       "20_plus"
     ]
   },
@@ -56,16 +53,16 @@
       "shipping_cost": 0.0,
       "total_price": 119.99,
       "shipping_verified": true,
-      "baseline_price": 205.0,
-      "baseline_raw_count": 28,
+      "baseline_price": 209.99,
+      "baseline_raw_count": 29,
       "baseline_pre_filter_count": 21,
       "baseline_final_count": 11,
       "baseline_raw_min": 119.99,
       "baseline_raw_max": 839.99,
-      "gapPct": 41.47,
+      "gapPct": 42.86,
       "confidence": "high",
       "seller_rating": 99.2,
-      "seller_feedback_count": 51233,
+      "seller_feedback_count": 51234,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -73,44 +70,11 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 205.0,
-      "effective_baseline": 205.0,
+      "active_scan_baseline": 209.99,
+      "effective_baseline": 209.99,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 48.75
-    },
-    {
-      "title": "Pokemon - Darkness Ablaze Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/317787675278?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item49fd9f1a8e:g:fOMAAeSwt6FpcFxO",
-      "franchise": "pokemon",
-      "set": "Darkness Ablaze",
-      "product_type": "etb",
-      "price": 110.92,
-      "shipping_cost": 14.95,
-      "total_price": 110.92,
-      "shipping_verified": true,
-      "baseline_price": 125.0,
-      "baseline_raw_count": 18,
-      "baseline_pre_filter_count": 16,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 95.97,
-      "baseline_raw_max": 1329.99,
-      "gapPct": 11.26,
-      "confidence": "high",
-      "seller_rating": 99.2,
-      "seller_feedback_count": 2705,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 300.0,
-      "active_scan_baseline": 125.0,
-      "effective_baseline": 125.0,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 58.33
+      "baseline_drift_pct": 47.5
     }
   ],
   "watchlist_deals": [
@@ -148,11 +112,11 @@
       "baseline_drift_pct": 1997.79,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-13T23:03:09.261588+00:00",
-      "_last_seen_at": "2026-05-14T05:23:16.073663+00:00"
+      "_last_seen_at": "2026-05-14T06:00:01.161184+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
-      "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGb5jwJWJNHXgA7Pnaxj0t%2BUsbFizLlPXU1C35eOVkdmplnKBqJxdAWshtF6syF0viilAvxLVUtSnMg0WVN85y7OEUD57G%2FyfXvigP917oEEWTH%2BpIVVksz63hVdfJKzX2fN848u162GGFocfnUT67a7yNVrZ4MEjgkR0bbLQ6I7VyRH7B6mnryplma5aG2k%2FdSPYMa2Tb5D4UIgnE43D0rr",
+      "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGZ%2FuaelxWX4dPuQRQvGf9LQJa%2BJOe1L40S6Iu%2BW75aDK%2FgFCptrNfkGpYAsxF0MaQWwpbRwi4lFUTsyvPNDhhb3%2B3pXgfEMBa%2B%2FH7%2FmVsnpXtiVvth%2FuK6tLemKQhzBhywxMisFcgKSxsmKKm%2BsVOvTnK%2BOS6O%2BsiV578QN2ELc9yxbha%2Blty6HkT2lRJNWcDtTuRGecqU3asFlB2d8WZM4",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
@@ -161,66 +125,25 @@
       "total_price": 69.99,
       "shipping_verified": false,
       "baseline_price": 104.99,
-      "baseline_raw_count": 94,
-      "baseline_pre_filter_count": 76,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 69.99,
-      "baseline_raw_max": 9999.99,
       "gapPct": 33.34,
       "confidence": "medium",
-      "seller_rating": 97.4,
-      "seller_feedback_count": 119,
+      "seller_rating": 97.5,
+      "seller_feedback_count": 123,
       "language": "JP",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "MEDIUM",
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-14T06:00:01.161184+00:00",
+      "_last_seen_at": "2026-05-14T06:02:54.738611+00:00",
       "serpapi_baseline": 104.99,
-      "active_scan_baseline": 104.99,
+      "active_scan_baseline": 130.0,
       "effective_baseline": 104.99,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 0.0,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-13T21:43:59.725686+00:00",
-      "_last_seen_at": "2026-05-14T05:23:16.073663+00:00"
-    },
-    {
-      "title": "Pokemon TCG Evolving Skies ETB Elite Trainer Box (8 Packs) NEW (Messy Seal)",
-      "url": "https://www.ebay.com/itm/137308374026?_skw=pokemon+Evolving+Skies+booster+box&hash=item1ff837840a:g:kM8AAeSwQW9qBSJ~",
-      "franchise": "pokemon",
-      "set": "Evolving Skies",
-      "product_type": "etb",
-      "price": 399.99,
-      "shipping_cost": 0.0,
-      "total_price": 399.99,
-      "shipping_verified": true,
-      "baseline_price": 525.0,
-      "baseline_raw_count": 23,
-      "baseline_pre_filter_count": 20,
-      "baseline_final_count": 11,
-      "baseline_raw_min": 399.99,
-      "baseline_raw_max": 2400.0,
-      "gapPct": 23.81,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 9116,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 135.38,
-      "active_scan_baseline": 525.0,
-      "effective_baseline": 525.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 287.8,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-14T05:23:16.073663+00:00",
-      "_last_seen_at": "2026-05-14T05:23:16.073663+00:00"
+      "baseline_drift_pct": 0.0
     },
     {
       "title": "Pokemon TCG Battle Styles Elite Trainer Box ETB (NEW) (SEALED)",
@@ -233,7 +156,7 @@
       "total_price": 110.0,
       "shipping_verified": false,
       "baseline_price": 127.0,
-      "baseline_raw_count": 18,
+      "baseline_raw_count": 17,
       "baseline_pre_filter_count": 17,
       "baseline_final_count": 10,
       "baseline_raw_min": 110.0,
@@ -255,8 +178,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 40.15,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-14T05:23:16.073663+00:00",
-      "_last_seen_at": "2026-05-14T05:23:16.073663+00:00"
+      "_first_seen_at": "2026-05-14T06:02:54.738611+00:00",
+      "_last_seen_at": "2026-05-14T06:02:54.738611+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
@@ -271,7 +194,7 @@
       "baseline_price": 477.13,
       "baseline_raw_count": 37,
       "baseline_pre_filter_count": 31,
-      "baseline_final_count": 19,
+      "baseline_final_count": 18,
       "baseline_raw_min": 189.79,
       "baseline_raw_max": 3669.99,
       "gapPct": 4.68,
@@ -291,17 +214,17 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-14T05:23:16.073663+00:00",
-      "_last_seen_at": "2026-05-14T05:23:16.073663+00:00"
+      "_first_seen_at": "2026-05-14T06:02:54.738611+00:00",
+      "_last_seen_at": "2026-05-14T06:02:54.738611+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 0,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": false
   }
 }
