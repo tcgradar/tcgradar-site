@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T14:03:40.752860+00:00",
+  "timestamp": "2026-05-14T14:42:54.745568+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,25 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 7,
+  "total_deals": 1,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 2
+      "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 1
+      "20_plus": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -34,14 +33,12 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals",
-      "Temporal Forces"
+      "Destined Rivals"
     ],
     "product_type": [
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19",
       "20_plus"
     ]
   },
@@ -56,16 +53,16 @@
       "shipping_cost": 0.0,
       "total_price": 119.99,
       "shipping_verified": true,
-      "baseline_price": 209.95,
-      "baseline_raw_count": 32,
-      "baseline_pre_filter_count": 25,
-      "baseline_final_count": 13,
+      "baseline_price": 205.0,
+      "baseline_raw_count": 28,
+      "baseline_pre_filter_count": 22,
+      "baseline_final_count": 14,
       "baseline_raw_min": 119.99,
       "baseline_raw_max": 839.99,
-      "gapPct": 42.85,
+      "gapPct": 41.47,
       "confidence": "high",
       "seller_rating": 99.2,
-      "seller_feedback_count": 51247,
+      "seller_feedback_count": 51248,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -73,44 +70,11 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 209.95,
-      "effective_baseline": 209.95,
+      "active_scan_baseline": 205.0,
+      "effective_baseline": 205.0,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 47.51
-    },
-    {
-      "title": "Pokemon Temporal Forces Elite Trainer Box Iron Leaves Factory Sealed",
-      "url": "https://www.ebay.com/itm/188233539673?_skw=pokemon+Temporal+Forces+booster+box&hash=item2bd397e059:g:61oAAeSw-2BpzTZq",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "etb",
-      "price": 120.0,
-      "shipping_cost": 0.0,
-      "total_price": 120.0,
-      "shipping_verified": false,
-      "baseline_price": 142.11,
-      "baseline_raw_count": 19,
-      "baseline_pre_filter_count": 16,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 120.0,
-      "baseline_raw_max": 1500.0,
-      "gapPct": 15.56,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 203,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 275.0,
-      "active_scan_baseline": 142.11,
-      "effective_baseline": 142.11,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 48.32
+      "baseline_drift_pct": 48.75
     }
   ],
   "watchlist_deals": [
@@ -173,9 +137,9 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T14:00:01.301066+00:00",
-      "_last_seen_at": "2026-05-14T14:03:40.751043+00:00",
+      "_last_seen_at": "2026-05-14T14:42:54.743796+00:00",
       "serpapi_baseline": 104.99,
-      "active_scan_baseline": 130.0,
+      "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
       "baseline_cap_applied": false,
       "baseline_stale": false,
@@ -251,7 +215,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T14:03:40.751043+00:00",
-      "_last_seen_at": "2026-05-14T14:03:40.751043+00:00"
+      "_last_seen_at": "2026-05-14T14:42:54.743796+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
@@ -287,16 +251,16 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-14T14:03:40.751043+00:00",
-      "_last_seen_at": "2026-05-14T14:03:40.751043+00:00"
+      "_last_seen_at": "2026-05-14T14:42:54.743796+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 0,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": false
   }
 }
