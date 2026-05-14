@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T18:02:38.937097+00:00",
+  "timestamp": "2026-05-14T18:45:01.952241+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -137,7 +137,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T14:00:01.301066+00:00",
-      "_last_seen_at": "2026-05-14T18:02:38.934620+00:00",
+      "_last_seen_at": "2026-05-14T18:45:01.950489+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
@@ -179,7 +179,7 @@
       "baseline_drift_pct": 30.99,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T18:02:38.934620+00:00",
-      "_last_seen_at": "2026-05-14T18:02:38.934620+00:00"
+      "_last_seen_at": "2026-05-14T18:45:01.950489+00:00"
     },
     {
       "title": "Pokemon TCG Evolving Skies ETB Elite Trainer Box (8 Packs) NEW (Messy Seal)",
@@ -251,7 +251,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T18:02:38.934620+00:00",
-      "_last_seen_at": "2026-05-14T18:02:38.934620+00:00"
+      "_last_seen_at": "2026-05-14T18:45:01.950489+00:00"
     }
   ],
   "empty_watchlist": false,
