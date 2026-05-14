@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T10:02:58.296482+00:00",
+  "timestamp": "2026-05-14T10:42:50.053222+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -53,13 +53,13 @@
       "shipping_cost": 0.0,
       "total_price": 119.99,
       "shipping_verified": true,
-      "baseline_price": 209.99,
-      "baseline_raw_count": 29,
-      "baseline_pre_filter_count": 21,
-      "baseline_final_count": 11,
+      "baseline_price": 212.49,
+      "baseline_raw_count": 26,
+      "baseline_pre_filter_count": 20,
+      "baseline_final_count": 8,
       "baseline_raw_min": 119.99,
       "baseline_raw_max": 839.99,
-      "gapPct": 42.86,
+      "gapPct": 43.53,
       "confidence": "high",
       "seller_rating": 99.2,
       "seller_feedback_count": 51241,
@@ -70,11 +70,11 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 209.99,
-      "effective_baseline": 209.99,
+      "active_scan_baseline": 212.49,
+      "effective_baseline": 212.49,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 47.5
+      "baseline_drift_pct": 46.88
     }
   ],
   "watchlist_deals": [
@@ -101,7 +101,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T06:00:01.161184+00:00",
-      "_last_seen_at": "2026-05-14T10:02:58.295221+00:00",
+      "_last_seen_at": "2026-05-14T10:42:50.051976+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
@@ -143,7 +143,7 @@
       "baseline_drift_pct": 31.8,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T10:02:58.295221+00:00",
-      "_last_seen_at": "2026-05-14T10:02:58.295221+00:00"
+      "_last_seen_at": "2026-05-14T10:42:50.051976+00:00"
     },
     {
       "title": "Pokemon TCG Battle Styles Elite Trainer Box ETB (NEW) (SEALED)",
@@ -179,7 +179,7 @@
       "baseline_drift_pct": 40.15,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T10:02:58.295221+00:00",
-      "_last_seen_at": "2026-05-14T10:02:58.295221+00:00"
+      "_last_seen_at": "2026-05-14T10:42:50.051976+00:00"
     }
   ],
   "empty_watchlist": false,
