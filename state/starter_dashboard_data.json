@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T17:22:40.609310+00:00",
+  "timestamp": "2026-05-14T18:02:38.937097+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -53,16 +53,16 @@
       "shipping_cost": 0.0,
       "total_price": 119.99,
       "shipping_verified": true,
-      "baseline_price": 205.0,
-      "baseline_raw_count": 34,
-      "baseline_pre_filter_count": 27,
+      "baseline_price": 204.99,
+      "baseline_raw_count": 33,
+      "baseline_pre_filter_count": 26,
       "baseline_final_count": 16,
       "baseline_raw_min": 119.99,
       "baseline_raw_max": 839.99,
       "gapPct": 41.47,
       "confidence": "high",
       "seller_rating": 99.2,
-      "seller_feedback_count": 51260,
+      "seller_feedback_count": 51263,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -70,8 +70,8 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 205.0,
-      "effective_baseline": 205.0,
+      "active_scan_baseline": 204.99,
+      "effective_baseline": 204.99,
       "baseline_cap_applied": true,
       "baseline_stale": false,
       "baseline_drift_pct": 48.75
@@ -137,7 +137,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T14:00:01.301066+00:00",
-      "_last_seen_at": "2026-05-14T17:22:40.607604+00:00",
+      "_last_seen_at": "2026-05-14T18:02:38.934620+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
@@ -156,7 +156,7 @@
       "total_price": 454.78000000000003,
       "shipping_verified": true,
       "baseline_price": 625.0,
-      "baseline_raw_count": 33,
+      "baseline_raw_count": 34,
       "baseline_pre_filter_count": 28,
       "baseline_final_count": 17,
       "baseline_raw_min": 189.6,
@@ -178,8 +178,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 30.99,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-14T17:22:40.607604+00:00",
-      "_last_seen_at": "2026-05-14T17:22:40.607604+00:00"
+      "_first_seen_at": "2026-05-14T18:02:38.934620+00:00",
+      "_last_seen_at": "2026-05-14T18:02:38.934620+00:00"
     },
     {
       "title": "Pokemon TCG Evolving Skies ETB Elite Trainer Box (8 Packs) NEW (Messy Seal)",
@@ -250,8 +250,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-14T17:22:40.607604+00:00",
-      "_last_seen_at": "2026-05-14T17:22:40.607604+00:00"
+      "_first_seen_at": "2026-05-14T18:02:38.934620+00:00",
+      "_last_seen_at": "2026-05-14T18:02:38.934620+00:00"
     }
   ],
   "empty_watchlist": false,
