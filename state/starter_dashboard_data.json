@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T16:02:55.734210+00:00",
+  "timestamp": "2026-05-14T16:42:53.228180+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -54,9 +54,9 @@
       "total_price": 119.99,
       "shipping_verified": true,
       "baseline_price": 207.47,
-      "baseline_raw_count": 30,
-      "baseline_pre_filter_count": 23,
-      "baseline_final_count": 12,
+      "baseline_raw_count": 34,
+      "baseline_pre_filter_count": 27,
+      "baseline_final_count": 16,
       "baseline_raw_min": 119.99,
       "baseline_raw_max": 839.99,
       "gapPct": 42.17,
@@ -137,7 +137,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T14:00:01.301066+00:00",
-      "_last_seen_at": "2026-05-14T16:02:55.732500+00:00",
+      "_last_seen_at": "2026-05-14T16:42:53.226470+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
@@ -215,7 +215,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T16:02:55.732500+00:00",
-      "_last_seen_at": "2026-05-14T16:02:55.732500+00:00"
+      "_last_seen_at": "2026-05-14T16:42:53.226470+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
@@ -241,7 +241,7 @@
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "high",
+      "deal_quality": "medium",
       "gap_bucket": "1_to_9",
       "serpapi_baseline": 477.13,
       "active_scan_baseline": 477.13,
@@ -251,7 +251,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-14T16:02:55.732500+00:00",
-      "_last_seen_at": "2026-05-14T16:02:55.732500+00:00"
+      "_last_seen_at": "2026-05-14T16:42:53.226470+00:00"
     }
   ],
   "empty_watchlist": false,
