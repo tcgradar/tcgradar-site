@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T15:43:16.866516+00:00",
+  "timestamp": "2026-05-15T16:22:46.885157+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -49,7 +49,7 @@
   "deals": [
     {
       "title": "Pokemon TCG EV10 Destined Rivals Booster Box Display 36 Pack SEALED!  Portuguese",
-      "url": "https://www.ebay.com/itm/257251449001?_skw=pokemon+Destined+Rivals+booster+box&hash=item3be56198a9:g:GzYAAeSwjOZpOCPE&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYGM%2Fgam91HSoV3%2BcRxjXKVI4K0%2Bzyzfx0y5gMC4cssft03c6QTOtxnquxCtRdrwXEbRPLfnslfauX%2FzJ93tQH0XvREHnl6qUkxepfvGffUfAJwhIdkIMU2XLMh9dvf%2FivhHhYrv6jN%2B3WY2JwjbLJUPYB5HO%2BF62sOWViPAqGt%2B8fXV7Oc%2FMPevurm%2Bv5l8Pnk78OmXMGJUOg%2FdyxSX%2F1Hy%2Fzc5X3FqHSVZmFRGNP6y0Uf1wK2d%2FO5bc65uu72MURqQ5%2BtfpSnIcDVA6vdy60KujxX6VGwMaNbNCOI3fqL0NfZEzF%2BtSWvVMcN1t0CU9M%3D",
+      "url": "https://www.ebay.com/itm/257251449001?_skw=pokemon+Destined+Rivals+booster+box&hash=item3be56198a9:g:GzYAAeSwjOZpOCPE&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYGM%2Fgam91HSoV3%2BcRxjXKVI4K0%2Bzyzfx0y5gMC4cssft03c6QTOtxnquxCtRdrwXEbRPLfnslfauX%2FzJ93tQH0XvREHnl6qUkxepfvGffUfAJwhIdkIMU2XLMh9dvf%2FiuKUtF4gsve4hFjxCbDeEqeQVWXjwj1Vprn5BPLKiON5BJyUpXE%2Bbwzab2RJV9Flt%2FyhNlP9t9X%2BzKC9%2Fn0l1EtQt%2BKAUyeNZCFJ7ORF4ZC9D8XKrz%2Bg8DhgtPrZTLPmFJ%2BYtkdAuE3AixEqruvYNnquNgAWyhnZPNeWLF4pGJbpf29LAREyHXycr3I4nXTQM8%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -74,11 +74,11 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 464.23,
+      "active_scan_baseline": 462.4,
       "effective_baseline": 477.13,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 2.7
+      "baseline_drift_pct": 3.09
     },
     {
       "title": "Pokemon Scarlet and Violet: Destined Rivals Elite Trainer Box ETB Sealed",
@@ -90,13 +90,13 @@
       "shipping_cost": 0.0,
       "total_price": 186.0,
       "shipping_verified": false,
-      "baseline_price": 210.0,
+      "baseline_price": 214.99,
       "baseline_raw_count": 24,
       "baseline_pre_filter_count": 21,
       "baseline_final_count": 13,
       "baseline_raw_min": 186.0,
       "baseline_raw_max": 839.99,
-      "gapPct": 11.43,
+      "gapPct": 13.48,
       "confidence": "high",
       "seller_rating": 99.7,
       "seller_feedback_count": 535,
@@ -107,11 +107,11 @@
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 210.0,
-      "effective_baseline": 210.0,
+      "active_scan_baseline": 214.99,
+      "effective_baseline": 214.99,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 47.5
+      "baseline_drift_pct": 46.25
     }
   ],
   "watchlist_deals": [
@@ -216,7 +216,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T14:22:50.468044+00:00",
-      "_last_seen_at": "2026-05-15T15:43:16.864829+00:00"
+      "_last_seen_at": "2026-05-15T16:00:02.044093+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -252,7 +252,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T15:43:16.864829+00:00",
-      "_last_seen_at": "2026-05-15T15:43:16.864829+00:00"
+      "_last_seen_at": "2026-05-15T16:00:02.044093+00:00"
     },
     {
       "title": "Pokemon TCG Battle Styles Elite Trainer Box ETB (NEW) (SEALED)",
@@ -264,13 +264,13 @@
       "shipping_cost": 0.0,
       "total_price": 110.0,
       "shipping_verified": false,
-      "baseline_price": 125.0,
+      "baseline_price": 132.99,
       "baseline_raw_count": 16,
       "baseline_pre_filter_count": 16,
-      "baseline_final_count": 10,
+      "baseline_final_count": 9,
       "baseline_raw_min": 110.0,
       "baseline_raw_max": 1399.99,
-      "gapPct": 12.0,
+      "gapPct": 17.29,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 1146,
@@ -281,14 +281,14 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 90.62,
-      "active_scan_baseline": 125.0,
-      "effective_baseline": 125.0,
+      "active_scan_baseline": 132.99,
+      "effective_baseline": 132.99,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 37.94,
+      "baseline_drift_pct": 46.76,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-15T15:02:45.723198+00:00",
-      "_last_seen_at": "2026-05-15T15:43:16.864829+00:00"
+      "_first_seen_at": "2026-05-15T16:22:46.883508+00:00",
+      "_last_seen_at": "2026-05-15T16:22:46.883508+00:00"
     }
   ],
   "empty_watchlist": false,
