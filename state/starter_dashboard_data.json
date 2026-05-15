@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T08:02:49.551034+00:00",
+  "timestamp": "2026-05-15T08:42:43.683676+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -54,8 +54,8 @@
       "total_price": 119.99,
       "shipping_verified": true,
       "baseline_price": 212.47,
-      "baseline_raw_count": 24,
-      "baseline_pre_filter_count": 18,
+      "baseline_raw_count": 22,
+      "baseline_pre_filter_count": 17,
       "baseline_final_count": 10,
       "baseline_raw_min": 119.99,
       "baseline_raw_max": 839.99,
@@ -173,7 +173,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T06:00:01.885193+00:00",
-      "_last_seen_at": "2026-05-15T08:02:49.549078+00:00",
+      "_last_seen_at": "2026-05-15T08:42:43.681688+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
@@ -215,7 +215,7 @@
       "baseline_drift_pct": 40.15,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T08:02:49.549078+00:00",
-      "_last_seen_at": "2026-05-15T08:02:49.549078+00:00"
+      "_last_seen_at": "2026-05-15T08:42:43.681688+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -287,7 +287,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-15T08:02:49.549078+00:00",
-      "_last_seen_at": "2026-05-15T08:02:49.549078+00:00"
+      "_last_seen_at": "2026-05-15T08:42:43.681688+00:00"
     }
   ],
   "empty_watchlist": false,
