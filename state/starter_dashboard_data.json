@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T07:23:11.397965+00:00",
+  "timestamp": "2026-05-15T08:02:49.551034+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,25 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 8,
+  "total_deals": 1,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 2
+      "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 1
+      "20_plus": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -34,14 +33,12 @@
       "pokemon"
     ],
     "set": [
-      "Darkness Ablaze",
       "Destined Rivals"
     ],
     "product_type": [
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19",
       "20_plus"
     ]
   },
@@ -57,15 +54,15 @@
       "total_price": 119.99,
       "shipping_verified": true,
       "baseline_price": 212.47,
-      "baseline_raw_count": 25,
-      "baseline_pre_filter_count": 19,
-      "baseline_final_count": 12,
+      "baseline_raw_count": 24,
+      "baseline_pre_filter_count": 18,
+      "baseline_final_count": 10,
       "baseline_raw_min": 119.99,
       "baseline_raw_max": 839.99,
       "gapPct": 43.53,
       "confidence": "high",
       "seller_rating": 99.2,
-      "seller_feedback_count": 51292,
+      "seller_feedback_count": 51293,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -78,39 +75,6 @@
       "baseline_cap_applied": true,
       "baseline_stale": false,
       "baseline_drift_pct": 46.88
-    },
-    {
-      "title": "Pokemon - Darkness Ablaze Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/317787675278?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item49fd9f1a8e:g:fOMAAeSwt6FpcFxO",
-      "franchise": "pokemon",
-      "set": "Darkness Ablaze",
-      "product_type": "etb",
-      "price": 110.64,
-      "shipping_cost": 14.95,
-      "total_price": 110.64,
-      "shipping_verified": true,
-      "baseline_price": 130.0,
-      "baseline_raw_count": 20,
-      "baseline_pre_filter_count": 17,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 95.69,
-      "baseline_raw_max": 1949.95,
-      "gapPct": 14.89,
-      "confidence": "high",
-      "seller_rating": 99.2,
-      "seller_feedback_count": 2711,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 300.0,
-      "active_scan_baseline": 130.0,
-      "effective_baseline": 130.0,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 56.67
     }
   ],
   "watchlist_deals": [
@@ -184,7 +148,7 @@
       "baseline_drift_pct": 2034.16,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T00:43:19.888301+00:00",
-      "_last_seen_at": "2026-05-15T07:23:11.395990+00:00"
+      "_last_seen_at": "2026-05-15T08:00:01.411170+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -209,49 +173,13 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T06:00:01.885193+00:00",
-      "_last_seen_at": "2026-05-15T07:23:11.395990+00:00",
+      "_last_seen_at": "2026-05-15T08:02:49.549078+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
       "baseline_cap_applied": false,
       "baseline_stale": false,
       "baseline_drift_pct": 0.0
-    },
-    {
-      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
-      "url": "https://www.ebay.com/itm/298278524391?_skw=pokemon+Destined+Rivals+booster+box&hash=item4572c915e7:g:lGsAAeSwnxZp9Gkd",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 441.34999999999997,
-      "shipping_cost": 45.32,
-      "total_price": 441.34999999999997,
-      "shipping_verified": true,
-      "baseline_price": 634.44,
-      "baseline_raw_count": 33,
-      "baseline_pre_filter_count": 27,
-      "baseline_final_count": 10,
-      "baseline_raw_min": 189.6,
-      "baseline_raw_max": 3669.99,
-      "gapPct": 30.43,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 315,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 477.13,
-      "active_scan_baseline": 634.44,
-      "effective_baseline": 634.44,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 32.97,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-15T07:23:11.395990+00:00",
-      "_last_seen_at": "2026-05-15T07:23:11.395990+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -286,8 +214,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 40.15,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-15T07:23:11.395990+00:00",
-      "_last_seen_at": "2026-05-15T07:23:11.395990+00:00"
+      "_first_seen_at": "2026-05-15T08:02:49.549078+00:00",
+      "_last_seen_at": "2026-05-15T08:02:49.549078+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -324,15 +252,51 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T02:43:24.174981+00:00",
       "_last_seen_at": "2026-05-15T03:00:02.067204+00:00"
+    },
+    {
+      "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
+      "url": "https://www.ebay.com/itm/298278524391?_skw=pokemon+Destined+Rivals+booster+box&hash=item4572c915e7:g:lGsAAeSwnxZp9Gkd",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 441.34999999999997,
+      "shipping_cost": 45.32,
+      "total_price": 441.34999999999997,
+      "shipping_verified": true,
+      "baseline_price": 477.13,
+      "baseline_raw_count": 34,
+      "baseline_pre_filter_count": 28,
+      "baseline_final_count": 15,
+      "baseline_raw_min": 189.6,
+      "baseline_raw_max": 3669.99,
+      "gapPct": 7.5,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 315,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "1_to_9",
+      "serpapi_baseline": 477.13,
+      "active_scan_baseline": 477.13,
+      "effective_baseline": 477.13,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-15T08:02:49.549078+00:00",
+      "_last_seen_at": "2026-05-15T08:02:49.549078+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 0,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": false
   }
 }
