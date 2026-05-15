@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T13:02:59.059467+00:00",
+  "timestamp": "2026-05-15T13:43:13.918156+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,25 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 5,
+  "total_deals": 3,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
       "booster_box": 1,
-      "etb": 1
+      "etb": 2
     },
     "by_gap_bucket": {
-      "20_plus": 2
+      "20_plus": 2,
+      "10_to_19": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 3
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -34,6 +35,7 @@
       "pokemon"
     ],
     "set": [
+      "Darkness Ablaze",
       "Destined Rivals"
     ],
     "product_type": [
@@ -41,13 +43,14 @@
       "etb"
     ],
     "gap_bucket": [
+      "10_to_19",
       "20_plus"
     ]
   },
   "deals": [
     {
       "title": "Pokemon TCG EV10 Destined Rivals Booster Box Display 36 Pack SEALED!  Portuguese",
-      "url": "https://www.ebay.com/itm/257251449001?_skw=pokemon+Destined+Rivals+booster+box&hash=item3be56198a9:g:GzYAAeSwjOZpOCPE&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYGM%2Fgam91HSoV3%2BcRxjXKVI4K0%2Bzyzfx0y5gMC4cssft03c6QTOtxnquxCtRdrwXEbRPLfnslfauX%2FzJ93tQH0XvREHnl6qUkxepfvGffUfAJwhIdkIMU2XLMh9dvf%2Fit12%2BvW%2BgnmYUWO8mpTJLBjEWiopUJHcAsP6W3lFwKFvkHLOXTsec9HQtTU3vDJYJTriQ%2BR9sTh13xjXt21oFk%2F%2BniWaEqpNklWBpIasMUizEXckEBvb4obxKJvLcpsyvOu0gDAAW0D2cgRKIpDQB7LoP4xiMi33T2hc2xg9PD%2F3tmbC%2BNs2Lipe3JOkY9a1pE%3D",
+      "url": "https://www.ebay.com/itm/257251449001?_skw=pokemon+Destined+Rivals+booster+box&hash=item3be56198a9:g:GzYAAeSwjOZpOCPE&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYGM%2Fgam91HSoV3%2BcRxjXKVI4K0%2Bzyzfx0y5gMC4cssft03c6QTOtxnquxCtRdrwXEbRPLfnslfauX%2FzJ93tQH0XvREHnl6qUkxepfvGffUfAJwhIdkIMU2XLMh9dvf%2Fitc86jn0MO7Fhe%2FbDvjSJrxDHz4OuERYePC9qQdb3gdgb%2BnpBR6Hiq0ohkUqUP5IdIU5DlPJAT8bAgflHFnc0yB8tQCxoeVy%2B8MCZp5YtEChvyET2aNdx7ENvoaBoQ%2BmVQZpfF1SRrVVMvm31gciA0bL5uFb12aGtBbJ2LGbjPqjWr59a1ia3WGi%2Fe7KmVPQ%2FQ%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -56,8 +59,8 @@
       "total_price": 235.0,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 37,
-      "baseline_pre_filter_count": 32,
+      "baseline_raw_count": 35,
+      "baseline_pre_filter_count": 30,
       "baseline_final_count": 14,
       "baseline_raw_min": 189.79,
       "baseline_raw_max": 3669.99,
@@ -88,16 +91,16 @@
       "shipping_cost": 0.0,
       "total_price": 119.99,
       "shipping_verified": true,
-      "baseline_price": 209.95,
-      "baseline_raw_count": 24,
-      "baseline_pre_filter_count": 20,
-      "baseline_final_count": 13,
+      "baseline_price": 214.99,
+      "baseline_raw_count": 23,
+      "baseline_pre_filter_count": 19,
+      "baseline_final_count": 11,
       "baseline_raw_min": 119.99,
       "baseline_raw_max": 839.99,
-      "gapPct": 42.85,
+      "gapPct": 44.19,
       "confidence": "high",
       "seller_rating": 99.2,
-      "seller_feedback_count": 51301,
+      "seller_feedback_count": 51304,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -105,11 +108,44 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 209.95,
-      "effective_baseline": 209.95,
+      "active_scan_baseline": 214.99,
+      "effective_baseline": 214.99,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 47.51
+      "baseline_drift_pct": 46.25
+    },
+    {
+      "title": "Pokemon - Darkness Ablaze Elite Trainer Box",
+      "url": "https://www.ebay.com/itm/317787675278?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item49fd9f1a8e:g:fOMAAeSwt6FpcFxO",
+      "franchise": "pokemon",
+      "set": "Darkness Ablaze",
+      "product_type": "etb",
+      "price": 110.64,
+      "shipping_cost": 14.95,
+      "total_price": 110.64,
+      "shipping_verified": true,
+      "baseline_price": 130.0,
+      "baseline_raw_count": 20,
+      "baseline_pre_filter_count": 17,
+      "baseline_final_count": 9,
+      "baseline_raw_min": 95.69,
+      "baseline_raw_max": 1949.95,
+      "gapPct": 14.89,
+      "confidence": "high",
+      "seller_rating": 99.2,
+      "seller_feedback_count": 2713,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 300.0,
+      "active_scan_baseline": 130.0,
+      "effective_baseline": 130.0,
+      "baseline_cap_applied": true,
+      "baseline_stale": false,
+      "baseline_drift_pct": 56.67
     }
   ],
   "watchlist_deals": [
@@ -145,6 +181,42 @@
       "baseline_drift_pct": 0.0
     },
     {
+      "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
+      "url": "https://www.ebay.com/itm/406823197415?_skw=pokemon+Evolving+Skies+booster+box&hash=item5eb88d5ae7:g:2m0AAeSwoNZpznEb",
+      "franchise": "pokemon",
+      "set": "Evolving Skies",
+      "product_type": "booster_box",
+      "price": 1599.99,
+      "shipping_cost": 0.0,
+      "total_price": 1599.99,
+      "shipping_verified": true,
+      "baseline_price": 2880.0,
+      "baseline_raw_count": 41,
+      "baseline_pre_filter_count": 31,
+      "baseline_final_count": 15,
+      "baseline_raw_min": 78.88,
+      "baseline_raw_max": 30000.0,
+      "gapPct": 44.44,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 165,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 135.38,
+      "active_scan_baseline": 2880.0,
+      "effective_baseline": 2880.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 2027.35,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-15T13:43:13.916665+00:00",
+      "_last_seen_at": "2026-05-15T13:43:13.916665+00:00"
+    },
+    {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
       "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGYLP%2FZXItshGvVZtJKH5gFbQJoW3aLPjRYvVTw7HtHgvZSryWbZBpgbrnbzhqt71iBnoR2KjZrNp4icvcbInGB1vr%2FqUqbdK8a8R3aboofXre8XjbZbppzQScyrg93tj%2BSqsLm5wtRLLqB5N%2B3N%2BQkfnNBxy5xbapGPG5KX5ik6g7xawYKhxNEb9%2BgomY5fIP0P1SoTFAHmlsWCeTzwjKEG",
       "franchise": "onepiece",
@@ -167,7 +239,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T06:00:01.885193+00:00",
-      "_last_seen_at": "2026-05-15T12:00:01.189812+00:00",
+      "_last_seen_at": "2026-05-15T13:43:13.916665+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
@@ -209,16 +281,16 @@
       "baseline_drift_pct": 35.18,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T13:02:59.058237+00:00",
-      "_last_seen_at": "2026-05-15T13:02:59.058237+00:00"
+      "_last_seen_at": "2026-05-15T13:43:13.916665+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 0,
-    "total_merged": 2,
+    "total_merged": 3,
     "retailer_deals_visible": false
   }
 }
