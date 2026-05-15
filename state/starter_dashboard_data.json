@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T23:03:18.708593+00:00",
+  "timestamp": "2026-05-15T23:43:16.719680+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,24 +7,25 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 8,
+  "total_deals": 2,
+  "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1
+      "etb": 2
     },
     "by_gap_bucket": {
+      "20_plus": 1,
       "10_to_19": 1
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,36 +34,71 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals"
+      "Destined Rivals",
+      "Shrouded Fable"
     ],
     "product_type": [
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
     {
-      "title": "Pokemon Scarlet and Violet: Destined Rivals Elite Trainer Box ETB Sealed",
-      "url": "https://www.ebay.com/itm/206264136963?_skw=pokemon+Destined+Rivals+booster+box&hash=item30064cf503:g:6P8AAeSw2wNp~~Xx",
+      "title": "Pokemon TCG Shrouded Fable Elite Trainer Box Factory Sealed New",
+      "url": "https://www.ebay.com/itm/277987691703?_skw=pokemon+Shrouded+Fable+booster+box&hash=item40b95b8cb7:g:d28AAeSwlaJpKgAc",
+      "franchise": "pokemon",
+      "set": "Shrouded Fable",
+      "product_type": "etb",
+      "price": 99.0,
+      "shipping_cost": 0.0,
+      "total_price": 99.0,
+      "shipping_verified": false,
+      "baseline_price": 134.75,
+      "baseline_raw_count": 45,
+      "baseline_pre_filter_count": 39,
+      "baseline_final_count": 15,
+      "baseline_raw_min": 20.0,
+      "baseline_raw_max": 2499.99,
+      "gapPct": 26.53,
+      "confidence": "high",
+      "seller_rating": 99.8,
+      "seller_feedback_count": 31072,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 134.75,
+      "active_scan_baseline": 147.43,
+      "effective_baseline": 134.75,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 9.41
+    },
+    {
+      "title": "POKEMON SCARLET & VIOLET DESTINED RIVALS ELITE TRAINER BOX NEW SEALED",
+      "url": "https://www.ebay.com/itm/157908616130?_skw=pokemon+Destined+Rivals+booster+box&hash=item24c41643c2:g:qmcAAeSws11qBRnO",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "etb",
-      "price": 175.0,
+      "price": 185.0,
       "shipping_cost": 0.0,
-      "total_price": 175.0,
+      "total_price": 185.0,
       "shipping_verified": false,
-      "baseline_price": 209.95,
-      "baseline_raw_count": 31,
-      "baseline_pre_filter_count": 26,
-      "baseline_final_count": 17,
-      "baseline_raw_min": 175.0,
+      "baseline_price": 217.47,
+      "baseline_raw_count": 30,
+      "baseline_pre_filter_count": 25,
+      "baseline_final_count": 12,
+      "baseline_raw_min": 185.0,
       "baseline_raw_max": 839.99,
-      "gapPct": 16.65,
+      "gapPct": 14.93,
       "confidence": "high",
-      "seller_rating": 99.7,
-      "seller_feedback_count": 535,
+      "seller_rating": 100.0,
+      "seller_feedback_count": 463,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -70,11 +106,11 @@
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 209.95,
-      "effective_baseline": 209.95,
+      "active_scan_baseline": 217.47,
+      "effective_baseline": 217.47,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 47.51
+      "baseline_drift_pct": 45.63
     }
   ],
   "watchlist_deals": [
@@ -143,7 +179,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T22:23:19.077222+00:00",
-      "_last_seen_at": "2026-05-15T23:03:18.706407+00:00"
+      "_last_seen_at": "2026-05-15T23:43:16.717201+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -179,7 +215,43 @@
       "baseline_drift_pct": 46.76,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T23:03:18.706407+00:00",
-      "_last_seen_at": "2026-05-15T23:03:18.706407+00:00"
+      "_last_seen_at": "2026-05-15T23:43:16.717201+00:00"
+    },
+    {
+      "title": "Pokemon TCG Shrouded Fable Booster Bundle Factory Sealed",
+      "url": "https://www.ebay.com/itm/257503490215?_skw=pokemon+Shrouded+Fable+booster+box&hash=item3bf46770a7:g:HhUAAeSwPKtqA6CY",
+      "franchise": "pokemon",
+      "set": "Shrouded Fable",
+      "product_type": "booster_bundle",
+      "price": 54.99,
+      "shipping_cost": 0.0,
+      "total_price": 54.99,
+      "shipping_verified": false,
+      "baseline_price": 69.0,
+      "baseline_raw_count": 33,
+      "baseline_pre_filter_count": 31,
+      "baseline_final_count": 13,
+      "baseline_raw_min": 5.0,
+      "baseline_raw_max": 1695.95,
+      "gapPct": 20.3,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 621,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 51.28,
+      "active_scan_baseline": 69.0,
+      "effective_baseline": 69.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 34.56,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-15T23:43:16.717201+00:00",
+      "_last_seen_at": "2026-05-15T23:43:16.717201+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -251,7 +323,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-15T23:03:18.706407+00:00",
-      "_last_seen_at": "2026-05-15T23:03:18.706407+00:00"
+      "_last_seen_at": "2026-05-15T23:43:16.717201+00:00"
     },
     {
       "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
@@ -323,16 +395,16 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-15T23:03:18.706407+00:00",
-      "_last_seen_at": "2026-05-15T23:03:18.706407+00:00"
+      "_last_seen_at": "2026-05-15T23:04:31.957378+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
-    "retailer_deals": 0,
-    "total_merged": 1,
-    "retailer_deals_visible": false
+    "ebay_deals": 2,
+    "retailer_deals": 1,
+    "total_merged": 2,
+    "retailer_deals_visible": true
   }
 }
