@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T08:42:43.683676+00:00",
+  "timestamp": "2026-05-15T09:23:12.316821+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,24 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
+  "total_deals": 2,
   "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1
+      "etb": 2
     },
     "by_gap_bucket": {
-      "20_plus": 1
+      "20_plus": 2
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,7 +33,8 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals"
+      "Destined Rivals",
+      "Obsidian Flames"
     ],
     "product_type": [
       "etb"
@@ -53,13 +54,13 @@
       "shipping_cost": 0.0,
       "total_price": 119.99,
       "shipping_verified": true,
-      "baseline_price": 212.47,
-      "baseline_raw_count": 22,
-      "baseline_pre_filter_count": 17,
+      "baseline_price": 215.0,
+      "baseline_raw_count": 24,
+      "baseline_pre_filter_count": 19,
       "baseline_final_count": 10,
       "baseline_raw_min": 119.99,
       "baseline_raw_max": 839.99,
-      "gapPct": 43.53,
+      "gapPct": 44.19,
       "confidence": "high",
       "seller_rating": 99.2,
       "seller_feedback_count": 51293,
@@ -70,11 +71,44 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 212.47,
-      "effective_baseline": 212.47,
+      "active_scan_baseline": 215.0,
+      "effective_baseline": 215.0,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 46.88
+      "baseline_drift_pct": 46.25
+    },
+    {
+      "title": "Obsidian Flames Pokemon Center Exclusive Open Display Box ETB, No Cards/packs",
+      "url": "https://www.ebay.com/itm/267664306267?_skw=pokemon+Obsidian+Flames+booster+box&hash=item3e5209305b:g:0W8AAeSwQ5pp~rrs",
+      "franchise": "pokemon",
+      "set": "Obsidian Flames",
+      "product_type": "etb",
+      "price": 199.0,
+      "shipping_cost": 0.0,
+      "total_price": 199.0,
+      "shipping_verified": true,
+      "baseline_price": 350.0,
+      "baseline_raw_count": 18,
+      "baseline_pre_filter_count": 17,
+      "baseline_final_count": 8,
+      "baseline_raw_min": 125.0,
+      "baseline_raw_max": 3449.99,
+      "gapPct": 43.14,
+      "confidence": "high",
+      "seller_rating": 99.8,
+      "seller_feedback_count": 3503,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 350.0,
+      "active_scan_baseline": 305.0,
+      "effective_baseline": 350.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 12.86
     }
   ],
   "watchlist_deals": [
@@ -115,42 +149,6 @@
       "_last_seen_at": "2026-05-15T06:03:54.622159+00:00"
     },
     {
-      "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
-      "url": "https://www.ebay.com/itm/406823197415?_skw=pokemon+Evolving+Skies+booster+box&hash=item5eb88d5ae7:g:2m0AAeSwoNZpznEb",
-      "franchise": "pokemon",
-      "set": "Evolving Skies",
-      "product_type": "booster_box",
-      "price": 1599.99,
-      "shipping_cost": 0.0,
-      "total_price": 1599.99,
-      "shipping_verified": true,
-      "baseline_price": 2889.23,
-      "baseline_raw_count": 41,
-      "baseline_pre_filter_count": 32,
-      "baseline_final_count": 16,
-      "baseline_raw_min": 78.88,
-      "baseline_raw_max": 30000.0,
-      "gapPct": 44.62,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 165,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 135.38,
-      "active_scan_baseline": 2889.23,
-      "effective_baseline": 2889.23,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 2034.16,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-15T00:43:19.888301+00:00",
-      "_last_seen_at": "2026-05-15T08:00:01.411170+00:00"
-    },
-    {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
       "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGYLP%2FZXItshGvVZtJKH5gFbQJoW3aLPjRYvVTw7HtHgvZSryWbZBpgbrnbzhqt71iBnoR2KjZrNp4icvcbInGB1vr%2FqUqbdK8a8R3aboofXre8XjbZbppzQScyrg93tj%2BSqsLm5wtRLLqB5N%2B3N%2BQkfnNBxy5xbapGPG5KX5ik6g7xawYKhxNEb9%2BgomY5fIP0P1SoTFAHmlsWCeTzwjKEG",
       "franchise": "onepiece",
@@ -173,7 +171,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T06:00:01.885193+00:00",
-      "_last_seen_at": "2026-05-15T08:42:43.681688+00:00",
+      "_last_seen_at": "2026-05-15T09:00:01.942697+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
@@ -214,8 +212,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 40.15,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-15T08:02:49.549078+00:00",
-      "_last_seen_at": "2026-05-15T08:42:43.681688+00:00"
+      "_first_seen_at": "2026-05-15T09:23:12.315010+00:00",
+      "_last_seen_at": "2026-05-15T09:23:12.315010+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -251,7 +249,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T02:43:24.174981+00:00",
-      "_last_seen_at": "2026-05-15T03:00:02.067204+00:00"
+      "_last_seen_at": "2026-05-15T09:23:12.315010+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs Brand New & Sealed SMALL TEAR",
@@ -286,17 +284,17 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-15T08:02:49.549078+00:00",
-      "_last_seen_at": "2026-05-15T08:42:43.681688+00:00"
+      "_first_seen_at": "2026-05-15T09:23:12.315010+00:00",
+      "_last_seen_at": "2026-05-15T09:23:12.315010+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 2,
     "retailer_deals_visible": false
   }
 }
