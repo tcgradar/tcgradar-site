@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T15:02:45.724686+00:00",
+  "timestamp": "2026-05-15T15:43:16.866516+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 2,
-  "all_deals_count": 6,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 2
@@ -18,7 +18,8 @@
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 2
+      "20_plus": 1,
+      "10_to_19": 1
     },
     "by_source": {
       "ebay": 2
@@ -41,13 +42,14 @@
       "etb"
     ],
     "gap_bucket": [
+      "10_to_19",
       "20_plus"
     ]
   },
   "deals": [
     {
       "title": "Pokemon TCG EV10 Destined Rivals Booster Box Display 36 Pack SEALED!  Portuguese",
-      "url": "https://www.ebay.com/itm/257251449001?_skw=pokemon+Destined+Rivals+booster+box&hash=item3be56198a9:g:GzYAAeSwjOZpOCPE&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYGM%2Fgam91HSoV3%2BcRxjXKVI4K0%2Bzyzfx0y5gMC4cssft03c6QTOtxnquxCtRdrwXEbRPLfnslfauX%2FzJ93tQH0XvREHnl6qUkxepfvGffUfAJwhIdkIMU2XLMh9dvf%2FitzM0V07AyJHfH6WUxSh%2BZBs3D6O5N3dQtd98n2IvSyIviV8gQWNUs0qEQJ7icKvY2EZgayY2Em4fdDwYuLCYW%2FN8UGgV3ZjnxV2bkkUO98zdWoGlrpgHazFQLr4zz236Quohtyw8WfS5dwpfvZFlhKfak%2Bog1yvrkXS5bieRfIV1rJaSsSUE34qjb5Z9n6deg%3D",
+      "url": "https://www.ebay.com/itm/257251449001?_skw=pokemon+Destined+Rivals+booster+box&hash=item3be56198a9:g:GzYAAeSwjOZpOCPE&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYGM%2Fgam91HSoV3%2BcRxjXKVI4K0%2Bzyzfx0y5gMC4cssft03c6QTOtxnquxCtRdrwXEbRPLfnslfauX%2FzJ93tQH0XvREHnl6qUkxepfvGffUfAJwhIdkIMU2XLMh9dvf%2FivhHhYrv6jN%2B3WY2JwjbLJUPYB5HO%2BF62sOWViPAqGt%2B8fXV7Oc%2FMPevurm%2Bv5l8Pnk78OmXMGJUOg%2FdyxSX%2F1Hy%2Fzc5X3FqHSVZmFRGNP6y0Uf1wK2d%2FO5bc65uu72MURqQ5%2BtfpSnIcDVA6vdy60KujxX6VGwMaNbNCOI3fqL0NfZEzF%2BtSWvVMcN1t0CU9M%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -56,9 +58,9 @@
       "total_price": 235.0,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 36,
-      "baseline_pre_filter_count": 31,
-      "baseline_final_count": 14,
+      "baseline_raw_count": 35,
+      "baseline_pre_filter_count": 30,
+      "baseline_final_count": 13,
       "baseline_raw_min": 189.79,
       "baseline_raw_max": 3669.99,
       "gapPct": 50.75,
@@ -79,37 +81,37 @@
       "baseline_drift_pct": 2.7
     },
     {
-      "title": "Pokemon Trading Card Game Scarlet & Violet 10 Destined Rivals Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/336582403259?_skw=pokemon+Destined+Rivals+booster+box&hash=item4e5ddfe4bb:g:1BQAAeSwKOdqBPQ6",
+      "title": "Pokemon Scarlet and Violet: Destined Rivals Elite Trainer Box ETB Sealed",
+      "url": "https://www.ebay.com/itm/206264136963?_skw=pokemon+Destined+Rivals+booster+box&hash=item30064cf503:g:6P8AAeSw2wNp~~Xx",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "etb",
-      "price": 119.99,
+      "price": 186.0,
       "shipping_cost": 0.0,
-      "total_price": 119.99,
-      "shipping_verified": true,
-      "baseline_price": 212.47,
-      "baseline_raw_count": 25,
+      "total_price": 186.0,
+      "shipping_verified": false,
+      "baseline_price": 210.0,
+      "baseline_raw_count": 24,
       "baseline_pre_filter_count": 21,
-      "baseline_final_count": 12,
-      "baseline_raw_min": 119.99,
+      "baseline_final_count": 13,
+      "baseline_raw_min": 186.0,
       "baseline_raw_max": 839.99,
-      "gapPct": 43.53,
+      "gapPct": 11.43,
       "confidence": "high",
-      "seller_rating": 99.2,
-      "seller_feedback_count": 51309,
+      "seller_rating": 99.7,
+      "seller_feedback_count": 535,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "20_plus",
+      "gap_bucket": "10_to_19",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 212.47,
-      "effective_baseline": 212.47,
+      "active_scan_baseline": 210.0,
+      "effective_baseline": 210.0,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 46.88
+      "baseline_drift_pct": 47.5
     }
   ],
   "watchlist_deals": [
@@ -214,7 +216,43 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T14:22:50.468044+00:00",
-      "_last_seen_at": "2026-05-15T15:00:01.203633+00:00"
+      "_last_seen_at": "2026-05-15T15:43:16.864829+00:00"
+    },
+    {
+      "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
+      "url": "https://www.ebay.com/itm/127808330222?_skw=pokemon+Obsidian+Flames+booster+box&hash=item1dc1f859ee:g:I-gAAeSwSn9psbcG",
+      "franchise": "pokemon",
+      "set": "Obsidian Flames",
+      "product_type": "booster_box",
+      "price": 289.0,
+      "shipping_cost": 0.0,
+      "total_price": 289.0,
+      "shipping_verified": false,
+      "baseline_price": 350.0,
+      "baseline_raw_count": 27,
+      "baseline_pre_filter_count": 23,
+      "baseline_final_count": 18,
+      "baseline_raw_min": 289.0,
+      "baseline_raw_max": 2595.0,
+      "gapPct": 17.43,
+      "confidence": "medium",
+      "seller_rating": 99.7,
+      "seller_feedback_count": 1372,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 350.0,
+      "active_scan_baseline": 350.0,
+      "effective_baseline": 350.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-15T15:43:16.864829+00:00",
+      "_last_seen_at": "2026-05-15T15:43:16.864829+00:00"
     },
     {
       "title": "Pokemon TCG Battle Styles Elite Trainer Box ETB (NEW) (SEALED)",
@@ -250,7 +288,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T15:02:45.723198+00:00",
-      "_last_seen_at": "2026-05-15T15:02:45.723198+00:00"
+      "_last_seen_at": "2026-05-15T15:43:16.864829+00:00"
     }
   ],
   "empty_watchlist": false,
