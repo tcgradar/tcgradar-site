@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T19:42:38.639302+00:00",
+  "timestamp": "2026-05-15T20:23:06.072799+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,26 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
+  "total_deals": 3,
   "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 3
     },
     "by_product_type": {
       "booster_box": 1,
-      "etb": 1
+      "etb": 2
     },
     "by_gap_bucket": {
       "20_plus": 1,
-      "10_to_19": 1
+      "10_to_19": 2
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 3
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -35,6 +35,7 @@
       "pokemon"
     ],
     "set": [
+      "Darkness Ablaze",
       "Destined Rivals"
     ],
     "product_type": [
@@ -49,7 +50,7 @@
   "deals": [
     {
       "title": "Pokemon TCG EV10 Destined Rivals Booster Box Display 36 Pack SEALED!  Portuguese",
-      "url": "https://www.ebay.com/itm/257251449001?_skw=pokemon+Destined+Rivals+booster+box&hash=item3be56198a9:g:GzYAAeSwjOZpOCPE&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYGM%2Fgam91HSoV3%2BcRxjXKVI4K0%2Bzyzfx0y5gMC4cssft03c6QTOtxnquxCtRdrwXEbRPLfnslfauX%2FzJ93tQH0XvREHnl6qUkxepfvGffUfAJwhIdkIMU2XLMh9dvf%2FisxdCTvo4VuS86bylhx11O6WR5FAOcK9SjiKse1GlIunD34r4my4zQ0qq65ZtGfSkEUhBhIIUTrKCvUSD27UBn%2Byk9BcCUsXMUe98KB2ZUoXdwToKq5BGveO6I5xuhqYJmEYym7HOpXu2qaXwttrICcWRT%2BCe2XMh8ekNgsIRAPOo%2BS5ZvF9QxVoYWTLmUsMSY%3D",
+      "url": "https://www.ebay.com/itm/257251449001?_skw=pokemon+Destined+Rivals+booster+box&hash=item3be56198a9:g:GzYAAeSwjOZpOCPE&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYGM%2Fgam91HSoV3%2BcRxjXKVI4K0%2Bzyzfx0y5gMC4cssft03c6QTOtxnquxCtRdrwXEbRPLfnslfauX%2FzJ93tQH0XvREHnl6qUkxepfvGffUfAJwhIdkIMU2XLMh9dvf%2FiuwNZIS146qLCgXanK%2B%2FyFKnhMhPAxkWYPDSTjjt8svuTGXnbKi9xa3BlhqpbXCg4e%2F4Vumplf5yEsnjrUaWuzA8GnIgInQOrSmAv7uV8QwRbQ6xoud7%2B9VU4GoV812nqiyRj3OBhFKRfSsQ6DOJQpfmKgy%2BZnik4eH7mAM4RffYRk0rt1iMXMA834XOXcyPCI%3D",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
@@ -58,9 +59,9 @@
       "total_price": 235.0,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 37,
-      "baseline_pre_filter_count": 32,
-      "baseline_final_count": 14,
+      "baseline_raw_count": 35,
+      "baseline_pre_filter_count": 31,
+      "baseline_final_count": 15,
       "baseline_raw_min": 189.79,
       "baseline_raw_max": 3669.99,
       "gapPct": 50.75,
@@ -74,11 +75,11 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 463.31,
+      "active_scan_baseline": 464.23,
       "effective_baseline": 477.13,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 2.9
+      "baseline_drift_pct": 2.7
     },
     {
       "title": "Pokemon Scarlet and Violet: Destined Rivals Elite Trainer Box ETB Sealed",
@@ -90,13 +91,13 @@
       "shipping_cost": 0.0,
       "total_price": 175.0,
       "shipping_verified": false,
-      "baseline_price": 204.99,
-      "baseline_raw_count": 23,
-      "baseline_pre_filter_count": 20,
-      "baseline_final_count": 15,
+      "baseline_price": 214.99,
+      "baseline_raw_count": 25,
+      "baseline_pre_filter_count": 21,
+      "baseline_final_count": 13,
       "baseline_raw_min": 175.0,
       "baseline_raw_max": 839.99,
-      "gapPct": 14.63,
+      "gapPct": 18.6,
       "confidence": "high",
       "seller_rating": 99.7,
       "seller_feedback_count": 535,
@@ -107,45 +108,47 @@
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 204.99,
-      "effective_baseline": 204.99,
+      "active_scan_baseline": 214.99,
+      "effective_baseline": 214.99,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 48.75
-    }
-  ],
-  "watchlist_deals": [
+      "baseline_drift_pct": 46.25
+    },
     {
-      "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
-      "url": "https://www.ebay.com/itm/257392846206?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bedcf257e:g:j90AAeSwpDhpqh57",
+      "title": "Pokemon - Darkness Ablaze Elite Trainer Box",
+      "url": "https://www.ebay.com/itm/317787675278?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item49fd9f1a8e:g:fOMAAeSwt6FpcFxO",
       "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 259.98,
-      "shipping_cost": 9.99,
-      "total_price": 259.98,
+      "set": "Darkness Ablaze",
+      "product_type": "etb",
+      "price": 110.64,
+      "shipping_cost": 14.95,
+      "total_price": 110.64,
       "shipping_verified": true,
-      "baseline_price": 477.13,
-      "gapPct": 45.51,
-      "confidence": "low",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 3430,
+      "baseline_price": 130.0,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 16,
+      "baseline_final_count": 9,
+      "baseline_raw_min": 95.69,
+      "baseline_raw_max": 1949.95,
+      "gapPct": 14.89,
+      "confidence": "high",
+      "seller_rating": 99.2,
+      "seller_feedback_count": 2714,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "low",
-      "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-15T12:00:01.189812+00:00",
-      "_last_seen_at": "2026-05-15T12:00:01.189812+00:00",
-      "serpapi_baseline": 477.13,
-      "active_scan_baseline": 477.13,
-      "effective_baseline": 477.13,
-      "baseline_cap_applied": false,
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 300.0,
+      "active_scan_baseline": 130.0,
+      "effective_baseline": 130.0,
+      "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 0.0
-    },
+      "baseline_drift_pct": 56.67
+    }
+  ],
+  "watchlist_deals": [
     {
       "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
       "url": "https://www.ebay.com/itm/406823197415?_skw=pokemon+Evolving+Skies+booster+box&hash=item5eb88d5ae7:g:2m0AAeSwoNZpznEb",
@@ -180,7 +183,7 @@
       "baseline_drift_pct": 2027.35,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T13:43:13.916665+00:00",
-      "_last_seen_at": "2026-05-15T14:00:01.783067+00:00"
+      "_last_seen_at": "2026-05-15T20:23:06.070744+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -216,7 +219,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T14:22:50.468044+00:00",
-      "_last_seen_at": "2026-05-15T19:42:38.637076+00:00"
+      "_last_seen_at": "2026-05-15T20:23:06.070744+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -252,7 +255,7 @@
       "baseline_drift_pct": 49.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T19:02:35.097821+00:00",
-      "_last_seen_at": "2026-05-15T19:03:42.602791+00:00"
+      "_last_seen_at": "2026-05-15T20:23:06.070744+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -359,17 +362,17 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-15T19:42:38.637076+00:00",
-      "_last_seen_at": "2026-05-15T19:42:38.637076+00:00"
+      "_first_seen_at": "2026-05-15T20:23:06.070744+00:00",
+      "_last_seen_at": "2026-05-15T20:23:06.070744+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 3,
     "retailer_deals": 0,
-    "total_merged": 2,
+    "total_merged": 3,
     "retailer_deals_visible": false
   }
 }
