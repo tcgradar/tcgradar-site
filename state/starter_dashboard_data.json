@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T00:43:19.889761+00:00",
+  "timestamp": "2026-05-15T01:22:47.953129+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -53,16 +53,16 @@
       "shipping_cost": 0.0,
       "total_price": 119.99,
       "shipping_verified": true,
-      "baseline_price": 204.99,
-      "baseline_raw_count": 32,
-      "baseline_pre_filter_count": 27,
-      "baseline_final_count": 16,
+      "baseline_price": 205.0,
+      "baseline_raw_count": 28,
+      "baseline_pre_filter_count": 23,
+      "baseline_final_count": 12,
       "baseline_raw_min": 119.99,
       "baseline_raw_max": 839.99,
       "gapPct": 41.47,
       "confidence": "high",
       "seller_rating": 99.2,
-      "seller_feedback_count": 51283,
+      "seller_feedback_count": 51284,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -70,8 +70,8 @@
       "deal_quality": "high",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 204.99,
-      "effective_baseline": 204.99,
+      "active_scan_baseline": 205.0,
+      "effective_baseline": 205.0,
       "baseline_cap_applied": true,
       "baseline_stale": false,
       "baseline_drift_pct": 48.75
@@ -89,11 +89,11 @@
       "total_price": 259.98,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 38,
-      "baseline_pre_filter_count": 33,
-      "baseline_final_count": 14,
-      "baseline_raw_min": 140.09,
-      "baseline_raw_max": 3669.99,
+      "baseline_raw_count": 33,
+      "baseline_pre_filter_count": 27,
+      "baseline_final_count": 12,
+      "baseline_raw_min": 189.6,
+      "baseline_raw_max": 799.0,
       "gapPct": 45.51,
       "confidence": "low",
       "seller_rating": 100.0,
@@ -111,8 +111,8 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-15T00:43:19.888301+00:00",
-      "_last_seen_at": "2026-05-15T00:43:19.888301+00:00"
+      "_first_seen_at": "2026-05-15T01:22:47.951628+00:00",
+      "_last_seen_at": "2026-05-15T01:22:47.951628+00:00"
     },
     {
       "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
@@ -148,7 +148,7 @@
       "baseline_drift_pct": 2034.16,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T00:43:19.888301+00:00",
-      "_last_seen_at": "2026-05-15T00:43:19.888301+00:00"
+      "_last_seen_at": "2026-05-15T01:00:01.959067+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -173,7 +173,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-14T22:00:01.696204+00:00",
-      "_last_seen_at": "2026-05-15T00:43:19.888301+00:00",
+      "_last_seen_at": "2026-05-15T01:22:47.951628+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
@@ -214,8 +214,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-15T00:43:19.888301+00:00",
-      "_last_seen_at": "2026-05-15T00:43:19.888301+00:00"
+      "_first_seen_at": "2026-05-15T01:22:47.951628+00:00",
+      "_last_seen_at": "2026-05-15T01:22:47.951628+00:00"
     }
   ],
   "empty_watchlist": false,
