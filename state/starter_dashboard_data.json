@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T14:42:42.898394+00:00",
+  "timestamp": "2026-05-16T15:22:42.435267+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 31.2,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T14:42:42.896690+00:00",
-      "_last_seen_at": "2026-05-16T14:42:42.896690+00:00"
+      "_last_seen_at": "2026-05-16T15:22:42.433488+00:00"
     },
     {
       "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
@@ -75,11 +75,6 @@
       "total_price": 259.98,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 33,
-      "baseline_pre_filter_count": 28,
-      "baseline_final_count": 14,
-      "baseline_raw_min": 189.6,
-      "baseline_raw_max": 3669.99,
       "gapPct": 45.51,
       "confidence": "low",
       "seller_rating": 100.0,
@@ -90,15 +85,15 @@
       "seller_trust": "HIGH",
       "deal_quality": "low",
       "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-16T15:00:01.901236+00:00",
+      "_last_seen_at": "2026-05-16T15:00:01.901236+00:00",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 477.13,
+      "active_scan_baseline": 492.7,
       "effective_baseline": 477.13,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 0.0,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T14:42:42.896690+00:00",
-      "_last_seen_at": "2026-05-16T14:42:42.896690+00:00"
+      "baseline_drift_pct": 0.0
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
@@ -134,7 +129,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T13:03:17.488230+00:00",
-      "_last_seen_at": "2026-05-16T13:03:17.488230+00:00"
+      "_last_seen_at": "2026-05-16T15:22:42.433488+00:00"
     },
     {
       "title": "Pokemon TCG Shrouded Fable Booster Bundle Factory Sealed",
@@ -206,7 +201,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T14:42:42.896690+00:00",
-      "_last_seen_at": "2026-05-16T14:42:42.896690+00:00"
+      "_last_seen_at": "2026-05-16T15:00:01.901236+00:00"
     }
   ],
   "empty_watchlist": false,
