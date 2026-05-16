@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T01:02:43.488368+00:00",
+  "timestamp": "2026-05-16T01:42:32.581631+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 1,
-  "all_deals_count": 7,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 1
@@ -53,13 +53,13 @@
       "shipping_cost": 0.0,
       "total_price": 185.0,
       "shipping_verified": false,
-      "baseline_price": 214.99,
-      "baseline_raw_count": 31,
-      "baseline_pre_filter_count": 26,
-      "baseline_final_count": 13,
+      "baseline_price": 216.5,
+      "baseline_raw_count": 32,
+      "baseline_pre_filter_count": 27,
+      "baseline_final_count": 12,
       "baseline_raw_min": 185.0,
       "baseline_raw_max": 839.99,
-      "gapPct": 13.95,
+      "gapPct": 14.55,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 463,
@@ -70,11 +70,11 @@
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 214.99,
-      "effective_baseline": 214.99,
+      "active_scan_baseline": 216.5,
+      "effective_baseline": 216.5,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 46.25
+      "baseline_drift_pct": 45.87
     }
   ],
   "watchlist_deals": [
@@ -143,7 +143,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T22:23:19.077222+00:00",
-      "_last_seen_at": "2026-05-16T01:02:43.486309+00:00"
+      "_last_seen_at": "2026-05-16T01:42:32.579829+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -179,43 +179,7 @@
       "baseline_drift_pct": 46.76,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T01:02:43.486309+00:00",
-      "_last_seen_at": "2026-05-16T01:02:43.486309+00:00"
-    },
-    {
-      "title": "Pokemon Shrouded Fable Elite Trainer Box | Brand New, Sealed! (Small Tear)",
-      "url": "https://www.ebay.com/itm/127760908517?_skw=pokemon+Shrouded+Fable+booster+box&hash=item1dbf24c0e5:g:QhsAAeSwBfhpviOW&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGb%2BQkGGISOUjy4CSEpjeE6cbo5XcpepSAAr9EmDG%2For8WRK3w2uil86REUMpjQqvcdmKYUAJmYZ8CQm07jAw6I1mlxfgSmLnHW0LPW2XVhQYH7KmfYQHIL7kfpFq00Yq8a6SYXDT3EHxyL%2FKbhK%2BH%2Fh2eKrd%2BPrkG85a3MVoXuuTKiDebTJaq0B1fD7%2BuOvx58%2F4dp5k%2Fhy5Gy1AA5qcxGnDN4yUd7PZLtD1f6q8Xc183nOB25Nsm8GzOjSpTXjWQKXowH62%2FlbNjI3S25HezqpU8fPtNiSfHBy2PGcoE1x%2BFNN1Uy21Lb9BSEJ4%2F2xftA%3D",
-      "franchise": "pokemon",
-      "set": "Shrouded Fable",
-      "product_type": "etb",
-      "price": 125.1,
-      "shipping_cost": 26.71,
-      "total_price": 125.1,
-      "shipping_verified": true,
-      "baseline_price": 134.75,
-      "baseline_raw_count": 43,
-      "baseline_pre_filter_count": 37,
-      "baseline_final_count": 14,
-      "baseline_raw_min": 20.0,
-      "baseline_raw_max": 2499.99,
-      "gapPct": 7.16,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 681,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "1_to_9",
-      "serpapi_baseline": 134.75,
-      "active_scan_baseline": 134.75,
-      "effective_baseline": 134.75,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 0.0,
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-15T17:03:29.213579+00:00",
-      "_last_seen_at": "2026-05-15T17:04:37.683880+00:00"
+      "_last_seen_at": "2026-05-16T01:42:32.579829+00:00"
     },
     {
       "title": "One Piece: Adventure on Kami's Island (OP15-EB04) Booster Box - Factory Sealed",
@@ -287,7 +251,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-16T01:02:43.486309+00:00",
-      "_last_seen_at": "2026-05-16T01:02:43.486309+00:00"
+      "_last_seen_at": "2026-05-16T01:42:32.579829+00:00"
     }
   ],
   "empty_watchlist": false,
