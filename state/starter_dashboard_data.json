@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T07:42:32.625265+00:00",
+  "timestamp": "2026-05-16T08:22:40.526163+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -129,7 +129,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T06:24:20.303729+00:00",
-      "_last_seen_at": "2026-05-16T07:04:02.743599+00:00"
+      "_last_seen_at": "2026-05-16T08:22:40.524170+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
@@ -142,7 +142,7 @@
       "total_price": 455.25,
       "shipping_verified": true,
       "baseline_price": 640.0,
-      "baseline_raw_count": 31,
+      "baseline_raw_count": 34,
       "baseline_pre_filter_count": 27,
       "baseline_final_count": 11,
       "baseline_raw_min": 189.79,
@@ -164,8 +164,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T07:02:52.746405+00:00",
-      "_last_seen_at": "2026-05-16T07:42:32.623264+00:00"
+      "_first_seen_at": "2026-05-16T08:22:40.524170+00:00",
+      "_last_seen_at": "2026-05-16T08:22:40.524170+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -178,7 +178,7 @@
       "total_price": 99.0,
       "shipping_verified": false,
       "baseline_price": 135.49,
-      "baseline_raw_count": 17,
+      "baseline_raw_count": 18,
       "baseline_pre_filter_count": 16,
       "baseline_final_count": 8,
       "baseline_raw_min": 99.0,
@@ -200,8 +200,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 49.51,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T07:02:52.746405+00:00",
-      "_last_seen_at": "2026-05-16T07:42:32.623264+00:00"
+      "_first_seen_at": "2026-05-16T08:22:40.524170+00:00",
+      "_last_seen_at": "2026-05-16T08:22:40.524170+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
