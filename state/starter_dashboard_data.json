@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T22:03:09.328096+00:00",
+  "timestamp": "2026-05-16T22:42:48.441465+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,25 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 11,
+  "total_deals": 1,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 2
+      "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 1
+      "20_plus": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -34,21 +33,19 @@
       "pokemon"
     ],
     "set": [
-      "Darkness Ablaze",
       "Destined Rivals"
     ],
     "product_type": [
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19",
       "20_plus"
     ]
   },
   "deals": [
     {
-      "title": "POKEMON SCARLET & VIOLET DESTINED RIVALS ELITE TRAINER BOX NEW SEALED",
-      "url": "https://www.ebay.com/itm/157908616130?_skw=pokemon+Destined+Rivals+booster+box&hash=item24c41643c2:g:qmcAAeSws11qBRnO",
+      "title": "Pokemon TCG Scarlet & Violet Destined Rivals Elite Trainer Box ETB Factory Seal",
+      "url": "https://www.ebay.com/itm/147313776026?_skw=pokemon+Destined+Rivals+booster+box&hash=item224c95d59a:g:fcEAAeSwmT1qCIlH",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "etb",
@@ -65,7 +62,7 @@
       "gapPct": 24.49,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 465,
+      "seller_feedback_count": 133,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -78,78 +75,9 @@
       "baseline_cap_applied": true,
       "baseline_stale": false,
       "baseline_drift_pct": 38.75
-    },
-    {
-      "title": "Pokemon - Darkness Ablaze Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/317787675278?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item49fd9f1a8e:g:fOMAAeSwt6FpcFxO",
-      "franchise": "pokemon",
-      "set": "Darkness Ablaze",
-      "product_type": "etb",
-      "price": 110.46000000000001,
-      "shipping_cost": 14.95,
-      "total_price": 110.46000000000001,
-      "shipping_verified": true,
-      "baseline_price": 130.0,
-      "baseline_raw_count": 15,
-      "baseline_pre_filter_count": 13,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 95.51,
-      "baseline_raw_max": 202.95,
-      "gapPct": 15.03,
-      "confidence": "high",
-      "seller_rating": 99.2,
-      "seller_feedback_count": 2718,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 300.0,
-      "active_scan_baseline": 130.0,
-      "effective_baseline": 130.0,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 56.67
     }
   ],
   "watchlist_deals": [
-    {
-      "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
-      "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGaBKDnp5gsA5MdpwzGcePFjxnHCSLRdkqAnUE8%2F9mNLa2ArpLLjQ9ZuNvKrAVSVooRVxioEVBUwiRAfvlX0E0WDqqtxybb24uJ1BfKUnBJbNnqdOS11tVzbLsohSOV8nMBTcjudJ3wIHv%2BYtDMglDtdAn59YQK6maYR0rdiWyo4WzdlFHF4oE7ClLKl%2Fq8vyGvkPuGk9tORE0HTC%2BbuTJTn",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 69.99,
-      "shipping_cost": 0.0,
-      "total_price": 69.99,
-      "shipping_verified": false,
-      "baseline_price": 137.75,
-      "baseline_raw_count": 97,
-      "baseline_pre_filter_count": 76,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 69.99,
-      "baseline_raw_max": 9999.99,
-      "gapPct": 49.19,
-      "confidence": "medium",
-      "seller_rating": 98.1,
-      "seller_feedback_count": 147,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 104.99,
-      "active_scan_baseline": 137.75,
-      "effective_baseline": 137.75,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 31.2,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T14:42:42.896690+00:00",
-      "_last_seen_at": "2026-05-16T22:00:02.025142+00:00"
-    },
     {
       "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
       "url": "https://www.ebay.com/itm/257392846206?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bedcf257e:g:j90AAeSwpDhpqh57",
@@ -215,7 +143,43 @@
       "baseline_drift_pct": 2015.58,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T16:03:17.225548+00:00",
-      "_last_seen_at": "2026-05-16T22:03:09.325418+00:00"
+      "_last_seen_at": "2026-05-16T22:04:16.285258+00:00"
+    },
+    {
+      "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
+      "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGaImYIr8%2FLE0O%2Fww9ekOxSUOM%2FavGarT%2BGgkB%2B3yxe5EkCmKv3vHxP5%2B%2Fm%2FV9WUrDKYOQ2HviUAZB9DuL1CTaZMOG9EqoqWtvLnb6fTyS5eo%2BIdwV2dUvM53hA89534ApRI%2BLwhSQD01w8MduOu66Ger19ZORnZKhAW46zqiSF0G8dJSgZABtuN5Uq2zphQaY3MUdfrbJLPT%2Fadek7%2BdrsL",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 69.99,
+      "shipping_cost": 0.0,
+      "total_price": 69.99,
+      "shipping_verified": false,
+      "baseline_price": 104.99,
+      "baseline_raw_count": 95,
+      "baseline_pre_filter_count": 74,
+      "baseline_final_count": 8,
+      "baseline_raw_min": 69.99,
+      "baseline_raw_max": 9999.99,
+      "gapPct": 33.34,
+      "confidence": "medium",
+      "seller_rating": 98.1,
+      "seller_feedback_count": 148,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 104.99,
+      "active_scan_baseline": 104.99,
+      "effective_baseline": 104.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-16T22:42:48.439011+00:00",
+      "_last_seen_at": "2026-05-16T22:42:48.439011+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip",
@@ -251,7 +215,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T22:03:09.325418+00:00",
-      "_last_seen_at": "2026-05-16T22:03:09.325418+00:00"
+      "_last_seen_at": "2026-05-16T22:42:48.439011+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
@@ -323,7 +287,7 @@
       "baseline_drift_pct": 46.76,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T22:03:09.325418+00:00",
-      "_last_seen_at": "2026-05-16T22:03:09.325418+00:00"
+      "_last_seen_at": "2026-05-16T22:42:48.439011+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -362,42 +326,6 @@
       "_last_seen_at": "2026-05-16T18:00:01.241215+00:00"
     },
     {
-      "title": "One Piece TCG SEALED BOOSTER BOX [OP-15] Adventure on Kami's Island",
-      "url": "https://www.ebay.com/itm/157910276444?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item24c42f995c:g:hEcAAeSwgAxp4nQ3",
-      "franchise": "onepiece",
-      "set": "Adventure on Kami's Island",
-      "product_type": "booster_box",
-      "price": 200.0,
-      "shipping_cost": 0.0,
-      "total_price": 200.0,
-      "shipping_verified": false,
-      "baseline_price": 229.99,
-      "baseline_raw_count": 13,
-      "baseline_pre_filter_count": 12,
-      "baseline_final_count": 10,
-      "baseline_raw_min": 200.0,
-      "baseline_raw_max": 350.0,
-      "gapPct": 13.04,
-      "confidence": "medium",
-      "seller_rating": 98.9,
-      "seller_feedback_count": 213,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 229.99,
-      "active_scan_baseline": 229.99,
-      "effective_baseline": 229.99,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 0.0,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T14:42:42.896690+00:00",
-      "_last_seen_at": "2026-05-16T15:00:01.901236+00:00"
-    },
-    {
       "title": "Pokemon TCG Battle Styles Booster Box Factory Sealed",
       "url": "https://www.ebay.com/itm/406931172534?_skw=pokemon+Battle+Styles+booster+box&hash=item5ebefcecb6:g:w7AAAeSwGTpqCKza",
       "franchise": "pokemon",
@@ -431,16 +359,16 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-16T22:03:09.325418+00:00",
-      "_last_seen_at": "2026-05-16T22:03:09.325418+00:00"
+      "_last_seen_at": "2026-05-16T22:42:48.439011+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 0,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": false
   }
 }
