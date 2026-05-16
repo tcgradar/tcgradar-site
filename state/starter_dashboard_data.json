@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T03:42:58.806864+00:00",
+  "timestamp": "2026-05-16T04:23:17.618639+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,24 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 7,
+  "total_deals": 2,
+  "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1
+      "etb": 1,
+      "booster_bundle": 1
     },
     "by_gap_bucket": {
+      "20_plus": 1,
       "10_to_19": 1
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,48 +35,83 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals"
+      "Obsidian Flames"
     ],
     "product_type": [
+      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
-      "10_to_19"
+      "10_to_19",
+      "20_plus"
     ]
   },
   "deals": [
     {
-      "title": "POKEMON SCARLET & VIOLET DESTINED RIVALS ELITE TRAINER BOX NEW SEALED",
-      "url": "https://www.ebay.com/itm/157908616130?_skw=pokemon+Destined+Rivals+booster+box&hash=item24c41643c2:g:qmcAAeSws11qBRnO",
+      "title": "Obsidian Flames Pokemon Center Exclusive Open Display Box ETB, No Cards/packs",
+      "url": "https://www.ebay.com/itm/267664306267?_skw=pokemon+Obsidian+Flames+booster+box&hash=item3e5209305b:g:0W8AAeSwQ5pp~rrs",
       "franchise": "pokemon",
-      "set": "Destined Rivals",
+      "set": "Obsidian Flames",
       "product_type": "etb",
-      "price": 185.0,
+      "price": 199.0,
       "shipping_cost": 0.0,
-      "total_price": 185.0,
-      "shipping_verified": false,
-      "baseline_price": 209.95,
-      "baseline_raw_count": 32,
-      "baseline_pre_filter_count": 27,
-      "baseline_final_count": 15,
-      "baseline_raw_min": 185.0,
-      "baseline_raw_max": 1099.0,
-      "gapPct": 11.88,
+      "total_price": 199.0,
+      "shipping_verified": true,
+      "baseline_price": 350.0,
+      "baseline_raw_count": 18,
+      "baseline_pre_filter_count": 16,
+      "baseline_final_count": 8,
+      "baseline_raw_min": 125.0,
+      "baseline_raw_max": 3449.99,
+      "gapPct": 43.14,
       "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 463,
+      "seller_rating": 99.8,
+      "seller_feedback_count": 3504,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 350.0,
+      "active_scan_baseline": 322.44,
+      "effective_baseline": 350.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 7.87
+    },
+    {
+      "title": "Pokemon Cards - Scarlet & Violet Obsidian Flames - BOOSTER BUNDLE BOX (6 Packs)",
+      "url": "https://www.ebay.com/itm/188386997866?_skw=pokemon+Obsidian+Flames+booster+box&hash=item2bdcbd766a:g:INMAAeSwJSpqB40L",
+      "franchise": "pokemon",
+      "set": "Obsidian Flames",
+      "product_type": "booster_bundle",
+      "price": 84.97,
+      "shipping_cost": 0.0,
+      "total_price": 84.97,
+      "shipping_verified": true,
+      "baseline_price": 94.99,
+      "baseline_raw_count": 17,
+      "baseline_pre_filter_count": 16,
+      "baseline_final_count": 11,
+      "baseline_raw_min": 83.74,
+      "baseline_raw_max": 450.0,
+      "gapPct": 10.55,
+      "confidence": "high",
+      "seller_rating": 98.8,
+      "seller_feedback_count": 1204,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
-      "serpapi_baseline": 399.99,
-      "active_scan_baseline": 209.95,
-      "effective_baseline": 209.95,
+      "serpapi_baseline": 350.0,
+      "active_scan_baseline": 94.99,
+      "effective_baseline": 94.99,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 47.51
+      "baseline_drift_pct": 72.86
     }
   ],
   "watchlist_deals": [
@@ -89,11 +126,6 @@
       "total_price": 259.98,
       "shipping_verified": true,
       "baseline_price": 477.13,
-      "baseline_raw_count": 33,
-      "baseline_pre_filter_count": 28,
-      "baseline_final_count": 16,
-      "baseline_raw_min": 189.79,
-      "baseline_raw_max": 3669.99,
       "gapPct": 45.51,
       "confidence": "low",
       "seller_rating": 100.0,
@@ -104,15 +136,15 @@
       "seller_trust": "HIGH",
       "deal_quality": "low",
       "gap_bucket": "20_plus",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-16T04:00:01.749429+00:00",
+      "_last_seen_at": "2026-05-16T04:00:01.749429+00:00",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 477.13,
+      "active_scan_baseline": 494.11,
       "effective_baseline": 477.13,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 0.0,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T03:42:58.804859+00:00",
-      "_last_seen_at": "2026-05-16T03:42:58.804859+00:00"
+      "baseline_drift_pct": 0.0
     },
     {
       "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
@@ -184,7 +216,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T22:23:19.077222+00:00",
-      "_last_seen_at": "2026-05-16T03:04:25.973720+00:00"
+      "_last_seen_at": "2026-05-16T04:23:17.616396+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -221,6 +253,42 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T03:03:11.496299+00:00",
       "_last_seen_at": "2026-05-16T03:04:25.973720+00:00"
+    },
+    {
+      "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
+      "url": "https://www.ebay.com/itm/127808330222?_skw=pokemon+Obsidian+Flames+booster+box&hash=item1dc1f859ee:g:I-gAAeSwSn9psbcG",
+      "franchise": "pokemon",
+      "set": "Obsidian Flames",
+      "product_type": "booster_box",
+      "price": 289.0,
+      "shipping_cost": 0.0,
+      "total_price": 289.0,
+      "shipping_verified": false,
+      "baseline_price": 350.0,
+      "baseline_raw_count": 26,
+      "baseline_pre_filter_count": 22,
+      "baseline_final_count": 17,
+      "baseline_raw_min": 289.0,
+      "baseline_raw_max": 2595.0,
+      "gapPct": 17.43,
+      "confidence": "medium",
+      "seller_rating": 99.7,
+      "seller_feedback_count": 1377,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 350.0,
+      "active_scan_baseline": 350.0,
+      "effective_baseline": 350.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-16T04:23:17.616396+00:00",
+      "_last_seen_at": "2026-05-16T04:23:17.616396+00:00"
     },
     {
       "title": "One Piece: Adventure on Kami's Island (OP15-EB04) Booster Box - Factory Sealed",
@@ -282,7 +350,7 @@
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "high",
+      "deal_quality": "medium",
       "gap_bucket": "1_to_9",
       "serpapi_baseline": 477.13,
       "active_scan_baseline": 477.13,
@@ -292,16 +360,16 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-16T03:03:11.496299+00:00",
-      "_last_seen_at": "2026-05-16T03:04:25.973720+00:00"
+      "_last_seen_at": "2026-05-16T04:23:17.616396+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 2,
     "retailer_deals_visible": false
   }
 }
