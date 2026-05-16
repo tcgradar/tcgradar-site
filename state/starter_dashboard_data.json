@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T16:03:17.227536+00:00",
+  "timestamp": "2026-05-16T16:42:54.269208+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -33,7 +33,7 @@
       "pokemon"
     ],
     "set": [
-      "Darkness Ablaze"
+      "Destined Rivals"
     ],
     "product_type": [
       "etb"
@@ -44,37 +44,37 @@
   },
   "deals": [
     {
-      "title": "Pokemon - Darkness Ablaze Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/317787675278?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item49fd9f1a8e:g:fOMAAeSwt6FpcFxO",
+      "title": "Pokemon Scarlet and Violet: Destined Rivals Elite Trainer Box ETB Sealed",
+      "url": "https://www.ebay.com/itm/206278756475?_skw=pokemon+Destined+Rivals+booster+box&hash=item30072c087b:g:6P8AAeSw2wNp~~Xx",
       "franchise": "pokemon",
-      "set": "Darkness Ablaze",
+      "set": "Destined Rivals",
       "product_type": "etb",
-      "price": 110.46000000000001,
-      "shipping_cost": 14.95,
-      "total_price": 110.46000000000001,
-      "shipping_verified": true,
-      "baseline_price": 130.0,
-      "baseline_raw_count": 16,
-      "baseline_pre_filter_count": 14,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 95.51,
-      "baseline_raw_max": 1949.95,
-      "gapPct": 15.03,
+      "price": 175.0,
+      "shipping_cost": 0.0,
+      "total_price": 175.0,
+      "shipping_verified": false,
+      "baseline_price": 199.99,
+      "baseline_raw_count": 27,
+      "baseline_pre_filter_count": 24,
+      "baseline_final_count": 15,
+      "baseline_raw_min": 175.0,
+      "baseline_raw_max": 839.99,
+      "gapPct": 12.5,
       "confidence": "high",
-      "seller_rating": 99.2,
-      "seller_feedback_count": 2718,
+      "seller_rating": 99.7,
+      "seller_feedback_count": 536,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
-      "serpapi_baseline": 300.0,
-      "active_scan_baseline": 130.0,
-      "effective_baseline": 130.0,
+      "serpapi_baseline": 399.99,
+      "active_scan_baseline": 199.99,
+      "effective_baseline": 199.99,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 56.67
+      "baseline_drift_pct": 50.0
     }
   ],
   "watchlist_deals": [
@@ -112,7 +112,7 @@
       "baseline_drift_pct": 31.2,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T14:42:42.896690+00:00",
-      "_last_seen_at": "2026-05-16T16:03:17.225548+00:00"
+      "_last_seen_at": "2026-05-16T16:42:54.267248+00:00"
     },
     {
       "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
@@ -125,6 +125,11 @@
       "total_price": 259.98,
       "shipping_verified": true,
       "baseline_price": 477.13,
+      "baseline_raw_count": 34,
+      "baseline_pre_filter_count": 30,
+      "baseline_final_count": 17,
+      "baseline_raw_min": 189.6,
+      "baseline_raw_max": 3669.99,
       "gapPct": 45.51,
       "confidence": "low",
       "seller_rating": 100.0,
@@ -135,15 +140,15 @@
       "seller_trust": "HIGH",
       "deal_quality": "low",
       "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T15:00:01.901236+00:00",
-      "_last_seen_at": "2026-05-16T15:00:01.901236+00:00",
       "serpapi_baseline": 477.13,
       "active_scan_baseline": 477.13,
       "effective_baseline": 477.13,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 0.0
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-16T16:42:54.267248+00:00",
+      "_last_seen_at": "2026-05-16T16:42:54.267248+00:00"
     },
     {
       "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
@@ -179,7 +184,7 @@
       "baseline_drift_pct": 2015.58,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T16:03:17.225548+00:00",
-      "_last_seen_at": "2026-05-16T16:03:17.225548+00:00"
+      "_last_seen_at": "2026-05-16T16:04:25.701207+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
@@ -215,7 +220,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T16:03:17.225548+00:00",
-      "_last_seen_at": "2026-05-16T16:03:17.225548+00:00"
+      "_last_seen_at": "2026-05-16T16:04:25.701207+00:00"
     },
     {
       "title": "Pokemon TCG Shrouded Fable Booster Bundle Factory Sealed",
