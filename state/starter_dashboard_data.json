@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T08:22:40.526163+00:00",
+  "timestamp": "2026-05-16T09:02:36.647712+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 6,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -39,6 +39,11 @@
       "total_price": 259.98,
       "shipping_verified": true,
       "baseline_price": 477.13,
+      "baseline_raw_count": 35,
+      "baseline_pre_filter_count": 28,
+      "baseline_final_count": 15,
+      "baseline_raw_min": 189.79,
+      "baseline_raw_max": 3669.99,
       "gapPct": 45.51,
       "confidence": "low",
       "seller_rating": 100.0,
@@ -49,15 +54,15 @@
       "seller_trust": "HIGH",
       "deal_quality": "low",
       "gap_bucket": "20_plus",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T07:00:01.939150+00:00",
-      "_last_seen_at": "2026-05-16T07:00:01.939150+00:00",
       "serpapi_baseline": 477.13,
       "active_scan_baseline": 477.13,
       "effective_baseline": 477.13,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 0.0
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-16T09:02:36.645894+00:00",
+      "_last_seen_at": "2026-05-16T09:02:36.645894+00:00"
     },
     {
       "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
@@ -129,43 +134,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T06:24:20.303729+00:00",
-      "_last_seen_at": "2026-05-16T08:22:40.524170+00:00"
-    },
-    {
-      "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
-      "url": "https://www.ebay.com/itm/178128969593?_skw=pokemon+Destined+Rivals+booster+box&hash=item2979505f79:g:Ee4AAeSwI3ZqA3jl",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 455.25,
-      "shipping_cost": 42.14,
-      "total_price": 455.25,
-      "shipping_verified": true,
-      "baseline_price": 640.0,
-      "baseline_raw_count": 34,
-      "baseline_pre_filter_count": 27,
-      "baseline_final_count": 11,
-      "baseline_raw_min": 189.79,
-      "baseline_raw_max": 3669.99,
-      "gapPct": 28.87,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 152,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 477.13,
-      "active_scan_baseline": 640.0,
-      "effective_baseline": 640.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 34.14,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T08:22:40.524170+00:00",
-      "_last_seen_at": "2026-05-16T08:22:40.524170+00:00"
+      "_last_seen_at": "2026-05-16T09:02:36.645894+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -200,8 +169,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 49.51,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T08:22:40.524170+00:00",
-      "_last_seen_at": "2026-05-16T08:22:40.524170+00:00"
+      "_first_seen_at": "2026-05-16T09:02:36.645894+00:00",
+      "_last_seen_at": "2026-05-16T09:02:36.645894+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
