@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T01:42:32.581631+00:00",
+  "timestamp": "2026-05-16T02:22:42.568431+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -53,13 +53,13 @@
       "shipping_cost": 0.0,
       "total_price": 185.0,
       "shipping_verified": false,
-      "baseline_price": 216.5,
-      "baseline_raw_count": 32,
-      "baseline_pre_filter_count": 27,
-      "baseline_final_count": 12,
+      "baseline_price": 219.95,
+      "baseline_raw_count": 31,
+      "baseline_pre_filter_count": 26,
+      "baseline_final_count": 9,
       "baseline_raw_min": 185.0,
-      "baseline_raw_max": 839.99,
-      "gapPct": 14.55,
+      "baseline_raw_max": 1099.0,
+      "gapPct": 15.89,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 463,
@@ -70,11 +70,11 @@
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 216.5,
-      "effective_baseline": 216.5,
+      "active_scan_baseline": 219.95,
+      "effective_baseline": 219.95,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 45.87
+      "baseline_drift_pct": 45.01
     }
   ],
   "watchlist_deals": [
@@ -143,7 +143,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T22:23:19.077222+00:00",
-      "_last_seen_at": "2026-05-16T01:42:32.579829+00:00"
+      "_last_seen_at": "2026-05-16T02:22:42.566685+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -156,7 +156,7 @@
       "total_price": 99.0,
       "shipping_verified": false,
       "baseline_price": 132.99,
-      "baseline_raw_count": 17,
+      "baseline_raw_count": 18,
       "baseline_pre_filter_count": 16,
       "baseline_final_count": 9,
       "baseline_raw_min": 99.0,
@@ -178,8 +178,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 46.76,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T01:02:43.486309+00:00",
-      "_last_seen_at": "2026-05-16T01:42:32.579829+00:00"
+      "_first_seen_at": "2026-05-16T02:22:42.566685+00:00",
+      "_last_seen_at": "2026-05-16T02:22:42.566685+00:00"
     },
     {
       "title": "One Piece: Adventure on Kami's Island (OP15-EB04) Booster Box - Factory Sealed",
@@ -250,8 +250,8 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-16T01:02:43.486309+00:00",
-      "_last_seen_at": "2026-05-16T01:42:32.579829+00:00"
+      "_first_seen_at": "2026-05-16T02:22:42.566685+00:00",
+      "_last_seen_at": "2026-05-16T02:22:42.566685+00:00"
     }
   ],
   "empty_watchlist": false,
