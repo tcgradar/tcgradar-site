@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-05-16T18:44:40.457738+00:00",
+    "generated_at": "2026-05-16T19:23:59.120039+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 25,
-    "filtered_count": 3,
+    "filtered_count": 2,
     "filter_criteria": {
       "min_gap": 10.0,
       "max_bids": 50,
@@ -108,7 +108,7 @@
       "old_gapPct": 38.36061450757654,
       "gapPct": 41.32,
       "bids": 13,
-      "time_remaining": 30.269266393611108,
+      "time_remaining": 29.614599501666667,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/157902440859?_skw=Pokemon+Destined+Rivals+booster+box&hash=item24c3b8099b:g:mhgAAeSwhHJp3~4h",
       "franchise": "pokemon",
@@ -116,29 +116,6 @@
       "product_type": "booster_box",
       "seller_trust": "HIGH",
       "opportunity_score": 60,
-      "deal_quality": "medium"
-    },
-    {
-      "title": "One Piece TCG - OP09 Emperors in the New World Booster Box English - SEALED New",
-      "current_price": 403.78,
-      "shipping_cost": 33.32,
-      "total_price": 437.09999999999997,
-      "baseline": 550.0,
-      "baseline_source": "serpapi",
-      "baseline_key": "onepiece|emperors_in_the_new_world|booster_box|en|standard",
-      "serpapi_sample_size": 58,
-      "old_baseline": 550.0,
-      "old_gapPct": 20.527272727272734,
-      "gapPct": 26.59,
-      "bids": 13,
-      "time_remaining": 1.2582249925,
-      "opportunity_type": "urgent",
-      "url": "https://www.ebay.com/itm/168353162242?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2732a16402:g:E6cAAeSwpNlphyvs",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "seller_trust": "MEDIUM",
-      "opportunity_score": 48,
       "deal_quality": "medium"
     },
     {
@@ -154,14 +131,14 @@
       "old_gapPct": 24.64727272727273,
       "gapPct": 30.71,
       "bids": 15,
-      "time_remaining": 24.50822498222222,
+      "time_remaining": 23.85319460638889,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/168359693204?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item2733050b94:g:E6cAAeSwpNlphyvs",
       "franchise": "onepiece",
       "set": "Emperors in the New World",
       "product_type": "booster_box",
       "seller_trust": "MEDIUM",
-      "opportunity_score": 44,
+      "opportunity_score": 49,
       "deal_quality": "medium"
     }
   ]
