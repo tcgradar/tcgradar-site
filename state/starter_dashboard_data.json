@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T17:23:08.090661+00:00",
+  "timestamp": "2026-05-16T18:02:48.371514+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,25 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
+  "total_deals": 1,
   "all_deals_count": 9,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 2
+      "pokemon": 1
     },
     "by_product_type": {
-      "etb": 1,
-      "booster_bundle": 1
+      "etb": 1
     },
     "by_gap_bucket": {
-      "10_to_19": 2
+      "10_to_19": 1
     },
     "by_source": {
-      "ebay": 2
+      "ebay": 1
     }
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -34,11 +33,9 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals",
-      "Obsidian Flames"
+      "Destined Rivals"
     ],
     "product_type": [
-      "booster_bundle",
       "etb"
     ],
     "gap_bucket": [
@@ -57,9 +54,9 @@
       "total_price": 175.0,
       "shipping_verified": false,
       "baseline_price": 204.99,
-      "baseline_raw_count": 33,
-      "baseline_pre_filter_count": 28,
-      "baseline_final_count": 13,
+      "baseline_raw_count": 35,
+      "baseline_pre_filter_count": 29,
+      "baseline_final_count": 15,
       "baseline_raw_min": 175.0,
       "baseline_raw_max": 1099.0,
       "gapPct": 14.63,
@@ -78,39 +75,6 @@
       "baseline_cap_applied": true,
       "baseline_stale": false,
       "baseline_drift_pct": 48.75
-    },
-    {
-      "title": "Pokemon Cards - Scarlet & Violet Obsidian Flames - BOOSTER BUNDLE BOX (6 Packs)",
-      "url": "https://www.ebay.com/itm/188386997866?_skw=pokemon+Obsidian+Flames+booster+box&hash=item2bdcbd766a:g:INMAAeSwJSpqB40L",
-      "franchise": "pokemon",
-      "set": "Obsidian Flames",
-      "product_type": "booster_bundle",
-      "price": 84.97,
-      "shipping_cost": 0.0,
-      "total_price": 84.97,
-      "shipping_verified": true,
-      "baseline_price": 94.99,
-      "baseline_raw_count": 17,
-      "baseline_pre_filter_count": 16,
-      "baseline_final_count": 11,
-      "baseline_raw_min": 83.59,
-      "baseline_raw_max": 450.0,
-      "gapPct": 10.55,
-      "confidence": "high",
-      "seller_rating": 98.8,
-      "seller_feedback_count": 1204,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 350.0,
-      "active_scan_baseline": 94.99,
-      "effective_baseline": 94.99,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 72.86
     }
   ],
   "watchlist_deals": [
@@ -148,7 +112,7 @@
       "baseline_drift_pct": 31.2,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T14:42:42.896690+00:00",
-      "_last_seen_at": "2026-05-16T17:23:08.088459+00:00"
+      "_last_seen_at": "2026-05-16T18:02:48.369151+00:00"
     },
     {
       "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
@@ -175,7 +139,7 @@
       "_first_seen_at": "2026-05-16T17:00:01.587429+00:00",
       "_last_seen_at": "2026-05-16T17:00:01.587429+00:00",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 499.0,
+      "active_scan_baseline": 477.13,
       "effective_baseline": 477.13,
       "baseline_cap_applied": false,
       "baseline_stale": false,
@@ -227,13 +191,13 @@
       "shipping_cost": 42.14,
       "total_price": 455.25,
       "shipping_verified": true,
-      "baseline_price": 640.0,
-      "baseline_raw_count": 36,
-      "baseline_pre_filter_count": 30,
-      "baseline_final_count": 13,
+      "baseline_price": 645.0,
+      "baseline_raw_count": 34,
+      "baseline_pre_filter_count": 29,
+      "baseline_final_count": 14,
       "baseline_raw_min": 189.6,
       "baseline_raw_max": 3669.99,
-      "gapPct": 28.87,
+      "gapPct": 29.42,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 152,
@@ -244,14 +208,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 640.0,
-      "effective_baseline": 640.0,
+      "active_scan_baseline": 645.0,
+      "effective_baseline": 645.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 34.14,
+      "baseline_drift_pct": 35.18,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T16:03:17.225548+00:00",
-      "_last_seen_at": "2026-05-16T17:23:08.088459+00:00"
+      "_first_seen_at": "2026-05-16T18:02:48.369151+00:00",
+      "_last_seen_at": "2026-05-16T18:02:48.369151+00:00"
     },
     {
       "title": "Pokemon TCG Shrouded Fable Booster Bundle Factory Sealed",
@@ -323,7 +287,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T17:23:08.088459+00:00",
-      "_last_seen_at": "2026-05-16T17:23:08.088459+00:00"
+      "_last_seen_at": "2026-05-16T18:00:01.241215+00:00"
     },
     {
       "title": "One Piece TCG SEALED BOOSTER BOX [OP-15] Adventure on Kami's Island",
@@ -360,15 +324,51 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T14:42:42.896690+00:00",
       "_last_seen_at": "2026-05-16T15:00:01.901236+00:00"
+    },
+    {
+      "title": "Pokemon TCG Battle Styles Booster Box Factory Sealed",
+      "url": "https://www.ebay.com/itm/406931172534?_skw=pokemon+Battle+Styles+booster+box&hash=item5ebefcecb6:g:w7AAAeSwGTpqCKza",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "booster_box",
+      "price": 250.0,
+      "shipping_cost": 0.0,
+      "total_price": 250.0,
+      "shipping_verified": false,
+      "baseline_price": 259.99,
+      "baseline_raw_count": 34,
+      "baseline_pre_filter_count": 33,
+      "baseline_final_count": 21,
+      "baseline_raw_min": 250.0,
+      "baseline_raw_max": 2109.05,
+      "gapPct": 3.84,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 274,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "1_to_9",
+      "serpapi_baseline": 259.99,
+      "active_scan_baseline": 259.99,
+      "effective_baseline": 259.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-16T18:02:48.369151+00:00",
+      "_last_seen_at": "2026-05-16T18:02:48.369151+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 1,
     "retailer_deals": 0,
-    "total_merged": 2,
+    "total_merged": 1,
     "retailer_deals_visible": false
   }
 }
