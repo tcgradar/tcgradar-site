@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T02:22:42.568431+00:00",
+  "timestamp": "2026-05-16T03:03:11.498418+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,24 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 6,
+  "total_deals": 2,
+  "all_deals_count": 8,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1
+      "etb": 2
     },
     "by_gap_bucket": {
-      "10_to_19": 1
+      "10_to_19": 2
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,6 +33,7 @@
       "pokemon"
     ],
     "set": [
+      "Darkness Ablaze",
       "Destined Rivals"
     ],
     "product_type": [
@@ -75,6 +76,39 @@
       "baseline_cap_applied": true,
       "baseline_stale": false,
       "baseline_drift_pct": 45.01
+    },
+    {
+      "title": "Pokemon - Darkness Ablaze Elite Trainer Box",
+      "url": "https://www.ebay.com/itm/317787675278?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item49fd9f1a8e:g:fOMAAeSwt6FpcFxO",
+      "franchise": "pokemon",
+      "set": "Darkness Ablaze",
+      "product_type": "etb",
+      "price": 110.64,
+      "shipping_cost": 14.95,
+      "total_price": 110.64,
+      "shipping_verified": true,
+      "baseline_price": 130.0,
+      "baseline_raw_count": 18,
+      "baseline_pre_filter_count": 15,
+      "baseline_final_count": 10,
+      "baseline_raw_min": 95.69,
+      "baseline_raw_max": 1949.95,
+      "gapPct": 14.89,
+      "confidence": "high",
+      "seller_rating": 99.2,
+      "seller_feedback_count": 2717,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 300.0,
+      "active_scan_baseline": 130.0,
+      "effective_baseline": 130.0,
+      "baseline_cap_applied": true,
+      "baseline_stale": false,
+      "baseline_drift_pct": 56.67
     }
   ],
   "watchlist_deals": [
@@ -110,6 +144,42 @@
       "baseline_drift_pct": 0.0
     },
     {
+      "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
+      "url": "https://www.ebay.com/itm/406823197415?_skw=pokemon+Evolving+Skies+booster+box&hash=item5eb88d5ae7:g:2m0AAeSwoNZpznEb",
+      "franchise": "pokemon",
+      "set": "Evolving Skies",
+      "product_type": "booster_box",
+      "price": 1599.99,
+      "shipping_cost": 0.0,
+      "total_price": 1599.99,
+      "shipping_verified": true,
+      "baseline_price": 2858.91,
+      "baseline_raw_count": 40,
+      "baseline_pre_filter_count": 31,
+      "baseline_final_count": 15,
+      "baseline_raw_min": 78.88,
+      "baseline_raw_max": 30000.0,
+      "gapPct": 44.03,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 165,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 135.38,
+      "active_scan_baseline": 2858.91,
+      "effective_baseline": 2858.91,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 2011.77,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-16T03:03:11.496299+00:00",
+      "_last_seen_at": "2026-05-16T03:03:11.496299+00:00"
+    },
+    {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
       "url": "https://www.ebay.com/itm/236699951100?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item371c6a9ffc:g:-T0AAeSwKhNpvCan&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZumK2EWKx3aQwqr%2F7egObnZSukof%2FkOG3Q8MXaac3N%2BQz21MppIg4imAb3S42yFyIU5v8m%2FZjEYeQY%2Bu%2F5XRpFYqR8eZI48ew3YN%2FL7zzncI%2FD%2BAIV%2FtI69g0dIM2hQGY6c9jdp33sWud1sp6pShrx6c1M9wzOo5o7n%2FvCW5rxyxB%2FKo0fdTPueDUU2hb98xhZeWXlcusiT2A9gQJi2tBS19cckhjjErcd0sYHpp65%2FaQ7uX8EpIszaXgOfbThaboSQgzdMpkKWMgEHfVVQz8DHZlTEea6FunlHrBv5d4FpqL3H2%2B%2BSBOM7mKjkJBfBt1TjqiK3ryKpqfmnFs0vKdR",
       "franchise": "onepiece",
@@ -143,7 +213,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-15T22:23:19.077222+00:00",
-      "_last_seen_at": "2026-05-16T02:22:42.566685+00:00"
+      "_last_seen_at": "2026-05-16T03:03:11.496299+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -178,8 +248,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 46.76,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T02:22:42.566685+00:00",
-      "_last_seen_at": "2026-05-16T02:22:42.566685+00:00"
+      "_first_seen_at": "2026-05-16T03:03:11.496299+00:00",
+      "_last_seen_at": "2026-05-16T03:03:11.496299+00:00"
     },
     {
       "title": "One Piece: Adventure on Kami's Island (OP15-EB04) Booster Box - Factory Sealed",
@@ -229,7 +299,7 @@
       "shipping_verified": true,
       "baseline_price": 477.13,
       "baseline_raw_count": 34,
-      "baseline_pre_filter_count": 28,
+      "baseline_pre_filter_count": 29,
       "baseline_final_count": 12,
       "baseline_raw_min": 189.79,
       "baseline_raw_max": 3669.99,
@@ -250,17 +320,17 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-16T02:22:42.566685+00:00",
-      "_last_seen_at": "2026-05-16T02:22:42.566685+00:00"
+      "_first_seen_at": "2026-05-16T03:03:11.496299+00:00",
+      "_last_seen_at": "2026-05-16T03:03:11.496299+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
-    "retailer_deals": 1,
-    "total_merged": 1,
-    "retailer_deals_visible": true
+    "ebay_deals": 2,
+    "retailer_deals": 0,
+    "total_merged": 2,
+    "retailer_deals_visible": false
   }
 }
