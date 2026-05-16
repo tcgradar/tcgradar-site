@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T19:22:44.180275+00:00",
+  "timestamp": "2026-05-16T20:02:52.296807+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -54,9 +54,9 @@
       "total_price": 185.0,
       "shipping_verified": false,
       "baseline_price": 207.47,
-      "baseline_raw_count": 31,
-      "baseline_pre_filter_count": 27,
-      "baseline_final_count": 12,
+      "baseline_raw_count": 27,
+      "baseline_pre_filter_count": 23,
+      "baseline_final_count": 10,
       "baseline_raw_min": 185.0,
       "baseline_raw_max": 1099.0,
       "gapPct": 10.83,
@@ -112,7 +112,7 @@
       "baseline_drift_pct": 31.2,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T14:42:42.896690+00:00",
-      "_last_seen_at": "2026-05-16T19:22:44.177898+00:00"
+      "_last_seen_at": "2026-05-16T20:02:52.294411+00:00"
     },
     {
       "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
@@ -191,13 +191,13 @@
       "shipping_cost": 44.71,
       "total_price": 428.21,
       "shipping_verified": true,
-      "baseline_price": 645.0,
-      "baseline_raw_count": 35,
-      "baseline_pre_filter_count": 29,
-      "baseline_final_count": 14,
+      "baseline_price": 649.99,
+      "baseline_raw_count": 34,
+      "baseline_pre_filter_count": 28,
+      "baseline_final_count": 13,
       "baseline_raw_min": 189.6,
       "baseline_raw_max": 3669.99,
-      "gapPct": 33.61,
+      "gapPct": 34.12,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 180,
@@ -208,14 +208,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 645.0,
-      "effective_baseline": 645.0,
+      "active_scan_baseline": 649.99,
+      "effective_baseline": 649.99,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 35.18,
+      "baseline_drift_pct": 36.23,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T19:22:44.177898+00:00",
-      "_last_seen_at": "2026-05-16T19:22:44.177898+00:00"
+      "_first_seen_at": "2026-05-16T20:02:52.294411+00:00",
+      "_last_seen_at": "2026-05-16T20:02:52.294411+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
@@ -358,8 +358,8 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-16T19:22:44.177898+00:00",
-      "_last_seen_at": "2026-05-16T19:22:44.177898+00:00"
+      "_first_seen_at": "2026-05-16T20:02:52.294411+00:00",
+      "_last_seen_at": "2026-05-16T20:02:52.294411+00:00"
     }
   ],
   "empty_watchlist": false,
