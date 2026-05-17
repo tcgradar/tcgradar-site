@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T11:02:34.197245+00:00",
+  "timestamp": "2026-05-17T11:42:40.446358+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 36.23,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-17T11:02:34.195712+00:00",
-      "_last_seen_at": "2026-05-17T11:02:34.195712+00:00"
+      "_last_seen_at": "2026-05-17T11:42:40.444815+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -134,7 +134,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-17T07:23:03.265772+00:00",
-      "_last_seen_at": "2026-05-17T11:02:34.195712+00:00"
+      "_last_seen_at": "2026-05-17T11:03:38.035089+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
