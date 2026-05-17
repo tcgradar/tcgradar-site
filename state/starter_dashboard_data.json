@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T17:02:54.294474+00:00",
+  "timestamp": "2026-05-17T17:42:37.256802+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -53,13 +53,13 @@
       "shipping_cost": 0.0,
       "total_price": 180.0,
       "shipping_verified": false,
-      "baseline_price": 200.0,
-      "baseline_raw_count": 27,
+      "baseline_price": 212.49,
+      "baseline_raw_count": 28,
       "baseline_pre_filter_count": 24,
-      "baseline_final_count": 13,
+      "baseline_final_count": 8,
       "baseline_raw_min": 180.0,
       "baseline_raw_max": 839.99,
-      "gapPct": 10.0,
+      "gapPct": 15.29,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 273,
@@ -70,11 +70,11 @@
       "deal_quality": "high",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 399.99,
-      "active_scan_baseline": 200.0,
-      "effective_baseline": 200.0,
+      "active_scan_baseline": 212.49,
+      "effective_baseline": 212.49,
       "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 50.0
+      "baseline_drift_pct": 46.88
     }
   ],
   "watchlist_deals": [
@@ -148,7 +148,7 @@
       "baseline_drift_pct": 36.23,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-17T17:02:54.293323+00:00",
-      "_last_seen_at": "2026-05-17T17:02:54.293323+00:00"
+      "_last_seen_at": "2026-05-17T17:42:37.255636+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -184,7 +184,7 @@
       "baseline_drift_pct": 46.76,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-17T17:02:54.293323+00:00",
-      "_last_seen_at": "2026-05-17T17:02:54.293323+00:00"
+      "_last_seen_at": "2026-05-17T17:42:37.255636+00:00"
     }
   ],
   "empty_watchlist": false,
