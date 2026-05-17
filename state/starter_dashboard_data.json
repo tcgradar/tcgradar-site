@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T23:23:07.599799+00:00",
+  "timestamp": "2026-05-17T00:03:09.713265+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,24 +7,24 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 9,
+  "total_deals": 2,
+  "all_deals_count": 10,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2
     },
     "by_product_type": {
-      "etb": 1
+      "etb": 2
     },
     "by_gap_bucket": {
-      "20_plus": 1
+      "20_plus": 2
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 2
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
@@ -33,7 +33,8 @@
       "pokemon"
     ],
     "set": [
-      "Destined Rivals"
+      "Destined Rivals",
+      "Obsidian Flames"
     ],
     "product_type": [
       "etb"
@@ -43,6 +44,39 @@
     ]
   },
   "deals": [
+    {
+      "title": "Obsidian Flames Pokemon Center Exclusive Open Display Box ETB, No Cards/packs",
+      "url": "https://www.ebay.com/itm/267664306267?_skw=pokemon+Obsidian+Flames+booster+box&hash=item3e5209305b:g:0W8AAeSwQ5pp~rrs",
+      "franchise": "pokemon",
+      "set": "Obsidian Flames",
+      "product_type": "etb",
+      "price": 199.0,
+      "shipping_cost": 0.0,
+      "total_price": 199.0,
+      "shipping_verified": true,
+      "baseline_price": 350.0,
+      "baseline_raw_count": 22,
+      "baseline_pre_filter_count": 18,
+      "baseline_final_count": 9,
+      "baseline_raw_min": 125.0,
+      "baseline_raw_max": 3300.0,
+      "gapPct": 43.14,
+      "confidence": "high",
+      "seller_rating": 99.8,
+      "seller_feedback_count": 3510,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 350.0,
+      "active_scan_baseline": 319.99,
+      "effective_baseline": 350.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 8.57
+    },
     {
       "title": "Pokemon TCG Scarlet & Violet Destined Rivals Elite Trainer Box ETB Factory Seal",
       "url": "https://www.ebay.com/itm/147313776026?_skw=pokemon+Destined+Rivals+booster+box&hash=item224c95d59a:g:fcEAAeSwmT1qCIlH",
@@ -54,8 +88,8 @@
       "total_price": 185.0,
       "shipping_verified": false,
       "baseline_price": 245.0,
-      "baseline_raw_count": 31,
-      "baseline_pre_filter_count": 27,
+      "baseline_raw_count": 33,
+      "baseline_pre_filter_count": 29,
       "baseline_final_count": 13,
       "baseline_raw_min": 180.0,
       "baseline_raw_max": 1099.0,
@@ -179,7 +213,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T22:42:48.439011+00:00",
-      "_last_seen_at": "2026-05-16T23:23:07.597384+00:00"
+      "_last_seen_at": "2026-05-17T00:00:01.132203+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box 36 Packs - Brand New & Sealed Small Rip",
@@ -191,13 +225,13 @@
       "shipping_cost": 44.71,
       "total_price": 428.21,
       "shipping_verified": true,
-      "baseline_price": 634.44,
+      "baseline_price": 640.0,
       "baseline_raw_count": 35,
-      "baseline_pre_filter_count": 29,
-      "baseline_final_count": 14,
+      "baseline_pre_filter_count": 30,
+      "baseline_final_count": 15,
       "baseline_raw_min": 189.6,
       "baseline_raw_max": 3669.99,
-      "gapPct": 32.51,
+      "gapPct": 33.09,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 181,
@@ -208,14 +242,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 634.44,
-      "effective_baseline": 634.44,
+      "active_scan_baseline": 640.0,
+      "effective_baseline": 640.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 32.97,
+      "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T23:23:07.597384+00:00",
-      "_last_seen_at": "2026-05-16T23:23:07.597384+00:00"
+      "_first_seen_at": "2026-05-17T00:03:09.710979+00:00",
+      "_last_seen_at": "2026-05-17T00:03:09.710979+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
@@ -254,42 +288,6 @@
       "_last_seen_at": "2026-05-16T18:04:05.684976+00:00"
     },
     {
-      "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
-      "url": "https://www.ebay.com/itm/298230588698?_skw=pokemon+Battle+Styles+booster+box&hash=item456feda51a:g:aSkAAeSwJVdp4BVs",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 99.0,
-      "shipping_cost": 0.0,
-      "total_price": 99.0,
-      "shipping_verified": false,
-      "baseline_price": 132.99,
-      "baseline_raw_count": 17,
-      "baseline_pre_filter_count": 16,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 99.0,
-      "baseline_raw_max": 999.98,
-      "gapPct": 25.56,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 503,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 90.62,
-      "active_scan_baseline": 132.99,
-      "effective_baseline": 132.99,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 46.76,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-16T23:23:07.597384+00:00",
-      "_last_seen_at": "2026-05-16T23:23:07.597384+00:00"
-    },
-    {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
       "url": "https://www.ebay.com/itm/127808330222?_skw=pokemon+Obsidian+Flames+booster+box&hash=item1dc1f859ee:g:I-gAAeSwSn9psbcG",
       "franchise": "pokemon",
@@ -323,7 +321,43 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-16T17:23:08.088459+00:00",
-      "_last_seen_at": "2026-05-16T18:00:01.241215+00:00"
+      "_last_seen_at": "2026-05-17T00:03:09.710979+00:00"
+    },
+    {
+      "title": "One Piece TCG SEALED BOOSTER BOX [OP-15] Adventure on Kami's Island",
+      "url": "https://www.ebay.com/itm/157916638324?_skw=onepiece+Adventure+on+Kami%27s+Island+booster+box&hash=item24c490ac74:g:hEcAAeSwgAxp4nQ3",
+      "franchise": "onepiece",
+      "set": "Adventure on Kami's Island",
+      "product_type": "booster_box",
+      "price": 200.0,
+      "shipping_cost": 0.0,
+      "total_price": 200.0,
+      "shipping_verified": false,
+      "baseline_price": 229.99,
+      "baseline_raw_count": 16,
+      "baseline_pre_filter_count": 15,
+      "baseline_final_count": 11,
+      "baseline_raw_min": 200.0,
+      "baseline_raw_max": 350.0,
+      "gapPct": 13.04,
+      "confidence": "medium",
+      "seller_rating": 98.9,
+      "seller_feedback_count": 213,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 229.99,
+      "active_scan_baseline": 229.99,
+      "effective_baseline": 229.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-17T00:03:09.710979+00:00",
+      "_last_seen_at": "2026-05-17T00:03:09.710979+00:00"
     },
     {
       "title": "Pokemon TCG Battle Styles Booster Box Factory Sealed",
@@ -336,9 +370,9 @@
       "total_price": 250.0,
       "shipping_verified": false,
       "baseline_price": 259.99,
-      "baseline_raw_count": 35,
-      "baseline_pre_filter_count": 34,
-      "baseline_final_count": 22,
+      "baseline_raw_count": 34,
+      "baseline_pre_filter_count": 33,
+      "baseline_final_count": 21,
       "baseline_raw_min": 250.0,
       "baseline_raw_max": 2109.05,
       "gapPct": 3.84,
@@ -358,17 +392,17 @@
       "baseline_stale": false,
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-16T23:23:07.597384+00:00",
-      "_last_seen_at": "2026-05-16T23:23:07.597384+00:00"
+      "_first_seen_at": "2026-05-17T00:03:09.710979+00:00",
+      "_last_seen_at": "2026-05-17T00:03:09.710979+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 2,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 2,
     "retailer_deals_visible": false
   }
 }
