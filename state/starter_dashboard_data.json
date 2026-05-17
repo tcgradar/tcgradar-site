@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T06:03:17.348154+00:00",
+  "timestamp": "2026-05-17T06:04:22.533377+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 36.23,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-17T06:03:17.346651+00:00",
-      "_last_seen_at": "2026-05-17T06:03:17.346651+00:00"
+      "_last_seen_at": "2026-05-17T06:04:22.531815+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -134,7 +134,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-17T06:03:17.346651+00:00",
-      "_last_seen_at": "2026-05-17T06:03:17.346651+00:00"
+      "_last_seen_at": "2026-05-17T06:04:22.531815+00:00"
     },
     {
       "title": "One Piece TCG SEALED BOOSTER BOX [OP-15] Adventure on Kami's Island",
