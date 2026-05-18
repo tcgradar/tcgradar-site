@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T14:03:17.312298+00:00",
+  "timestamp": "2026-05-18T14:43:14.858266+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,76 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
+  "total_deals": 0,
   "all_deals_count": 6,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "20_plus": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Obsidian Flames"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "5x Pokemon Obsidian Flames Open Display Box ETB, No Cards/packs/acessories",
-      "url": "https://www.ebay.com/itm/267669657541?_skw=pokemon+Obsidian+Flames+booster+box&hash=item3e525ad7c5:g:xZMAAeSwRxtqBhRX",
-      "franchise": "pokemon",
-      "set": "Obsidian Flames",
-      "product_type": "etb",
-      "price": 199.0,
-      "shipping_cost": 0.0,
-      "total_price": 199.0,
-      "shipping_verified": true,
-      "baseline_price": 350.0,
-      "baseline_raw_count": 23,
-      "baseline_pre_filter_count": 20,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 125.0,
-      "baseline_raw_max": 3449.99,
-      "gapPct": 43.14,
-      "confidence": "high",
-      "seller_rating": 99.8,
-      "seller_feedback_count": 3511,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 350.0,
-      "active_scan_baseline": 325.0,
-      "effective_baseline": 350.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 7.14
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
@@ -148,7 +98,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-18T14:03:17.310706+00:00",
-      "_last_seen_at": "2026-05-18T14:03:17.310706+00:00"
+      "_last_seen_at": "2026-05-18T14:43:14.856388+00:00"
     },
     {
       "title": "Pokemon TCG Shrouded Fables Booster Bundle - New & Sealed",
@@ -220,7 +170,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-18T14:03:17.310706+00:00",
-      "_last_seen_at": "2026-05-18T14:03:17.310706+00:00"
+      "_last_seen_at": "2026-05-18T14:43:14.856388+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -256,16 +206,52 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-18T07:23:34.341023+00:00",
-      "_last_seen_at": "2026-05-18T14:03:17.310706+00:00"
+      "_last_seen_at": "2026-05-18T14:04:23.102735+00:00"
+    },
+    {
+      "title": "36 Pokemon Silver Tempest Booster Packs Sealed Factory Box - Fast Free Shipping",
+      "url": "https://www.ebay.com/itm/267283444768?_skw=pokemon+Silver+Tempest+booster+box&hash=item3e3b55b420:g:USUAAOSwjE9oReNd&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGawnAJ5sBZw9vHsZ04b7tr01M76eyXkhjoVA5Pphx9VY%2BfKEmanaQ7vwgKIE3Ph%2BXD5w0SMl9CTHis1Op8BfAgvqcBe4S9lA1wuDvKU6OQg5GpdWpKEAYo0XV4GH%2BvLxQKYqFNu2z80KPXc8XdV6Tnryux5M%2B6ChxgLfVKL9aMh23tyEscBYcM8VfyaUeaMDT7hNuFrg2ZbgdH2%2BQ%2Bw6T6oAQKGszmQ3h1A%2BiVSx6y%2FPRFmd9%2Ff7T%2Fk3YmGMTk8OLE2jZMZUOcSC%2B74bWMbGDM46jIFICNvSe94EnEd%2Fg6nIT6Cmdwm8qLk7XraiqBdQQc%3D",
+      "franchise": "pokemon",
+      "set": "Silver Tempest",
+      "product_type": "booster_box",
+      "price": 449.99,
+      "shipping_cost": 0.0,
+      "total_price": 449.99,
+      "shipping_verified": true,
+      "baseline_price": 474.99,
+      "baseline_raw_count": 35,
+      "baseline_pre_filter_count": 33,
+      "baseline_final_count": 27,
+      "baseline_raw_min": 449.99,
+      "baseline_raw_max": 6998.95,
+      "gapPct": 5.26,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 2709,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "low",
+      "gap_bucket": "1_to_9",
+      "serpapi_baseline": 474.99,
+      "active_scan_baseline": 474.99,
+      "effective_baseline": 474.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-18T14:43:14.856388+00:00",
+      "_last_seen_at": "2026-05-18T14:43:14.856388+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
