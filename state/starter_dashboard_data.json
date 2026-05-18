@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T11:23:14.657696+00:00",
+  "timestamp": "2026-05-18T12:02:38.686996+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,76 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 6,
+  "total_deals": 0,
+  "all_deals_count": 5,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "10_to_19": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Darkness Ablaze"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "10_to_19"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon - Darkness Ablaze Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/317787675278?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item49fd9f1a8e:g:fOMAAeSwt6FpcFxO",
-      "franchise": "pokemon",
-      "set": "Darkness Ablaze",
-      "product_type": "etb",
-      "price": 110.43,
-      "shipping_cost": 14.95,
-      "total_price": 110.43,
-      "shipping_verified": true,
-      "baseline_price": 129.97,
-      "baseline_raw_count": 16,
-      "baseline_pre_filter_count": 14,
-      "baseline_final_count": 8,
-      "baseline_raw_min": 95.48,
-      "baseline_raw_max": 202.95,
-      "gapPct": 15.03,
-      "confidence": "high",
-      "seller_rating": 99.2,
-      "seller_feedback_count": 2718,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 300.0,
-      "active_scan_baseline": 129.97,
-      "effective_baseline": 129.97,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 56.68
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
@@ -112,28 +62,28 @@
       "baseline_drift_pct": 1968.24,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-18T11:23:14.656086+00:00",
-      "_last_seen_at": "2026-05-18T11:23:14.656086+00:00"
+      "_last_seen_at": "2026-05-18T12:00:01.677989+00:00"
     },
     {
-      "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) Factory Sealed",
-      "url": "https://www.ebay.com/itm/406926815228?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ebeba6ffc:g:dnYAAeSw0lVqBfeU",
+      "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
+      "url": "https://www.ebay.com/itm/178128969593?_skw=pokemon+Destined+Rivals+booster+box&hash=item2979505f79:g:Ee4AAeSwI3ZqA3jl",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
-      "price": 468.45,
-      "shipping_cost": 46.07,
-      "total_price": 468.45,
+      "price": 455.25,
+      "shipping_cost": 42.14,
+      "total_price": 455.25,
       "shipping_verified": true,
-      "baseline_price": 645.0,
-      "baseline_raw_count": 32,
-      "baseline_pre_filter_count": 25,
-      "baseline_final_count": 12,
+      "baseline_price": 649.99,
+      "baseline_raw_count": 29,
+      "baseline_pre_filter_count": 23,
+      "baseline_final_count": 11,
       "baseline_raw_min": 189.79,
       "baseline_raw_max": 3669.99,
-      "gapPct": 27.37,
+      "gapPct": 29.96,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 258,
+      "seller_feedback_count": 152,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -141,14 +91,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 645.0,
-      "effective_baseline": 645.0,
+      "active_scan_baseline": 649.99,
+      "effective_baseline": 649.99,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 35.18,
+      "baseline_drift_pct": 36.23,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T11:23:14.656086+00:00",
-      "_last_seen_at": "2026-05-18T11:23:14.656086+00:00"
+      "_first_seen_at": "2026-05-18T12:02:38.685423+00:00",
+      "_last_seen_at": "2026-05-18T12:02:38.685423+00:00"
     },
     {
       "title": "Pokemon TCG Shrouded Fables Booster Bundle - New & Sealed",
@@ -196,13 +146,13 @@
       "shipping_cost": 0.0,
       "total_price": 99.0,
       "shipping_verified": false,
-      "baseline_price": 125.0,
-      "baseline_raw_count": 21,
-      "baseline_pre_filter_count": 20,
-      "baseline_final_count": 10,
+      "baseline_price": 124.99,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 19,
+      "baseline_final_count": 9,
       "baseline_raw_min": 99.0,
       "baseline_raw_max": 999.98,
-      "gapPct": 20.8,
+      "gapPct": 20.79,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 503,
@@ -213,14 +163,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 90.62,
-      "active_scan_baseline": 125.0,
-      "effective_baseline": 125.0,
+      "active_scan_baseline": 124.99,
+      "effective_baseline": 124.99,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 37.94,
+      "baseline_drift_pct": 37.93,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T11:23:14.656086+00:00",
-      "_last_seen_at": "2026-05-18T11:23:14.656086+00:00"
+      "_first_seen_at": "2026-05-18T12:02:38.685423+00:00",
+      "_last_seen_at": "2026-05-18T12:02:38.685423+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -263,9 +213,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
