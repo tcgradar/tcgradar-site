@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T00:22:49.052207+00:00",
+  "timestamp": "2026-05-18T01:03:11.358724+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -75,8 +75,8 @@
       "total_price": 479.53000000000003,
       "shipping_verified": true,
       "baseline_price": 645.0,
-      "baseline_raw_count": 30,
-      "baseline_pre_filter_count": 25,
+      "baseline_raw_count": 31,
+      "baseline_pre_filter_count": 26,
       "baseline_final_count": 12,
       "baseline_raw_min": 189.79,
       "baseline_raw_max": 3669.99,
@@ -97,8 +97,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 35.18,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T00:22:49.050614+00:00",
-      "_last_seen_at": "2026-05-18T00:22:49.050614+00:00"
+      "_first_seen_at": "2026-05-18T01:03:11.357076+00:00",
+      "_last_seen_at": "2026-05-18T01:03:11.357076+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -133,8 +133,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T00:22:49.050614+00:00",
-      "_last_seen_at": "2026-05-18T00:22:49.050614+00:00"
+      "_first_seen_at": "2026-05-18T01:03:11.357076+00:00",
+      "_last_seen_at": "2026-05-18T01:03:11.357076+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -170,7 +170,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-17T18:23:17.364099+00:00",
-      "_last_seen_at": "2026-05-17T19:00:01.694212+00:00"
+      "_last_seen_at": "2026-05-18T01:03:11.357076+00:00"
     },
     {
       "title": "One Piece TCG SEALED BOOSTER BOX [OP-15] Adventure on Kami's Island",
@@ -206,7 +206,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-17T20:22:36.443058+00:00",
-      "_last_seen_at": "2026-05-18T00:22:49.050614+00:00"
+      "_last_seen_at": "2026-05-18T01:03:11.357076+00:00"
     }
   ],
   "empty_watchlist": false,
