@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T12:42:44.209456+00:00",
+  "timestamp": "2026-05-18T13:22:44.576774+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -74,13 +74,13 @@
       "shipping_cost": 42.14,
       "total_price": 455.25,
       "shipping_verified": true,
-      "baseline_price": 649.99,
-      "baseline_raw_count": 29,
-      "baseline_pre_filter_count": 23,
-      "baseline_final_count": 11,
+      "baseline_price": 645.0,
+      "baseline_raw_count": 33,
+      "baseline_pre_filter_count": 27,
+      "baseline_final_count": 12,
       "baseline_raw_min": 189.79,
       "baseline_raw_max": 3669.99,
-      "gapPct": 29.96,
+      "gapPct": 29.42,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 152,
@@ -91,14 +91,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 649.99,
-      "effective_baseline": 649.99,
+      "active_scan_baseline": 645.0,
+      "effective_baseline": 645.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 36.23,
+      "baseline_drift_pct": 35.18,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T12:02:38.685423+00:00",
-      "_last_seen_at": "2026-05-18T12:42:44.207830+00:00"
+      "_first_seen_at": "2026-05-18T13:22:44.575135+00:00",
+      "_last_seen_at": "2026-05-18T13:22:44.575135+00:00"
     },
     {
       "title": "Pokemon TCG Shrouded Fables Booster Bundle - New & Sealed",
@@ -169,8 +169,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.93,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T12:02:38.685423+00:00",
-      "_last_seen_at": "2026-05-18T12:42:44.207830+00:00"
+      "_first_seen_at": "2026-05-18T13:22:44.575135+00:00",
+      "_last_seen_at": "2026-05-18T13:22:44.575135+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
