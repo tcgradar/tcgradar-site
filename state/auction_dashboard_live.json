@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T23:44:20.345023+00:00",
+    "generated_at": "2026-05-18T00:23:59.248923+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 26,
@@ -108,7 +108,7 @@
       "old_gapPct": 65.9090909090909,
       "gapPct": 65.91,
       "bids": 39,
-      "time_remaining": 2.7942082325,
+      "time_remaining": 2.13331947,
       "opportunity_type": "ending_soon",
       "url": "https://www.ebay.com/itm/147311376815?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item224c7139af:g:cf4AAeSwDgxqBoTJ",
       "franchise": "onepiece",
@@ -131,7 +131,7 @@
       "old_gapPct": 43.874363923495345,
       "gapPct": 49.99,
       "bids": 6,
-      "time_remaining": 50.62715234972222,
+      "time_remaining": 49.96665302694444,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/198349116541?_skw=Pokemon+Temporal+Forces+booster+box&hash=item2e2e87547d:g:55QAAeSw4QFpMdb8",
       "franchise": "pokemon",
@@ -154,14 +154,14 @@
       "old_gapPct": 33.12095236099176,
       "gapPct": 36.08,
       "bids": 18,
-      "time_remaining": 1.2727215372222223,
+      "time_remaining": 0.6115655633333333,
       "opportunity_type": "urgent",
       "url": "https://www.ebay.com/itm/157902440859?_skw=Pokemon+Destined+Rivals+booster+box&hash=item24c3b8099b:g:mhgAAeSwhHJp3~4h",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
       "seller_trust": "HIGH",
-      "opportunity_score": 63,
+      "opportunity_score": 65,
       "deal_quality": "medium"
     }
   ]
