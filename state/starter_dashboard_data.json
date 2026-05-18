@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T18:42:33.483760+00:00",
+  "timestamp": "2026-05-18T19:22:52.907410+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -75,7 +75,7 @@
       "total_price": 455.25,
       "shipping_verified": true,
       "baseline_price": 640.0,
-      "baseline_raw_count": 33,
+      "baseline_raw_count": 34,
       "baseline_pre_filter_count": 27,
       "baseline_final_count": 9,
       "baseline_raw_min": 189.6,
@@ -97,8 +97,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T18:03:12.587956+00:00",
-      "_last_seen_at": "2026-05-18T18:42:33.482150+00:00"
+      "_first_seen_at": "2026-05-18T19:22:52.905912+00:00",
+      "_last_seen_at": "2026-05-18T19:22:52.905912+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -110,13 +110,13 @@
       "shipping_cost": 0.0,
       "total_price": 99.0,
       "shipping_verified": false,
-      "baseline_price": 125.0,
-      "baseline_raw_count": 18,
-      "baseline_pre_filter_count": 17,
+      "baseline_price": 124.99,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 18,
       "baseline_final_count": 9,
       "baseline_raw_min": 99.0,
       "baseline_raw_max": 999.98,
-      "gapPct": 20.8,
+      "gapPct": 20.79,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 503,
@@ -127,14 +127,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 90.62,
-      "active_scan_baseline": 125.0,
-      "effective_baseline": 125.0,
+      "active_scan_baseline": 124.99,
+      "effective_baseline": 124.99,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 37.94,
+      "baseline_drift_pct": 37.93,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T18:03:12.587956+00:00",
-      "_last_seen_at": "2026-05-18T18:42:33.482150+00:00"
+      "_first_seen_at": "2026-05-18T19:22:52.905912+00:00",
+      "_last_seen_at": "2026-05-18T19:22:52.905912+00:00"
     },
     {
       "title": "36 Pokemon Silver Tempest Booster Packs Sealed Factory Box - Fast Free Shipping",
