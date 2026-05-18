@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T21:23:15.342549+00:00",
+  "timestamp": "2026-05-18T22:03:05.021477+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,97 +7,47 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 5,
+  "total_deals": 0,
+  "all_deals_count": 4,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "10_to_19": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Silver Tempest"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "10_to_19"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon TCG: Sword & Shield Silver Tempest Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/257499108801?_skw=pokemon+Silver+Tempest+booster+box&hash=item3bf42495c1:g:JAUAAeSwSzpp~-Cd",
-      "franchise": "pokemon",
-      "set": "Silver Tempest",
-      "product_type": "etb",
-      "price": 144.92999999999998,
-      "shipping_cost": 9.98,
-      "total_price": 144.92999999999998,
-      "shipping_verified": true,
-      "baseline_price": 169.99,
-      "baseline_raw_count": 35,
-      "baseline_pre_filter_count": 29,
-      "baseline_final_count": 11,
-      "baseline_raw_min": 20.0,
-      "baseline_raw_max": 700.0,
-      "gapPct": 14.74,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 498,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 472.5,
-      "active_scan_baseline": 169.99,
-      "effective_baseline": 169.99,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 64.02
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
-      "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) Factory Sealed",
-      "url": "https://www.ebay.com/itm/406926815228?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ebeba6ffc:g:dnYAAeSw0lVqBfeU",
+      "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
+      "url": "https://www.ebay.com/itm/178128969593?_skw=pokemon+Destined+Rivals+booster+box&hash=item2979505f79:g:Ee4AAeSwI3ZqA3jl",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
-      "price": 468.45,
-      "shipping_cost": 46.07,
-      "total_price": 468.45,
+      "price": 455.25,
+      "shipping_cost": 42.14,
+      "total_price": 455.25,
       "shipping_verified": true,
-      "baseline_price": 634.0,
-      "baseline_raw_count": 33,
-      "baseline_pre_filter_count": 26,
-      "baseline_final_count": 11,
+      "baseline_price": 637.0,
+      "baseline_raw_count": 39,
+      "baseline_pre_filter_count": 32,
+      "baseline_final_count": 12,
       "baseline_raw_min": 189.6,
       "baseline_raw_max": 3669.99,
-      "gapPct": 26.11,
+      "gapPct": 28.53,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 258,
+      "seller_feedback_count": 152,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -105,14 +55,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 634.0,
-      "effective_baseline": 634.0,
+      "active_scan_baseline": 637.0,
+      "effective_baseline": 637.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 32.88,
+      "baseline_drift_pct": 33.51,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T20:02:54.563899+00:00",
-      "_last_seen_at": "2026-05-18T21:23:15.341056+00:00"
+      "_first_seen_at": "2026-05-18T22:03:05.019979+00:00",
+      "_last_seen_at": "2026-05-18T22:03:05.019979+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -147,8 +97,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.39,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T21:23:15.341056+00:00",
-      "_last_seen_at": "2026-05-18T21:23:15.341056+00:00"
+      "_first_seen_at": "2026-05-18T22:03:05.019979+00:00",
+      "_last_seen_at": "2026-05-18T22:03:05.019979+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -197,11 +147,6 @@
       "total_price": 449.99,
       "shipping_verified": true,
       "baseline_price": 474.99,
-      "baseline_raw_count": 34,
-      "baseline_pre_filter_count": 31,
-      "baseline_final_count": 26,
-      "baseline_raw_min": 449.99,
-      "baseline_raw_max": 6998.95,
       "gapPct": 5.26,
       "confidence": "low",
       "seller_rating": 100.0,
@@ -212,24 +157,24 @@
       "seller_trust": "HIGH",
       "deal_quality": "low",
       "gap_bucket": "1_to_9",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-18T22:00:01.224692+00:00",
+      "_last_seen_at": "2026-05-18T22:00:01.224692+00:00",
       "serpapi_baseline": 474.99,
-      "active_scan_baseline": 474.99,
+      "active_scan_baseline": 527.5,
       "effective_baseline": 474.99,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 0.0,
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-18T21:23:15.341056+00:00",
-      "_last_seen_at": "2026-05-18T21:23:15.341056+00:00"
+      "baseline_drift_pct": 0.0
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
