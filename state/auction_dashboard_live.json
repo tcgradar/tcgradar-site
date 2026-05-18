@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T11:24:21.732497+00:00",
+    "generated_at": "2026-05-18T12:44:00.550839+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 19,
@@ -108,7 +108,7 @@
       "old_gapPct": 47.63636363636364,
       "gapPct": 50.91,
       "bids": 24,
-      "time_remaining": 62.596251102222226,
+      "time_remaining": 61.26879229027778,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/366406748129?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item554f8b47e1:g:3zoAAeSwQIpqBLuE",
       "franchise": "onepiece",
