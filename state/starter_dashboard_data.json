@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-18T14:43:14.858266+00:00",
+  "timestamp": "2026-05-18T15:22:56.699132+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -78,7 +78,7 @@
       "baseline_raw_count": 34,
       "baseline_pre_filter_count": 27,
       "baseline_final_count": 11,
-      "baseline_raw_min": 189.79,
+      "baseline_raw_min": 189.6,
       "baseline_raw_max": 3669.99,
       "gapPct": 28.87,
       "confidence": "high",
@@ -97,8 +97,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T14:03:17.310706+00:00",
-      "_last_seen_at": "2026-05-18T14:43:14.856388+00:00"
+      "_first_seen_at": "2026-05-18T15:22:56.697192+00:00",
+      "_last_seen_at": "2026-05-18T15:22:56.697192+00:00"
     },
     {
       "title": "Pokemon TCG Shrouded Fables Booster Bundle - New & Sealed",
@@ -147,11 +147,11 @@
       "total_price": 99.0,
       "shipping_verified": false,
       "baseline_price": 125.0,
-      "baseline_raw_count": 17,
-      "baseline_pre_filter_count": 17,
-      "baseline_final_count": 8,
+      "baseline_raw_count": 18,
+      "baseline_pre_filter_count": 18,
+      "baseline_final_count": 9,
       "baseline_raw_min": 99.0,
-      "baseline_raw_max": 249.99,
+      "baseline_raw_max": 999.98,
       "gapPct": 20.8,
       "confidence": "high",
       "seller_rating": 100.0,
@@ -169,8 +169,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-18T14:03:17.310706+00:00",
-      "_last_seen_at": "2026-05-18T14:43:14.856388+00:00"
+      "_first_seen_at": "2026-05-18T15:22:56.697192+00:00",
+      "_last_seen_at": "2026-05-18T15:22:56.697192+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -219,11 +219,6 @@
       "total_price": 449.99,
       "shipping_verified": true,
       "baseline_price": 474.99,
-      "baseline_raw_count": 35,
-      "baseline_pre_filter_count": 33,
-      "baseline_final_count": 27,
-      "baseline_raw_min": 449.99,
-      "baseline_raw_max": 6998.95,
       "gapPct": 5.26,
       "confidence": "low",
       "seller_rating": 100.0,
@@ -234,15 +229,15 @@
       "seller_trust": "HIGH",
       "deal_quality": "low",
       "gap_bucket": "1_to_9",
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-18T15:00:01.421107+00:00",
+      "_last_seen_at": "2026-05-18T15:00:01.421107+00:00",
       "serpapi_baseline": 474.99,
-      "active_scan_baseline": 474.99,
+      "active_scan_baseline": 525.0,
       "effective_baseline": 474.99,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 0.0,
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-18T14:43:14.856388+00:00",
-      "_last_seen_at": "2026-05-18T14:43:14.856388+00:00"
+      "baseline_drift_pct": 0.0
     }
   ],
   "empty_watchlist": false,
