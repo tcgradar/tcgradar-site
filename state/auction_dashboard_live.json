@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T04:05:39.268511+00:00",
+    "generated_at": "2026-05-19T04:44:44.771174+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 12,
@@ -108,7 +108,7 @@
       "old_gapPct": 16.852079312160022,
       "gapPct": 22.97,
       "bids": 8,
-      "time_remaining": 22.273570378333332,
+      "time_remaining": 21.62085663527778,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/198349116541?_skw=Pokemon+Temporal+Forces+booster+box&hash=item2e2e87547d:g:55QAAeSw4QFpMdb8",
       "franchise": "pokemon",
