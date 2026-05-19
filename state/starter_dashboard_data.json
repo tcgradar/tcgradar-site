@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T13:03:22.852697+00:00",
+  "timestamp": "2026-05-19T13:04:34.325995+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 1967.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T13:03:22.851146+00:00",
-      "_last_seen_at": "2026-05-19T13:03:22.851146+00:00"
+      "_last_seen_at": "2026-05-19T13:04:34.324411+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -134,7 +134,7 @@
       "baseline_drift_pct": 33.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T11:03:00.790659+00:00",
-      "_last_seen_at": "2026-05-19T13:03:22.851146+00:00"
+      "_last_seen_at": "2026-05-19T13:04:34.324411+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -170,7 +170,7 @@
       "baseline_drift_pct": 37.66,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T13:03:22.851146+00:00",
-      "_last_seen_at": "2026-05-19T13:03:22.851146+00:00"
+      "_last_seen_at": "2026-05-19T13:04:34.324411+00:00"
     }
   ],
   "empty_watchlist": false,
