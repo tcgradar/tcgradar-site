@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-05-19T06:44:34.469658+00:00",
+    "generated_at": "2026-05-19T09:44:05.256123+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
-    "raw_count": 12,
-    "filtered_count": 0,
+    "raw_count": 14,
+    "filtered_count": 1,
     "filter_criteria": {
       "min_gap": 10.0,
       "max_bids": 50,
@@ -94,5 +94,29 @@
       ]
     }
   },
-  "auctions": []
+  "auctions": [
+    {
+      "title": "Pokemon Destined Rivals Booster Box Sealed",
+      "current_price": 355.0,
+      "shipping_cost": 0.0,
+      "total_price": 355.0,
+      "baseline": 477.13,
+      "baseline_source": "serpapi",
+      "baseline_key": "pokemon|destined_rivals|booster_box|en|standard",
+      "serpapi_sample_size": 31,
+      "old_baseline": 477.13,
+      "old_gapPct": 25.596797518496007,
+      "gapPct": 25.6,
+      "bids": 7,
+      "time_remaining": 19.445883587500003,
+      "opportunity_type": "ongoing",
+      "url": "https://www.ebay.com/itm/206284171818?_skw=Pokemon+Destined+Rivals+booster+box&hash=item30077eaa2a:g:BaoAAeSwM4hqC~Bm",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 55,
+      "deal_quality": "medium"
+    }
+  ]
 }
