@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T11:03:00.791709+00:00",
+  "timestamp": "2026-05-19T11:42:52.234914+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 3,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T11:03:00.790659+00:00",
-      "_last_seen_at": "2026-05-19T11:03:00.790659+00:00"
+      "_last_seen_at": "2026-05-19T11:04:10.238735+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
@@ -98,7 +98,43 @@
       "baseline_drift_pct": 33.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T11:03:00.790659+00:00",
-      "_last_seen_at": "2026-05-19T11:03:00.790659+00:00"
+      "_last_seen_at": "2026-05-19T11:04:10.238735+00:00"
+    },
+    {
+      "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) Factory Sealed",
+      "url": "https://www.ebay.com/itm/406926815228?_skw=pokemon+Destined+Rivals+booster+box&hash=item5ebeba6ffc:g:dnYAAeSw0lVqBfeU",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 472.24,
+      "shipping_cost": 46.44,
+      "total_price": 472.24,
+      "shipping_verified": true,
+      "baseline_price": 637.0,
+      "baseline_raw_count": 32,
+      "baseline_pre_filter_count": 27,
+      "baseline_final_count": 12,
+      "baseline_raw_min": 140.09,
+      "baseline_raw_max": 3899.99,
+      "gapPct": 25.86,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 259,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 477.13,
+      "active_scan_baseline": 637.0,
+      "effective_baseline": 637.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 33.51,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-19T11:42:52.233373+00:00",
+      "_last_seen_at": "2026-05-19T11:42:52.233373+00:00"
     },
     {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
@@ -134,7 +170,7 @@
       "baseline_drift_pct": 37.93,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T11:03:00.790659+00:00",
-      "_last_seen_at": "2026-05-19T11:03:00.790659+00:00"
+      "_last_seen_at": "2026-05-19T11:42:52.233373+00:00"
     }
   ],
   "empty_watchlist": false,
