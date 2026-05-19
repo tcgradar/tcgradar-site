@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T00:42:55.647548+00:00",
+  "timestamp": "2026-05-19T01:22:42.192606+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -76,10 +76,10 @@
       "shipping_verified": true,
       "baseline_price": 637.0,
       "baseline_raw_count": 37,
-      "baseline_pre_filter_count": 29,
+      "baseline_pre_filter_count": 30,
       "baseline_final_count": 12,
       "baseline_raw_min": 189.6,
-      "baseline_raw_max": 3669.99,
+      "baseline_raw_max": 3899.99,
       "gapPct": 28.53,
       "confidence": "high",
       "seller_rating": 100.0,
@@ -97,8 +97,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 33.51,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-19T00:03:42.356390+00:00",
-      "_last_seen_at": "2026-05-19T00:42:55.645789+00:00"
+      "_first_seen_at": "2026-05-19T01:22:42.190882+00:00",
+      "_last_seen_at": "2026-05-19T01:22:42.190882+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -133,8 +133,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.66,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-19T00:03:42.356390+00:00",
-      "_last_seen_at": "2026-05-19T00:42:55.645789+00:00"
+      "_first_seen_at": "2026-05-19T01:22:42.190882+00:00",
+      "_last_seen_at": "2026-05-19T01:22:42.190882+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
