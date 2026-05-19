@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T16:03:07.291564+00:00",
+  "timestamp": "2026-05-19T16:43:16.205981+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,26 +7,76 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
-  "all_deals_count": 5,
+  "total_deals": 1,
+  "all_deals_count": 7,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 1
+    },
+    "by_product_type": {
+      "etb": 1
+    },
+    "by_gap_bucket": {
+      "10_to_19": 1
+    },
+    "by_source": {
+      "ebay": 1
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Silver Tempest"
+    ],
+    "product_type": [
+      "etb"
+    ],
+    "gap_bucket": [
+      "10_to_19"
+    ]
   },
-  "deals": [],
+  "deals": [
+    {
+      "title": "Pokemon TCG: Sword & Shield - Silver Tempest ETB Elite Trainer Box New Sealed",
+      "url": "https://www.ebay.com/itm/117200534507?_skw=pokemon+Silver+Tempest+booster+box&hash=item1b49b23beb:g:eyQAAeSwXbZqCg6S&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYH%2FDh4L4a94ZhwFTPiY97DI5hDPpkUTvcmURbat3aeiLfucfcg7NV84Mgg65zDz56wLFUAJg2iItp64EL9V3vQ6QTZeNgUKoLmI6qYtRh9wXhVBBPjHU4MiOPEH%2Bh7aaB3TE%2BEhiYFHwNtOa%2Bf3cwC5udJCpiRP0Is0fnp5nkNL707B8yyYI9mlNvFhywMKKPksDGY59eKCah9lzobeXMVs75%2FjyR5qp8RcNjLUJBPPxr7tzseOC36JxjqUWpKbDmSdQ9B7OYuCMCTYhMKiKzPgsZ33Uek4cz4C4e7M3gWp%2Bk%2BFq2TeDVK2%2BK1dLznuMs%3D",
+      "franchise": "pokemon",
+      "set": "Silver Tempest",
+      "product_type": "etb",
+      "price": 149.99,
+      "shipping_cost": 0.0,
+      "total_price": 149.99,
+      "shipping_verified": false,
+      "baseline_price": 167.49,
+      "baseline_raw_count": 30,
+      "baseline_pre_filter_count": 26,
+      "baseline_final_count": 14,
+      "baseline_raw_min": 20.0,
+      "baseline_raw_max": 1900.0,
+      "gapPct": 10.45,
+      "confidence": "high",
+      "seller_rating": 99.7,
+      "seller_feedback_count": 2498,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 472.5,
+      "active_scan_baseline": 167.49,
+      "effective_baseline": 167.49,
+      "baseline_cap_applied": true,
+      "baseline_stale": false,
+      "baseline_drift_pct": 64.55
+    }
+  ],
   "watchlist_deals": [
     {
       "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
@@ -98,7 +148,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T11:03:00.790659+00:00",
-      "_last_seen_at": "2026-05-19T16:03:07.289819+00:00"
+      "_last_seen_at": "2026-05-19T16:04:17.854743+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -134,7 +184,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T16:03:07.289819+00:00",
-      "_last_seen_at": "2026-05-19T16:03:07.289819+00:00"
+      "_last_seen_at": "2026-05-19T16:43:16.204097+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
@@ -170,7 +220,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T14:22:59.263960+00:00",
-      "_last_seen_at": "2026-05-19T16:03:07.289819+00:00"
+      "_last_seen_at": "2026-05-19T16:43:16.204097+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -207,15 +257,51 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T15:23:28.256558+00:00",
       "_last_seen_at": "2026-05-19T16:00:01.455457+00:00"
+    },
+    {
+      "title": "POKEMON 36 SILVER TEMPEST FACTORY SEALED BOOSTER PACKS = BOOSTER BOX EQUIVALENT",
+      "url": "https://www.ebay.com/itm/366409129199?_skw=pokemon+Silver+Tempest+booster+box&hash=item554faf9cef:g:z6cAAeSwg6BqBimK",
+      "franchise": "pokemon",
+      "set": "Silver Tempest",
+      "product_type": "booster_box",
+      "price": 449.99,
+      "shipping_cost": 0.0,
+      "total_price": 449.99,
+      "shipping_verified": true,
+      "baseline_price": 474.99,
+      "baseline_raw_count": 27,
+      "baseline_pre_filter_count": 25,
+      "baseline_final_count": 22,
+      "baseline_raw_min": 449.99,
+      "baseline_raw_max": 6998.95,
+      "gapPct": 5.26,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 10752,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "1_to_9",
+      "serpapi_baseline": 474.99,
+      "active_scan_baseline": 474.99,
+      "effective_baseline": 474.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-19T16:43:16.204097+00:00",
+      "_last_seen_at": "2026-05-19T16:43:16.204097+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 1,
     "retailer_deals": 0,
-    "total_merged": 0,
+    "total_merged": 1,
     "retailer_deals_visible": false
   }
 }
