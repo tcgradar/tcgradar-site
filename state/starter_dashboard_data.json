@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T06:04:05.940981+00:00",
+  "timestamp": "2026-05-19T06:43:19.889509+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 1967.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T00:03:42.356390+00:00",
-      "_last_seen_at": "2026-05-19T00:04:58.342578+00:00"
+      "_last_seen_at": "2026-05-19T06:43:19.888081+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 33.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T06:04:05.939384+00:00",
-      "_last_seen_at": "2026-05-19T06:04:05.939384+00:00"
+      "_last_seen_at": "2026-05-19T06:43:19.888081+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -134,7 +134,7 @@
       "baseline_drift_pct": 37.93,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T06:04:05.939384+00:00",
-      "_last_seen_at": "2026-05-19T06:04:05.939384+00:00"
+      "_last_seen_at": "2026-05-19T06:43:19.888081+00:00"
     },
     {
       "title": "POKEMON 36 SILVER TEMPEST FACTORY SEALED BOOSTER PACKS = BOOSTER BOX EQUIVALENT",
