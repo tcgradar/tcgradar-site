@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T00:03:42.358072+00:00",
+  "timestamp": "2026-05-19T00:42:55.647548+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,76 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 6,
+  "total_deals": 0,
+  "all_deals_count": 5,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "10_to_19": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Darkness Ablaze"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "10_to_19"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon - Darkness Ablaze Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/317787675278?_skw=pokemon+Darkness+Ablaze+booster+box&hash=item49fd9f1a8e:g:fOMAAeSwt6FpcFxO",
-      "franchise": "pokemon",
-      "set": "Darkness Ablaze",
-      "product_type": "etb",
-      "price": 110.43,
-      "shipping_cost": 14.95,
-      "total_price": 110.43,
-      "shipping_verified": true,
-      "baseline_price": 129.97,
-      "baseline_raw_count": 16,
-      "baseline_pre_filter_count": 14,
-      "baseline_final_count": 8,
-      "baseline_raw_min": 95.48,
-      "baseline_raw_max": 202.95,
-      "gapPct": 15.03,
-      "confidence": "high",
-      "seller_rating": 99.2,
-      "seller_feedback_count": 2720,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 300.0,
-      "active_scan_baseline": 129.97,
-      "effective_baseline": 129.97,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 56.68
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Pokemon: Evolving Skies Booster Box equivalent x36 Sealed Packs - Includes Case",
@@ -112,7 +62,7 @@
       "baseline_drift_pct": 1967.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T00:03:42.356390+00:00",
-      "_last_seen_at": "2026-05-19T00:03:42.356390+00:00"
+      "_last_seen_at": "2026-05-19T00:04:58.342578+00:00"
     },
     {
       "title": "Sealed - Pokemon - Destined Rivals Booster Box (36 Pack Box) - UK - DENT",
@@ -148,7 +98,7 @@
       "baseline_drift_pct": 33.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T00:03:42.356390+00:00",
-      "_last_seen_at": "2026-05-19T00:03:42.356390+00:00"
+      "_last_seen_at": "2026-05-19T00:42:55.645789+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -184,7 +134,7 @@
       "baseline_drift_pct": 37.66,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T00:03:42.356390+00:00",
-      "_last_seen_at": "2026-05-19T00:03:42.356390+00:00"
+      "_last_seen_at": "2026-05-19T00:42:55.645789+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -258,9 +208,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
