@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T18:02:53.403579+00:00",
+  "timestamp": "2026-05-19T18:42:43.296445+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T11:03:00.790659+00:00",
-      "_last_seen_at": "2026-05-19T18:02:53.401865+00:00"
+      "_last_seen_at": "2026-05-19T18:42:43.294695+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -134,7 +134,7 @@
       "baseline_drift_pct": 37.66,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T18:02:53.401865+00:00",
-      "_last_seen_at": "2026-05-19T18:02:53.401865+00:00"
+      "_last_seen_at": "2026-05-19T18:42:43.294695+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
@@ -170,7 +170,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T14:22:59.263960+00:00",
-      "_last_seen_at": "2026-05-19T18:02:53.401865+00:00"
+      "_last_seen_at": "2026-05-19T18:42:43.294695+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
