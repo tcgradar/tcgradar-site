@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T20:02:39.191613+00:00",
+  "timestamp": "2026-05-19T20:42:57.697108+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 33.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T20:02:39.189676+00:00",
-      "_last_seen_at": "2026-05-19T20:02:39.189676+00:00"
+      "_last_seen_at": "2026-05-19T20:42:57.695088+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -170,7 +170,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-19T20:02:39.189676+00:00",
-      "_last_seen_at": "2026-05-19T20:02:39.189676+00:00"
+      "_last_seen_at": "2026-05-19T20:42:57.695088+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
