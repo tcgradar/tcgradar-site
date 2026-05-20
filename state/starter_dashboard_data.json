@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T08:02:55.734175+00:00",
+  "timestamp": "2026-05-20T08:43:01.084330+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -134,7 +134,7 @@
       "baseline_drift_pct": 37.93,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T08:02:55.731982+00:00",
-      "_last_seen_at": "2026-05-20T08:02:55.731982+00:00"
+      "_last_seen_at": "2026-05-20T08:43:01.082013+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
@@ -170,7 +170,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T02:42:44.284660+00:00",
-      "_last_seen_at": "2026-05-20T08:02:55.731982+00:00"
+      "_last_seen_at": "2026-05-20T08:43:01.082013+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -242,7 +242,7 @@
       "baseline_drift_pct": 500.82,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T08:02:55.731982+00:00",
-      "_last_seen_at": "2026-05-20T08:02:55.731982+00:00"
+      "_last_seen_at": "2026-05-20T08:43:01.082013+00:00"
     },
     {
       "title": "POKEMON 36 SILVER TEMPEST FACTORY SEALED BOOSTER PACKS = BOOSTER BOX EQUIVALENT",
