@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T01:23:08.642000+00:00",
+  "timestamp": "2026-05-20T02:02:48.531636+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 1965.67,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T01:23:08.640305+00:00",
-      "_last_seen_at": "2026-05-20T01:23:08.640305+00:00"
+      "_last_seen_at": "2026-05-20T02:00:01.896973+00:00"
     },
     {
       "title": "BRAND NEW: Pokemon Destined Rivals Booster Box (36 PACKS) SEALED",
@@ -74,13 +74,13 @@
       "shipping_cost": 0.0,
       "total_price": 375.0,
       "shipping_verified": false,
-      "baseline_price": 637.0,
-      "baseline_raw_count": 38,
-      "baseline_pre_filter_count": 30,
-      "baseline_final_count": 12,
-      "baseline_raw_min": 189.79,
+      "baseline_price": 640.0,
+      "baseline_raw_count": 40,
+      "baseline_pre_filter_count": 31,
+      "baseline_final_count": 13,
+      "baseline_raw_min": 140.09,
       "baseline_raw_max": 3899.99,
-      "gapPct": 41.13,
+      "gapPct": 41.41,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 595,
@@ -91,14 +91,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 637.0,
-      "effective_baseline": 637.0,
+      "active_scan_baseline": 640.0,
+      "effective_baseline": 640.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 33.51,
+      "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T01:23:08.640305+00:00",
-      "_last_seen_at": "2026-05-20T01:23:08.640305+00:00"
+      "_first_seen_at": "2026-05-20T02:02:48.529918+00:00",
+      "_last_seen_at": "2026-05-20T02:02:48.529918+00:00"
     },
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -169,8 +169,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.66,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T01:23:08.640305+00:00",
-      "_last_seen_at": "2026-05-20T01:23:08.640305+00:00"
+      "_first_seen_at": "2026-05-20T02:02:48.529918+00:00",
+      "_last_seen_at": "2026-05-20T02:02:48.529918+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
@@ -182,13 +182,13 @@
       "shipping_cost": 60.87,
       "total_price": 552.51,
       "shipping_verified": true,
-      "baseline_price": 636.87,
-      "baseline_raw_count": 85,
-      "baseline_pre_filter_count": 66,
-      "baseline_final_count": 21,
+      "baseline_price": 625.0,
+      "baseline_raw_count": 88,
+      "baseline_pre_filter_count": 68,
+      "baseline_final_count": 22,
       "baseline_raw_min": 69.99,
       "baseline_raw_max": 9999.99,
-      "gapPct": 13.25,
+      "gapPct": 11.6,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 162,
@@ -199,14 +199,14 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 104.99,
-      "active_scan_baseline": 636.87,
-      "effective_baseline": 636.87,
+      "active_scan_baseline": 625.0,
+      "effective_baseline": 625.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 506.6,
+      "baseline_drift_pct": 495.29,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T01:23:08.640305+00:00",
-      "_last_seen_at": "2026-05-20T01:23:08.640305+00:00"
+      "_first_seen_at": "2026-05-20T02:02:48.529918+00:00",
+      "_last_seen_at": "2026-05-20T02:02:48.529918+00:00"
     }
   ],
   "empty_watchlist": false,
