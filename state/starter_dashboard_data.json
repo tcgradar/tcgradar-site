@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T02:42:44.286640+00:00",
+  "timestamp": "2026-05-20T03:22:43.107188+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -169,8 +169,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.66,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T02:02:48.529918+00:00",
-      "_last_seen_at": "2026-05-20T02:42:44.284660+00:00"
+      "_first_seen_at": "2026-05-20T03:22:43.104768+00:00",
+      "_last_seen_at": "2026-05-20T03:22:43.104768+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
@@ -206,7 +206,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T02:42:44.284660+00:00",
-      "_last_seen_at": "2026-05-20T02:42:44.284660+00:00"
+      "_last_seen_at": "2026-05-20T03:22:43.104768+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
@@ -218,13 +218,13 @@
       "shipping_cost": 60.87,
       "total_price": 552.51,
       "shipping_verified": true,
-      "baseline_price": 625.0,
-      "baseline_raw_count": 88,
-      "baseline_pre_filter_count": 68,
-      "baseline_final_count": 22,
+      "baseline_price": 617.95,
+      "baseline_raw_count": 84,
+      "baseline_pre_filter_count": 66,
+      "baseline_final_count": 17,
       "baseline_raw_min": 69.99,
-      "baseline_raw_max": 9999.99,
-      "gapPct": 11.6,
+      "baseline_raw_max": 6992.43,
+      "gapPct": 10.59,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 162,
@@ -235,14 +235,14 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 104.99,
-      "active_scan_baseline": 625.0,
-      "effective_baseline": 625.0,
+      "active_scan_baseline": 617.95,
+      "effective_baseline": 617.95,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 495.29,
+      "baseline_drift_pct": 488.58,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T02:02:48.529918+00:00",
-      "_last_seen_at": "2026-05-20T02:42:44.284660+00:00"
+      "_first_seen_at": "2026-05-20T03:22:43.104768+00:00",
+      "_last_seen_at": "2026-05-20T03:22:43.104768+00:00"
     }
   ],
   "empty_watchlist": false,
