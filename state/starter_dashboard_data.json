@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T21:22:55.251879+00:00",
+  "timestamp": "2026-05-20T22:03:04.437140+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -129,7 +129,7 @@
       "baseline_drift_pct": 33.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T18:43:18.700675+00:00",
-      "_last_seen_at": "2026-05-20T21:22:55.249851+00:00"
+      "_last_seen_at": "2026-05-20T22:00:01.812960+00:00"
     },
     {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
@@ -178,8 +178,8 @@
       "total_price": 99.0,
       "shipping_verified": false,
       "baseline_price": 120.0,
-      "baseline_raw_count": 19,
-      "baseline_pre_filter_count": 19,
+      "baseline_raw_count": 18,
+      "baseline_pre_filter_count": 18,
       "baseline_final_count": 11,
       "baseline_raw_min": 99.0,
       "baseline_raw_max": 1399.99,
@@ -200,8 +200,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T21:22:55.249851+00:00",
-      "_last_seen_at": "2026-05-20T21:22:55.249851+00:00"
+      "_first_seen_at": "2026-05-20T22:03:04.435138+00:00",
+      "_last_seen_at": "2026-05-20T22:03:04.435138+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -251,7 +251,7 @@
       "shipping_verified": true,
       "baseline_price": 625.0,
       "baseline_raw_count": 91,
-      "baseline_pre_filter_count": 72,
+      "baseline_pre_filter_count": 71,
       "baseline_final_count": 23,
       "baseline_raw_min": 69.99,
       "baseline_raw_max": 9999.99,
@@ -272,8 +272,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 495.29,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T21:22:55.249851+00:00",
-      "_last_seen_at": "2026-05-20T21:22:55.249851+00:00"
+      "_first_seen_at": "2026-05-20T22:03:04.435138+00:00",
+      "_last_seen_at": "2026-05-20T22:03:04.435138+00:00"
     }
   ],
   "empty_watchlist": false,
