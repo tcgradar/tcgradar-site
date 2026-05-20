@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T06:03:24.306149+00:00",
+  "timestamp": "2026-05-20T06:43:03.818295+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -134,7 +134,7 @@
       "baseline_drift_pct": 37.39,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T06:03:24.303816+00:00",
-      "_last_seen_at": "2026-05-20T06:03:24.303816+00:00"
+      "_last_seen_at": "2026-05-20T06:43:03.815756+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
@@ -170,7 +170,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T02:42:44.284660+00:00",
-      "_last_seen_at": "2026-05-20T06:03:24.303816+00:00"
+      "_last_seen_at": "2026-05-20T06:04:45.645561+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) - Brand new - Sealed",
@@ -206,7 +206,7 @@
       "baseline_drift_pct": 32.88,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T04:03:21.309843+00:00",
-      "_last_seen_at": "2026-05-20T04:04:25.205156+00:00"
+      "_last_seen_at": "2026-05-20T06:43:03.815756+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -278,7 +278,7 @@
       "baseline_drift_pct": 495.29,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T06:03:24.303816+00:00",
-      "_last_seen_at": "2026-05-20T06:03:24.303816+00:00"
+      "_last_seen_at": "2026-05-20T06:43:03.815756+00:00"
     },
     {
       "title": "POKEMON 36 SILVER TEMPEST FACTORY SEALED BOOSTER PACKS = BOOSTER BOX EQUIVALENT",
@@ -314,7 +314,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-20T06:03:24.303816+00:00",
-      "_last_seen_at": "2026-05-20T06:03:24.303816+00:00"
+      "_last_seen_at": "2026-05-20T06:04:45.645561+00:00"
     }
   ],
   "empty_watchlist": false,
