@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T20:43:17.624316+00:00",
+  "timestamp": "2026-05-20T21:22:55.251879+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 8,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -96,42 +96,6 @@
       "_last_seen_at": "2026-05-20T20:04:25.934696+00:00"
     },
     {
-      "title": "Pokemon Destined Rivals Booster Box 36 packs, New & Sealed LIVE ONLY",
-      "url": "https://www.ebay.com/itm/287286257363?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e39866d3:g:FwoAAeSwW15puZ4T",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 504.65999999999997,
-      "shipping_cost": 62.64,
-      "total_price": 504.65999999999997,
-      "shipping_verified": true,
-      "baseline_price": 634.0,
-      "baseline_raw_count": 45,
-      "baseline_pre_filter_count": 33,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 140.09,
-      "baseline_raw_max": 3700.0,
-      "gapPct": 20.4,
-      "confidence": "high",
-      "seller_rating": 99.9,
-      "seller_feedback_count": 953,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 477.13,
-      "active_scan_baseline": 634.0,
-      "effective_baseline": 634.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 32.88,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T20:03:13.513992+00:00",
-      "_last_seen_at": "2026-05-20T20:43:17.621993+00:00"
-    },
-    {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
       "url": "https://www.ebay.com/itm/206203888399?_skw=pokemon+Destined+Rivals+booster+box&hash=item3002b5a30f:g:8s8AAeSwZLVp2kO2",
       "franchise": "pokemon",
@@ -165,7 +129,7 @@
       "baseline_drift_pct": 33.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T18:43:18.700675+00:00",
-      "_last_seen_at": "2026-05-20T19:00:01.514321+00:00"
+      "_last_seen_at": "2026-05-20T21:22:55.249851+00:00"
     },
     {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
@@ -236,8 +200,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T20:03:13.513992+00:00",
-      "_last_seen_at": "2026-05-20T20:43:17.621993+00:00"
+      "_first_seen_at": "2026-05-20T21:22:55.249851+00:00",
+      "_last_seen_at": "2026-05-20T21:22:55.249851+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -286,9 +250,9 @@
       "total_price": 550.9100000000001,
       "shipping_verified": true,
       "baseline_price": 625.0,
-      "baseline_raw_count": 89,
-      "baseline_pre_filter_count": 70,
-      "baseline_final_count": 21,
+      "baseline_raw_count": 91,
+      "baseline_pre_filter_count": 72,
+      "baseline_final_count": 23,
       "baseline_raw_min": 69.99,
       "baseline_raw_max": 9999.99,
       "gapPct": 11.85,
@@ -308,8 +272,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 495.29,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T20:03:13.513992+00:00",
-      "_last_seen_at": "2026-05-20T20:43:17.621993+00:00"
+      "_first_seen_at": "2026-05-20T21:22:55.249851+00:00",
+      "_last_seen_at": "2026-05-20T21:22:55.249851+00:00"
     }
   ],
   "empty_watchlist": false,
