@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T16:43:32.260387+00:00",
+  "timestamp": "2026-05-20T17:22:47.610377+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,77 +7,63 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 7,
+  "total_deals": 0,
+  "all_deals_count": 6,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "20_plus": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Obsidian Flames"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
+  "deals": [],
+  "watchlist_deals": [
     {
-      "title": "5x Pokemon Obsidian Flames Open Display Box ETB, No Cards/packs/acessories",
-      "url": "https://www.ebay.com/itm/267669657541?_skw=pokemon+Obsidian+Flames+booster+box&hash=item3e525ad7c5:g:xZMAAeSwRxtqBhRX",
+      "title": "Pokemon TCG Evolutions Mega Heroes Destined Rivals Mini Tin Display Box (SEALED)",
+      "url": "https://www.ebay.com/itm/257392846206?_skw=pokemon+Destined+Rivals+booster+box&hash=item3bedcf257e:g:j90AAeSwpDhpqh57",
       "franchise": "pokemon",
-      "set": "Obsidian Flames",
-      "product_type": "etb",
-      "price": 199.0,
-      "shipping_cost": 0.0,
-      "total_price": 199.0,
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 259.98,
+      "shipping_cost": 9.99,
+      "total_price": 259.98,
       "shipping_verified": true,
-      "baseline_price": 350.0,
-      "baseline_raw_count": 17,
-      "baseline_pre_filter_count": 16,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 199.0,
-      "baseline_raw_max": 3350.0,
-      "gapPct": 43.14,
-      "confidence": "high",
-      "seller_rating": 99.8,
-      "seller_feedback_count": 3522,
+      "baseline_price": 477.13,
+      "baseline_raw_count": 45,
+      "baseline_pre_filter_count": 34,
+      "baseline_final_count": 18,
+      "baseline_raw_min": 140.09,
+      "baseline_raw_max": 3899.99,
+      "gapPct": 45.51,
+      "confidence": "low",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 3440,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "high",
+      "deal_quality": "low",
       "gap_bucket": "20_plus",
-      "serpapi_baseline": 350.0,
-      "active_scan_baseline": 315.0,
-      "effective_baseline": 350.0,
+      "serpapi_baseline": 477.13,
+      "active_scan_baseline": 477.13,
+      "effective_baseline": 477.13,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 10.0
-    }
-  ],
-  "watchlist_deals": [
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-20T17:22:47.608469+00:00",
+      "_last_seen_at": "2026-05-20T17:22:47.608469+00:00"
+    },
     {
       "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
       "url": "https://www.ebay.com/itm/205518977966?_skw=pokemon+Evolving+Skies+booster+box&hash=item2fd9e2bbae:g:jjgAAeSw0Wxpx3l7",
@@ -125,8 +111,8 @@
       "total_price": 99.0,
       "shipping_verified": false,
       "baseline_price": 124.75,
-      "baseline_raw_count": 19,
-      "baseline_pre_filter_count": 18,
+      "baseline_raw_count": 20,
+      "baseline_pre_filter_count": 19,
       "baseline_final_count": 8,
       "baseline_raw_min": 99.0,
       "baseline_raw_max": 1399.99,
@@ -147,44 +133,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.66,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T16:02:49.664415+00:00",
-      "_last_seen_at": "2026-05-20T16:43:32.258367+00:00"
-    },
-    {
-      "title": "Pokemon Destined Rivals Booster Box 36 packs, New & Sealed LIVE ONLY",
-      "url": "https://www.ebay.com/itm/287286257363?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e39866d3:g:FwoAAeSwW15puZ4T",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 504.65999999999997,
-      "shipping_cost": 62.64,
-      "total_price": 504.65999999999997,
-      "shipping_verified": true,
-      "baseline_price": 628.88,
-      "baseline_raw_count": 47,
-      "baseline_pre_filter_count": 35,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 140.09,
-      "baseline_raw_max": 3899.99,
-      "gapPct": 19.75,
-      "confidence": "high",
-      "seller_rating": 99.9,
-      "seller_feedback_count": 950,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 477.13,
-      "active_scan_baseline": 628.88,
-      "effective_baseline": 628.88,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 31.8,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T16:02:49.664415+00:00",
-      "_last_seen_at": "2026-05-20T16:04:03.020776+00:00"
+      "_first_seen_at": "2026-05-20T17:22:47.608469+00:00",
+      "_last_seen_at": "2026-05-20T17:22:47.608469+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
@@ -256,7 +206,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T16:43:32.258367+00:00",
-      "_last_seen_at": "2026-05-20T16:43:32.258367+00:00"
+      "_last_seen_at": "2026-05-20T17:00:01.983057+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
@@ -268,13 +218,13 @@
       "shipping_cost": 60.69,
       "total_price": 550.9100000000001,
       "shipping_verified": true,
-      "baseline_price": 614.92,
-      "baseline_raw_count": 86,
-      "baseline_pre_filter_count": 67,
-      "baseline_final_count": 17,
+      "baseline_price": 622.12,
+      "baseline_raw_count": 91,
+      "baseline_pre_filter_count": 72,
+      "baseline_final_count": 24,
       "baseline_raw_min": 69.99,
       "baseline_raw_max": 9999.99,
-      "gapPct": 10.41,
+      "gapPct": 11.45,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 162,
@@ -285,23 +235,23 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 104.99,
-      "active_scan_baseline": 614.92,
-      "effective_baseline": 614.92,
+      "active_scan_baseline": 622.12,
+      "effective_baseline": 622.12,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 485.69,
+      "baseline_drift_pct": 492.55,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-20T16:02:49.664415+00:00",
-      "_last_seen_at": "2026-05-20T16:43:32.258367+00:00"
+      "_first_seen_at": "2026-05-20T17:22:47.608469+00:00",
+      "_last_seen_at": "2026-05-20T17:22:47.608469+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
