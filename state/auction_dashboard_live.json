@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T04:44:02.226402+00:00",
+    "generated_at": "2026-05-21T05:24:48.332971+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
-    "raw_count": 10,
-    "filtered_count": 1,
+    "raw_count": 11,
+    "filtered_count": 2,
     "filter_criteria": {
       "min_gap": 10.0,
       "max_bids": 50,
@@ -108,7 +108,7 @@
       "old_gapPct": 46.43388594303439,
       "gapPct": 46.43,
       "bids": 4,
-      "time_remaining": 22.001911628888887,
+      "time_remaining": 21.32142518138889,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/206288302906?_skw=Pokemon+Destined+Rivals+booster+box&hash=item3007bdb33a:g:PqcAAeSwLGBqDnE0",
       "franchise": "pokemon",
@@ -116,6 +116,29 @@
       "product_type": "booster_box",
       "seller_trust": "HIGH",
       "opportunity_score": 86,
+      "deal_quality": "high"
+    },
+    {
+      "title": "2024 One Piece English OP-09 Emperors in the New World Sealed Booster Box",
+      "current_price": 202.5,
+      "shipping_cost": 14.95,
+      "total_price": 217.45,
+      "baseline": 550.0,
+      "baseline_source": "serpapi",
+      "baseline_key": "onepiece|emperors_in_the_new_world|booster_box|en|standard",
+      "serpapi_sample_size": 58,
+      "old_baseline": 550.0,
+      "old_gapPct": 60.46363636363636,
+      "gapPct": 63.18,
+      "bids": 20,
+      "time_remaining": 67.92191119777777,
+      "opportunity_type": "early",
+      "url": "https://www.ebay.com/itm/127871737621?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item1dc5bfdf15:g:fkMAAeSwZeRqC1Vy",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 70,
       "deal_quality": "high"
     }
   ]
