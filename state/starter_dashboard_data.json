@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T00:03:07.868576+00:00",
+  "timestamp": "2026-05-21T00:43:15.358715+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 6,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -93,7 +93,7 @@
       "baseline_drift_pct": 33.51,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-20T18:43:18.700675+00:00",
-      "_last_seen_at": "2026-05-21T00:03:07.866704+00:00"
+      "_last_seen_at": "2026-05-21T00:43:15.356542+00:00"
     },
     {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
@@ -165,7 +165,7 @@
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-21T00:03:07.866704+00:00",
-      "_last_seen_at": "2026-05-21T00:03:07.866704+00:00"
+      "_last_seen_at": "2026-05-21T00:43:15.356542+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -237,7 +237,43 @@
       "baseline_drift_pct": 495.29,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-21T00:03:07.866704+00:00",
-      "_last_seen_at": "2026-05-21T00:03:07.866704+00:00"
+      "_last_seen_at": "2026-05-21T00:43:15.356542+00:00"
+    },
+    {
+      "title": "POKEMON 36 SILVER TEMPEST FACTORY SEALED BOOSTER PACKS = BOOSTER BOX EQUIVALENT",
+      "url": "https://www.ebay.com/itm/406939955860?_skw=pokemon+Silver+Tempest+booster+box&hash=item5ebf82f294:g:z6cAAeSwg6BqBimK",
+      "franchise": "pokemon",
+      "set": "Silver Tempest",
+      "product_type": "booster_box",
+      "price": 449.99,
+      "shipping_cost": 0.0,
+      "total_price": 449.99,
+      "shipping_verified": true,
+      "baseline_price": 474.99,
+      "baseline_raw_count": 36,
+      "baseline_pre_filter_count": 33,
+      "baseline_final_count": 27,
+      "baseline_raw_min": 449.99,
+      "baseline_raw_max": 6998.95,
+      "gapPct": 5.26,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 10757,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "1_to_9",
+      "serpapi_baseline": 474.99,
+      "active_scan_baseline": 474.99,
+      "effective_baseline": 474.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-21T00:43:15.356542+00:00",
+      "_last_seen_at": "2026-05-21T00:43:15.356542+00:00"
     }
   ],
   "empty_watchlist": false,
