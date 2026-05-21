@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T05:23:36.086981+00:00",
+  "timestamp": "2026-05-21T06:00:01.106206+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,38 +7,46 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
+  "total_deals": 3,
   "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
-      "pokemon": 1
+      "pokemon": 2,
+      "onepiece": 1
     },
     "by_product_type": {
-      "etb": 1
+      "etb": 2,
+      "booster_box": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1
+      "20_plus": 1,
+      "10_to_19": 2
     },
     "by_source": {
-      "ebay": 1
+      "ebay": 3
     }
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 3,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
     "franchise": [
+      "onepiece",
       "pokemon"
     ],
     "set": [
+      "Battle Styles",
+      "Emperors in the New World",
       "Obsidian Flames"
     ],
     "product_type": [
+      "booster_box",
       "etb"
     ],
     "gap_bucket": [
+      "10_to_19",
       "20_plus"
     ]
   },
@@ -53,13 +61,8 @@
       "shipping_cost": 0.0,
       "total_price": 199.0,
       "shipping_verified": true,
-      "baseline_price": 350.0,
-      "baseline_raw_count": 19,
-      "baseline_pre_filter_count": 17,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 199.0,
-      "baseline_raw_max": 3350.0,
-      "gapPct": 43.14,
+      "baseline_price": 310.0,
+      "gapPct": 35.81,
       "confidence": "high",
       "seller_rating": 99.8,
       "seller_feedback_count": 3525,
@@ -68,51 +71,7 @@
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 350.0,
-      "active_scan_baseline": 310.0,
-      "effective_baseline": 350.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 11.43
-    }
-  ],
-  "watchlist_deals": [
-    {
-      "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
-      "url": "https://www.ebay.com/itm/206203888399?_skw=pokemon+Destined+Rivals+booster+box&hash=item3002b5a30f:g:8s8AAeSwZLVp2kO2&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYjCB2jbXwNEInVZZa%2FSf8RDvvHK8ayhubPhgV%2B5WIWlYaL%2FTgabGodqOkOWH7mRsp3wJy846f3LkKkdaJelLZbaKEqDQNqJeFa08xiOnRzLY0vI7gWM4W4IzfZK6E80hjs%2BpfaqKZKz9Me3TEY8D5ZsXap9fycnKXTPsfkGLaG5kkhh3NJobs3DCWPsOwWoxbfvdHNIbcYU28vWucuH8DfVxBZnrCEIttnOmKWksil2aSrSiJ0O5oiWPruXGOAg3G2styl1%2Fm2yWMBGXMVwaPZmjmZC9WJY0PwsJeUH2JHVnsBB2m1KEF1E66MDh75fJw%3D",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 448.73,
-      "shipping_cost": 0.0,
-      "total_price": 448.73,
-      "shipping_verified": false,
-      "baseline_price": 640.0,
-      "baseline_raw_count": 49,
-      "baseline_pre_filter_count": 36,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 140.09,
-      "baseline_raw_max": 3899.99,
-      "gapPct": 29.89,
-      "confidence": "medium",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 357,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 477.13,
-      "active_scan_baseline": 640.0,
-      "effective_baseline": 640.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 34.14,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T02:43:25.666172+00:00",
-      "_last_seen_at": "2026-05-21T05:23:36.085233+00:00"
+      "gap_bucket": "20_plus"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -125,11 +84,6 @@
       "total_price": 99.0,
       "shipping_verified": false,
       "baseline_price": 120.0,
-      "baseline_raw_count": 21,
-      "baseline_pre_filter_count": 21,
-      "baseline_final_count": 14,
-      "baseline_raw_min": 99.0,
-      "baseline_raw_max": 1399.99,
       "gapPct": 17.5,
       "confidence": "high",
       "seller_rating": 100.0,
@@ -138,18 +92,33 @@
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 90.62,
-      "active_scan_baseline": 120.0,
-      "effective_baseline": 120.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 32.42,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T04:02:48.144932+00:00",
-      "_last_seen_at": "2026-05-21T05:23:36.085233+00:00"
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
     },
+    {
+      "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
+      "url": "https://www.ebay.com/itm/137256163075?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1ff51ad703:g:dZcAAeSw8P5p7L2l",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 552.55,
+      "shipping_cost": 60.87,
+      "total_price": 552.55,
+      "shipping_verified": true,
+      "baseline_price": 622.12,
+      "gapPct": 11.18,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 163,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    }
+  ],
+  "watchlist_deals": [
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
       "url": "https://www.ebay.com/itm/127808330222?_skw=pokemon+Obsidian+Flames+booster+box&hash=item1dc1f859ee:g:I-gAAeSwSn9psbcG",
@@ -166,7 +135,7 @@
       "baseline_final_count": 18,
       "baseline_raw_min": 289.0,
       "baseline_raw_max": 2595.0,
-      "gapPct": 17.43,
+      "gapPct": 27.75,
       "confidence": "medium",
       "seller_rating": 99.7,
       "seller_feedback_count": 1389,
@@ -184,7 +153,43 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-21T05:23:36.085233+00:00",
-      "_last_seen_at": "2026-05-21T05:23:36.085233+00:00"
+      "_last_seen_at": "2026-05-21T06:00:01.105357+00:00"
+    },
+    {
+      "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
+      "url": "https://www.ebay.com/itm/206203888399?_skw=pokemon+Destined+Rivals+booster+box&hash=item3002b5a30f:g:8s8AAeSwZLVp2kO2&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYjCB2jbXwNEInVZZa%2FSf8RDvvHK8ayhubPhgV%2B5WIWlYaL%2FTgabGodqOkOWH7mRsp3wJy846f3LkKkdaJelLZbaKEqDQNqJeFa08xiOnRzLY0vI7gWM4W4IzfZK6E80hjs%2BpfaqKZKz9Me3TEY8D5ZsXap9fycnKXTPsfkGLaG5kkhh3NJobs3DCWPsOwWoxbfvdHNIbcYU28vWucuH8DfVxBZnrCEIttnOmKWksil2aSrSiJ0O5oiWPruXGOAg3G2styl1%2Fm2yWMBGXMVwaPZmjmZC9WJY0PwsJeUH2JHVnsBB2m1KEF1E66MDh75fJw%3D",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 448.73,
+      "shipping_cost": 0.0,
+      "total_price": 448.73,
+      "shipping_verified": false,
+      "baseline_price": 640.0,
+      "baseline_raw_count": 49,
+      "baseline_pre_filter_count": 36,
+      "baseline_final_count": 13,
+      "baseline_raw_min": 140.09,
+      "baseline_raw_max": 3899.99,
+      "gapPct": 19.82,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 357,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 477.13,
+      "active_scan_baseline": 640.0,
+      "effective_baseline": 640.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 34.14,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-21T02:43:25.666172+00:00",
+      "_last_seen_at": "2026-05-21T06:00:01.105357+00:00"
     },
     {
       "title": "Pokemon Evolving Skies ETB Elite Trainer Box Factory Sealed 2021. Torn Plastic",
@@ -221,51 +226,15 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-21T02:43:25.666172+00:00",
       "_last_seen_at": "2026-05-21T03:00:01.129185+00:00"
-    },
-    {
-      "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
-      "url": "https://www.ebay.com/itm/137256163075?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1ff51ad703:g:dZcAAeSw8P5p7L2l",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 552.55,
-      "shipping_cost": 60.87,
-      "total_price": 552.55,
-      "shipping_verified": true,
-      "baseline_price": 622.12,
-      "baseline_raw_count": 92,
-      "baseline_pre_filter_count": 71,
-      "baseline_final_count": 22,
-      "baseline_raw_min": 69.99,
-      "baseline_raw_max": 9999.99,
-      "gapPct": 11.18,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 163,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 104.99,
-      "active_scan_baseline": 622.12,
-      "effective_baseline": 622.12,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 492.55,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T05:23:36.085233+00:00",
-      "_last_seen_at": "2026-05-21T05:23:36.085233+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 3,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 3,
     "retailer_deals_visible": false
   }
 }
