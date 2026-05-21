@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T19:43:56.586693+00:00",
+    "generated_at": "2026-05-21T20:24:42.758689+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 15,
@@ -108,14 +108,14 @@
       "old_gapPct": 68.56202712049128,
       "gapPct": 68.56,
       "bids": 16,
-      "time_remaining": 6.640160813611111,
+      "time_remaining": 5.962424244166666,
       "opportunity_type": "ending_soon",
       "url": "https://www.ebay.com/itm/377185479988?_skw=Pokemon+Destined+Rivals+booster+box&hash=item57d201ad34:g:fNcAAeSw8K9qBoKq",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
       "seller_trust": "HIGH",
-      "opportunity_score": 80,
+      "opportunity_score": 82,
       "deal_quality": "high"
     },
     {
@@ -131,7 +131,7 @@
       "old_gapPct": 30.00909090909091,
       "gapPct": 32.73,
       "bids": 36,
-      "time_remaining": 53.60295034777778,
+      "time_remaining": 52.92348327972222,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/127871737621?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item1dc5bfdf15:g:fkMAAeSwZeRqC1Vy",
       "franchise": "onepiece",
