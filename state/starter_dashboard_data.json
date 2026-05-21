@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T08:22:53.631727+00:00",
+  "timestamp": "2026-05-21T09:03:21.074097+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 5,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -28,6 +28,42 @@
   },
   "deals": [],
   "watchlist_deals": [
+    {
+      "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205518977966?_skw=pokemon+Evolving+Skies+booster+box&hash=item2fd9e2bbae:g:jjgAAeSw0Wxpx3l7",
+      "franchise": "pokemon",
+      "set": "Evolving Skies",
+      "product_type": "booster_box",
+      "price": 1786.6000000000001,
+      "shipping_cost": 44.16,
+      "total_price": 1786.6000000000001,
+      "shipping_verified": true,
+      "baseline_price": 2799.99,
+      "baseline_raw_count": 42,
+      "baseline_pre_filter_count": 35,
+      "baseline_final_count": 23,
+      "baseline_raw_min": 78.88,
+      "baseline_raw_max": 30000.0,
+      "gapPct": 36.19,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1651,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 135.38,
+      "active_scan_baseline": 2799.99,
+      "effective_baseline": 2799.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 1968.24,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-21T09:03:21.071915+00:00",
+      "_last_seen_at": "2026-05-21T09:03:21.071915+00:00"
+    },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
       "url": "https://www.ebay.com/itm/206203888399?_skw=pokemon+Destined+Rivals+booster+box&hash=item3002b5a30f:g:8s8AAeSwZLVp2kO2&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYjCB2jbXwNEInVZZa%2FSf8RDvvHK8ayhubPhgV%2B5WIWlYaL%2FTgabGodqOkOWH7mRsp3wJy846f3LkKkdaJelLZbaKEqDQNqJeFa08xiOnRzLY0vI7gWM4W4IzfZK6E80hjs%2BpfaqKZKz9Me3TEY8D5ZsXap9fycnKXTPsfkGLaG5kkhh3NJobs3DCWPsOwWoxbfvdHNIbcYU28vWucuH8DfVxBZnrCEIttnOmKWksil2aSrSiJ0O5oiWPruXGOAg3G2styl1%2Fm2yWMBGXMVwaPZmjmZC9WJY0PwsJeUH2JHVnsBB2m1KEF1E66MDh75fJw%3D",
@@ -62,7 +98,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-21T02:43:25.666172+00:00",
-      "_last_seen_at": "2026-05-21T08:22:53.629978+00:00"
+      "_last_seen_at": "2026-05-21T09:03:21.071915+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -74,13 +110,13 @@
       "shipping_cost": 0.0,
       "total_price": 99.0,
       "shipping_verified": false,
-      "baseline_price": 119.99,
-      "baseline_raw_count": 20,
-      "baseline_pre_filter_count": 20,
-      "baseline_final_count": 13,
+      "baseline_price": 120.0,
+      "baseline_raw_count": 21,
+      "baseline_pre_filter_count": 21,
+      "baseline_final_count": 14,
       "baseline_raw_min": 99.0,
       "baseline_raw_max": 1399.99,
-      "gapPct": 17.49,
+      "gapPct": 17.5,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 504,
@@ -91,14 +127,14 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 90.62,
-      "active_scan_baseline": 119.99,
-      "effective_baseline": 119.99,
+      "active_scan_baseline": 120.0,
+      "effective_baseline": 120.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 32.41,
+      "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T08:22:53.629978+00:00",
-      "_last_seen_at": "2026-05-21T08:22:53.629978+00:00"
+      "_first_seen_at": "2026-05-21T09:03:21.071915+00:00",
+      "_last_seen_at": "2026-05-21T09:03:21.071915+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -170,7 +206,7 @@
       "baseline_drift_pct": 283.37,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-21T02:43:25.666172+00:00",
-      "_last_seen_at": "2026-05-21T03:00:01.129185+00:00"
+      "_last_seen_at": "2026-05-21T09:03:21.071915+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
@@ -183,7 +219,7 @@
       "total_price": 552.55,
       "shipping_verified": true,
       "baseline_price": 625.0,
-      "baseline_raw_count": 90,
+      "baseline_raw_count": 91,
       "baseline_pre_filter_count": 69,
       "baseline_final_count": 21,
       "baseline_raw_min": 69.99,
@@ -205,8 +241,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 495.29,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T08:22:53.629978+00:00",
-      "_last_seen_at": "2026-05-21T08:22:53.629978+00:00"
+      "_first_seen_at": "2026-05-21T09:03:21.071915+00:00",
+      "_last_seen_at": "2026-05-21T09:03:21.071915+00:00"
     }
   ],
   "empty_watchlist": false,
