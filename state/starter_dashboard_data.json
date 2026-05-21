@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T20:23:23.040096+00:00",
+  "timestamp": "2026-05-21T21:03:32.960051+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,77 +7,63 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 7,
+  "total_deals": 0,
+  "all_deals_count": 6,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "20_plus": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Silver Tempest"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
+  "deals": [],
+  "watchlist_deals": [
     {
-      "title": "Pokemon TCG: Silver Tempest ETB Elite Trainer Box New **READ DESCRIPTION",
-      "url": "https://www.ebay.com/itm/147323092977?_skw=pokemon+Silver+Tempest+booster+box&hash=item224d23fff1:g:AG0AAeSwGgVqD1Pj",
+      "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205518977966?_skw=pokemon+Evolving+Skies+booster+box&hash=item2fd9e2bbae:g:jjgAAeSw0Wxpx3l7",
       "franchise": "pokemon",
-      "set": "Silver Tempest",
-      "product_type": "etb",
-      "price": 124.95,
-      "shipping_cost": 0.0,
-      "total_price": 124.95,
-      "shipping_verified": false,
-      "baseline_price": 162.99,
-      "baseline_raw_count": 36,
-      "baseline_pre_filter_count": 32,
-      "baseline_final_count": 17,
-      "baseline_raw_min": 20.0,
-      "baseline_raw_max": 1900.0,
-      "gapPct": 23.34,
+      "set": "Evolving Skies",
+      "product_type": "booster_box",
+      "price": 1786.6000000000001,
+      "shipping_cost": 44.16,
+      "total_price": 1786.6000000000001,
+      "shipping_verified": true,
+      "baseline_price": 2799.99,
+      "baseline_raw_count": 43,
+      "baseline_pre_filter_count": 35,
+      "baseline_final_count": 21,
+      "baseline_raw_min": 78.88,
+      "baseline_raw_max": 30000.0,
+      "gapPct": 36.19,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 138,
+      "seller_feedback_count": 1651,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "high",
+      "deal_quality": "medium",
       "gap_bucket": "20_plus",
-      "serpapi_baseline": 472.5,
-      "active_scan_baseline": 162.99,
-      "effective_baseline": 162.99,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 65.5
-    }
-  ],
-  "watchlist_deals": [
+      "serpapi_baseline": 135.38,
+      "active_scan_baseline": 2799.99,
+      "effective_baseline": 2799.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 1968.24,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-21T21:03:32.958164+00:00",
+      "_last_seen_at": "2026-05-21T21:03:32.958164+00:00"
+    },
     {
       "title": "Pokemon Destined Rivals Booster Box 36 packs, New & Sealed LIVE ONLY",
       "url": "https://www.ebay.com/itm/287286257363?_skw=pokemon+Destined+Rivals+booster+box&hash=item42e39866d3:g:FwoAAeSwW15puZ4T",
@@ -88,13 +74,13 @@
       "shipping_cost": 62.82,
       "total_price": 506.15999999999997,
       "shipping_verified": true,
-      "baseline_price": 645.0,
-      "baseline_raw_count": 47,
-      "baseline_pre_filter_count": 34,
-      "baseline_final_count": 12,
+      "baseline_price": 640.0,
+      "baseline_raw_count": 45,
+      "baseline_pre_filter_count": 32,
+      "baseline_final_count": 13,
       "baseline_raw_min": 140.09,
       "baseline_raw_max": 3899.99,
-      "gapPct": 21.53,
+      "gapPct": 20.91,
       "confidence": "high",
       "seller_rating": 99.9,
       "seller_feedback_count": 963,
@@ -105,14 +91,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 645.0,
-      "effective_baseline": 645.0,
+      "active_scan_baseline": 640.0,
+      "effective_baseline": 640.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 35.18,
+      "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T20:23:23.038340+00:00",
-      "_last_seen_at": "2026-05-21T20:23:23.038340+00:00"
+      "_first_seen_at": "2026-05-21T21:03:32.958164+00:00",
+      "_last_seen_at": "2026-05-21T21:03:32.958164+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -184,7 +170,7 @@
       "baseline_drift_pct": 283.37,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-21T15:03:26.912418+00:00",
-      "_last_seen_at": "2026-05-21T15:04:38.647643+00:00"
+      "_last_seen_at": "2026-05-21T21:03:32.958164+00:00"
     },
     {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
@@ -219,8 +205,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.41,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T15:03:26.912418+00:00",
-      "_last_seen_at": "2026-05-21T20:23:23.038340+00:00"
+      "_first_seen_at": "2026-05-21T21:03:32.958164+00:00",
+      "_last_seen_at": "2026-05-21T21:03:32.958164+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
@@ -232,13 +218,13 @@
       "shipping_cost": 60.87,
       "total_price": 552.55,
       "shipping_verified": true,
-      "baseline_price": 625.0,
+      "baseline_price": 622.12,
       "baseline_raw_count": 90,
-      "baseline_pre_filter_count": 69,
-      "baseline_final_count": 23,
+      "baseline_pre_filter_count": 71,
+      "baseline_final_count": 24,
       "baseline_raw_min": 69.99,
       "baseline_raw_max": 9999.99,
-      "gapPct": 11.59,
+      "gapPct": 11.18,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 164,
@@ -249,59 +235,23 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 104.99,
-      "active_scan_baseline": 625.0,
-      "effective_baseline": 625.0,
+      "active_scan_baseline": 622.12,
+      "effective_baseline": 622.12,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 495.29,
+      "baseline_drift_pct": 492.55,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T20:23:23.038340+00:00",
-      "_last_seen_at": "2026-05-21T20:23:23.038340+00:00"
-    },
-    {
-      "title": "POKEMON 36 SILVER TEMPEST FACTORY SEALED BOOSTER PACKS = BOOSTER BOX EQUIVALENT",
-      "url": "https://www.ebay.com/itm/406939955860?_skw=pokemon+Silver+Tempest+booster+box&hash=item5ebf82f294:g:z6cAAeSwg6BqBimK",
-      "franchise": "pokemon",
-      "set": "Silver Tempest",
-      "product_type": "booster_box",
-      "price": 449.99,
-      "shipping_cost": 0.0,
-      "total_price": 449.99,
-      "shipping_verified": true,
-      "baseline_price": 474.99,
-      "baseline_raw_count": 32,
-      "baseline_pre_filter_count": 29,
-      "baseline_final_count": 23,
-      "baseline_raw_min": 449.99,
-      "baseline_raw_max": 6998.95,
-      "gapPct": 5.26,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 10758,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "1_to_9",
-      "serpapi_baseline": 474.99,
-      "active_scan_baseline": 474.99,
-      "effective_baseline": 474.99,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 0.0,
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-21T20:23:23.038340+00:00",
-      "_last_seen_at": "2026-05-21T20:23:23.038340+00:00"
+      "_first_seen_at": "2026-05-21T21:03:32.958164+00:00",
+      "_last_seen_at": "2026-05-21T21:03:32.958164+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
