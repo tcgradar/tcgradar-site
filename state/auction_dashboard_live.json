@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T02:44:34.446034+00:00",
+    "generated_at": "2026-05-21T03:24:06.308596+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
-    "raw_count": 7,
+    "raw_count": 9,
     "filtered_count": 0,
     "filter_criteria": {
       "min_gap": 10.0,
