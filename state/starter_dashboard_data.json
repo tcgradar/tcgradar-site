@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T03:22:54.729449+00:00",
+  "timestamp": "2026-05-21T04:02:48.146457+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-21T02:43:25.666172+00:00",
-      "_last_seen_at": "2026-05-21T03:22:54.728048+00:00"
+      "_last_seen_at": "2026-05-21T04:02:48.144932+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -97,8 +97,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T03:22:54.728048+00:00",
-      "_last_seen_at": "2026-05-21T03:22:54.728048+00:00"
+      "_first_seen_at": "2026-05-21T04:02:48.144932+00:00",
+      "_last_seen_at": "2026-05-21T04:02:48.144932+00:00"
     },
     {
       "title": "Pokemon Evolving Skies ETB Elite Trainer Box Factory Sealed 2021. Torn Plastic",
@@ -146,13 +146,13 @@
       "shipping_cost": 60.69,
       "total_price": 550.9100000000001,
       "shipping_verified": true,
-      "baseline_price": 625.0,
-      "baseline_raw_count": 92,
-      "baseline_pre_filter_count": 72,
-      "baseline_final_count": 23,
+      "baseline_price": 630.8,
+      "baseline_raw_count": 88,
+      "baseline_pre_filter_count": 68,
+      "baseline_final_count": 22,
       "baseline_raw_min": 69.99,
       "baseline_raw_max": 9999.99,
-      "gapPct": 11.85,
+      "gapPct": 12.66,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 163,
@@ -163,14 +163,14 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 104.99,
-      "active_scan_baseline": 625.0,
-      "effective_baseline": 625.0,
+      "active_scan_baseline": 630.8,
+      "effective_baseline": 630.8,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 495.29,
+      "baseline_drift_pct": 500.82,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T03:22:54.728048+00:00",
-      "_last_seen_at": "2026-05-21T03:22:54.728048+00:00"
+      "_first_seen_at": "2026-05-21T04:02:48.144932+00:00",
+      "_last_seen_at": "2026-05-21T04:02:48.144932+00:00"
     }
   ],
   "empty_watchlist": false,
