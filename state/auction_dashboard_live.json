@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T13:44:20.452765+00:00",
+    "generated_at": "2026-05-21T14:24:40.586769+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 11,
-    "filtered_count": 2,
+    "filtered_count": 1,
     "filter_criteria": {
       "min_gap": 10.0,
       "max_bids": 50,
@@ -108,7 +108,7 @@
       "old_gapPct": 30.00909090909091,
       "gapPct": 32.73,
       "bids": 36,
-      "time_remaining": 59.59692655027778,
+      "time_remaining": 58.92414686777778,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/127871737621?_skw=One+Piece+Emperors+in+the+New+World+booster+box&hash=item1dc5bfdf15:g:fkMAAeSwZeRqC1Vy",
       "franchise": "onepiece",
@@ -116,29 +116,6 @@
       "product_type": "booster_box",
       "seller_trust": "HIGH",
       "opportunity_score": 42,
-      "deal_quality": "medium"
-    },
-    {
-      "title": "Pokemon Destined Rivals Booster Box Sealed",
-      "current_price": 405.0,
-      "shipping_cost": 0.0,
-      "total_price": 405.0,
-      "baseline": 477.13,
-      "baseline_source": "serpapi",
-      "baseline_key": "pokemon|destined_rivals|booster_box|en|standard",
-      "serpapi_sample_size": 31,
-      "old_baseline": 477.13,
-      "old_gapPct": 15.11747322532643,
-      "gapPct": 15.12,
-      "bids": 9,
-      "time_remaining": 12.998006519999999,
-      "opportunity_type": "ongoing",
-      "url": "https://www.ebay.com/itm/206288302906?_skw=Pokemon+Destined+Rivals+booster+box&hash=item3007bdb33a:g:PqcAAeSwLGBqDnE0",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 40,
       "deal_quality": "medium"
     }
   ]
