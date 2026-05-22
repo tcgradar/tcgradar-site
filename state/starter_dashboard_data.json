@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T07:42:36.700679+00:00",
+  "timestamp": "2026-05-22T08:22:33.309022+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 36.23,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T06:23:14.404457+00:00",
-      "_last_seen_at": "2026-05-22T07:42:36.699155+00:00"
+      "_last_seen_at": "2026-05-22T08:22:33.307644+00:00"
     },
     {
       "title": "Pokemon Evolving Skies ETB Elite Trainer Box Factory Sealed 2021. Torn Plastic",
@@ -112,10 +112,10 @@
       "shipping_verified": false,
       "baseline_price": 119.99,
       "baseline_raw_count": 21,
-      "baseline_pre_filter_count": 21,
+      "baseline_pre_filter_count": 20,
       "baseline_final_count": 13,
       "baseline_raw_min": 99.0,
-      "baseline_raw_max": 1399.99,
+      "baseline_raw_max": 299.95,
       "gapPct": 17.49,
       "confidence": "high",
       "seller_rating": 100.0,
@@ -133,8 +133,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.41,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T07:02:44.237648+00:00",
-      "_last_seen_at": "2026-05-22T07:42:36.699155+00:00"
+      "_first_seen_at": "2026-05-22T08:22:33.307644+00:00",
+      "_last_seen_at": "2026-05-22T08:22:33.307644+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
@@ -150,7 +150,7 @@
       "baseline_raw_count": 91,
       "baseline_pre_filter_count": 69,
       "baseline_final_count": 21,
-      "baseline_raw_min": 69.99,
+      "baseline_raw_min": 79.99,
       "baseline_raw_max": 9999.99,
       "gapPct": 11.62,
       "confidence": "high",
@@ -169,8 +169,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 495.29,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T07:02:44.237648+00:00",
-      "_last_seen_at": "2026-05-22T07:42:36.699155+00:00"
+      "_first_seen_at": "2026-05-22T08:22:33.307644+00:00",
+      "_last_seen_at": "2026-05-22T08:22:33.307644+00:00"
     }
   ],
   "empty_watchlist": false,
