@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T06:24:24.852297+00:00",
+    "generated_at": "2026-05-22T07:43:39.638120+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
-    "raw_count": 17,
+    "raw_count": 16,
     "filtered_count": 3,
     "filter_criteria": {
       "min_gap": 10.0,
@@ -108,7 +108,7 @@
       "old_gapPct": 48.19163186510125,
       "gapPct": 48.19,
       "bids": 3,
-      "time_remaining": 65.36111900222222,
+      "time_remaining": 64.04038004249999,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/206285801122?_skw=One+Piece+500+Years+in+the+Future+booster+box&hash=item30079786a2:g:kTQAAeSwPABqDPX9",
       "franchise": "onepiece",
@@ -131,7 +131,7 @@
       "old_gapPct": 36.07612181166559,
       "gapPct": 36.08,
       "bids": 21,
-      "time_remaining": 66.77064285055556,
+      "time_remaining": 65.44996521333334,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/278002425827?_skw=Pokemon+Destined+Rivals+booster+box&hash=item40ba3c5fe3:g:VxQAAeSw-jZqDJAb",
       "franchise": "pokemon",
@@ -154,7 +154,7 @@
       "old_gapPct": 25.596797518496007,
       "gapPct": 25.6,
       "bids": 18,
-      "time_remaining": 63.603976160833334,
+      "time_remaining": 62.28329851972222,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/800019437948?_skw=Pokemon+Destined+Rivals+booster+box&hash=itemba44dfd97c:g:AWEAAeSwGTpqBh4T",
       "franchise": "pokemon",
