@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T06:23:14.406017+00:00",
+  "timestamp": "2026-05-22T07:02:44.239109+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,147 +7,27 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 7,
+  "total_deals": 0,
+  "all_deals_count": 4,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 2
-    },
-    "by_product_type": {
-      "etb": 2
-    },
-    "by_gap_bucket": {
-      "10_to_19": 2
-    },
-    "by_source": {
-      "ebay": 2
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Shrouded Fable",
-      "Temporal Forces"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "10_to_19"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon Temporal Forces Elite Trainer Box Iron Leaves Factory Sealed",
-      "url": "https://www.ebay.com/itm/188233539673?_skw=pokemon+Temporal+Forces+booster+box&hash=item2bd397e059:g:61oAAeSw-2BpzTZq",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "etb",
-      "price": 120.0,
-      "shipping_cost": 0.0,
-      "total_price": 120.0,
-      "shipping_verified": false,
-      "baseline_price": 137.5,
-      "baseline_raw_count": 18,
-      "baseline_pre_filter_count": 14,
-      "baseline_final_count": 10,
-      "baseline_raw_min": 120.0,
-      "baseline_raw_max": 1500.0,
-      "gapPct": 12.73,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 209,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 275.0,
-      "active_scan_baseline": 137.5,
-      "effective_baseline": 137.5,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 50.0
-    },
-    {
-      "title": "Pokemon: Scarlet & Violet - 6.5 Shrouded Fable Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/317868475380?_skw=pokemon+Shrouded+Fable+booster+box&hash=item4a027003f4:g:4kIAAeSwjmJp0Crr",
-      "franchise": "pokemon",
-      "set": "Shrouded Fable",
-      "product_type": "etb",
-      "price": 118.95,
-      "shipping_cost": 14.95,
-      "total_price": 118.95,
-      "shipping_verified": true,
-      "baseline_price": 134.75,
-      "baseline_raw_count": 48,
-      "baseline_pre_filter_count": 42,
-      "baseline_final_count": 22,
-      "baseline_raw_min": 20.0,
-      "baseline_raw_max": 1999.99,
-      "gapPct": 11.73,
-      "confidence": "high",
-      "seller_rating": 99.2,
-      "seller_feedback_count": 2742,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 134.75,
-      "active_scan_baseline": 149.36,
-      "effective_baseline": 134.75,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 10.84
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
-    {
-      "title": "Shrouded Fable Scarlet & Violet 6 Pack Booster Bundle Pokemon Cards",
-      "url": "https://www.ebay.com/itm/297765073014?_skw=pokemon+Shrouded+Fable+booster+box&hash=item45542e7076:g:6ksAAeSwUJ1pGS-q",
-      "franchise": "pokemon",
-      "set": "Shrouded Fable",
-      "product_type": "booster_bundle",
-      "price": 55.99,
-      "shipping_cost": 0.0,
-      "total_price": 55.99,
-      "shipping_verified": false,
-      "baseline_price": 74.98,
-      "baseline_raw_count": 30,
-      "baseline_pre_filter_count": 28,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 5.0,
-      "baseline_raw_max": 1695.95,
-      "gapPct": 25.33,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 230,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 51.28,
-      "active_scan_baseline": 74.98,
-      "effective_baseline": 74.98,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 46.22,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T06:23:14.404457+00:00",
-      "_last_seen_at": "2026-05-22T06:23:14.404457+00:00"
-    },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
       "url": "https://www.ebay.com/itm/206203888399?_skw=pokemon+Destined+Rivals+booster+box&hash=item3002b5a30f:g:8s8AAeSwZLVp2kO2&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGYjCB2jbXwNEInVZZa%2FSf8RDvvHK8ayhubPhgV%2B5WIWlYaL%2FTgabGodqOkOWH7mRsp3wJy846f3LkKkdaJelLZbaKEqDQNqJeFa08xiOnRzLY0vI7gWM4W4IzfZK6E80hj1fPzSdlZglU%2FDzRl8GgD5zIm0QV%2BDdRX5EzzVfMPrnkZ%2FBP0RmA0Ek4vV6HV7NNBTrDtZgUDsZCfTlU%2BVMZaUjAch2qhd%2Bi6YTeE1Rl8CfaFtgiFN6sEwCjjcyAdW1fxkBq1Bvq9cYQHrogIrA80N4R%2FFMF--pF2pz0A%2FlVEykO2HWvnMPQUgru35VlmAG8o%3D",
@@ -182,7 +62,7 @@
       "baseline_drift_pct": 36.23,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T06:23:14.404457+00:00",
-      "_last_seen_at": "2026-05-22T06:23:14.404457+00:00"
+      "_last_seen_at": "2026-05-22T07:02:44.237648+00:00"
     },
     {
       "title": "Pokemon Evolving Skies ETB Elite Trainer Box Factory Sealed 2021. Torn Plastic",
@@ -253,8 +133,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.41,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T06:23:14.404457+00:00",
-      "_last_seen_at": "2026-05-22T06:23:14.404457+00:00"
+      "_first_seen_at": "2026-05-22T07:02:44.237648+00:00",
+      "_last_seen_at": "2026-05-22T07:02:44.237648+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
@@ -267,7 +147,7 @@
       "total_price": 552.39,
       "shipping_verified": true,
       "baseline_price": 625.0,
-      "baseline_raw_count": 90,
+      "baseline_raw_count": 91,
       "baseline_pre_filter_count": 69,
       "baseline_final_count": 21,
       "baseline_raw_min": 69.99,
@@ -289,17 +169,17 @@
       "baseline_stale": true,
       "baseline_drift_pct": 495.29,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T06:23:14.404457+00:00",
-      "_last_seen_at": "2026-05-22T06:23:14.404457+00:00"
+      "_first_seen_at": "2026-05-22T07:02:44.237648+00:00",
+      "_last_seen_at": "2026-05-22T07:02:44.237648+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 2,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
