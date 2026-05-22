@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T22:23:09.476034+00:00",
+  "timestamp": "2026-05-22T23:02:43.747076+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,112 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 5,
+  "total_deals": 0,
+  "all_deals_count": 3,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 2
-    },
-    "by_product_type": {
-      "booster_box": 2
-    },
-    "by_gap_bucket": {
-      "20_plus": 1,
-      "1_to_9": 1
-    },
-    "by_source": {
-      "ebay": 2
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Fusion Strike",
-      "Lost Origin"
-    ],
-    "product_type": [
-      "booster_box"
-    ],
-    "gap_bucket": [
-      "1_to_9",
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
-      "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 682.02,
-      "shipping_cost": 44.14,
-      "total_price": 682.02,
-      "shipping_verified": true,
-      "baseline_price": 975.0,
-      "baseline_raw_count": 35,
-      "baseline_pre_filter_count": 29,
-      "baseline_final_count": 19,
-      "baseline_raw_min": 637.88,
-      "baseline_raw_max": 11999.99,
-      "gapPct": 30.05,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1656,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 975.0,
-      "active_scan_baseline": 1200.0,
-      "effective_baseline": 975.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 23.08
-    },
-    {
-      "title": "POKEMON 36 LOST ORIGIN FACTORY SEALED BOOSTER PACKS = BOOSTER BOX EQUIVALENT",
-      "url": "https://www.ebay.com/itm/366409090462?_skw=pokemon+Lost+Origin+booster+box&hash=item554faf059e:g:wSsAAeSwhENqBiHx",
-      "franchise": "pokemon",
-      "set": "Lost Origin",
-      "product_type": "booster_box",
-      "price": 649.99,
-      "shipping_cost": 0.0,
-      "total_price": 649.99,
-      "shipping_verified": true,
-      "baseline_price": 710.0,
-      "baseline_raw_count": 22,
-      "baseline_pre_filter_count": 19,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 649.99,
-      "baseline_raw_max": 7999.99,
-      "gapPct": 8.45,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 10764,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "1_to_9",
-      "serpapi_baseline": 710.0,
-      "active_scan_baseline": 899.99,
-      "effective_baseline": 710.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 26.76
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Pokemon Scarlet & Violet Paradox Rift Elite Trainer Box 2023 New in Sealed Box",
@@ -160,7 +74,7 @@
       "shipping_cost": 52.21,
       "total_price": 508.79999999999995,
       "shipping_verified": true,
-      "baseline_price": 639.99,
+      "baseline_price": 640.0,
       "baseline_raw_count": 45,
       "baseline_pre_filter_count": 33,
       "baseline_final_count": 17,
@@ -177,14 +91,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 473.94,
-      "active_scan_baseline": 639.99,
-      "effective_baseline": 639.99,
+      "active_scan_baseline": 640.0,
+      "effective_baseline": 640.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
       "baseline_drift_pct": 35.04,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T22:23:09.474918+00:00",
-      "_last_seen_at": "2026-05-22T22:23:09.474918+00:00"
+      "_first_seen_at": "2026-05-22T23:02:43.745989+00:00",
+      "_last_seen_at": "2026-05-22T23:02:43.745989+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -219,17 +133,17 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.41,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T22:23:09.474918+00:00",
-      "_last_seen_at": "2026-05-22T22:23:09.474918+00:00"
+      "_first_seen_at": "2026-05-22T23:02:43.745989+00:00",
+      "_last_seen_at": "2026-05-22T23:02:43.745989+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 2,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
