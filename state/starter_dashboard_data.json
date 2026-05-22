@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T09:02:52.868812+00:00",
+  "timestamp": "2026-05-22T09:43:25.692458+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,26 +7,112 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
-  "all_deals_count": 5,
+  "total_deals": 2,
+  "all_deals_count": 7,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 2
+    },
+    "by_product_type": {
+      "booster_box": 2
+    },
+    "by_gap_bucket": {
+      "20_plus": 1,
+      "1_to_9": 1
+    },
+    "by_source": {
+      "ebay": 2
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 2,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Fusion Strike",
+      "Lost Origin"
+    ],
+    "product_type": [
+      "booster_box"
+    ],
+    "gap_bucket": [
+      "1_to_9",
+      "20_plus"
+    ]
   },
-  "deals": [],
+  "deals": [
+    {
+      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 682.02,
+      "shipping_cost": 44.14,
+      "total_price": 682.02,
+      "shipping_verified": true,
+      "baseline_price": 975.0,
+      "baseline_raw_count": 36,
+      "baseline_pre_filter_count": 29,
+      "baseline_final_count": 18,
+      "baseline_raw_min": 637.88,
+      "baseline_raw_max": 11999.99,
+      "gapPct": 30.05,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1654,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 975.0,
+      "active_scan_baseline": 1199.99,
+      "effective_baseline": 975.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 23.08
+    },
+    {
+      "title": "POKEMON 36 LOST ORIGIN FACTORY SEALED BOOSTER PACKS = BOOSTER BOX EQUIVALENT",
+      "url": "https://www.ebay.com/itm/366409090462?_skw=pokemon+Lost+Origin+booster+box&hash=item554faf059e:g:wSsAAeSwhENqBiHx",
+      "franchise": "pokemon",
+      "set": "Lost Origin",
+      "product_type": "booster_box",
+      "price": 649.99,
+      "shipping_cost": 0.0,
+      "total_price": 649.99,
+      "shipping_verified": true,
+      "baseline_price": 710.0,
+      "baseline_raw_count": 22,
+      "baseline_pre_filter_count": 19,
+      "baseline_final_count": 9,
+      "baseline_raw_min": 649.99,
+      "baseline_raw_max": 7999.99,
+      "gapPct": 8.45,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 10758,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "1_to_9",
+      "serpapi_baseline": 710.0,
+      "active_scan_baseline": 899.99,
+      "effective_baseline": 710.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 26.76
+    }
+  ],
   "watchlist_deals": [
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
@@ -98,7 +184,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T09:02:52.867109+00:00",
-      "_last_seen_at": "2026-05-22T09:02:52.867109+00:00"
+      "_last_seen_at": "2026-05-22T09:43:25.690599+00:00"
     },
     {
       "title": "Pokemon Evolving Skies ETB Elite Trainer Box Factory Sealed 2021. Torn Plastic",
@@ -170,7 +256,7 @@
       "baseline_drift_pct": 32.41,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T09:02:52.867109+00:00",
-      "_last_seen_at": "2026-05-22T09:02:52.867109+00:00"
+      "_last_seen_at": "2026-05-22T09:43:25.690599+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
@@ -206,16 +292,16 @@
       "baseline_drift_pct": 489.82,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T09:02:52.867109+00:00",
-      "_last_seen_at": "2026-05-22T09:02:52.867109+00:00"
+      "_last_seen_at": "2026-05-22T09:03:55.652437+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 2,
     "retailer_deals": 0,
-    "total_merged": 0,
+    "total_merged": 2,
     "retailer_deals_visible": false
   }
 }
