@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T17:03:21.956511+00:00",
+  "timestamp": "2026-05-22T17:42:55.968295+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,110 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 2,
-  "all_deals_count": 7,
+  "total_deals": 0,
+  "all_deals_count": 5,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 2
-    },
-    "by_product_type": {
-      "etb": 2
-    },
-    "by_gap_bucket": {
-      "10_to_19": 2
-    },
-    "by_source": {
-      "ebay": 2
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 2,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Twilight Masquerade",
-      "Vivid Voltage"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "10_to_19"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon Twilight Masquerade ETB Elite Trainer Box Sealed",
-      "url": "https://www.ebay.com/itm/318222402194?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item4a17888292:g:1wUAAeSwQ-tptaAg",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 99.0,
-      "shipping_cost": 0.0,
-      "total_price": 99.0,
-      "shipping_verified": false,
-      "baseline_price": 112.0,
-      "baseline_raw_count": 27,
-      "baseline_pre_filter_count": 22,
-      "baseline_final_count": 17,
-      "baseline_raw_min": 94.99,
-      "baseline_raw_max": 1100.0,
-      "gapPct": 11.61,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 126,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 298.87,
-      "active_scan_baseline": 112.0,
-      "effective_baseline": 112.0,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 62.53
-    },
-    {
-      "title": "Pokemon Vivid Voltage Elite Trainer Box SEALED NEW!",
-      "url": "https://www.ebay.com/itm/117208862861?_skw=pokemon+Vivid+Voltage+booster+box&hash=item1b4a31508d:g:~woAAeSwaERqD~wJ",
-      "franchise": "pokemon",
-      "set": "Vivid Voltage",
-      "product_type": "etb",
-      "price": 134.99,
-      "shipping_cost": 0.0,
-      "total_price": 134.99,
-      "shipping_verified": false,
-      "baseline_price": 149.99,
-      "baseline_raw_count": 24,
-      "baseline_pre_filter_count": 22,
-      "baseline_final_count": 17,
-      "baseline_raw_min": 129.99,
-      "baseline_raw_max": 1599.95,
-      "gapPct": 10.0,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 5921,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 280.0,
-      "active_scan_baseline": 149.99,
-      "effective_baseline": 149.99,
-      "baseline_cap_applied": true,
-      "baseline_stale": false,
-      "baseline_drift_pct": 46.43
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Sealed One Piece TCG OP-09 OP01-OP15 OP-13 Booster Box The New Emperor Japanese",
@@ -182,7 +98,7 @@
       "baseline_drift_pct": 35.18,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T17:03:21.954666+00:00",
-      "_last_seen_at": "2026-05-22T17:03:21.954666+00:00"
+      "_last_seen_at": "2026-05-22T17:42:55.966442+00:00"
     },
     {
       "title": "Shrouded Fable Scarlet & Violet 6 Pack Booster Bundle Pokemon Cards",
@@ -254,7 +170,7 @@
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T17:03:21.954666+00:00",
-      "_last_seen_at": "2026-05-22T17:03:21.954666+00:00"
+      "_last_seen_at": "2026-05-22T17:42:55.966442+00:00"
     },
     {
       "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
@@ -292,9 +208,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 2,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 2,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
