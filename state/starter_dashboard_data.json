@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T17:42:55.968295+00:00",
+  "timestamp": "2026-05-22T18:22:40.788313+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -75,9 +75,9 @@
       "total_price": 444.94,
       "shipping_verified": true,
       "baseline_price": 645.0,
-      "baseline_raw_count": 43,
-      "baseline_pre_filter_count": 32,
-      "baseline_final_count": 12,
+      "baseline_raw_count": 45,
+      "baseline_pre_filter_count": 34,
+      "baseline_final_count": 14,
       "baseline_raw_min": 140.09,
       "baseline_raw_max": 3699.99,
       "gapPct": 31.02,
@@ -90,15 +90,15 @@
       "seller_trust": "HIGH",
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
-      "serpapi_baseline": 477.13,
+      "serpapi_baseline": 473.94,
       "active_scan_baseline": 645.0,
       "effective_baseline": 645.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 35.18,
+      "baseline_drift_pct": 36.09,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T17:03:21.954666+00:00",
-      "_last_seen_at": "2026-05-22T17:42:55.966442+00:00"
+      "_first_seen_at": "2026-05-22T18:22:40.786605+00:00",
+      "_last_seen_at": "2026-05-22T18:22:40.786605+00:00"
     },
     {
       "title": "Shrouded Fable Scarlet & Violet 6 Pack Booster Bundle Pokemon Cards",
@@ -151,7 +151,7 @@
       "baseline_pre_filter_count": 19,
       "baseline_final_count": 12,
       "baseline_raw_min": 99.0,
-      "baseline_raw_max": 1399.99,
+      "baseline_raw_max": 299.95,
       "gapPct": 17.5,
       "confidence": "high",
       "seller_rating": 100.0,
@@ -169,8 +169,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T17:03:21.954666+00:00",
-      "_last_seen_at": "2026-05-22T17:42:55.966442+00:00"
+      "_first_seen_at": "2026-05-22T18:22:40.786605+00:00",
+      "_last_seen_at": "2026-05-22T18:22:40.786605+00:00"
     },
     {
       "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
@@ -182,8 +182,8 @@
       "shipping_cost": 9.64,
       "total_price": 309.64,
       "shipping_verified": true,
-      "baseline_price": 312.25,
-      "gapPct": 0.84,
+      "baseline_price": 311.97,
+      "gapPct": 0.75,
       "confidence": "medium",
       "seller_rating": 100.0,
       "seller_feedback_count": 606,
@@ -196,9 +196,9 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T11:00:01.323948+00:00",
       "_last_seen_at": "2026-05-22T11:00:01.323948+00:00",
-      "serpapi_baseline": 312.25,
+      "serpapi_baseline": 311.97,
       "active_scan_baseline": 312.25,
-      "effective_baseline": 312.25,
+      "effective_baseline": 311.97,
       "baseline_cap_applied": false,
       "baseline_stale": false,
       "baseline_drift_pct": 0.0
