@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T11:42:36.178914+00:00",
+  "timestamp": "2026-05-22T12:23:02.360470+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -75,8 +75,8 @@
       "total_price": 444.94,
       "shipping_verified": true,
       "baseline_price": 645.0,
-      "baseline_raw_count": 41,
-      "baseline_pre_filter_count": 29,
+      "baseline_raw_count": 43,
+      "baseline_pre_filter_count": 30,
       "baseline_final_count": 12,
       "baseline_raw_min": 140.09,
       "baseline_raw_max": 3699.99,
@@ -97,8 +97,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 35.18,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T11:02:40.276271+00:00",
-      "_last_seen_at": "2026-05-22T11:42:36.176852+00:00"
+      "_first_seen_at": "2026-05-22T12:23:02.358491+00:00",
+      "_last_seen_at": "2026-05-22T12:23:02.358491+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (New & Sealed) 36 Booster Packs",
@@ -146,13 +146,13 @@
       "shipping_cost": 0.0,
       "total_price": 99.0,
       "shipping_verified": false,
-      "baseline_price": 119.99,
-      "baseline_raw_count": 20,
-      "baseline_pre_filter_count": 19,
-      "baseline_final_count": 13,
+      "baseline_price": 120.0,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 18,
+      "baseline_final_count": 12,
       "baseline_raw_min": 99.0,
       "baseline_raw_max": 249.99,
-      "gapPct": 17.49,
+      "gapPct": 17.5,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 504,
@@ -163,14 +163,14 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 90.62,
-      "active_scan_baseline": 119.99,
-      "effective_baseline": 119.99,
+      "active_scan_baseline": 120.0,
+      "effective_baseline": 120.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 32.41,
+      "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T11:02:40.276271+00:00",
-      "_last_seen_at": "2026-05-22T11:42:36.176852+00:00"
+      "_first_seen_at": "2026-05-22T12:23:02.358491+00:00",
+      "_last_seen_at": "2026-05-22T12:23:02.358491+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
