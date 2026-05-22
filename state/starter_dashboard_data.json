@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T16:23:30.607164+00:00",
+  "timestamp": "2026-05-22T17:03:21.956511+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,17 +8,16 @@
   },
   "tier": "starter",
   "total_deals": 2,
-  "all_deals_count": 8,
+  "all_deals_count": 7,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 2
     },
     "by_product_type": {
-      "booster_box": 2
+      "etb": 2
     },
     "by_gap_bucket": {
-      "20_plus": 1,
-      "1_to_9": 1
+      "10_to_19": 2
     },
     "by_source": {
       "ebay": 2
@@ -34,83 +33,82 @@
       "pokemon"
     ],
     "set": [
-      "Fusion Strike",
-      "Lost Origin"
+      "Twilight Masquerade",
+      "Vivid Voltage"
     ],
     "product_type": [
-      "booster_box"
+      "etb"
     ],
     "gap_bucket": [
-      "1_to_9",
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
     {
-      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
-      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "title": "Pokemon Twilight Masquerade ETB Elite Trainer Box Sealed",
+      "url": "https://www.ebay.com/itm/318222402194?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item4a17888292:g:1wUAAeSwQ-tptaAg",
       "franchise": "pokemon",
-      "set": "Fusion Strike",
-      "product_type": "booster_box",
-      "price": 682.02,
-      "shipping_cost": 44.14,
-      "total_price": 682.02,
-      "shipping_verified": true,
-      "baseline_price": 975.0,
-      "baseline_raw_count": 37,
-      "baseline_pre_filter_count": 31,
-      "baseline_final_count": 21,
-      "baseline_raw_min": 637.88,
-      "baseline_raw_max": 11999.99,
-      "gapPct": 30.05,
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 99.0,
+      "shipping_cost": 0.0,
+      "total_price": 99.0,
+      "shipping_verified": false,
+      "baseline_price": 112.0,
+      "baseline_raw_count": 27,
+      "baseline_pre_filter_count": 22,
+      "baseline_final_count": 17,
+      "baseline_raw_min": 94.99,
+      "baseline_raw_max": 1100.0,
+      "gapPct": 11.61,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 1655,
+      "seller_feedback_count": 126,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 975.0,
-      "active_scan_baseline": 1200.0,
-      "effective_baseline": 975.0,
-      "baseline_cap_applied": false,
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 298.87,
+      "active_scan_baseline": 112.0,
+      "effective_baseline": 112.0,
+      "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 23.08
+      "baseline_drift_pct": 62.53
     },
     {
-      "title": "POKEMON 36 LOST ORIGIN FACTORY SEALED BOOSTER PACKS = BOOSTER BOX EQUIVALENT",
-      "url": "https://www.ebay.com/itm/366409090462?_skw=pokemon+Lost+Origin+booster+box&hash=item554faf059e:g:wSsAAeSwhENqBiHx",
+      "title": "Pokemon Vivid Voltage Elite Trainer Box SEALED NEW!",
+      "url": "https://www.ebay.com/itm/117208862861?_skw=pokemon+Vivid+Voltage+booster+box&hash=item1b4a31508d:g:~woAAeSwaERqD~wJ",
       "franchise": "pokemon",
-      "set": "Lost Origin",
-      "product_type": "booster_box",
-      "price": 649.99,
+      "set": "Vivid Voltage",
+      "product_type": "etb",
+      "price": 134.99,
       "shipping_cost": 0.0,
-      "total_price": 649.99,
-      "shipping_verified": true,
-      "baseline_price": 710.0,
-      "baseline_raw_count": 23,
-      "baseline_pre_filter_count": 20,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 649.99,
-      "baseline_raw_max": 7999.99,
-      "gapPct": 8.45,
+      "total_price": 134.99,
+      "shipping_verified": false,
+      "baseline_price": 149.99,
+      "baseline_raw_count": 24,
+      "baseline_pre_filter_count": 22,
+      "baseline_final_count": 17,
+      "baseline_raw_min": 129.99,
+      "baseline_raw_max": 1599.95,
+      "gapPct": 10.0,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 10762,
+      "seller_feedback_count": 5921,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "1_to_9",
-      "serpapi_baseline": 710.0,
-      "active_scan_baseline": 899.99,
-      "effective_baseline": 710.0,
-      "baseline_cap_applied": false,
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 280.0,
+      "active_scan_baseline": 149.99,
+      "effective_baseline": 149.99,
+      "baseline_cap_applied": true,
       "baseline_stale": false,
-      "baseline_drift_pct": 26.76
+      "baseline_drift_pct": 46.43
     }
   ],
   "watchlist_deals": [
@@ -148,7 +146,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T10:22:59.643950+00:00",
-      "_last_seen_at": "2026-05-22T16:23:30.605239+00:00"
+      "_last_seen_at": "2026-05-22T17:00:01.846188+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (36 pack) - Brand New & Sealed",
@@ -160,13 +158,13 @@
       "shipping_cost": 45.5,
       "total_price": 444.94,
       "shipping_verified": true,
-      "baseline_price": 640.0,
+      "baseline_price": 645.0,
       "baseline_raw_count": 43,
-      "baseline_pre_filter_count": 31,
-      "baseline_final_count": 13,
+      "baseline_pre_filter_count": 32,
+      "baseline_final_count": 12,
       "baseline_raw_min": 140.09,
       "baseline_raw_max": 3699.99,
-      "gapPct": 30.48,
+      "gapPct": 31.02,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 125,
@@ -177,14 +175,14 @@
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
       "serpapi_baseline": 477.13,
-      "active_scan_baseline": 640.0,
-      "effective_baseline": 640.0,
+      "active_scan_baseline": 645.0,
+      "effective_baseline": 645.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 34.14,
+      "baseline_drift_pct": 35.18,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T16:23:30.605239+00:00",
-      "_last_seen_at": "2026-05-22T16:23:30.605239+00:00"
+      "_first_seen_at": "2026-05-22T17:03:21.954666+00:00",
+      "_last_seen_at": "2026-05-22T17:03:21.954666+00:00"
     },
     {
       "title": "Shrouded Fable Scarlet & Violet 6 Pack Booster Bundle Pokemon Cards",
@@ -255,44 +253,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T16:23:30.605239+00:00",
-      "_last_seen_at": "2026-05-22T16:23:30.605239+00:00"
-    },
-    {
-      "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
-      "url": "https://www.ebay.com/itm/137256163075?_skw=onepiece+Emperors+in+the+New+World+booster+box&hash=item1ff51ad703:g:dZcAAeSw8P5p7L2l",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 552.39,
-      "shipping_cost": 60.86,
-      "total_price": 552.39,
-      "shipping_verified": true,
-      "baseline_price": 619.25,
-      "baseline_raw_count": 92,
-      "baseline_pre_filter_count": 70,
-      "baseline_final_count": 19,
-      "baseline_raw_min": 79.99,
-      "baseline_raw_max": 9999.99,
-      "gapPct": 10.8,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 164,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 104.99,
-      "active_scan_baseline": 619.25,
-      "effective_baseline": 619.25,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 489.82,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-22T09:02:52.867109+00:00",
-      "_last_seen_at": "2026-05-22T09:03:55.652437+00:00"
+      "_first_seen_at": "2026-05-22T17:03:21.954666+00:00",
+      "_last_seen_at": "2026-05-22T17:03:21.954666+00:00"
     },
     {
       "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
