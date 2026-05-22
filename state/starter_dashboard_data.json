@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T23:43:22.125147+00:00",
+  "timestamp": "2026-05-22T00:22:42.048097+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,76 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 7,
+  "total_deals": 0,
+  "all_deals_count": 6,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "20_plus": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Obsidian Flames"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "5x Pokemon Obsidian Flames Open Display Box ETB, No Cards/packs/acessories",
-      "url": "https://www.ebay.com/itm/267669657541?_skw=pokemon+Obsidian+Flames+booster+box&hash=item3e525ad7c5:g:xZMAAeSwRxtqBhRX",
-      "franchise": "pokemon",
-      "set": "Obsidian Flames",
-      "product_type": "etb",
-      "price": 199.0,
-      "shipping_cost": 0.0,
-      "total_price": 199.0,
-      "shipping_verified": true,
-      "baseline_price": 350.0,
-      "baseline_raw_count": 16,
-      "baseline_pre_filter_count": 14,
-      "baseline_final_count": 8,
-      "baseline_raw_min": 199.0,
-      "baseline_raw_max": 3350.0,
-      "gapPct": 43.14,
-      "confidence": "high",
-      "seller_rating": 99.8,
-      "seller_feedback_count": 3532,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 350.0,
-      "active_scan_baseline": 309.99,
-      "effective_baseline": 350.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 11.43
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
@@ -148,43 +98,7 @@
       "baseline_drift_pct": 34.14,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-21T22:23:00.820034+00:00",
-      "_last_seen_at": "2026-05-21T23:43:22.123118+00:00"
-    },
-    {
-      "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
-      "url": "https://www.ebay.com/itm/298230588698?_skw=pokemon+Battle+Styles+booster+box&hash=item456feda51a:g:aSkAAeSwJVdp4BVs",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 99.0,
-      "shipping_cost": 0.0,
-      "total_price": 99.0,
-      "shipping_verified": false,
-      "baseline_price": 119.99,
-      "baseline_raw_count": 22,
-      "baseline_pre_filter_count": 21,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 99.0,
-      "baseline_raw_max": 1399.99,
-      "gapPct": 17.49,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 504,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 90.62,
-      "active_scan_baseline": 119.99,
-      "effective_baseline": 119.99,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 32.41,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T23:03:10.685055+00:00",
-      "_last_seen_at": "2026-05-21T23:43:22.123118+00:00"
+      "_last_seen_at": "2026-05-22T00:22:42.046207+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -220,7 +134,43 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-21T17:43:15.956849+00:00",
-      "_last_seen_at": "2026-05-21T23:43:22.123118+00:00"
+      "_last_seen_at": "2026-05-22T00:00:01.122106+00:00"
+    },
+    {
+      "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
+      "url": "https://www.ebay.com/itm/298230588698?_skw=pokemon+Battle+Styles+booster+box&hash=item456feda51a:g:aSkAAeSwJVdp4BVs",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 99.0,
+      "shipping_cost": 0.0,
+      "total_price": 99.0,
+      "shipping_verified": false,
+      "baseline_price": 119.5,
+      "baseline_raw_count": 21,
+      "baseline_pre_filter_count": 20,
+      "baseline_final_count": 12,
+      "baseline_raw_min": 99.0,
+      "baseline_raw_max": 1399.99,
+      "gapPct": 17.15,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 504,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 90.62,
+      "active_scan_baseline": 119.5,
+      "effective_baseline": 119.5,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 31.87,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-22T00:22:42.046207+00:00",
+      "_last_seen_at": "2026-05-22T00:22:42.046207+00:00"
     },
     {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
@@ -269,9 +219,9 @@
       "total_price": 552.55,
       "shipping_verified": true,
       "baseline_price": 619.25,
-      "baseline_raw_count": 94,
-      "baseline_pre_filter_count": 72,
-      "baseline_final_count": 23,
+      "baseline_raw_count": 86,
+      "baseline_pre_filter_count": 67,
+      "baseline_final_count": 21,
       "baseline_raw_min": 69.99,
       "baseline_raw_max": 9999.99,
       "gapPct": 10.77,
@@ -291,17 +241,17 @@
       "baseline_stale": true,
       "baseline_drift_pct": 489.82,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-21T23:03:10.685055+00:00",
-      "_last_seen_at": "2026-05-21T23:43:22.123118+00:00"
+      "_first_seen_at": "2026-05-22T00:22:42.046207+00:00",
+      "_last_seen_at": "2026-05-22T00:22:42.046207+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
