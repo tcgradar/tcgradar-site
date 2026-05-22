@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T15:02:56.032096+00:00",
+  "timestamp": "2026-05-22T15:42:46.688876+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T10:22:59.643950+00:00",
-      "_last_seen_at": "2026-05-22T15:02:56.030202+00:00"
+      "_last_seen_at": "2026-05-22T15:04:11.203970+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (36 pack) - Brand New & Sealed",
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 35.18,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T15:02:56.030202+00:00",
-      "_last_seen_at": "2026-05-22T15:02:56.030202+00:00"
+      "_last_seen_at": "2026-05-22T15:42:46.686828+00:00"
     },
     {
       "title": "Shrouded Fable Scarlet & Violet 6 Pack Booster Bundle Pokemon Cards",
@@ -170,7 +170,7 @@
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-22T15:02:56.030202+00:00",
-      "_last_seen_at": "2026-05-22T15:02:56.030202+00:00"
+      "_last_seen_at": "2026-05-22T15:42:46.686828+00:00"
     },
     {
       "title": "One Piece op09 Emperors In The New World Booster Box✅️FACTORY SEALED✅️",
