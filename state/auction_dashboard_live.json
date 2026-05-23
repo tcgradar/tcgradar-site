@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T09:24:17.226209+00:00",
+    "generated_at": "2026-05-23T11:24:28.172401+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 19,
@@ -108,7 +108,7 @@
       "old_gapPct": 40.6478578892372,
       "gapPct": 42.53,
       "bids": 20,
-      "time_remaining": 64.605052375,
+      "time_remaining": 62.60195077444445,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/800036198065?_skw=One+Piece+Awakening+of+the+New+Era+booster+box&hash=itemba45df96b1:g:bmYAAeSw7LZqCzWq",
       "franchise": "onepiece",
@@ -131,7 +131,7 @@
       "old_gapPct": 25.096003713550235,
       "gapPct": 25.1,
       "bids": 25,
-      "time_remaining": 39.77389716138889,
+      "time_remaining": 37.77110511888889,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/278002425827?_skw=Pokemon+Destined+Rivals+booster+box&hash=item40ba3c5fe3:g:VxQAAeSw-jZqDJAb",
       "franchise": "pokemon",
