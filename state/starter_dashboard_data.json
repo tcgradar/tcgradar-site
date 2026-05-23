@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T21:23:44.593143+00:00",
+  "timestamp": "2026-05-23T22:00:01.958077+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,27 +7,50 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
-  "all_deals_count": 8,
+  "total_deals": 4,
+  "all_deals_count": 10,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 4
+    },
+    "by_product_type": {
+      "booster_bundle": 1,
+      "etb": 2,
+      "booster_box": 1
+    },
+    "by_gap_bucket": {
+      "20_plus": 2,
+      "10_to_19": 2
+    },
+    "by_source": {
+      "ebay": 4
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 4,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Battle Styles",
+      "Destined Rivals",
+      "Shrouded Fable"
+    ],
+    "product_type": [
+      "booster_box",
+      "booster_bundle",
+      "etb"
+    ],
+    "gap_bucket": [
+      "10_to_19",
+      "20_plus"
+    ]
   },
-  "deals": [],
-  "watchlist_deals": [
+  "deals": [
     {
       "title": "Pokemon TCG Shrouded Fable Booster Bundle Factory Sealed",
       "url": "https://www.ebay.com/itm/257521255163?_skw=pokemon+Shrouded+Fable+booster+box&hash=item3bf57682fb:g:zSQAAeSwz5hqESAY",
@@ -39,11 +62,6 @@
       "total_price": 54.99,
       "shipping_verified": false,
       "baseline_price": 74.98,
-      "baseline_raw_count": 30,
-      "baseline_pre_filter_count": 28,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 5.0,
-      "baseline_raw_max": 1695.95,
       "gapPct": 26.66,
       "confidence": "high",
       "seller_rating": 100.0,
@@ -52,17 +70,30 @@
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 51.28,
-      "active_scan_baseline": 74.98,
-      "effective_baseline": 74.98,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 46.22,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-23T21:23:44.590963+00:00",
-      "_last_seen_at": "2026-05-23T21:23:44.590963+00:00"
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    },
+    {
+      "title": "Pokemon: Scarlet & Violet - 6.5 Shrouded Fable Elite Trainer Box",
+      "url": "https://www.ebay.com/itm/317868475380?_skw=pokemon+Shrouded+Fable+booster+box&hash=item4a027003f4:g:4kIAAeSwjmJp0Crr",
+      "franchise": "pokemon",
+      "set": "Shrouded Fable",
+      "product_type": "etb",
+      "price": 118.95,
+      "shipping_cost": 14.95,
+      "total_price": 118.95,
+      "shipping_verified": true,
+      "baseline_price": 149.99,
+      "gapPct": 20.69,
+      "confidence": "high",
+      "seller_rating": 99.3,
+      "seller_feedback_count": 2749,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
     },
     {
       "title": "Pokemon Destined Rivals Booster Box Sealed Slightly Creased Box - 36 Packs",
@@ -75,11 +106,6 @@
       "total_price": 508.85999999999996,
       "shipping_verified": true,
       "baseline_price": 625.0,
-      "baseline_raw_count": 45,
-      "baseline_pre_filter_count": 36,
-      "baseline_final_count": 21,
-      "baseline_raw_min": 140.09,
-      "baseline_raw_max": 3669.99,
       "gapPct": 18.58,
       "confidence": "high",
       "seller_rating": 100.0,
@@ -88,17 +114,55 @@
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    },
+    {
+      "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
+      "url": "https://www.ebay.com/itm/257510559029?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf4d34d35:g:AIQAAeSwYOtqCaW3",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 100.0,
+      "shipping_cost": 0.0,
+      "total_price": 100.0,
+      "shipping_verified": false,
+      "baseline_price": 119.5,
+      "gapPct": 16.32,
+      "confidence": "high",
+      "seller_rating": 99.3,
+      "seller_feedback_count": 1500,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "10_to_19"
+    }
+  ],
+  "watchlist_deals": [
+    {
+      "title": "Pokemon: Shrouded Fable Booster Bundle",
+      "url": "https://bleeckertrading.com/products/pokemon-shrouded-fable-booster-bundle?srsltid=AfmBOoq3isY3IWLGgwCDy0yxfRTwaZBZDxGb9oNK98rMgP7MQ2JMc3oW",
+      "franchise": "pokemon",
+      "set": "Shrouded Fable",
+      "product_type": "booster_bundle",
+      "price": 60.0,
+      "baseline_price": 74.98,
+      "gapPct": 19.98,
+      "seller_trust": "LOW",
+      "source": "bleeckertrading",
+      "availability": "unknown",
+      "is_preorder": false,
+      "language": "EN",
+      "shipping_cost": 0,
+      "confidence": "high",
+      "non_ebay": false,
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
-      "serpapi_baseline": 473.94,
-      "active_scan_baseline": 625.0,
-      "effective_baseline": 625.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 31.87,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-23T21:23:44.590963+00:00",
-      "_last_seen_at": "2026-05-23T21:23:44.590963+00:00"
+      "_first_seen_at": "2026-05-23T22:00:01.957177+00:00",
+      "_last_seen_at": "2026-05-23T22:00:01.957177+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -173,76 +237,29 @@
       "_last_seen_at": "2026-05-23T21:00:01.972852+00:00"
     },
     {
-      "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
-      "url": "https://www.ebay.com/itm/257510559029?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf4d34d35:g:AIQAAeSwYOtqCaW3",
+      "title": "Pokemon TCG Temporal forces Booster Box 36 Booster Packs - New Sealed",
+      "url": "https://www.ebay.com/itm/397981843478?_skw=pokemon+Temporal+Forces+booster+box&hash=item5ca9910016:g:9NAAAeSwFCdqEfwo",
       "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 100.0,
-      "shipping_cost": 0.0,
-      "total_price": 100.0,
-      "shipping_verified": false,
-      "baseline_price": 119.5,
-      "baseline_raw_count": 21,
-      "baseline_pre_filter_count": 21,
-      "baseline_final_count": 14,
-      "baseline_raw_min": 100.0,
-      "baseline_raw_max": 1399.99,
-      "gapPct": 16.32,
-      "confidence": "high",
-      "seller_rating": 99.3,
-      "seller_feedback_count": 1500,
+      "set": "Temporal Forces",
+      "product_type": "booster_box",
+      "price": 316.61,
+      "shipping_cost": 41.23,
+      "total_price": 316.61,
+      "shipping_verified": true,
+      "baseline_price": 349.99,
+      "gapPct": 9.54,
+      "confidence": "medium",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 130,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 90.62,
-      "active_scan_baseline": 119.5,
-      "effective_baseline": 119.5,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 31.87,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-23T21:23:44.590963+00:00",
-      "_last_seen_at": "2026-05-23T21:23:44.590963+00:00"
-    },
-    {
-      "title": "Pokemon: Scarlet & Violet - 6.5 Shrouded Fable Elite Trainer Box",
-      "url": "https://www.ebay.com/itm/317868475380?_skw=pokemon+Shrouded+Fable+booster+box&hash=item4a027003f4:g:4kIAAeSwjmJp0Crr",
-      "franchise": "pokemon",
-      "set": "Shrouded Fable",
-      "product_type": "etb",
-      "price": 118.95,
-      "shipping_cost": 14.95,
-      "total_price": 118.95,
-      "shipping_verified": true,
-      "baseline_price": 125.0,
-      "baseline_raw_count": 47,
-      "baseline_pre_filter_count": 40,
-      "baseline_final_count": 18,
-      "baseline_raw_min": 20.0,
-      "baseline_raw_max": 1999.99,
-      "gapPct": 4.84,
-      "confidence": "high",
-      "seller_rating": 99.3,
-      "seller_feedback_count": 2749,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
       "gap_bucket": "1_to_9",
-      "serpapi_baseline": 125.0,
-      "active_scan_baseline": 125.0,
-      "effective_baseline": 125.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 0.0,
-      "watchlist_reason": "small_gap",
-      "_first_seen_at": "2026-05-23T21:23:44.590963+00:00",
-      "_last_seen_at": "2026-05-23T21:23:44.590963+00:00"
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-23T22:00:01.957177+00:00",
+      "_last_seen_at": "2026-05-23T22:00:01.957177+00:00"
     },
     {
       "title": "Pokemon Temporal Forces Booster Box , Sealed (2024)",
@@ -311,9 +328,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 4,
     "retailer_deals": 1,
-    "total_merged": 0,
+    "total_merged": 4,
     "retailer_deals_visible": true
   }
 }
