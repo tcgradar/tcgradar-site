@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T19:24:13.000879+00:00",
+    "generated_at": "2026-05-23T20:44:41.351549+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 21,
-    "filtered_count": 2,
+    "filtered_count": 1,
     "filter_criteria": {
       "min_gap": 10.0,
       "max_bids": 50,
@@ -96,29 +96,6 @@
   },
   "auctions": [
     {
-      "title": "One Piece TCG OP-05 Awakening Of The New Era Booster Box SEALED ENGLISH",
-      "current_price": 610.0,
-      "shipping_cost": 18.0,
-      "total_price": 628.0,
-      "baseline": 957.0,
-      "baseline_source": "serpapi",
-      "baseline_key": "onepiece|awakening_of_the_new_era|booster_box|en|standard",
-      "serpapi_sample_size": 43,
-      "old_baseline": 957.0,
-      "old_gapPct": 34.37826541274817,
-      "gapPct": 36.26,
-      "bids": 21,
-      "time_remaining": 54.605769074722225,
-      "opportunity_type": "early",
-      "url": "https://www.ebay.com/itm/800036198065?_skw=One+Piece+Awakening+of+the+New+Era+booster+box&hash=itemba45df96b1:g:bmYAAeSw7LZqCzWq",
-      "franchise": "onepiece",
-      "set": "Awakening of the New Era",
-      "product_type": "booster_box",
-      "seller_trust": "HIGH",
-      "opportunity_score": 46,
-      "deal_quality": "medium"
-    },
-    {
       "title": "SV05 - Pokemon Scarlet & Violet - Temporal Forces Booster Box Factory Sealed",
       "current_price": 222.5,
       "shipping_cost": 0.0,
@@ -131,7 +108,7 @@
       "old_gapPct": 22.265311113440244,
       "gapPct": 22.27,
       "bids": 6,
-      "time_remaining": 65.73165861055556,
+      "time_remaining": 64.38879573638889,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/236819879805?_skw=Pokemon+Temporal+Forces+booster+box&hash=item372390977d:g:j6kAAeSwuMVqCGvD",
       "franchise": "pokemon",
