@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-23T00:23:54.532322+00:00",
+    "generated_at": "2026-05-23T01:44:53.588923+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 16,
@@ -97,29 +97,29 @@
   "auctions": [
     {
       "title": "One Piece TCG 500 Years In The Future Booster Box OP-07 English Sealed",
-      "current_price": 134.0,
+      "current_price": 141.5,
       "shipping_cost": 0.0,
-      "total_price": 134.0,
+      "total_price": 141.5,
       "baseline": 235.08,
       "baseline_source": "serpapi",
       "baseline_key": "onepiece|500_years_in_the_future|booster_box|en|standard",
       "serpapi_sample_size": 60,
       "old_baseline": 235.08,
-      "old_gapPct": 42.998128296750046,
-      "gapPct": 43.0,
-      "bids": 4,
-      "time_remaining": 47.3696557375,
+      "old_gapPct": 39.8077250297771,
+      "gapPct": 39.81,
+      "bids": 7,
+      "time_remaining": 46.020310125,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/206285801122?_skw=One+Piece+500+Years+in+the+Future+booster+box&hash=item30079786a2:g:kTQAAeSwPABqDPX9",
       "franchise": "onepiece",
       "set": "500 Years in the Future",
       "product_type": "booster_box",
       "seller_trust": "HIGH",
-      "opportunity_score": 77,
-      "deal_quality": "high"
+      "opportunity_score": 67,
+      "deal_quality": "medium"
     },
     {
-      "title": "DESTINED RIVALS BOOSTER BOX SEALED SV10 SCARLET VIOLET POKEMON TCG",
+      "title": "Pokemon TCG Scarlet & Violet Destined Rivals Booster Box TCG Factory Sealed READ",
       "current_price": 355.0,
       "shipping_cost": 0.0,
       "total_price": 355.0,
@@ -130,15 +130,15 @@
       "old_baseline": 473.94,
       "old_gapPct": 25.096003713550235,
       "gapPct": 25.1,
-      "bids": 18,
-      "time_remaining": 45.6141402875,
+      "bids": 25,
+      "time_remaining": 47.43052576638889,
       "opportunity_type": "ongoing",
-      "url": "https://www.ebay.com/itm/800019437948?_skw=Pokemon+Destined+Rivals+booster+box&hash=itemba44dfd97c:g:AWEAAeSwGTpqBh4T",
+      "url": "https://www.ebay.com/itm/278002425827?_skw=Pokemon+Destined+Rivals+booster+box&hash=item40ba3c5fe3:g:VxQAAeSw-jZqDJAb",
       "franchise": "pokemon",
       "set": "Destined Rivals",
       "product_type": "booster_box",
       "seller_trust": "HIGH",
-      "opportunity_score": 45,
+      "opportunity_score": 40,
       "deal_quality": "medium"
     }
   ]
