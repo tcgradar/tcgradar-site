@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T15:25:09.943435+00:00",
+    "generated_at": "2026-05-24T16:05:07.567447+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 16,
@@ -108,7 +108,7 @@
       "old_gapPct": 62.548001856775116,
       "gapPct": 62.55,
       "bids": 16,
-      "time_remaining": 59.09433347388889,
+      "time_remaining": 58.425912413055556,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/147323268746?_skw=Pokemon+Destined+Rivals+booster+box&hash=item224d26ae8a:g:tkMAAeSwK4lqD2g1",
       "franchise": "pokemon",
@@ -131,7 +131,7 @@
       "old_gapPct": 22.265311113440244,
       "gapPct": 22.27,
       "bids": 6,
-      "time_remaining": 45.717114451388895,
+      "time_remaining": 45.04833518361111,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/236819879805?_skw=Pokemon+Temporal+Forces+booster+box&hash=item372390977d:g:j6kAAeSwuMVqCGvD",
       "franchise": "pokemon",
