@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T00:00:01.261862+00:00",
+  "timestamp": "2026-05-24T01:03:31.744726+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,115 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 3,
-  "all_deals_count": 10,
+  "total_deals": 0,
+  "all_deals_count": 6,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 3
-    },
-    "by_product_type": {
-      "booster_box": 2,
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "20_plus": 1,
-      "10_to_19": 2
-    },
-    "by_source": {
-      "ebay": 3
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 3,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Battle Styles",
-      "Destined Rivals",
-      "Evolving Skies"
-    ],
-    "product_type": [
-      "booster_box",
-      "etb"
-    ],
-    "gap_bucket": [
-      "10_to_19",
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
-      "url": "https://www.ebay.com/itm/205518977966?_skw=pokemon+Evolving+Skies+booster+box&hash=item2fd9e2bbae:g:jjgAAeSw0Wxpx3l7",
-      "franchise": "pokemon",
-      "set": "Evolving Skies",
-      "product_type": "booster_box",
-      "price": 1783.37,
-      "shipping_cost": 44.08,
-      "total_price": 1783.37,
-      "shipping_verified": true,
-      "baseline_price": 2799.99,
-      "gapPct": 36.31,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1658,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    },
-    {
-      "title": "Pokemon Destined Rivals Booster Box Sealed Slightly Creased Box - 36 Packs",
-      "url": "https://www.ebay.com/itm/168386589054?_skw=pokemon+Destined+Rivals+booster+box&hash=item27349f717e:g:08gAAeSw~U1qDIph",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 508.85999999999996,
-      "shipping_cost": 52.21,
-      "total_price": 508.85999999999996,
-      "shipping_verified": true,
-      "baseline_price": 625.0,
-      "gapPct": 18.58,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 1787,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    },
-    {
-      "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
-      "url": "https://www.ebay.com/itm/257510559029?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf4d34d35:g:AIQAAeSwYOtqCaW3",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 100.0,
-      "shipping_cost": 0.0,
-      "total_price": 100.0,
-      "shipping_verified": false,
-      "baseline_price": 120.0,
-      "gapPct": 16.67,
-      "confidence": "high",
-      "seller_rating": 99.3,
-      "seller_feedback_count": 1500,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19"
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Pokemon TCG Shrouded Fable Booster Bundle Factory Sealed",
@@ -154,27 +65,40 @@
       "_last_seen_at": "2026-05-23T22:03:59.060751+00:00"
     },
     {
-      "title": "Pokemon: Shrouded Fable Booster Bundle",
-      "url": "https://bleeckertrading.com/products/pokemon-shrouded-fable-booster-bundle?srsltid=AfmBOoq3isY3IWLGgwCDy0yxfRTwaZBZDxGb9oNK98rMgP7MQ2JMc3oW",
+      "title": "Pokemon TCG Destined Rivals Booster Box (36 pack) Brand New & Sealed",
+      "url": "https://www.ebay.com/itm/298281574666?_skw=pokemon+Destined+Rivals+booster+box&hash=item4572f7a10a:g:G0IAAeSw6SNp9ayI",
       "franchise": "pokemon",
-      "set": "Shrouded Fable",
-      "product_type": "booster_bundle",
-      "price": 60.0,
-      "baseline_price": 74.98,
-      "gapPct": 19.98,
-      "seller_trust": "LOW",
-      "source": "bleeckertrading",
-      "availability": "unknown",
-      "is_preorder": false,
-      "language": "EN",
-      "shipping_cost": 0,
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 511.14,
+      "shipping_cost": 47.71,
+      "total_price": 511.14,
+      "shipping_verified": true,
+      "baseline_price": 625.0,
+      "baseline_raw_count": 43,
+      "baseline_pre_filter_count": 34,
+      "baseline_final_count": 21,
+      "baseline_raw_min": 140.09,
+      "baseline_raw_max": 3669.99,
+      "gapPct": 18.22,
       "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 100,
+      "language": "EN",
+      "source": "ebay",
       "non_ebay": false,
+      "seller_trust": "HIGH",
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
+      "serpapi_baseline": 473.94,
+      "active_scan_baseline": 625.0,
+      "effective_baseline": 625.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 31.87,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-24T00:00:01.260979+00:00",
-      "_last_seen_at": "2026-05-24T00:00:01.260979+00:00"
+      "_first_seen_at": "2026-05-24T01:03:31.742863+00:00",
+      "_last_seen_at": "2026-05-24T01:03:31.742863+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -210,7 +134,7 @@
       "baseline_drift_pct": 32.41,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-23T20:03:02.880942+00:00",
-      "_last_seen_at": "2026-05-23T20:04:11.595735+00:00"
+      "_last_seen_at": "2026-05-24T01:03:31.742863+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -285,37 +209,6 @@
       "_last_seen_at": "2026-05-23T22:03:59.060751+00:00"
     },
     {
-      "title": "Pokemon Temporal Forces Booster Box , Sealed (2024)",
-      "url": "https://www.ebay.com/itm/298220019849?_skw=pokemon+Temporal+Forces+booster+box&hash=item456f4c6089:g:7E4AAeSwx-Bp3DPs",
-      "franchise": "pokemon",
-      "set": "Temporal Forces",
-      "product_type": "booster_box",
-      "price": 278.62,
-      "shipping_cost": 0.0,
-      "total_price": 278.62,
-      "shipping_verified": false,
-      "baseline_price": 286.23,
-      "gapPct": 2.66,
-      "confidence": "medium",
-      "seller_rating": 99.8,
-      "seller_feedback_count": 12463,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "1_to_9",
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-23T16:00:01.962784+00:00",
-      "_last_seen_at": "2026-05-23T16:00:01.962784+00:00",
-      "serpapi_baseline": 286.23,
-      "active_scan_baseline": 286.23,
-      "effective_baseline": 286.23,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 0.0
-    },
-    {
       "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
       "url": "https://www.ebay.com/itm/137288618460?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item1ff70a11dc:g:fyIAAeSwm6Zp7tnB",
       "franchise": "pokemon",
@@ -351,9 +244,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 3,
-    "retailer_deals": 1,
-    "total_merged": 3,
-    "retailer_deals_visible": true
+    "ebay_deals": 0,
+    "retailer_deals": 0,
+    "total_merged": 0,
+    "retailer_deals_visible": false
   }
 }
