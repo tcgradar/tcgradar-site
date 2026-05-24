@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T13:04:43.780538+00:00",
+  "timestamp": "2026-05-24T14:23:08.265845+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 34.33,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-24T09:43:39.286613+00:00",
-      "_last_seen_at": "2026-05-24T13:00:01.679769+00:00"
+      "_last_seen_at": "2026-05-24T14:23:08.264170+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (36 pack) Brand New & Sealed",
@@ -110,13 +110,13 @@
       "shipping_cost": 47.71,
       "total_price": 511.14,
       "shipping_verified": true,
-      "baseline_price": 634.0,
-      "baseline_raw_count": 37,
-      "baseline_pre_filter_count": 31,
-      "baseline_final_count": 17,
-      "baseline_raw_min": 189.79,
+      "baseline_price": 637.0,
+      "baseline_raw_count": 39,
+      "baseline_pre_filter_count": 33,
+      "baseline_final_count": 18,
+      "baseline_raw_min": 189.6,
       "baseline_raw_max": 3669.99,
-      "gapPct": 19.38,
+      "gapPct": 19.76,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 101,
@@ -127,14 +127,14 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 473.94,
-      "active_scan_baseline": 634.0,
-      "effective_baseline": 634.0,
+      "active_scan_baseline": 637.0,
+      "effective_baseline": 637.0,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 33.77,
+      "baseline_drift_pct": 34.41,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-24T13:03:30.828553+00:00",
-      "_last_seen_at": "2026-05-24T13:04:43.778741+00:00"
+      "_first_seen_at": "2026-05-24T14:23:08.264170+00:00",
+      "_last_seen_at": "2026-05-24T14:23:08.264170+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -147,8 +147,8 @@
       "total_price": 99.0,
       "shipping_verified": false,
       "baseline_price": 120.0,
-      "baseline_raw_count": 21,
-      "baseline_pre_filter_count": 21,
+      "baseline_raw_count": 23,
+      "baseline_pre_filter_count": 23,
       "baseline_final_count": 14,
       "baseline_raw_min": 99.0,
       "baseline_raw_max": 1399.99,
@@ -169,8 +169,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-24T13:03:30.828553+00:00",
-      "_last_seen_at": "2026-05-24T13:04:43.778741+00:00"
+      "_first_seen_at": "2026-05-24T14:23:08.264170+00:00",
+      "_last_seen_at": "2026-05-24T14:23:08.264170+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
