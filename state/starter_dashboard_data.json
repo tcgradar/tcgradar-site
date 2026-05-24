@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T02:43:51.110824+00:00",
+  "timestamp": "2026-05-24T03:23:53.698257+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,112 +7,62 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 6,
+  "total_deals": 0,
+  "all_deals_count": 7,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "20_plus": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Obsidian Flames"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon Obsidian Flames Lot 600+ Cards: Pack Scizor IR EX Umbreon ETB RH/Holos",
-      "url": "https://www.ebay.com/itm/406713385346?_skw=pokemon+Obsidian+Flames+booster+box&hash=item5eb201c182:g:joEAAeSwVptpmLLm&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZ1wuvIKEi8a%2B08YQm1mvXCxf735DY43wlG6gJOxM%2FXjjMPNbQu7YZhO3IqrXjYt8i7JRAgdTNwmfbj5d9ZjiWVDWumAdn3ic1e4ZZFoBbG5ubdpVpMpi3phLcWa%2FDM5ookjMuPhWQeoSt0y%2FS60xd2e0nu%2FHFq9aFEWvapSM%2Bzu1JwKo4xj3tE2MN0BGmJFKV7lD4qgWY2Jk7TPD5IFpd6yP9WP%2BQeAe7TTDaey1xnixcb%2BvFk%2FwFGRCePeMWCLe%2FRIvpRnv9pDN2XbsdtntsnQkatJlvwDdM4p1tfRzSlRlEwO3H8lKORBHmirQ%2BHtW0%3D",
-      "franchise": "pokemon",
-      "set": "Obsidian Flames",
-      "product_type": "etb",
-      "price": 189.99,
-      "shipping_cost": 0.0,
-      "total_price": 189.99,
-      "shipping_verified": true,
-      "baseline_price": 264.05,
-      "baseline_raw_count": 19,
-      "baseline_pre_filter_count": 17,
-      "baseline_final_count": 8,
-      "baseline_raw_min": 149.0,
-      "baseline_raw_max": 3350.0,
-      "gapPct": 28.05,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 344,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 264.05,
-      "active_scan_baseline": 312.5,
-      "effective_baseline": 264.05,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 18.35
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
-      "title": "Pokemon Scarlet & Violet Paradox Rift Elite Trainer Box 2023 New in Sealed Box",
-      "url": "https://www.ebay.com/itm/397905353760?_skw=pokemon+Paradox+Rift+booster+box&hash=item5ca501dc20:g:KEsAAeSwHPhp9qDx",
-      "franchise": "pokemon",
-      "set": "Paradox Rift",
-      "product_type": "etb",
-      "price": 139.0,
+      "title": "Sealed Japanese OP-01-OP-15 OP-09 One Piece Card The Four Emperors Booster Box",
+      "url": "https://www.ebay.com/itm/236785618030?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item372185cc6e:g:WOAAAeSwWz1p8VN2&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZh3NolHhBTN%2FRizIjEjZhxqsZ%2Fiy41bh%2Fse7hkBbkIYEb3wyQyi121Ilgn8Y%2FR%2F%2BHlfVyDCZAiqy9nVJnwPZegE7P7Pmh5MGrSgwDUe2FZ%2FphdMKSDZqtj5bnrxBNDzC8LaOpZZtdaXUm2bdozxfhitVZH2hMJe0PbfJWNsPtUPASJdiQL3W7SAaljz8c1kfkA1KBIExiB37FgE%2FfBak8NzOYaz4CVq11%2FBNgQ5oYYkC%2Bk1wiwfxlQzJ1Fe0SYyW9wxKDvl8a%2FFzohb3C%2BSEZnWsBB5tuS5n2YNpHgTvKXm2SY0zJwQShEgUewsK6d64NTa8qMhjuw7OrAllvtToxE",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 79.99,
       "shipping_cost": 0.0,
-      "total_price": 139.0,
+      "total_price": 79.99,
       "shipping_verified": false,
-      "baseline_price": 272.0,
-      "baseline_raw_count": 19,
-      "baseline_pre_filter_count": 18,
+      "baseline_price": 141.03,
+      "baseline_raw_count": 99,
+      "baseline_pre_filter_count": 79,
       "baseline_final_count": 8,
-      "baseline_raw_min": 130.0,
-      "baseline_raw_max": 400.0,
-      "gapPct": 48.9,
-      "confidence": "high",
-      "seller_rating": 99.5,
-      "seller_feedback_count": 519,
-      "language": "EN",
+      "baseline_raw_min": 79.99,
+      "baseline_raw_max": 9999.99,
+      "gapPct": 43.28,
+      "confidence": "medium",
+      "seller_rating": 99.3,
+      "seller_feedback_count": 187,
+      "language": "JP",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
-      "serpapi_baseline": 120.0,
-      "active_scan_baseline": 272.0,
-      "effective_baseline": 272.0,
+      "serpapi_baseline": 104.99,
+      "active_scan_baseline": 141.03,
+      "effective_baseline": 141.03,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 126.67,
+      "baseline_drift_pct": 34.33,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-24T02:43:51.108530+00:00",
-      "_last_seen_at": "2026-05-24T02:43:51.108530+00:00"
+      "_first_seen_at": "2026-05-24T03:23:53.696018+00:00",
+      "_last_seen_at": "2026-05-24T03:23:53.696018+00:00"
     },
     {
       "title": "IN STOCK ONE PIECE Emperors in the New World OP-09 Booster Box SEALED Japanese",
@@ -148,7 +98,43 @@
       "baseline_drift_pct": 34.33,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-24T02:43:51.108530+00:00",
-      "_last_seen_at": "2026-05-24T02:43:51.108530+00:00"
+      "_last_seen_at": "2026-05-24T03:00:01.959177+00:00"
+    },
+    {
+      "title": "Pokemon TCG Shrouded Fable Booster Bundle Factory Sealed",
+      "url": "https://www.ebay.com/itm/257521255163?_skw=pokemon+Shrouded+Fable+booster+box&hash=item3bf57682fb:g:zSQAAeSwz5hqESAY",
+      "franchise": "pokemon",
+      "set": "Shrouded Fable",
+      "product_type": "booster_bundle",
+      "price": 54.99,
+      "shipping_cost": 0.0,
+      "total_price": 54.99,
+      "shipping_verified": false,
+      "baseline_price": 74.98,
+      "baseline_raw_count": 29,
+      "baseline_pre_filter_count": 27,
+      "baseline_final_count": 11,
+      "baseline_raw_min": 5.0,
+      "baseline_raw_max": 1695.95,
+      "gapPct": 26.66,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 528,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 51.28,
+      "active_scan_baseline": 74.98,
+      "effective_baseline": 74.98,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 46.22,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-24T03:23:53.696018+00:00",
+      "_last_seen_at": "2026-05-24T03:23:53.696018+00:00"
     },
     {
       "title": "Pokemon Destined Rivals Booster Box Sealed Slightly Creased Box - 36 Packs",
@@ -160,13 +146,13 @@
       "shipping_cost": 52.21,
       "total_price": 508.85999999999996,
       "shipping_verified": true,
-      "baseline_price": 625.0,
-      "baseline_raw_count": 43,
-      "baseline_pre_filter_count": 35,
-      "baseline_final_count": 21,
-      "baseline_raw_min": 140.09,
+      "baseline_price": 626.94,
+      "baseline_raw_count": 41,
+      "baseline_pre_filter_count": 33,
+      "baseline_final_count": 20,
+      "baseline_raw_min": 189.79,
       "baseline_raw_max": 3669.99,
-      "gapPct": 18.58,
+      "gapPct": 18.83,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 1787,
@@ -177,14 +163,14 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 473.94,
-      "active_scan_baseline": 625.0,
-      "effective_baseline": 625.0,
+      "active_scan_baseline": 626.94,
+      "effective_baseline": 626.94,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 31.87,
+      "baseline_drift_pct": 32.28,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-24T02:03:31.022198+00:00",
-      "_last_seen_at": "2026-05-24T02:43:51.108530+00:00"
+      "_first_seen_at": "2026-05-24T03:23:53.696018+00:00",
+      "_last_seen_at": "2026-05-24T03:23:53.696018+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -219,8 +205,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-24T02:03:31.022198+00:00",
-      "_last_seen_at": "2026-05-24T02:43:51.108530+00:00"
+      "_first_seen_at": "2026-05-24T03:23:53.696018+00:00",
+      "_last_seen_at": "2026-05-24T03:23:53.696018+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -256,16 +242,52 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-23T20:43:37.715040+00:00",
-      "_last_seen_at": "2026-05-24T02:43:51.108530+00:00"
+      "_last_seen_at": "2026-05-24T03:00:01.959177+00:00"
+    },
+    {
+      "title": "Pokemon: Scarlet & Violet - 6.5 Shrouded Fable Elite Trainer Box",
+      "url": "https://www.ebay.com/itm/317868475380?_skw=pokemon+Shrouded+Fable+booster+box&hash=item4a027003f4:g:4kIAAeSwjmJp0Crr",
+      "franchise": "pokemon",
+      "set": "Shrouded Fable",
+      "product_type": "etb",
+      "price": 118.95,
+      "shipping_cost": 14.95,
+      "total_price": 118.95,
+      "shipping_verified": true,
+      "baseline_price": 125.0,
+      "baseline_raw_count": 48,
+      "baseline_pre_filter_count": 41,
+      "baseline_final_count": 19,
+      "baseline_raw_min": 20.0,
+      "baseline_raw_max": 1999.99,
+      "gapPct": 4.84,
+      "confidence": "high",
+      "seller_rating": 99.3,
+      "seller_feedback_count": 2751,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "1_to_9",
+      "serpapi_baseline": 125.0,
+      "active_scan_baseline": 125.0,
+      "effective_baseline": 125.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-05-24T03:23:53.696018+00:00",
+      "_last_seen_at": "2026-05-24T03:23:53.696018+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
-    "retailer_deals": 0,
-    "total_merged": 1,
-    "retailer_deals_visible": false
+    "ebay_deals": 0,
+    "retailer_deals": 1,
+    "total_merged": 0,
+    "retailer_deals_visible": true
   }
 }
