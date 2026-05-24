@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T14:23:08.265845+00:00",
+  "timestamp": "2026-05-24T15:23:54.234877+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,26 +7,76 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
-  "all_deals_count": 5,
+  "total_deals": 1,
+  "all_deals_count": 6,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 1
+    },
+    "by_product_type": {
+      "etb": 1
+    },
+    "by_gap_bucket": {
+      "20_plus": 1
+    },
+    "by_source": {
+      "ebay": 1
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Obsidian Flames"
+    ],
+    "product_type": [
+      "etb"
+    ],
+    "gap_bucket": [
+      "20_plus"
+    ]
   },
-  "deals": [],
+  "deals": [
+    {
+      "title": "Pokemon Obsidian Flames Lot 600+ Cards: Pack Scizor IR EX Umbreon ETB RH/Holos",
+      "url": "https://www.ebay.com/itm/406713385346?_skw=pokemon+Obsidian+Flames+booster+box&hash=item5eb201c182:g:joEAAeSwVptpmLLm&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZ1wuvIKEi8a%2B08YQm1mvXCxf735DY43wlG6gJOxM%2FXjjMPNbQu7YZhO3IqrXjYt8i7JRAgdTNwmfbj5d9ZjiWVDWumAdn3ic1e4ZZFoBbG5ubdpVpMpi3phLcWa%2FDM5orfEVcOuZ3jzr%2FikCuRI3r3cBu9dbHEvSdtkmjI0Vo4cV%2Fm9mVhk%2FnyB8iSx0Av%2BBrmv%2FqRz8XNVqKOyRoP4dpwvYp%2FTa5bjARPMwDHbWl0XW0kkxWdL5zUmV9IDmbSr8xyfzvP%2BeILhSrYNdfgBj9FXenLjR8MFwgTvq3y7NPEclUoVwTVIiAlcbLnqVJit4g%3D",
+      "franchise": "pokemon",
+      "set": "Obsidian Flames",
+      "product_type": "etb",
+      "price": 189.99,
+      "shipping_cost": 0.0,
+      "total_price": 189.99,
+      "shipping_verified": true,
+      "baseline_price": 264.05,
+      "baseline_raw_count": 20,
+      "baseline_pre_filter_count": 18,
+      "baseline_final_count": 9,
+      "baseline_raw_min": 149.0,
+      "baseline_raw_max": 3350.0,
+      "gapPct": 28.05,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 344,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 264.05,
+      "active_scan_baseline": 310.0,
+      "effective_baseline": 264.05,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 17.4
+    }
+  ],
   "watchlist_deals": [
     {
       "title": "Pokemon Scarlet & Violet Paradox Rift Elite Trainer Box 2023 New in Sealed Box",
@@ -62,7 +112,7 @@
       "baseline_drift_pct": 126.67,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-24T09:03:52.571839+00:00",
-      "_last_seen_at": "2026-05-24T09:05:03.682456+00:00"
+      "_last_seen_at": "2026-05-24T15:23:54.233051+00:00"
     },
     {
       "title": "Sealed Japanese OP-01-OP-15 OP-09 One Piece Card The Four Emperors Booster Box",
@@ -98,7 +148,7 @@
       "baseline_drift_pct": 34.33,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-24T09:43:39.286613+00:00",
-      "_last_seen_at": "2026-05-24T14:23:08.264170+00:00"
+      "_last_seen_at": "2026-05-24T15:23:54.233051+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (36 pack) Brand New & Sealed",
@@ -133,8 +183,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 34.41,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-24T14:23:08.264170+00:00",
-      "_last_seen_at": "2026-05-24T14:23:08.264170+00:00"
+      "_first_seen_at": "2026-05-24T15:23:54.233051+00:00",
+      "_last_seen_at": "2026-05-24T15:23:54.233051+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -169,8 +219,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-24T14:23:08.264170+00:00",
-      "_last_seen_at": "2026-05-24T14:23:08.264170+00:00"
+      "_first_seen_at": "2026-05-24T15:23:54.233051+00:00",
+      "_last_seen_at": "2026-05-24T15:23:54.233051+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
@@ -206,16 +256,16 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-24T09:03:52.571839+00:00",
-      "_last_seen_at": "2026-05-24T09:05:03.682456+00:00"
+      "_last_seen_at": "2026-05-24T15:23:54.233051+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 1,
     "retailer_deals": 0,
-    "total_merged": 0,
+    "total_merged": 1,
     "retailer_deals_visible": false
   }
 }
