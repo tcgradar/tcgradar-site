@@ -1,33 +1,119 @@
 {
-  "timestamp": "2026-05-25T06:22:50.215926+00:00",
+  "timestamp": "2026-05-25T07:03:22.106644+00:00",
   "non_ebay_stats": {
-    "detected": 0,
+    "detected": 1,
     "in_output": 0,
     "in_best_deals": 0,
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
-  "all_deals_count": 4,
+  "total_deals": 1,
+  "all_deals_count": 6,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 1
+    },
+    "by_product_type": {
+      "booster_box": 1
+    },
+    "by_gap_bucket": {
+      "20_plus": 1
+    },
+    "by_source": {
+      "ebay": 1
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Fusion Strike"
+    ],
+    "product_type": [
+      "booster_box"
+    ],
+    "gap_bucket": [
+      "20_plus"
+    ]
   },
-  "deals": [],
+  "deals": [
+    {
+      "title": "Pokemon TCG Mini Fusion Strike Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205753677261?_skw=pokemon+Fusion+Strike+booster+box&hash=item2fe7dff5cd:g:-CYAAeSwn75o2oQI",
+      "franchise": "pokemon",
+      "set": "Fusion Strike",
+      "product_type": "booster_box",
+      "price": 681.08,
+      "shipping_cost": 44.08,
+      "total_price": 681.08,
+      "shipping_verified": true,
+      "baseline_price": 975.0,
+      "baseline_raw_count": 30,
+      "baseline_pre_filter_count": 26,
+      "baseline_final_count": 18,
+      "baseline_raw_min": 637.0,
+      "baseline_raw_max": 9000.0,
+      "gapPct": 30.15,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1658,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 975.0,
+      "active_scan_baseline": 1230.23,
+      "effective_baseline": 975.0,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 26.18
+    }
+  ],
   "watchlist_deals": [
+    {
+      "title": "POKEMON 36 LOST ORIGIN FACTORY SEALED BOOSTER PACKS = BOOSTER BOX EQUIVALENT",
+      "url": "https://www.ebay.com/itm/366430396458?_skw=pokemon+Lost+Origin+booster+box&hash=item5550f4202a:g:wSsAAeSwhENqBiHx",
+      "franchise": "pokemon",
+      "set": "Lost Origin",
+      "product_type": "booster_box",
+      "price": 649.99,
+      "shipping_cost": 0.0,
+      "total_price": 649.99,
+      "shipping_verified": true,
+      "baseline_price": 937.87,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 17,
+      "baseline_final_count": 8,
+      "baseline_raw_min": 649.99,
+      "baseline_raw_max": 7999.99,
+      "gapPct": 30.7,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 10768,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 710.0,
+      "active_scan_baseline": 937.87,
+      "effective_baseline": 937.87,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 32.09,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-25T07:03:22.104859+00:00",
+      "_last_seen_at": "2026-05-25T07:03:22.104859+00:00"
+    },
     {
       "title": "Pokemon TCG | Destined Rivals | 18 Pack Booster Box | New & Sealed | X2 🔥",
       "url": "https://www.ebay.com/itm/318355300017?_skw=pokemon+Destined+Rivals+booster+box&hash=item4a1f745eb1:g:elMAAeSw1rlqEs2W",
@@ -62,7 +148,7 @@
       "baseline_drift_pct": 32.69,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T05:44:16.906611+00:00",
-      "_last_seen_at": "2026-05-25T06:22:50.214393+00:00"
+      "_last_seen_at": "2026-05-25T07:03:22.104859+00:00"
     },
     {
       "title": "Sealed Japanese OP-01-OP-15 OP-09 One Piece Card The Four Emperors Booster Box",
@@ -132,25 +218,25 @@
       "_last_seen_at": "2026-05-25T05:04:03.183220+00:00"
     },
     {
-      "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
-      "url": "https://www.ebay.com/itm/257510559029?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf4d34d35:g:AIQAAeSwYOtqCaW3",
+      "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
+      "url": "https://www.ebay.com/itm/298230588698?_skw=pokemon+Battle+Styles+booster+box&hash=item456feda51a:g:aSkAAeSwJVdp4BVs",
       "franchise": "pokemon",
       "set": "Battle Styles",
       "product_type": "etb",
-      "price": 100.0,
+      "price": 99.0,
       "shipping_cost": 0.0,
-      "total_price": 100.0,
+      "total_price": 99.0,
       "shipping_verified": false,
-      "baseline_price": 124.5,
+      "baseline_price": 122.25,
       "baseline_raw_count": 23,
       "baseline_pre_filter_count": 21,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 100.0,
+      "baseline_final_count": 12,
+      "baseline_raw_min": 99.0,
       "baseline_raw_max": 1399.99,
-      "gapPct": 19.68,
+      "gapPct": 19.02,
       "confidence": "high",
-      "seller_rating": 99.3,
-      "seller_feedback_count": 1500,
+      "seller_rating": 100.0,
+      "seller_feedback_count": 507,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
@@ -158,23 +244,23 @@
       "deal_quality": "medium",
       "gap_bucket": "10_to_19",
       "serpapi_baseline": 90.62,
-      "active_scan_baseline": 124.5,
-      "effective_baseline": 124.5,
+      "active_scan_baseline": 122.25,
+      "effective_baseline": 122.25,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 37.39,
+      "baseline_drift_pct": 34.9,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-25T06:22:50.214393+00:00",
-      "_last_seen_at": "2026-05-25T06:22:50.214393+00:00"
+      "_first_seen_at": "2026-05-25T07:03:22.104859+00:00",
+      "_last_seen_at": "2026-05-25T07:03:22.104859+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
-    "retailer_deals": 0,
-    "total_merged": 0,
-    "retailer_deals_visible": false
+    "ebay_deals": 1,
+    "retailer_deals": 1,
+    "total_merged": 1,
+    "retailer_deals_visible": true
   }
 }
