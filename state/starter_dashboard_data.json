@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T08:22:52.263692+00:00",
+  "timestamp": "2026-05-25T09:03:25.382464+00:00",
   "non_ebay_stats": {
     "detected": 1,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 5,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 32.69,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T05:44:16.906611+00:00",
-      "_last_seen_at": "2026-05-25T08:22:52.261882+00:00"
+      "_last_seen_at": "2026-05-25T09:03:25.380490+00:00"
     },
     {
       "title": "Sealed Japanese OP-01-OP-15 OP-09 One Piece Card The Four Emperors Booster Box",
@@ -164,8 +164,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.39,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-25T08:22:52.261882+00:00",
-      "_last_seen_at": "2026-05-25T08:22:52.261882+00:00"
+      "_first_seen_at": "2026-05-25T09:03:25.380490+00:00",
+      "_last_seen_at": "2026-05-25T09:03:25.380490+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) - Brand new - Sealed",
@@ -202,6 +202,42 @@
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T05:02:52.640133+00:00",
       "_last_seen_at": "2026-05-25T05:04:03.183220+00:00"
+    },
+    {
+      "title": "Pokemon Twilight Masquerade ETB Elite Trainer Box Sealed",
+      "url": "https://www.ebay.com/itm/318222402194?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item4a17888292:g:1wUAAeSwQ-tptaAg",
+      "franchise": "pokemon",
+      "set": "Twilight Masquerade",
+      "product_type": "etb",
+      "price": 99.0,
+      "shipping_cost": 0.0,
+      "total_price": 99.0,
+      "shipping_verified": false,
+      "baseline_price": 119.99,
+      "baseline_raw_count": 30,
+      "baseline_pre_filter_count": 24,
+      "baseline_final_count": 13,
+      "baseline_raw_min": 99.0,
+      "baseline_raw_max": 1100.0,
+      "gapPct": 17.49,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 129,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 89.99,
+      "active_scan_baseline": 119.99,
+      "effective_baseline": 119.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 33.34,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-25T09:03:25.380490+00:00",
+      "_last_seen_at": "2026-05-25T09:03:25.380490+00:00"
     }
   ],
   "empty_watchlist": false,
