@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T20:43:03.847764+00:00",
+  "timestamp": "2026-05-25T21:23:35.401243+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,76 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 6,
+  "total_deals": 0,
+  "all_deals_count": 5,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "10_to_19": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Destined Rivals"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "10_to_19"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon Destined Rivals Elite Trainer Box Sealed",
-      "url": "https://www.ebay.com/itm/366433149407?_skw=pokemon+Destined+Rivals+booster+box&hash=item55511e21df:g:IakAAeSwXf5qFE8H",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "etb",
-      "price": 180.0,
-      "shipping_cost": 0.0,
-      "total_price": 180.0,
-      "shipping_verified": false,
-      "baseline_price": 219.0,
-      "baseline_raw_count": 19,
-      "baseline_pre_filter_count": 19,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 180.0,
-      "baseline_raw_max": 2689.95,
-      "gapPct": 17.81,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 111,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 219.0,
-      "active_scan_baseline": 200.0,
-      "effective_baseline": 219.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 8.68
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Sealed Japanese OP-01-OP-15 OP-09 One Piece Card The Four Emperors Booster Box",
@@ -112,7 +62,7 @@
       "baseline_drift_pct": 34.33,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T17:43:28.254571+00:00",
-      "_last_seen_at": "2026-05-25T18:00:01.727411+00:00"
+      "_last_seen_at": "2026-05-25T21:23:35.399522+00:00"
     },
     {
       "title": "Destined Rivals Booster Box Open - 36 Sealed Packs Pokemon TCG Scarlet & Violet",
@@ -148,7 +98,7 @@
       "baseline_drift_pct": 31.87,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T19:43:20.467046+00:00",
-      "_last_seen_at": "2026-05-25T20:43:03.845910+00:00"
+      "_last_seen_at": "2026-05-25T21:23:35.399522+00:00"
     },
     {
       "title": "Pokemon TCG Shrouded Fable Booster Bundle Factory Sealed",
@@ -219,8 +169,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.93,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-25T20:43:03.845910+00:00",
-      "_last_seen_at": "2026-05-25T20:43:03.845910+00:00"
+      "_first_seen_at": "2026-05-25T21:23:35.399522+00:00",
+      "_last_seen_at": "2026-05-25T21:23:35.399522+00:00"
     },
     {
       "title": "Pokemon TCG | Destined Rivals | 18 Pack Booster Box | New & Sealed | X2 🔥",
@@ -258,9 +208,9 @@
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }

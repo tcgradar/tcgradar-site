@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T20:44:15.814783+00:00",
+    "generated_at": "2026-05-25T21:24:42.395761+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 8,
@@ -108,7 +108,7 @@
       "old_gapPct": 50.94315736169135,
       "gapPct": 50.94,
       "bids": 22,
-      "time_remaining": 29.77470854611111,
+      "time_remaining": 29.099740579722223,
       "opportunity_type": "ongoing",
       "url": "https://www.ebay.com/itm/147323268746?_skw=Pokemon+Destined+Rivals+booster+box&hash=item224d26ae8a:g:tkMAAeSwK4lqD2g1",
       "franchise": "pokemon",
