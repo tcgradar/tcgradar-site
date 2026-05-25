@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T22:03:06.259360+00:00",
+  "timestamp": "2026-05-25T22:42:56.803990+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 31.87,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T19:43:20.467046+00:00",
-      "_last_seen_at": "2026-05-25T22:00:01.094226+00:00"
+      "_last_seen_at": "2026-05-25T22:42:56.801981+00:00"
     },
     {
       "title": "Pokemon TCG | Destined Rivals | 18 Pack Booster Box | New & Sealed | X2 🔥",
@@ -134,7 +134,7 @@
       "baseline_drift_pct": 32.69,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T22:03:06.257391+00:00",
-      "_last_seen_at": "2026-05-25T22:03:06.257391+00:00"
+      "_last_seen_at": "2026-05-25T22:04:19.962705+00:00"
     },
     {
       "title": "Pokemon TCG Shrouded Fable Booster Bundle Factory Sealed",
@@ -206,7 +206,7 @@
       "baseline_drift_pct": 32.42,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T22:03:06.257391+00:00",
-      "_last_seen_at": "2026-05-25T22:03:06.257391+00:00"
+      "_last_seen_at": "2026-05-25T22:42:56.801981+00:00"
     },
     {
       "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
@@ -233,7 +233,7 @@
       "_first_seen_at": "2026-05-25T22:00:01.094226+00:00",
       "_last_seen_at": "2026-05-25T22:00:01.094226+00:00",
       "serpapi_baseline": 311.97,
-      "active_scan_baseline": 386.94,
+      "active_scan_baseline": 311.97,
       "effective_baseline": 311.97,
       "baseline_cap_applied": false,
       "baseline_stale": false,
