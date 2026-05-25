@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T17:03:48.633238+00:00",
+  "timestamp": "2026-05-25T17:43:28.256250+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 1,
-  "all_deals_count": 5,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {
       "pokemon": 1
@@ -17,7 +17,7 @@
       "etb": 1
     },
     "by_gap_bucket": {
-      "20_plus": 1
+      "10_to_19": 1
     },
     "by_source": {
       "ebay": 1
@@ -33,51 +33,87 @@
       "pokemon"
     ],
     "set": [
-      "Shrouded Fable"
+      "Destined Rivals"
     ],
     "product_type": [
       "etb"
     ],
     "gap_bucket": [
-      "20_plus"
+      "10_to_19"
     ]
   },
   "deals": [
     {
-      "title": "Pokemon TCG Scarlet & Violet Shrouded Fable Elite Trainer Box Sealed",
-      "url": "https://www.ebay.com/itm/198377393369?_skw=pokemon+Shrouded+Fable+booster+box&hash=item2e3036ccd9:g:~WIAAeSwwkBpoFHQ",
+      "title": "Pokemon Destined Rivals Elite Trainer Box Sealed",
+      "url": "https://www.ebay.com/itm/366433149407?_skw=pokemon+Destined+Rivals+booster+box&hash=item55511e21df:g:IakAAeSwXf5qFE8H",
       "franchise": "pokemon",
-      "set": "Shrouded Fable",
+      "set": "Destined Rivals",
       "product_type": "etb",
-      "price": 100.0,
+      "price": 180.0,
       "shipping_cost": 0.0,
-      "total_price": 100.0,
+      "total_price": 180.0,
       "shipping_verified": false,
-      "baseline_price": 125.0,
-      "baseline_raw_count": 45,
-      "baseline_pre_filter_count": 38,
-      "baseline_final_count": 18,
-      "baseline_raw_min": 20.0,
-      "baseline_raw_max": 1999.99,
-      "gapPct": 20.0,
+      "baseline_price": 219.0,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 19,
+      "baseline_final_count": 10,
+      "baseline_raw_min": 180.0,
+      "baseline_raw_max": 2689.95,
+      "gapPct": 17.81,
       "confidence": "high",
       "seller_rating": 100.0,
-      "seller_feedback_count": 697,
+      "seller_feedback_count": 111,
       "language": "EN",
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 125.0,
-      "active_scan_baseline": 149.99,
-      "effective_baseline": 125.0,
+      "gap_bucket": "10_to_19",
+      "serpapi_baseline": 219.0,
+      "active_scan_baseline": 201.31,
+      "effective_baseline": 219.0,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 19.99
+      "baseline_drift_pct": 8.08
     }
   ],
   "watchlist_deals": [
+    {
+      "title": "Sealed Japanese OP-01-OP-15 OP-09 One Piece Card The Four Emperors Booster Box",
+      "url": "https://www.ebay.com/itm/236785618030?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item372185cc6e:g:WOAAAeSwWz1p8VN2&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZh3NolHhBTN%2FRizIjEjZhxqsZ%2Fiy41bh%2Fse7hkBbkIYEb3wyQyi121Ilgn8Y%2FR%2F%2BHlfVyDCZAiqy9nVJnwPZegE7P7Pmh5MGrSgwDUe2FZ%2FphdMKSDZqtj5bnrxBNDzC9E%2FUE2QJ9a5MX4I2HQ4XIi4E4pfqW5eK6TPIM7zJFbSNqa9wMedrP2IQkAo5%2BTg0lrLaIqHQJD6kav4BQtZ6v2--wfUzPVkE5gyd4krn0CdlmpG2u3Q9PEUUBX%2Fa27nPTookGJmMe8ysgKc6%2FmkE1BreAukFPRV6Gi9YrY3ZiHYFxcV2UVChyRI0voaeVeVAPME2Cb10uxlvYVX1aDMpDy",
+      "franchise": "onepiece",
+      "set": "Emperors in the New World",
+      "product_type": "booster_box",
+      "price": 79.99,
+      "shipping_cost": 0.0,
+      "total_price": 79.99,
+      "shipping_verified": false,
+      "baseline_price": 141.03,
+      "baseline_raw_count": 101,
+      "baseline_pre_filter_count": 81,
+      "baseline_final_count": 8,
+      "baseline_raw_min": 69.99,
+      "baseline_raw_max": 9999.99,
+      "gapPct": 43.28,
+      "confidence": "medium",
+      "seller_rating": 99.3,
+      "seller_feedback_count": 187,
+      "language": "JP",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 104.99,
+      "active_scan_baseline": 141.03,
+      "effective_baseline": 141.03,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 34.33,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-25T17:43:28.254571+00:00",
+      "_last_seen_at": "2026-05-25T17:43:28.254571+00:00"
+    },
     {
       "title": "Pokemon TCG Shrouded Fable Booster Bundle Factory Sealed",
       "url": "https://www.ebay.com/itm/257521255163?_skw=pokemon+Shrouded+Fable+booster+box&hash=item3bf57682fb:g:zSQAAeSwz5hqESAY",
@@ -112,7 +148,7 @@
       "baseline_drift_pct": 46.22,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T17:03:48.631877+00:00",
-      "_last_seen_at": "2026-05-25T17:03:48.631877+00:00"
+      "_last_seen_at": "2026-05-25T17:05:10.628659+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -148,7 +184,7 @@
       "baseline_drift_pct": 32.41,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T17:03:48.631877+00:00",
-      "_last_seen_at": "2026-05-25T17:03:48.631877+00:00"
+      "_last_seen_at": "2026-05-25T17:43:28.254571+00:00"
     },
     {
       "title": "Pokemon Temporal Forces Elite Trainer Box Iron Leaves Factory Sealed",
@@ -209,7 +245,7 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T14:00:01.697277+00:00",
-      "_last_seen_at": "2026-05-25T17:03:48.631877+00:00",
+      "_last_seen_at": "2026-05-25T17:43:28.254571+00:00",
       "serpapi_baseline": 473.94,
       "active_scan_baseline": 473.94,
       "effective_baseline": 473.94,
