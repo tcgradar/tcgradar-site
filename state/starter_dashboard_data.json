@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T05:02:52.641954+00:00",
+  "timestamp": "2026-05-25T05:42:53.547178+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 34.41,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-24T21:43:39.764187+00:00",
-      "_last_seen_at": "2026-05-25T05:00:01.307373+00:00"
+      "_last_seen_at": "2026-05-25T05:42:53.545372+00:00"
     },
     {
       "title": "Sealed Japanese OP-01-OP-15 OP-09 One Piece Card The Four Emperors Booster Box",
@@ -129,7 +129,7 @@
       "baseline_drift_pct": 34.41,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T05:02:52.640133+00:00",
-      "_last_seen_at": "2026-05-25T05:02:52.640133+00:00"
+      "_last_seen_at": "2026-05-25T05:04:03.183220+00:00"
     },
     {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
@@ -165,7 +165,7 @@
       "baseline_drift_pct": 37.39,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T05:02:52.640133+00:00",
-      "_last_seen_at": "2026-05-25T05:02:52.640133+00:00"
+      "_last_seen_at": "2026-05-25T05:42:53.545372+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
