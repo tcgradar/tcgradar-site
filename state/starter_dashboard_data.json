@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T19:43:20.468846+00:00",
+  "timestamp": "2026-05-25T20:43:03.847764+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -54,9 +54,9 @@
       "total_price": 180.0,
       "shipping_verified": false,
       "baseline_price": 219.0,
-      "baseline_raw_count": 17,
-      "baseline_pre_filter_count": 17,
-      "baseline_final_count": 8,
+      "baseline_raw_count": 19,
+      "baseline_pre_filter_count": 19,
+      "baseline_final_count": 9,
       "baseline_raw_min": 180.0,
       "baseline_raw_max": 2689.95,
       "gapPct": 17.81,
@@ -148,7 +148,7 @@
       "baseline_drift_pct": 31.87,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T19:43:20.467046+00:00",
-      "_last_seen_at": "2026-05-25T19:43:20.467046+00:00"
+      "_last_seen_at": "2026-05-25T20:43:03.845910+00:00"
     },
     {
       "title": "Pokemon TCG Shrouded Fable Booster Bundle Factory Sealed",
@@ -196,13 +196,13 @@
       "shipping_cost": 0.0,
       "total_price": 99.0,
       "shipping_verified": false,
-      "baseline_price": 119.99,
-      "baseline_raw_count": 23,
-      "baseline_pre_filter_count": 22,
+      "baseline_price": 124.99,
+      "baseline_raw_count": 25,
+      "baseline_pre_filter_count": 24,
       "baseline_final_count": 13,
       "baseline_raw_min": 99.0,
-      "baseline_raw_max": 1399.99,
-      "gapPct": 17.49,
+      "baseline_raw_max": 999.98,
+      "gapPct": 20.79,
       "confidence": "high",
       "seller_rating": 100.0,
       "seller_feedback_count": 507,
@@ -211,16 +211,16 @@
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
+      "gap_bucket": "20_plus",
       "serpapi_baseline": 90.62,
-      "active_scan_baseline": 119.99,
-      "effective_baseline": 119.99,
+      "active_scan_baseline": 124.99,
+      "effective_baseline": 124.99,
       "baseline_cap_applied": false,
       "baseline_stale": true,
-      "baseline_drift_pct": 32.41,
+      "baseline_drift_pct": 37.93,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-25T19:04:31.046164+00:00",
-      "_last_seen_at": "2026-05-25T19:43:20.467046+00:00"
+      "_first_seen_at": "2026-05-25T20:43:03.845910+00:00",
+      "_last_seen_at": "2026-05-25T20:43:03.845910+00:00"
     },
     {
       "title": "Pokemon TCG | Destined Rivals | 18 Pack Booster Box | New & Sealed | X2 🔥",
@@ -259,8 +259,8 @@
   "_single_writer_info": {
     "version": "v2.0",
     "ebay_deals": 1,
-    "retailer_deals": 1,
+    "retailer_deals": 0,
     "total_merged": 1,
-    "retailer_deals_visible": true
+    "retailer_deals_visible": false
   }
 }
