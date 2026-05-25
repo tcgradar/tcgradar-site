@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T23:43:09.880957+00:00",
+  "timestamp": "2026-05-25T00:23:10.596668+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 34.41,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-24T21:43:39.764187+00:00",
-      "_last_seen_at": "2026-05-24T23:43:09.879215+00:00"
+      "_last_seen_at": "2026-05-25T00:23:10.594905+00:00"
     },
     {
       "title": "Destined Rivals Booster Box Factory Sealed - Pokemon TCG",
@@ -123,7 +123,7 @@
       "gap_bucket": "20_plus",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-24T18:00:01.497469+00:00",
-      "_last_seen_at": "2026-05-24T23:43:09.879215+00:00",
+      "_last_seen_at": "2026-05-25T00:23:10.594905+00:00",
       "serpapi_baseline": 104.99,
       "active_scan_baseline": 104.99,
       "effective_baseline": 104.99,
@@ -143,7 +143,7 @@
       "shipping_verified": false,
       "baseline_price": 124.5,
       "baseline_raw_count": 23,
-      "baseline_pre_filter_count": 23,
+      "baseline_pre_filter_count": 22,
       "baseline_final_count": 13,
       "baseline_raw_min": 99.0,
       "baseline_raw_max": 1399.99,
@@ -164,8 +164,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.39,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-24T23:03:14.278710+00:00",
-      "_last_seen_at": "2026-05-24T23:43:09.879215+00:00"
+      "_first_seen_at": "2026-05-25T00:23:10.594905+00:00",
+      "_last_seen_at": "2026-05-25T00:23:10.594905+00:00"
     },
     {
       "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
