@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_at": "2026-05-25T01:44:26.125927+00:00",
+    "generated_at": "2026-05-25T02:25:02.527971+00:00",
     "source_file": "/root/.openclaw/workspace/alerts/state/auction_tracking.json",
     "version": "STEP_92D_SERPAPI_BASELINE",
     "raw_count": 9,
-    "filtered_count": 1,
+    "filtered_count": 2,
     "filter_criteria": {
       "min_gap": 10.0,
       "max_bids": 50,
@@ -108,7 +108,7 @@
       "old_gapPct": 51.99814322488079,
       "gapPct": 52.0,
       "bids": 21,
-      "time_remaining": 48.77243082583333,
+      "time_remaining": 48.09594482,
       "opportunity_type": "early",
       "url": "https://www.ebay.com/itm/147323268746?_skw=Pokemon+Destined+Rivals+booster+box&hash=item224d26ae8a:g:tkMAAeSwK4lqD2g1",
       "franchise": "pokemon",
@@ -116,6 +116,29 @@
       "product_type": "booster_box",
       "seller_trust": "HIGH",
       "opportunity_score": 65,
+      "deal_quality": "medium"
+    },
+    {
+      "title": "One Piece TCG OP05 Awakening of the New Era English Sealed Booster Box",
+      "current_price": 741.0,
+      "shipping_cost": 18.0,
+      "total_price": 759.0,
+      "baseline": 957.0,
+      "baseline_source": "serpapi",
+      "baseline_key": "onepiece|awakening_of_the_new_era|booster_box|en|standard",
+      "serpapi_sample_size": 43,
+      "old_baseline": 957.0,
+      "old_gapPct": 20.689655172413794,
+      "gapPct": 22.57,
+      "bids": 43,
+      "time_remaining": 23.609781591388888,
+      "opportunity_type": "ongoing",
+      "url": "https://www.ebay.com/itm/377193264843?_skw=One+Piece+Awakening+of+the+New+Era+booster+box&hash=item57d27876cb:g:TzoAAeSw7LZqCzMD",
+      "franchise": "onepiece",
+      "set": "Awakening of the New Era",
+      "product_type": "booster_box",
+      "seller_trust": "HIGH",
+      "opportunity_score": 40,
       "deal_quality": "medium"
     }
   ]
