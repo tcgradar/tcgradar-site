@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-25T11:03:12.978938+00:00",
+  "timestamp": "2026-05-25T11:42:58.468708+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 32.69,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T05:44:16.906611+00:00",
-      "_last_seen_at": "2026-05-25T11:03:12.977066+00:00"
+      "_last_seen_at": "2026-05-25T11:42:58.466850+00:00"
     },
     {
       "title": "Pokemon Trading Sword & Shield Battle Styles 133+ cards,  Elite Trainer Box, Red",
@@ -134,7 +134,7 @@
       "baseline_drift_pct": 37.39,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T11:03:12.977066+00:00",
-      "_last_seen_at": "2026-05-25T11:03:12.977066+00:00"
+      "_last_seen_at": "2026-05-25T11:42:58.466850+00:00"
     },
     {
       "title": "Pokemon TCG Destined Rivals Booster Box (36 Pack Box) - Brand new - Sealed",
@@ -242,7 +242,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "small_gap",
       "_first_seen_at": "2026-05-25T11:03:12.977066+00:00",
-      "_last_seen_at": "2026-05-25T11:03:12.977066+00:00"
+      "_last_seen_at": "2026-05-25T11:04:26.213900+00:00"
     }
   ],
   "empty_watchlist": false,
