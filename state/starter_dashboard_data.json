@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-26T03:43:39.962989+00:00",
+  "timestamp": "2026-05-26T04:23:11.025927+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 7,
+  "all_deals_count": 6,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 34.33,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T01:44:14.492776+00:00",
-      "_last_seen_at": "2026-05-26T03:43:39.960793+00:00"
+      "_last_seen_at": "2026-05-26T04:23:11.023965+00:00"
     },
     {
       "title": "Destined Rivals Booster Box Open - 36 Sealed Packs Pokemon TCG Scarlet & Violet",
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 31.87,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T03:43:39.960793+00:00",
-      "_last_seen_at": "2026-05-26T03:43:39.960793+00:00"
+      "_last_seen_at": "2026-05-26T04:23:11.023965+00:00"
     },
     {
       "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
@@ -169,8 +169,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-26T03:03:35.567461+00:00",
-      "_last_seen_at": "2026-05-26T03:43:39.960793+00:00"
+      "_first_seen_at": "2026-05-26T04:23:11.023965+00:00",
+      "_last_seen_at": "2026-05-26T04:23:11.023965+00:00"
     },
     {
       "title": "Pokemon TCG | Destined Rivals | 18 Pack Booster Box | New & Sealed | X2 🔥",
@@ -209,42 +209,6 @@
       "_last_seen_at": "2026-05-25T22:04:19.962705+00:00"
     },
     {
-      "title": "Pokemon Twilight Masquerade ETB Elite Trainer Box Sealed",
-      "url": "https://www.ebay.com/itm/318222402194?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item4a17888292:g:1wUAAeSwQ-tptaAg",
-      "franchise": "pokemon",
-      "set": "Twilight Masquerade",
-      "product_type": "etb",
-      "price": 99.0,
-      "shipping_cost": 0.0,
-      "total_price": 99.0,
-      "shipping_verified": false,
-      "baseline_price": 117.0,
-      "baseline_raw_count": 27,
-      "baseline_pre_filter_count": 22,
-      "baseline_final_count": 14,
-      "baseline_raw_min": 99.0,
-      "baseline_raw_max": 402.99,
-      "gapPct": 15.38,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 130,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 89.99,
-      "active_scan_baseline": 117.0,
-      "effective_baseline": 117.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 30.01,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-26T03:43:39.960793+00:00",
-      "_last_seen_at": "2026-05-26T03:43:39.960793+00:00"
-    },
-    {
       "title": "36 Twilight Masquerade Booster Packs Sealed + Booster Box Plastic Case - Pokemon",
       "url": "https://www.ebay.com/itm/137288618460?_skw=pokemon+Twilight+Masquerade+booster+box&hash=item1ff70a11dc:g:fyIAAeSwm6Zp7tnB",
       "franchise": "pokemon",
@@ -267,7 +231,7 @@
       "gap_bucket": "1_to_9",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-25T22:00:01.094226+00:00",
-      "_last_seen_at": "2026-05-25T22:00:01.094226+00:00",
+      "_last_seen_at": "2026-05-26T04:00:01.697975+00:00",
       "serpapi_baseline": 311.97,
       "active_scan_baseline": 311.97,
       "effective_baseline": 311.97,
