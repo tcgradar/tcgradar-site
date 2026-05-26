@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-26T15:23:04.130424+00:00",
+  "timestamp": "2026-05-26T16:03:32.391914+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -54,7 +54,7 @@
       "total_price": 67.0,
       "shipping_verified": true,
       "baseline_price": 79.99,
-      "baseline_raw_count": 25,
+      "baseline_raw_count": 26,
       "baseline_pre_filter_count": 23,
       "baseline_final_count": 9,
       "baseline_raw_min": 67.0,
@@ -183,8 +183,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-26T15:23:04.128849+00:00",
-      "_last_seen_at": "2026-05-26T15:23:04.128849+00:00"
+      "_first_seen_at": "2026-05-26T16:03:32.390347+00:00",
+      "_last_seen_at": "2026-05-26T16:03:32.390347+00:00"
     },
     {
       "title": "Destined Rivals Booster Box Open - 36 Sealed Packs Pokemon TCG Scarlet & Violet",
@@ -209,7 +209,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T12:00:01.564136+00:00",
-      "_last_seen_at": "2026-05-26T15:23:04.128849+00:00",
+      "_last_seen_at": "2026-05-26T16:03:32.390347+00:00",
       "serpapi_baseline": 473.94,
       "active_scan_baseline": 473.94,
       "effective_baseline": 473.94,
