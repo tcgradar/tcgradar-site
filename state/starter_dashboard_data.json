@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-26T18:43:23.456801+00:00",
+  "timestamp": "2026-05-26T19:22:57.703598+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,76 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
-  "all_deals_count": 7,
+  "total_deals": 0,
+  "all_deals_count": 6,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "20_plus": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Obsidian Flames"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Pokemon Obsidian Flames Lot 600+ Cards: Pack Scizor IR EX Umbreon ETB RH/Holos",
-      "url": "https://www.ebay.com/itm/406713385346?_skw=pokemon+Obsidian+Flames+booster+box&hash=item5eb201c182:g:joEAAeSwVptpmLLm&amdata=enc%3AAQALAAABAACCtXRWQnOEpyOqnQQ8KGZ1wuvIKEi8a%2B08YQm1mvXCxf735DY43wlG6gJOxM%2FXjjMPNbQu7YZhO3IqrXjYt8i7JRAgdTNwmfbj5d9ZjiWVDWumAdn3ic1e4ZZFoBbG5ubdpVpMpi3phLcWa%2FDM5oocwXP3ML5mUWJ6aouVyvj4jsOXBbSJakecs%2FLwd0MsqL6DqzE0r76rs4CBsU2WdbeMT3QwxAuv6Uwfwd3F7FPTovGXMt9p5XngySOqLiZldVvDnejsiuUL9w74XOMxef5CIxGkmEnTJNO%2BN7gjx5oqlYtbgKL2PZtCzteAiUX5fjncP6wh3sO2pCCeLKUb2rs%3D",
-      "franchise": "pokemon",
-      "set": "Obsidian Flames",
-      "product_type": "etb",
-      "price": 189.99,
-      "shipping_cost": 0.0,
-      "total_price": 189.99,
-      "shipping_verified": true,
-      "baseline_price": 264.05,
-      "baseline_raw_count": 19,
-      "baseline_pre_filter_count": 17,
-      "baseline_final_count": 8,
-      "baseline_raw_min": 149.0,
-      "baseline_raw_max": 3350.0,
-      "gapPct": 28.05,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 345,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 264.05,
-      "active_scan_baseline": 309.99,
-      "effective_baseline": 264.05,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 17.4
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Pokemon TCG Paradox Rift [Roaring Moon] Elite Trainer Box New SEALED",
@@ -148,7 +98,7 @@
       "baseline_drift_pct": 35.04,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T17:23:07.945595+00:00",
-      "_last_seen_at": "2026-05-26T18:43:23.454810+00:00"
+      "_last_seen_at": "2026-05-26T19:22:57.701646+00:00"
     },
     {
       "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
@@ -199,9 +149,9 @@
       "baseline_price": 125.0,
       "baseline_raw_count": 22,
       "baseline_pre_filter_count": 20,
-      "baseline_final_count": 11,
+      "baseline_final_count": 10,
       "baseline_raw_min": 100.0,
-      "baseline_raw_max": 300.0,
+      "baseline_raw_max": 999.98,
       "gapPct": 20.0,
       "confidence": "high",
       "seller_rating": 99.3,
@@ -219,8 +169,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-26T18:02:59.180672+00:00",
-      "_last_seen_at": "2026-05-26T18:43:23.454810+00:00"
+      "_first_seen_at": "2026-05-26T19:22:57.701646+00:00",
+      "_last_seen_at": "2026-05-26T19:22:57.701646+00:00"
     },
     {
       "title": "Destined Rivals Booster Box Open - 36 Sealed Packs Pokemon TCG Scarlet & Violet",
@@ -245,7 +195,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T12:00:01.564136+00:00",
-      "_last_seen_at": "2026-05-26T18:43:23.454810+00:00",
+      "_last_seen_at": "2026-05-26T19:22:57.701646+00:00",
       "serpapi_baseline": 473.94,
       "active_scan_baseline": 473.94,
       "effective_baseline": 473.94,
@@ -287,16 +237,16 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T12:03:52.616614+00:00",
-      "_last_seen_at": "2026-05-26T18:43:23.454810+00:00"
+      "_last_seen_at": "2026-05-26T19:00:01.578437+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
