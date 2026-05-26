@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-26T12:03:52.617877+00:00",
+  "timestamp": "2026-05-26T12:43:18.152609+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 128.33,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T12:03:52.616614+00:00",
-      "_last_seen_at": "2026-05-26T12:03:52.616614+00:00"
+      "_last_seen_at": "2026-05-26T12:05:01.565258+00:00"
     },
     {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T12:03:52.616614+00:00",
-      "_last_seen_at": "2026-05-26T12:03:52.616614+00:00"
+      "_last_seen_at": "2026-05-26T12:43:18.151230+00:00"
     },
     {
       "title": "Destined Rivals Booster Box Open - 36 Sealed Packs Pokemon TCG Scarlet & Violet",
@@ -123,9 +123,9 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T12:00:01.564136+00:00",
-      "_last_seen_at": "2026-05-26T12:03:52.616614+00:00",
+      "_last_seen_at": "2026-05-26T12:43:18.151230+00:00",
       "serpapi_baseline": 473.94,
-      "active_scan_baseline": 625.0,
+      "active_scan_baseline": 473.94,
       "effective_baseline": 473.94,
       "baseline_cap_applied": false,
       "baseline_stale": false,
@@ -165,7 +165,7 @@
       "baseline_drift_pct": 0.0,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T12:03:52.616614+00:00",
-      "_last_seen_at": "2026-05-26T12:03:52.616614+00:00"
+      "_last_seen_at": "2026-05-26T12:05:01.565258+00:00"
     }
   ],
   "empty_watchlist": false,
