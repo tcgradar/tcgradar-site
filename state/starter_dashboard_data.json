@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-26T20:03:01.775963+00:00",
+  "timestamp": "2026-05-26T20:43:21.469142+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 6,
+  "all_deals_count": 4,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -28,42 +28,6 @@
   },
   "deals": [],
   "watchlist_deals": [
-    {
-      "title": "Pokemon TCG Paradox Rift [Roaring Moon] Elite Trainer Box New SEALED",
-      "url": "https://www.ebay.com/itm/147319790404?_skw=pokemon+Paradox+Rift+booster+box&hash=item224cf19b44:g:xB8AAeSweBdqDTR5",
-      "franchise": "pokemon",
-      "set": "Paradox Rift",
-      "product_type": "etb",
-      "price": 139.99,
-      "shipping_cost": 0.0,
-      "total_price": 139.99,
-      "shipping_verified": false,
-      "baseline_price": 274.0,
-      "baseline_raw_count": 16,
-      "baseline_pre_filter_count": 16,
-      "baseline_final_count": 9,
-      "baseline_raw_min": 129.99,
-      "baseline_raw_max": 400.0,
-      "gapPct": 48.91,
-      "confidence": "high",
-      "seller_rating": 100.0,
-      "seller_feedback_count": 197,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 120.0,
-      "active_scan_baseline": 274.0,
-      "effective_baseline": 274.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 128.33,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-26T12:03:52.616614+00:00",
-      "_last_seen_at": "2026-05-26T12:05:01.565258+00:00"
-    },
     {
       "title": "Sealed Japanese OP-01-OP-15 OP-09 One Piece Card The Four Emperors Booster Box",
       "url": "https://www.ebay.com/itm/236785618030?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item372185cc6e:g:WOAAAeSwWz1p8VN2&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZh3NolHhBTN%2FRizIjEjZhxqsZ%2Fiy41bh%2Fse7hkBbkIYEb3wyQyi121Ilgn8Y%2FR%2F%2BHlfVyDCZAiqy9nVJnwPZegE7P7Pmh5MGrSgwDUe2FZ%2FphdMKSDZqtj5bnrxBNDzC%2BGXBDZzKlHEoxC4VYsnvbZXUYxi%2BkaPNfjPPrd%2B%2Ff9XM9jSHjUHW5xQVpfav9JMUnYtf6z7bBhPegbuZzsFbiFzEi8FzugJ6rYW1qNElCYHsUtst%2BGSp2Pc9btvfd4sU9TVot%2B5Dl1RIackdxJoIESbcp7WwH8hI5OYYt5iYfdsO5dnYHPhsWEcSeDQxg5XNg%2Bgd%2Bn%2B4bfJcfhWgF8drr8",
@@ -98,7 +62,7 @@
       "baseline_drift_pct": 35.04,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T17:23:07.945595+00:00",
-      "_last_seen_at": "2026-05-26T20:03:01.774035+00:00"
+      "_last_seen_at": "2026-05-26T20:04:08.686882+00:00"
     },
     {
       "title": "Destined Rivals Booster Box Open - 36 Sealed Packs Pokemon TCG Scarlet & Violet",
@@ -134,7 +98,7 @@
       "baseline_drift_pct": 31.87,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T20:03:01.774035+00:00",
-      "_last_seen_at": "2026-05-26T20:03:01.774035+00:00"
+      "_last_seen_at": "2026-05-26T20:43:21.467548+00:00"
     },
     {
       "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
@@ -170,7 +134,7 @@
       "baseline_drift_pct": 1968.24,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T14:03:57.902506+00:00",
-      "_last_seen_at": "2026-05-26T14:05:29.360588+00:00"
+      "_last_seen_at": "2026-05-26T20:43:21.467548+00:00"
     },
     {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
@@ -206,43 +170,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T20:03:01.774035+00:00",
-      "_last_seen_at": "2026-05-26T20:03:01.774035+00:00"
-    },
-    {
-      "title": "Pokemon Booster Display  Obsidian Flames EV03 *FRENCH* Holds 36 Packs New/Sealed",
-      "url": "https://www.ebay.com/itm/127808330222?_skw=pokemon+Obsidian+Flames+booster+box&hash=item1dc1f859ee:g:I-gAAeSwSn9psbcG",
-      "franchise": "pokemon",
-      "set": "Obsidian Flames",
-      "product_type": "booster_box",
-      "price": 289.0,
-      "shipping_cost": 0.0,
-      "total_price": 289.0,
-      "shipping_verified": false,
-      "baseline_price": 350.0,
-      "baseline_raw_count": 28,
-      "baseline_pre_filter_count": 22,
-      "baseline_final_count": 18,
-      "baseline_raw_min": 289.0,
-      "baseline_raw_max": 2595.0,
-      "gapPct": 17.43,
-      "confidence": "medium",
-      "seller_rating": 99.7,
-      "seller_feedback_count": 1404,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "10_to_19",
-      "serpapi_baseline": 350.0,
-      "active_scan_baseline": 350.0,
-      "effective_baseline": 350.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": false,
-      "baseline_drift_pct": 0.0,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-26T12:03:52.616614+00:00",
-      "_last_seen_at": "2026-05-26T19:00:01.578437+00:00"
+      "_last_seen_at": "2026-05-26T20:43:21.467548+00:00"
     }
   ],
   "empty_watchlist": false,
