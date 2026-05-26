@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-26T13:23:15.327892+00:00",
+  "timestamp": "2026-05-26T14:03:57.904048+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -8,7 +8,7 @@
   },
   "tier": "starter",
   "total_deals": 0,
-  "all_deals_count": 4,
+  "all_deals_count": 5,
   "summary_counts": {
     "by_franchise": {},
     "by_product_type": {},
@@ -65,6 +65,42 @@
       "_last_seen_at": "2026-05-26T12:05:01.565258+00:00"
     },
     {
+      "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
+      "url": "https://www.ebay.com/itm/205518977966?_skw=pokemon+Evolving+Skies+booster+box&hash=item2fd9e2bbae:g:jjgAAeSw0Wxpx3l7",
+      "franchise": "pokemon",
+      "set": "Evolving Skies",
+      "product_type": "booster_box",
+      "price": 1789.68,
+      "shipping_cost": 44.24,
+      "total_price": 1789.68,
+      "shipping_verified": true,
+      "baseline_price": 2799.99,
+      "baseline_raw_count": 36,
+      "baseline_pre_filter_count": 30,
+      "baseline_final_count": 16,
+      "baseline_raw_min": 78.88,
+      "baseline_raw_max": 30000.0,
+      "gapPct": 36.08,
+      "confidence": "high",
+      "seller_rating": 100.0,
+      "seller_feedback_count": 1665,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "medium",
+      "gap_bucket": "20_plus",
+      "serpapi_baseline": 135.38,
+      "active_scan_baseline": 2799.99,
+      "effective_baseline": 2799.99,
+      "baseline_cap_applied": false,
+      "baseline_stale": true,
+      "baseline_drift_pct": 1968.24,
+      "watchlist_reason": "low_confidence",
+      "_first_seen_at": "2026-05-26T14:03:57.902506+00:00",
+      "_last_seen_at": "2026-05-26T14:03:57.902506+00:00"
+    },
+    {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
       "url": "https://www.ebay.com/itm/257510559029?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf4d34d35:g:AIQAAeSwYOtqCaW3",
       "franchise": "pokemon",
@@ -97,8 +133,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-26T13:23:15.326545+00:00",
-      "_last_seen_at": "2026-05-26T13:23:15.326545+00:00"
+      "_first_seen_at": "2026-05-26T14:03:57.902506+00:00",
+      "_last_seen_at": "2026-05-26T14:03:57.902506+00:00"
     },
     {
       "title": "Destined Rivals Booster Box Open - 36 Sealed Packs Pokemon TCG Scarlet & Violet",
@@ -123,7 +159,7 @@
       "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T12:00:01.564136+00:00",
-      "_last_seen_at": "2026-05-26T13:23:15.326545+00:00",
+      "_last_seen_at": "2026-05-26T14:03:57.902506+00:00",
       "serpapi_baseline": 473.94,
       "active_scan_baseline": 473.94,
       "effective_baseline": 473.94,
