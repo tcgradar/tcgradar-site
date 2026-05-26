@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-26T10:43:12.241941+00:00",
+  "timestamp": "2026-05-26T11:23:06.047316+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -62,7 +62,7 @@
       "baseline_drift_pct": 31.87,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T03:43:39.960793+00:00",
-      "_last_seen_at": "2026-05-26T10:43:12.241006+00:00"
+      "_last_seen_at": "2026-05-26T11:23:06.046422+00:00"
     },
     {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
@@ -75,11 +75,11 @@
       "total_price": 100.0,
       "shipping_verified": false,
       "baseline_price": 125.0,
-      "baseline_raw_count": 21,
+      "baseline_raw_count": 22,
       "baseline_pre_filter_count": 20,
       "baseline_final_count": 11,
       "baseline_raw_min": 100.0,
-      "baseline_raw_max": 300.0,
+      "baseline_raw_max": 999.98,
       "gapPct": 20.0,
       "confidence": "high",
       "seller_rating": 99.3,
@@ -97,8 +97,8 @@
       "baseline_stale": true,
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-26T10:03:33.829368+00:00",
-      "_last_seen_at": "2026-05-26T10:43:12.241006+00:00"
+      "_first_seen_at": "2026-05-26T11:23:06.046422+00:00",
+      "_last_seen_at": "2026-05-26T11:23:06.046422+00:00"
     }
   ],
   "empty_watchlist": false,
