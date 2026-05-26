@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-26T05:03:05.981028+00:00",
+  "timestamp": "2026-05-26T05:04:15.755752+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -98,7 +98,7 @@
       "baseline_drift_pct": 31.87,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T03:43:39.960793+00:00",
-      "_last_seen_at": "2026-05-26T05:03:05.979016+00:00"
+      "_last_seen_at": "2026-05-26T05:04:15.753698+00:00"
     },
     {
       "title": "Pokemon TCG Mini Evolving Skies Booster Box English Factory SEALED 18x Packs",
@@ -170,7 +170,7 @@
       "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-05-26T05:03:05.979016+00:00",
-      "_last_seen_at": "2026-05-26T05:03:05.979016+00:00"
+      "_last_seen_at": "2026-05-26T05:04:15.753698+00:00"
     },
     {
       "title": "Pokemon TCG | Destined Rivals | 18 Pack Booster Box | New & Sealed | X2 🔥",
