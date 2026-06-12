@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T00:04:16.012391+00:00",
+  "timestamp": "2026-06-12T13:00:02.033968+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,99 +7,42 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 0,
-  "all_deals_count": 3,
+  "total_deals": 1,
+  "all_deals_count": 2,
   "summary_counts": {
-    "by_franchise": {},
-    "by_product_type": {},
-    "by_gap_bucket": {},
-    "by_source": {}
+    "by_franchise": {
+      "pokemon": 1
+    },
+    "by_product_type": {
+      "etb": 1
+    },
+    "by_gap_bucket": {
+      "20_plus": 1
+    },
+    "by_source": {
+      "ebay": 1
+    }
   },
   "trust_counts": {
-    "HIGH": 0,
+    "HIGH": 1,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [],
-    "set": [],
-    "product_type": [],
-    "gap_bucket": []
+    "franchise": [
+      "pokemon"
+    ],
+    "set": [
+      "Battle Styles"
+    ],
+    "product_type": [
+      "etb"
+    ],
+    "gap_bucket": [
+      "20_plus"
+    ]
   },
-  "deals": [],
-  "watchlist_deals": [
-    {
-      "title": "Sealed Japanese OP-01-OP-15 OP-09 One Piece Card The Four Emperors Booster Box",
-      "url": "https://www.ebay.com/itm/236785618030?_skw=onepiece+500+Years+in+the+Future+booster+box&hash=item372185cc6e:g:WOAAAeSwWz1p8VN2&amdata=enc%3AAQALAAABEACCtXRWQnOEpyOqnQQ8KGZh3NolHhBTN%2FRizIjEjZhxqsZ%2Fiy41bh%2Fse7hkBbkIYEb3wyQyi121Ilgn8Y%2FR%2F%2BHlfVyDCZAiqy9nVJnwPZegE7P7Pmh5MGrSgwDUe2FZ%2FphdMKSDZqtj5bnrxBNDzC%2BGXBDZzKlHEoxC4VYsnvbZXUYxi%2BkaPNfjPPrd%2B%2Ff9XM9jSHjUHW5xQVpfav9JMUnYtf6z7bBhPegbuZzsFbiFzEi8FzugJ6rYW1qNElCYHsUtst%2BGSp2Pc9btvfd4sU9TVot%2B5Dl1RIackdxJoIESbcp7WwH8hI5OYYt5iYfdsO5dnYHPhsWEcSeDQxg5XNg%2Bgd%2Bn%2B4bfJcfhWgF8drr8",
-      "franchise": "onepiece",
-      "set": "Emperors in the New World",
-      "product_type": "booster_box",
-      "price": 79.99,
-      "shipping_cost": 0.0,
-      "total_price": 79.99,
-      "shipping_verified": false,
-      "baseline_price": 141.78,
-      "baseline_raw_count": 97,
-      "baseline_pre_filter_count": 79,
-      "baseline_final_count": 8,
-      "baseline_raw_min": 69.99,
-      "baseline_raw_max": 9999.99,
-      "gapPct": 43.58,
-      "confidence": "medium",
-      "seller_rating": 99.3,
-      "seller_feedback_count": 189,
-      "language": "JP",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 104.99,
-      "active_scan_baseline": 141.78,
-      "effective_baseline": 141.78,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 35.04,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-26T17:23:07.945595+00:00",
-      "_last_seen_at": "2026-05-26T20:04:08.686882+00:00"
-    },
-    {
-      "title": "Destined Rivals Booster Box Open - 36 Sealed Packs Pokemon TCG Scarlet & Violet",
-      "url": "https://www.ebay.com/itm/377210514182?_skw=pokemon+Destined+Rivals+booster+box&hash=item57d37fab06:g:5YoAAeSwamJqFJKK",
-      "franchise": "pokemon",
-      "set": "Destined Rivals",
-      "product_type": "booster_box",
-      "price": 380.14,
-      "shipping_cost": 43.51,
-      "total_price": 380.14,
-      "shipping_verified": true,
-      "baseline_price": 625.0,
-      "baseline_raw_count": 38,
-      "baseline_pre_filter_count": 31,
-      "baseline_final_count": 19,
-      "baseline_raw_min": 140.09,
-      "baseline_raw_max": 3669.99,
-      "gapPct": 39.18,
-      "confidence": "medium",
-      "seller_rating": 99.8,
-      "seller_feedback_count": 411,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "medium",
-      "gap_bucket": "20_plus",
-      "serpapi_baseline": 473.94,
-      "active_scan_baseline": 625.0,
-      "effective_baseline": 625.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 31.87,
-      "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-26T20:03:01.774035+00:00",
-      "_last_seen_at": "2026-05-27T00:04:16.011023+00:00"
-    },
+  "deals": [
     {
       "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
       "url": "https://www.ebay.com/itm/257510559029?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf4d34d35:g:AIQAAeSwYOtqCaW3",
@@ -111,11 +54,6 @@
       "total_price": 100.0,
       "shipping_verified": false,
       "baseline_price": 125.0,
-      "baseline_raw_count": 23,
-      "baseline_pre_filter_count": 22,
-      "baseline_final_count": 13,
-      "baseline_raw_min": 100.0,
-      "baseline_raw_max": 300.0,
       "gapPct": 20.0,
       "confidence": "high",
       "seller_rating": 99.3,
@@ -124,26 +62,44 @@
       "source": "ebay",
       "non_ebay": false,
       "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "20_plus"
+    }
+  ],
+  "watchlist_deals": [
+    {
+      "title": "Destined Rivals Booster Box Open - 36 Sealed Packs Pokemon TCG Scarlet & Violet",
+      "url": "https://www.ebay.com/itm/377210514182?_skw=pokemon+Destined+Rivals+booster+box&hash=item57d37fab06:g:5YoAAeSwamJqFJKK",
+      "franchise": "pokemon",
+      "set": "Destined Rivals",
+      "product_type": "booster_box",
+      "price": 380.14,
+      "shipping_cost": 43.51,
+      "total_price": 380.14,
+      "shipping_verified": true,
+      "baseline_price": 640.0,
+      "gapPct": 40.6,
+      "confidence": "medium",
+      "seller_rating": 99.8,
+      "seller_feedback_count": 411,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
       "deal_quality": "medium",
       "gap_bucket": "20_plus",
-      "serpapi_baseline": 90.62,
-      "active_scan_baseline": 125.0,
-      "effective_baseline": 125.0,
-      "baseline_cap_applied": false,
-      "baseline_stale": true,
-      "baseline_drift_pct": 37.94,
       "watchlist_reason": "low_confidence",
-      "_first_seen_at": "2026-05-27T00:03:12.493485+00:00",
-      "_last_seen_at": "2026-05-27T00:04:16.011023+00:00"
+      "_first_seen_at": "2026-06-12T13:00:02.033683+00:00",
+      "_last_seen_at": "2026-06-12T13:00:02.033683+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 0,
+    "ebay_deals": 1,
     "retailer_deals": 0,
-    "total_merged": 0,
+    "total_merged": 1,
     "retailer_deals_visible": false
   }
 }
