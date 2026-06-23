@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-23T06:00:01.966199+00:00",
+  "timestamp": "2026-06-23T07:00:02.188101+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -7,65 +7,26 @@
     "in_watchlist": 0
   },
   "tier": "starter",
-  "total_deals": 1,
+  "total_deals": 0,
   "all_deals_count": 2,
   "summary_counts": {
-    "by_franchise": {
-      "pokemon": 1
-    },
-    "by_product_type": {
-      "etb": 1
-    },
-    "by_gap_bucket": {
-      "20_plus": 1
-    },
-    "by_source": {
-      "ebay": 1
-    }
+    "by_franchise": {},
+    "by_product_type": {},
+    "by_gap_bucket": {},
+    "by_source": {}
   },
   "trust_counts": {
-    "HIGH": 1,
+    "HIGH": 0,
     "MEDIUM": 0,
     "LOW": 0
   },
   "available_filters": {
-    "franchise": [
-      "pokemon"
-    ],
-    "set": [
-      "Battle Styles"
-    ],
-    "product_type": [
-      "etb"
-    ],
-    "gap_bucket": [
-      "20_plus"
-    ]
+    "franchise": [],
+    "set": [],
+    "product_type": [],
+    "gap_bucket": []
   },
-  "deals": [
-    {
-      "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
-      "url": "https://www.ebay.com/itm/257510559029?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf4d34d35:g:AIQAAeSwYOtqCaW3",
-      "franchise": "pokemon",
-      "set": "Battle Styles",
-      "product_type": "etb",
-      "price": 100.0,
-      "shipping_cost": 0.0,
-      "total_price": 100.0,
-      "shipping_verified": false,
-      "baseline_price": 125.0,
-      "gapPct": 20.0,
-      "confidence": "high",
-      "seller_rating": 99.3,
-      "seller_feedback_count": 1501,
-      "language": "EN",
-      "source": "ebay",
-      "non_ebay": false,
-      "seller_trust": "HIGH",
-      "deal_quality": "high",
-      "gap_bucket": "20_plus"
-    }
-  ],
+  "deals": [],
   "watchlist_deals": [
     {
       "title": "Destined Rivals Booster Box Open - 36 Sealed Packs Pokemon TCG Scarlet & Violet",
@@ -77,8 +38,8 @@
       "shipping_cost": 43.51,
       "total_price": 380.14,
       "shipping_verified": true,
-      "baseline_price": 640.0,
-      "gapPct": 40.6,
+      "baseline_price": 425.89,
+      "gapPct": 10.74,
       "confidence": "medium",
       "seller_rating": 99.8,
       "seller_feedback_count": 411,
@@ -87,19 +48,61 @@
       "non_ebay": false,
       "seller_trust": "HIGH",
       "deal_quality": "medium",
-      "gap_bucket": "20_plus",
+      "gap_bucket": "10_to_19",
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-06-23T01:00:01.905528+00:00",
-      "_last_seen_at": "2026-06-23T06:00:01.965879+00:00"
+      "_last_seen_at": "2026-06-23T07:00:02.187295+00:00",
+      "serpapi_baseline": 425.89,
+      "active_scan_baseline": 640.0,
+      "effective_baseline": 425.89,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0
+    },
+    {
+      "title": "Sealed Pokemon Sword & Shield Battle Styles Elite Trainer Box Blue New",
+      "url": "https://www.ebay.com/itm/257510559029?_skw=pokemon+Battle+Styles+booster+box&hash=item3bf4d34d35:g:AIQAAeSwYOtqCaW3",
+      "franchise": "pokemon",
+      "set": "Battle Styles",
+      "product_type": "etb",
+      "price": 100.0,
+      "shipping_cost": 0.0,
+      "total_price": 100.0,
+      "shipping_verified": false,
+      "baseline_price": 106.11,
+      "baseline_raw_count": 23,
+      "baseline_pre_filter_count": 22,
+      "baseline_final_count": 13,
+      "baseline_raw_min": 100.0,
+      "baseline_raw_max": 300.0,
+      "gapPct": 5.76,
+      "confidence": "high",
+      "seller_rating": 99.3,
+      "seller_feedback_count": 1501,
+      "language": "EN",
+      "source": "ebay",
+      "non_ebay": false,
+      "seller_trust": "HIGH",
+      "deal_quality": "high",
+      "gap_bucket": "1_to_9",
+      "serpapi_baseline": 106.11,
+      "active_scan_baseline": 106.11,
+      "effective_baseline": 106.11,
+      "baseline_cap_applied": false,
+      "baseline_stale": false,
+      "baseline_drift_pct": 0.0,
+      "watchlist_reason": "small_gap",
+      "_first_seen_at": "2026-06-23T07:00:02.187295+00:00",
+      "_last_seen_at": "2026-06-23T07:00:02.187295+00:00"
     }
   ],
   "empty_watchlist": false,
   "fallback_deals": [],
   "_single_writer_info": {
     "version": "v2.0",
-    "ebay_deals": 1,
+    "ebay_deals": 0,
     "retailer_deals": 0,
-    "total_merged": 1,
+    "total_merged": 0,
     "retailer_deals_visible": false
   }
 }
