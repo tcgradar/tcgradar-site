@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-24T22:00:01.950849+00:00",
+  "timestamp": "2026-06-24T22:20:12.800766+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -112,7 +112,7 @@
       "baseline_drift_pct": 50.27,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-06-24T17:40:02.193865+00:00",
-      "_last_seen_at": "2026-06-24T22:00:01.950135+00:00"
+      "_last_seen_at": "2026-06-24T22:20:12.800064+00:00"
     }
   ],
   "empty_watchlist": false,
