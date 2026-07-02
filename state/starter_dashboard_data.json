@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T01:00:01.878813+00:00",
+  "timestamp": "2026-07-02T01:20:12.452671+00:00",
   "non_ebay_stats": {
     "detected": 0,
     "in_output": 0,
@@ -53,13 +53,13 @@
       "shipping_cost": 0.0,
       "total_price": 100.0,
       "shipping_verified": false,
-      "baseline_price": 109.14,
+      "baseline_price": 110.0,
       "baseline_raw_count": 23,
       "baseline_pre_filter_count": 22,
       "baseline_final_count": 13,
       "baseline_raw_min": 100.0,
       "baseline_raw_max": 300.0,
-      "gapPct": 8.37,
+      "gapPct": 9.09,
       "confidence": "high",
       "seller_rating": 99.3,
       "seller_feedback_count": 1501,
@@ -69,12 +69,12 @@
       "seller_trust": "HIGH",
       "deal_quality": "high",
       "gap_bucket": "1_to_9",
-      "serpapi_baseline": 109.14,
+      "serpapi_baseline": 110.0,
       "active_scan_baseline": 125.0,
-      "effective_baseline": 109.14,
+      "effective_baseline": 110.0,
       "baseline_cap_applied": false,
       "baseline_stale": false,
-      "baseline_drift_pct": 14.53
+      "baseline_drift_pct": 13.64
     }
   ],
   "watchlist_deals": [
@@ -112,7 +112,7 @@
       "baseline_drift_pct": 50.27,
       "watchlist_reason": "low_confidence",
       "_first_seen_at": "2026-07-01T20:20:01.841903+00:00",
-      "_last_seen_at": "2026-07-02T01:00:01.878089+00:00"
+      "_last_seen_at": "2026-07-02T01:20:12.451949+00:00"
     }
   ],
   "empty_watchlist": false,
